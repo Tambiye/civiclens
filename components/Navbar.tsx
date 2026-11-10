@@ -94,7 +94,7 @@ export default function Navbar() {
   />
         <span className="navbar-brand">
           <span className="navbar-brand-name">
-            Civic<span>Lens</span>
+            Poli<span>Peek</span>
           </span>
           <span className="navbar-tagline">
             See beyond the campaign.

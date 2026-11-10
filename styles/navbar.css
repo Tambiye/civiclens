@@ -180,6 +180,7 @@
 .nigeria-flag {
     font-size: 17px;
     line-height: 1;
+    border-radius: 50%;
 }
 
 .navbar-country svg {
