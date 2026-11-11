@@ -1,0 +1,253 @@
+.compare-section {
+    width: 100%;
+    padding: 10px 4.2% 24px;
+    background: #f7f4ec;
+}
+
+.compare-container {
+    width: 100%;
+    max-width: 1330px;
+    margin: 0 auto;
+}
+
+/* Header */
+
+.compare-header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 30px;
+    margin-bottom: 12px;
+}
+
+.compare-heading h2 {
+    margin: 0;
+    color: #171b19;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(1.8rem, 2.6vw, 2.35rem);
+    line-height: 1;
+    font-weight: 700;
+}
+
+.compare-heading p {
+    margin: 5px 0 0;
+    color: #625f58;
+    font-size: 0.82rem;
+    line-height: 1.4;
+}
+
+/* Start Comparing button */
+
+.compare-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+
+    min-width: 132px;
+    min-height: 38px;
+    padding: 0 16px;
+
+    background: #dcb65d;
+    color: #172b25;
+
+    border: 1px solid #caa545;
+    border-radius: 5px;
+
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-decoration: none;
+
+    transition:
+        background 0.2s ease,
+        transform 0.2s ease;
+}
+
+.compare-button svg {
+    width: 15px;
+    height: 15px;
+    stroke-width: 2.2;
+}
+
+.compare-button:hover {
+    background: #e4c572;
+    transform: translateY(-1px);
+}
+
+/* Topic cards */
+
+.comparison-topics {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 5px;
+}
+
+.comparison-topic {
+    min-height: 78px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    padding: 9px 6px;
+
+    background: #fbfaf6;
+    border: 1px solid #ebe7dc;
+    border-radius: 4px;
+
+    color: #252823;
+    text-align: center;
+    text-decoration: none;
+
+    transition:
+        border-color 0.2s ease,
+        box-shadow 0.2s ease,
+        transform 0.2s ease;
+}
+
+.comparison-topic:hover {
+    border-color: #d5bd78;
+    box-shadow: 0 5px 14px rgba(43, 55, 45, 0.08);
+    transform: translateY(-2px);
+}
+
+.comparison-topic-icon {
+    width: 18px;
+    height: 18px;
+
+    margin-bottom: 7px;
+
+    color: #b9953e;
+    stroke-width: 1.8;
+}
+
+.comparison-topic span {
+    font-size: 0.64rem;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+/* Large screens */
+
+@media (max-width: 1100px) {
+    .comparison-topics {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 6px;
+    }
+
+    .comparison-topic {
+        min-height: 82px;
+    }
+}
+
+/* Tablets */
+
+@media (max-width: 700px) {
+    .compare-section {
+        padding: 10px 5% 24px;
+    }
+
+    .compare-header {
+        align-items: flex-start;
+        margin-bottom: 14px;
+    }
+
+    .compare-heading h2 {
+        font-size: 1.8rem;
+    }
+
+    .compare-heading p {
+        font-size: 0.78rem;
+    }
+
+    .compare-button {
+        min-width: 125px;
+        min-height: 36px;
+        padding: 0 12px;
+        font-size: 0.68rem;
+    }
+
+    .comparison-topics {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/* Mobile */
+
+@media (max-width: 500px) {
+    .compare-section {
+        padding: 8px 20px 20px;
+    }
+
+    .compare-header {
+        align-items: flex-start;
+        gap: 16px;
+    }
+
+    .compare-heading h2 {
+        font-size: 1.55rem;
+    }
+
+    .compare-heading p {
+        max-width: 240px;
+        font-size: 0.72rem;
+    }
+
+    .compare-button {
+        min-width: 112px;
+        min-height: 34px;
+        padding: 0 10px;
+        gap: 5px;
+        font-size: 0.62rem;
+    }
+
+    .compare-button svg {
+        width: 13px;
+        height: 13px;
+    }
+
+    .comparison-topics {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 6px;
+    }
+
+    .comparison-topic {
+        min-height: 74px;
+    }
+
+    .comparison-topic-icon {
+        width: 17px;
+        height: 17px;
+        margin-bottom: 6px;
+    }
+
+    .comparison-topic span {
+        font-size: 0.63rem;
+    }
+}
+
+@media (max-width: 380px) {
+    .compare-section {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .compare-header {
+        gap: 10px;
+    }
+
+    .compare-heading h2 {
+        font-size: 1.4rem;
+    }
+
+    .compare-heading p {
+        font-size: 0.68rem;
+    }
+
+    .compare-button {
+        min-width: 105px;
+        padding: 0 8px;
+        font-size: 0.58rem;
+    }
+}

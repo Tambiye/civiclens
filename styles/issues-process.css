@@ -1,0 +1,251 @@
+.issues-process-section {
+    width: 100%;
+    padding: 0 4.2% 18px;
+    background: #f7f4ec;
+}
+
+.issues-process-container {
+    width: 100%;
+    max-width: 1330px;
+    margin: 0 auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+}
+
+/* Feature card */
+
+.feature-card {
+    position: relative;
+    min-height: 170px;
+
+    display: flex;
+    overflow: hidden;
+
+    border-radius: 5px;
+}
+
+/* Content */
+
+.feature-content {
+    position: relative;
+    z-index: 2;
+
+    width: 54%;
+    padding: 20px 20px 18px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.feature-eyebrow {
+    margin-bottom: 3px;
+
+    color: #d1b25b;
+
+    font-size: 0.55rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.feature-card h2 {
+    margin: 0;
+
+    color: #fff;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(1.25rem, 2vw, 1.8rem);
+    line-height: 1.05;
+    font-weight: 700;
+}
+
+.feature-card p {
+    max-width: 320px;
+    margin: 8px 0 12px;
+
+    color: rgba(255, 255, 255, 0.88);
+
+    font-size: 0.68rem;
+    line-height: 1.45;
+}
+
+.feature-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+
+    margin-top: auto;
+
+    color: #d8bb68;
+
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.feature-link svg {
+    width: 13px;
+    height: 13px;
+    stroke-width: 2;
+}
+
+.feature-link:hover {
+    color: #f0d77e;
+}
+
+/* Image */
+
+.feature-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    width: 55%;
+    height: 100%;
+}
+
+.feature-image::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+
+    background: linear-gradient(90deg,
+            rgba(4, 39, 31, 0.95) 0%,
+            rgba(4, 39, 31, 0.55) 35%,
+            rgba(4, 39, 31, 0.08) 100%);
+}
+
+.feature-image img {
+    object-fit: cover;
+    object-position: center;
+}
+
+/* Issues card */
+
+.feature-card-issues {
+    background: #06392f;
+}
+
+/* Process card */
+
+.feature-card-process {
+    background: #f2ede1;
+}
+
+.feature-card-process .feature-content {
+    width: 56%;
+}
+
+.feature-card-process .feature-eyebrow {
+    color: #a68b42;
+}
+
+.feature-card-process h2 {
+    color: #29251e;
+}
+
+.feature-card-process p {
+    color: #5d574d;
+}
+
+.feature-card-process .feature-link {
+    color: #a68b42;
+}
+
+.feature-card-process .feature-link:hover {
+    color: #876f2f;
+}
+
+.feature-card-process .feature-image {
+    width: 48%;
+}
+
+.feature-card-process .feature-image::after {
+    background: linear-gradient(90deg,
+            rgba(242, 237, 225, 0.98) 0%,
+            rgba(242, 237, 225, 0.5) 32%,
+            rgba(242, 237, 225, 0.05) 100%);
+}
+
+/* Tablet */
+
+@media (max-width: 900px) {
+    .issues-process-container {
+        grid-template-columns: 1fr;
+    }
+
+    .feature-card {
+        min-height: 190px;
+    }
+
+    .feature-content {
+        width: 52%;
+    }
+
+    .feature-image {
+        width: 58%;
+    }
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+    .issues-process-section {
+        padding: 0 20px 20px;
+    }
+
+    .issues-process-container {
+        gap: 10px;
+    }
+
+    .feature-card {
+        min-height: 260px;
+        display: block;
+    }
+
+    .feature-content,
+    .feature-card-process .feature-content {
+        width: 65%;
+        min-height: 260px;
+        padding: 20px 18px;
+    }
+
+    .feature-card h2 {
+        font-size: 1.45rem;
+    }
+
+    .feature-card p {
+        font-size: 0.68rem;
+        max-width: 250px;
+    }
+
+    .feature-image,
+    .feature-card-process .feature-image {
+        width: 65%;
+    }
+}
+
+@media (max-width: 420px) {
+    .issues-process-section {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .feature-card {
+        min-height: 250px;
+    }
+
+    .feature-content,
+    .feature-card-process .feature-content {
+        width: 72%;
+        min-height: 250px;
+        padding: 18px 16px;
+    }
+
+    .feature-card h2 {
+        font-size: 1.3rem;
+    }
+}
