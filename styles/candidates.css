@@ -1,0 +1,375 @@
+.candidates-section {
+    width: 100%;
+    padding: 0 2rem 3rem;
+    background: #f7f4ec;
+}
+
+.candidate-section {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.candidate-section+.candidate-section {
+    margin-top: 1.5rem;
+}
+
+/* Heading */
+
+.candidate-section-heading {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-bottom: 0.9rem;
+}
+
+.candidate-heading-text {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+}
+
+.candidate-heading-text h2 {
+    margin: 0;
+    color: #171914;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.45rem;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+.candidate-heading-text p {
+    margin: 0;
+    color: #6f7169;
+    font-size: 0.78rem;
+    line-height: 1.4;
+}
+
+.view-all-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: #242923;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.view-all-link svg {
+    width: 0.9rem;
+    height: 0.9rem;
+}
+
+/* Rows */
+
+.candidate-row {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    gap: 0.7rem;
+}
+
+/* Presidential cards */
+
+.candidate-card {
+    min-width: 0;
+    overflow: hidden;
+    border: 1px solid #dedbd1;
+    border-radius: 0.45rem;
+    background: #fffdf9;
+    box-shadow: 0 2px 7px rgba(32, 45, 37, 0.08);
+}
+
+.candidate-image-wrapper {
+    position: relative;
+    aspect-ratio: 1 / 0.82;
+    overflow: hidden;
+    background: #ddd;
+}
+
+.candidate-image {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+.party-badge {
+    position: absolute;
+    top: 0.45rem;
+    right: 0.45rem;
+
+    min-width: 2rem;
+    padding: 0.25rem 0.4rem;
+
+    border-radius: 0.2rem;
+
+    color: #fff;
+    font-size: 0.58rem;
+    font-weight: 800;
+    line-height: 1;
+    text-align: center;
+}
+
+.party-apc {
+    background: #d9233d;
+}
+
+.party-pdp {
+    background: #c92d38;
+}
+
+.party-lp {
+    background: #e01d3d;
+}
+
+.party-nnpp {
+    background: #179b52;
+}
+
+.party-aac {
+    background: #343434;
+}
+
+.party-ypp {
+    background: #d6293f;
+}
+
+.candidate-info {
+    padding: 0.55rem 0.55rem 0.65rem;
+}
+
+.candidate-status {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    margin-bottom: 0.2rem;
+
+    font-size: 0.58rem;
+    font-weight: 600;
+    line-height: 1;
+}
+
+.candidate-status svg {
+    width: 0.65rem;
+    height: 0.65rem;
+}
+
+.candidate-status span {
+    color: #3f7451;
+}
+
+.candidate-card h3 {
+    margin: 0.25rem 0 0.15rem;
+    color: #24241f;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 0.78rem;
+    font-weight: 700;
+    line-height: 1.15;
+}
+
+.candidate-card p {
+    min-height: 1.55rem;
+    margin: 0 0 0.45rem;
+    color: #77786f;
+    font-size: 0.57rem;
+    line-height: 1.35;
+}
+
+.profile-button {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.3rem;
+
+    padding: 0.42rem 0.45rem;
+
+    border: 0;
+    border-radius: 0.15rem;
+
+    background: #0c3b31;
+    color: #fffdf9;
+
+    font-size: 0.58rem;
+    font-weight: 600;
+
+    cursor: pointer;
+}
+
+.profile-button svg {
+    width: 0.65rem;
+    height: 0.65rem;
+}
+
+/* State cards */
+
+.state-card {
+    min-width: 0;
+    overflow: hidden;
+
+    border: 1px solid #dedbd1;
+    border-radius: 0.4rem;
+
+    background: #fffdf9;
+    box-shadow: 0 2px 7px rgba(32, 45, 37, 0.06);
+}
+
+.state-card-image {
+    width: 100%;
+    height: 6.2rem;
+    display: block;
+    object-fit: cover;
+}
+
+.state-card-info {
+    min-height: 3.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+
+    padding: 0.55rem 0.65rem;
+}
+
+.state-card-info h3 {
+    margin: 0 0 0.2rem;
+
+    color: #292a25;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+}
+
+.state-card-info p {
+    margin: 0;
+
+    color: #77786f;
+    font-size: 0.58rem;
+}
+
+.state-arrow {
+    flex: 0 0 auto;
+    width: 0.85rem;
+    height: 0.85rem;
+    color: #55574f;
+}
+
+/* Right carousel button */
+
+.row-next-button {
+    position: absolute;
+    z-index: 3;
+    top: 50%;
+    right: -0.85rem;
+
+    width: 2rem;
+    height: 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transform: translateY(-50%);
+
+    border: 1px solid #dedbd1;
+    border-radius: 50%;
+
+    background: #fffdf9;
+    color: #30332d;
+
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+
+    cursor: pointer;
+}
+
+.row-next-button svg {
+    width: 1rem;
+    height: 1rem;
+}
+
+/* Tablet */
+
+@media (max-width: 1000px) {
+    .candidate-row {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .candidate-card:nth-child(n + 4),
+    .state-card:nth-child(n + 4) {
+        display: none;
+    }
+
+    .candidate-heading-text {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.2rem;
+    }
+}
+
+/* Mobile */
+
+@media (max-width: 640px) {
+    .candidates-section {
+        padding: 0 1rem 2.5rem;
+    }
+
+    .candidate-section-heading {
+        align-items: center;
+        margin-bottom: 0.7rem;
+    }
+
+    .candidate-heading-text h2 {
+        font-size: 1.15rem;
+    }
+
+    .candidate-heading-text p {
+        display: none;
+    }
+
+    .candidate-row {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 0.55rem;
+    }
+
+    .candidate-card:nth-child(n + 3),
+    .state-card:nth-child(n + 3) {
+        display: none;
+    }
+
+    .candidate-image-wrapper {
+        aspect-ratio: 1 / 0.85;
+    }
+
+    .candidate-info {
+        padding: 0.5rem;
+    }
+
+    .candidate-card h3 {
+        font-size: 0.72rem;
+    }
+
+    .candidate-card p {
+        font-size: 0.54rem;
+    }
+
+    .profile-button {
+        font-size: 0.54rem;
+    }
+
+    .state-card-image {
+        height: 5rem;
+    }
+
+    .state-card-info {
+        min-height: 2.8rem;
+        padding: 0.45rem;
+    }
+
+    .row-next-button {
+        display: none;
+    }
+}
