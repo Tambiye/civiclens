@@ -1,4 +1,12 @@
+
 "use client";
+
+import {
+  useEffect,
+  useRef,
+  useState,
+  type ReactNode,
+} from "react";
 
 import {
   FiArrowRight,
@@ -6,8 +14,8 @@ import {
   FiCheckCircle,
   FiClock,
 } from "react-icons/fi";
-import "../styles/candidates.css";
 
+import "../styles/candidates.css";
 const presidentialCandidates = [
   {
     name: "Bola Ahmed Tinubu",
@@ -19,43 +27,131 @@ const presidentialCandidates = [
   },
   {
     name: "Atiku Abubakar",
-    party: "People's Democratic Party",
-    shortParty: "PDP",
-    status: "Confirmed",
-    statusType: "confirmed",
+    party: "African Democratic Congress",
+    shortParty: "ADC",
+    status: "Disputed",
+    statusType: "disputed",
     image: "/images/candidates/atiku.jpg",
   },
   {
     name: "Peter Gregory Obi",
-    party: "Labour Party",
-    shortParty: "LP",
+    party: "Nigerian Democratic Congress",
+    shortParty: "NDC",
     status: "Confirmed",
     statusType: "confirmed",
     image: "/images/candidates/obi.jpg",
   },
   {
-    name: "Rabiu Musa Kwankwaso",
-    party: "New Nigeria People's Party",
-    shortParty: "NNPP",
-    status: "Aspiring",
-    statusType: "aspiring",
-    image: "/images/candidates/kwankwaso.jpg",
+    name: "Sunday Chibuzo Okereke",
+    party: "Labour Party",
+    shortParty: "LP",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/okereke.jpg",
+  },
+  {
+    name: "Sandy Ojang Onor",
+    party: "Peoples Democratic Party",
+    shortParty: "PDP",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/sandy.jpg",
+  },
+  {
+    name: "Aliyu Abbas-Bin",
+    party: "Action Democratic Party",
+    shortParty: "ADP",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/aliyu-abbas-bin.jpg",
+  },
+  {
+    name: "Kabiru Yusuf",
+    party: "Allied Peoples Party",
+    shortParty: "APP",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/kabiru-yusuf.jpg",
   },
   {
     name: "Omoyele Sowore",
     party: "African Action Congress",
     shortParty: "AAC",
-    status: "Aspiring",
-    statusType: "aspiring",
+    status: "Confirmed",
+    statusType: "confirmed",
     image: "/images/candidates/sowore.jpg",
   },
   {
-    name: "Kingsley Moghalu",
-    party: "Young Progressives Party",
+    name: "Oluseyi Abiodun Makinde",
+    party: "Allied Peoples Movement",
+    shortParty: "APM",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/makinde.jpg",
+  },
+  {
+    name: "Sunday Adenuga",
+    party: "Boot Party",
+    shortParty: "BP",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/sunday-adenuga.jpg",
+  },
+  {
+    name: "Moses Olusoji Adebisi",
+    party: "Democratic Leadership Alliance",
+    shortParty: "DLA",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/moses-adebisi.jpg",
+  },
+  {
+    name: "Ada Elizabeth Fredrick Okwori",
+    party: "National Democratic Party",
+    shortParty: "NDP",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/ada-okwori.jpg",
+  },
+  {
+    name: "Nkem Esther Okereke",
+    party: "National Rescue Movement",
+    shortParty: "NRM",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/nkem-okereke.jpg",
+  },
+  {
+    name: "Donald Duke",
+    party: "People's Redemption Party",
+    shortParty: "PRP",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/donald-duke.jpg",
+  },
+  {
+    name: "Adewole Ebenezer Adebayo",
+    party: "Social Democratic Party",
+    shortParty: "SDP",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/adebayo.jpg",
+  },
+  {
+    name: "Peter Ada Agada",
+    party: "Young Progressive Party",
     shortParty: "YPP",
-    status: "Announced",
-    statusType: "announced",
-    image: "/images/candidates/moghalu.jpg",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/peter-agada.jpg",
+  },
+  {
+    name: "Daniel Daberechukwu Nwanyanwu",
+    party: "Zenith Labour Party",
+    shortParty: "ZLP",
+    status: "Confirmed",
+    statusType: "confirmed",
+    image: "/images/candidates/nwanyanwu.jpg",
   },
 ];
 
@@ -139,7 +235,9 @@ function CandidateCard({
           className="candidate-image"
         />
 
-        <span className={`party-badge party-${candidate.shortParty.toLowerCase()}`}>
+        <span
+          className={`party-badge party-${candidate.shortParty.toLowerCase()}`}
+        >
           {candidate.shortParty}
         </span>
       </div>
@@ -201,9 +299,53 @@ function CandidateRow({
 }: {
   title: string;
   description: string;
-  children: React.ReactNode;
+  children: ReactNode;
   href?: string;
 }) {
+  const rowRef = useRef<HTMLDivElement>(null);
+
+  const [canScrollBack, setCanScrollBack] = useState(false);
+  const [canScrollForward, setCanScrollForward] = useState(false);
+
+  const updateScrollState = () => {
+    const row = rowRef.current;
+
+    if (!row) return;
+
+    setCanScrollBack(row.scrollLeft > 2);
+
+    setCanScrollForward(
+      row.scrollLeft + row.clientWidth < row.scrollWidth - 2
+    );
+  };
+
+  const scrollRow = (direction: "left" | "right") => {
+    const row = rowRef.current;
+
+    if (!row) return;
+
+    row.scrollBy({
+      left: direction === "right" ? row.clientWidth : -row.clientWidth,
+      behavior: "smooth",
+    });
+  };
+
+  useEffect(() => {
+    const row = rowRef.current;
+
+    if (!row) return;
+
+    updateScrollState();
+
+    row.addEventListener("scroll", updateScrollState);
+    window.addEventListener("resize", updateScrollState);
+
+    return () => {
+      row.removeEventListener("scroll", updateScrollState);
+      window.removeEventListener("resize", updateScrollState);
+    };
+  }, []);
+
   return (
     <section className="candidate-section">
       <div className="candidate-section-heading">
@@ -213,12 +355,33 @@ function CandidateRow({
         </div>
 
         <a href={href} className="view-all-link">
-          View all
-          <FiArrowRight />
+          View all <FiArrowRight />
         </a>
       </div>
 
-      <div className="candidate-row">{children}</div>
+      <div className="candidate-carousel-wrapper">
+        <button
+          className="row-prev-button"
+          onClick={() => scrollRow("left")}
+          disabled={!canScrollBack}
+          aria-label="Previous items"
+        >
+          <FiChevronRight />
+        </button>
+
+        <div className="candidate-row" ref={rowRef}>
+          {children}
+        </div>
+
+        <button
+          className="row-next-button"
+          onClick={() => scrollRow("right")}
+          disabled={!canScrollForward}
+          aria-label="Next items"
+        >
+          <FiChevronRight />
+        </button>
+      </div>
     </section>
   );
 }
@@ -236,10 +399,6 @@ export default function CandidateSection() {
             candidate={candidate}
           />
         ))}
-
-        <button className="row-next-button" aria-label="Next candidates">
-          <FiChevronRight />
-        </button>
       </CandidateRow>
 
       <CandidateRow
@@ -254,10 +413,6 @@ export default function CandidateSection() {
             image={state.image}
           />
         ))}
-
-        <button className="row-next-button" aria-label="Next states">
-          <FiChevronRight />
-        </button>
       </CandidateRow>
 
       <CandidateRow
@@ -272,10 +427,6 @@ export default function CandidateSection() {
             image={state.image}
           />
         ))}
-
-        <button className="row-next-button" aria-label="Next states">
-          <FiChevronRight />
-        </button>
       </CandidateRow>
     </section>
   );
