@@ -155,38 +155,229 @@ const presidentialCandidates = [
   },
 ];
 
+
 const governorStates = [
+  // 6 FEBRUARY 2027
   {
-    state: "Lagos State",
-    candidates: "12 candidates",
-    image: "/images/candidates/lagos-governor.jpg",
+    state: "Abia State",
+    electionDate: "6 February 2027",
+    candidates: "15 candidates",
+    image: "/images/governors/abia.jpg",
   },
   {
-    state: "Rivers State",
-    candidates: "9 candidates",
-    image: "/images/candidates/rivers-governor.jpg",
+    state: "Adamawa State",
+    electionDate: "6 February 2027",
+    candidates: "18 candidates",
+    image: "/images/governors/adamawa.jpg",
+  },
+  {
+    state: "Akwa Ibom State",
+    electionDate: "6 February 2027",
+    candidates: "20 candidates",
+    image: "/images/governors/akwa-ibom.jpg",
+  },
+  {
+    state: "Bauchi State",
+    electionDate: "6 February 2027",
+    candidates: "15 candidates",
+    image: "/images/governors/bauchi.jpg",
+  },
+  {
+    state: "Benue State",
+    electionDate: "6 February 2027",
+    candidates: "12 candidates",
+    image: "/images/governors/benue.jpg",
+  },
+  {
+    state: "Borno State",
+    electionDate: "6 February 2027",
+    candidates: "13 candidates",
+    image: "/images/governors/borno.jpg",
+  },
+  {
+    state: "Cross River State",
+    electionDate: "6 February 2027",
+    candidates: "8 candidates",
+    image: "/images/governors/cross-river.jpg",
+  },
+  {
+    state: "Delta State",
+    electionDate: "6 February 2027",
+    candidates: "18 candidates",
+    image: "/images/governors/delta.jpg",
+  },
+  {
+    state: "Ebonyi State",
+    electionDate: "6 February 2027",
+    candidates: "12 candidates",
+    image: "/images/governors/ebonyi.jpg",
+  },
+  {
+    state: "Enugu State",
+    electionDate: "6 February 2027",
+    candidates: "16 candidates",
+    image: "/images/governors/enugu.jpg",
+  },
+  {
+    state: "Gombe State",
+    electionDate: "6 February 2027",
+    candidates: "16 candidates",
+    image: "/images/governors/gombe.jpg",
+  },
+  {
+    state: "Jigawa State",
+    electionDate: "6 February 2027",
+    candidates: "13 candidates",
+    image: "/images/governors/jigawa.jpg",
   },
   {
     state: "Kaduna State",
-    candidates: "11 candidates",
-    image: "/images/candidates/kaduna-governor.jpg",
-  },
-  {
-    state: "Oyo State",
-    candidates: "10 candidates",
-    image: "/images/candidates/oyo-governor.jpg",
+    electionDate: "6 February 2027",
+    candidates: "16 candidates",
+    image: "/images/governors/kaduna.jpg",
   },
   {
     state: "Kano State",
+    electionDate: "6 February 2027",
+    candidates: "17 candidates",
+    image: "/images/governors/kano.jpg",
+  },
+  {
+    state: "Katsina State",
+    electionDate: "6 February 2027",
+    candidates: "11 candidates",
+    image: "/images/governors/katsina.jpg",
+  },
+  {
+    state: "Kebbi State",
+    electionDate: "6 February 2027",
+    candidates: "14 candidates",
+    image: "/images/governors/kebbi.jpg",
+  },
+  {
+    state: "Kwara State",
+    electionDate: "6 February 2027",
+    candidates: "12 candidates",
+    image: "/images/governors/kwara.jpg",
+  },
+  {
+    state: "Lagos State",
+    electionDate: "6 February 2027",
+    candidates: "17 candidates",
+    image: "/images/governors/lagos.jpg",
+  },
+  {
+    state: "Nasarawa State",
+    electionDate: "6 February 2027",
     candidates: "13 candidates",
-    image: "/images/candidates/kano-governor.jpg",
+    image: "/images/governors/nasarawa.jpg",
+  },
+  {
+    state: "Niger State",
+    electionDate: "6 February 2027",
+    candidates: "15 candidates",
+    image: "/images/governors/niger.jpg",
+  },
+  {
+    state: "Ogun State",
+    electionDate: "6 February 2027",
+    candidates: "13 candidates",
+    image: "/images/governors/ogun.jpg",
+  },
+  {
+    state: "Oyo State",
+    electionDate: "6 February 2027",
+    candidates: "16 candidates",
+    image: "/images/governors/oyo.jpg",
+  },
+  {
+    state: "Plateau State",
+    electionDate: "6 February 2027",
+    candidates: "17 candidates",
+    image: "/images/governors/plateau.jpg",
+  },
+  {
+    state: "Rivers State",
+    electionDate: "6 February 2027",
+    candidates: "19 candidates",
+    image: "/images/governors/rivers.jpg",
+  },
+  {
+    state: "Sokoto State",
+    electionDate: "6 February 2027",
+    candidates: "17 candidates",
+    image: "/images/governors/sokoto.jpg",
+  },
+  {
+    state: "Taraba State",
+    electionDate: "6 February 2027",
+    candidates: "19 candidates",
+    image: "/images/governors/taraba.jpg",
+  },
+  {
+    state: "Yobe State",
+    electionDate: "6 February 2027",
+    candidates: "13 candidates",
+    image: "/images/governors/yobe.jpg",
+  },
+  {
+    state: "Zamfara State",
+    electionDate: "6 February 2027",
+    candidates: "15 candidates",
+    image: "/images/governors/zamfara.jpg",
+  },
+
+  // OFF-CYCLE STATES
+  {
+    state: "Anambra State",
+    electionDate: null,
+    candidates: null,
+    image: "/images/governors/anambra.jpg",
+  },
+  {
+    state: "Bayelsa State",
+    electionDate: null,
+    candidates: null,
+    image: "/images/governors/bayelsa.jpg",
   },
   {
     state: "Edo State",
-    candidates: "8 candidates",
-    image: "/images/candidates/edo-governor.jpg",
+    electionDate: null,
+    candidates: null,
+    image: "/images/governors/edo.jpg",
+  },
+  {
+    state: "Ekiti State",
+    electionDate: null,
+    candidates: null,
+    image: "/images/governors/ekiti.jpg",
+  },
+  {
+    state: "Imo State",
+    electionDate: null,
+    candidates: null,
+    image: "/images/governors/imo.jpg",
+  },
+  {
+    state: "Kogi State",
+    electionDate: null,
+    candidates: null,
+    image: "/images/governors/kogi.jpg",
+  },
+  {
+    state: "Ondo State",
+    electionDate: null,
+    candidates: null,
+    image: "/images/governors/ondo.jpg",
+  },
+  {
+    state: "Osun State",
+    electionDate: null,
+    candidates: null,
+    image: "/images/governors/osun.jpg",
   },
 ];
+
 
 const senateStates = [
   {
