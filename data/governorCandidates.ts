@@ -143,7 +143,6 @@ candidates: [
   },
   {
     state: "Cross River State",
-    state: "Cross River State",
 candidates: [
   { name: "ALI PATRICK", party: "AA", runningMate: "ASHIPU JOSEPH AGABA", age: 58, image: "/images/candidates/governors/cross-river/ali-patrick.jpg" },
   { name: "NKOYO TOYO", party: "ADC", runningMate: "MAGAM DINO NTUL", age: 67, image: "/images/candidates/governors/cross-river/nkoyo-toyo.jpg" },

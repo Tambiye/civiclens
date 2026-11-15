@@ -460,10 +460,12 @@ function CandidateCard({
 function StateCard({
   state,
   candidates,
+  electionDate,
   image,
 }: {
   state: string;
-  candidates: string;
+  candidates: string | null;
+  electionDate: string | null;
   image: string;
 }) {
   return (
@@ -473,7 +475,11 @@ function StateCard({
       <div className="state-card-info">
         <div>
           <h3>{state}</h3>
-          <p>{candidates}</p>
+          <p>{candidates ?? "Candidate information pending"}</p>
+          <p className="state-election-date">
+  <FiClock />
+  {electionDate ?? "Election date to be announced"}
+</p>
         </div>
 
         <FiChevronRight className="state-arrow" />
@@ -597,12 +603,13 @@ export default function CandidateSection() {
         description="People seeking to lead their states"
       >
         {governorStates.map((state) => (
-          <StateCard
-            key={state.state}
-            state={state.state}
-            candidates={state.candidates}
-            image={state.image}
-          />
+         <StateCard
+  key={state.state}
+  state={state.state}
+  candidates={state.candidates}
+  electionDate={state.electionDate}
+  image={state.image}
+/>
         ))}
       </CandidateRow>
 
