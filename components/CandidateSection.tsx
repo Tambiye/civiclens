@@ -294,19 +294,19 @@ const governorStates = [
     state: "Plateau State",
     electionDate: "6 February 2027",
     candidates: "17 candidates",
-    image: "/images/governors/plateau.jpg",
+    image: "/images/governors/plateau.jpeg",
   },
   {
     state: "Rivers State",
     electionDate: "6 February 2027",
     candidates: "19 candidates",
-    image: "/images/governors/rivers.jpg",
+    image: "/images/governors/rivers.png",
   },
   {
     state: "Sokoto State",
     electionDate: "6 February 2027",
     candidates: "17 candidates",
-    image: "/images/governors/sokoto.jpg",
+    image: "/images/governors/sokoto.webp",
   },
   {
     state: "Taraba State",
@@ -332,25 +332,25 @@ const governorStates = [
     state: "Anambra State",
     electionDate: null,
     candidates: null,
-    image: "/images/governors/anambra.jpg",
+    image: "/images/governors/anambra.jpeg",
   },
   {
     state: "Bayelsa State",
     electionDate: null,
     candidates: null,
-    image: "/images/governors/bayelsa.jpg",
+    image: "/images/governors/bayelsa.jpeg",
   },
   {
     state: "Edo State",
     electionDate: null,
     candidates: null,
-    image: "/images/governors/edo.jpg",
+    image: "/images/governors/edo.webp",
   },
   {
     state: "Ekiti State",
     electionDate: null,
     candidates: null,
-    image: "/images/governors/ekiti.jpg",
+    image: "/images/governors/ekiti.webp",
   },
   {
     state: "Imo State",
@@ -374,7 +374,7 @@ const governorStates = [
     state: "Osun State",
     electionDate: null,
     candidates: null,
-    image: "/images/governors/osun.jpg",
+    image: "/images/governors/osun.webp",
   },
 ];
 
