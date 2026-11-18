@@ -315,14 +315,14 @@
     box-shadow:
         0 5px 14px rgba(32, 45, 37, 0.1);
 }
-
 .state-card-image {
     width: 100%;
-    height: clamp(5.5rem, 8vw, 6.2rem);
+    height: clamp(9rem, 13vw, 12rem);
 
     display: block;
 
     object-fit: cover;
+    object-position: center;
 }
 
 .state-card-info {
@@ -513,7 +513,7 @@
     }
 
     .state-card-image {
-        height: 6rem;
+        height: 10rem;
     }
 
     .row-next-button {
@@ -604,7 +604,7 @@
     }
 
     .state-card-image {
-        height: 5rem;
+        height: 9rem;
     }
 
     .state-card-info {
@@ -679,7 +679,7 @@
     }
 
     .state-card-image {
-        height: 4.5rem;
+        height: 8rem;
     }
 
     .state-card-info {
@@ -742,7 +742,7 @@
     }
 
     .state-card-image {
-        height: 4.1rem;
+        height: 7rem;
     }
 }
 
