@@ -6,6 +6,8 @@ import "../styles/candidates.css";
 import "../styles/compare.css";
 import  "../styles/issues-process.css";
 import "../styles/footer.css";
+import "../styles/candidate-profile.css"
+import "../styles/candidates-section.css"
 import "./globals.css";
 
 const geistSans = Geist({
