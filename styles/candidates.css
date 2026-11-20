@@ -73,8 +73,8 @@
 
 @media (max-width: 768px) {
     .candidates-hero {
-        min-height: 320px;
-        padding: 50px 5%;
+        min-height: 380px;
+        padding: 110px 5% 50px;
         background-position: center, 60% center;
     }
 
@@ -97,8 +97,8 @@
 
 @media (max-width: 480px) {
     .candidates-hero {
-        min-height: 290px;
-        padding: 42px 5%;
+        min-height: 370px;
+        padding: 125px 5% 45px;
         background-position: center, 65% center;
     }
 
@@ -401,7 +401,6 @@
         font-size: 2.7rem;
     }
 }
-
 
 /* PRESIDENTIAL CANDIDATES */
 
