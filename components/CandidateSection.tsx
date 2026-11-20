@@ -383,32 +383,187 @@ const senateStates = [
   {
     state: "Abia State",
     candidates: "3 candidates",
-    image: "/images/candidates/abia-senate.jpg",
+    image: "/images/senators/Abia-Austin-Akobundu.jpg",
   },
   {
     state: "Adamawa State",
     candidates: "3 candidates",
-    image: "/images/candidates/adamawa-senate.jpg",
+    image: "/images/senators/adamawa.jpg",
   },
   {
     state: "Akwa Ibom State",
     candidates: "3 candidates",
-    image: "/images/candidates/akwa-ibom-senate.jpg",
+    image: "/images/senators/akwa-ibom-Senate-President-Godswill-Akpabio.webp",
   },
   {
     state: "Anambra State",
     candidates: "3 candidates",
-    image: "/images/candidates/anambra-senate.jpg",
+    image: "/images/senators/Anambra-Victor-Umeh.webp",
   },
   {
     state: "Bauchi State",
     candidates: "3 candidates",
-    image: "/images/candidates/bauchi-senate.jpg",
+    image: "/images/senators/bauchi-senator-Abdul-Ahmed-Ningi.jpeg",
   },
   {
     state: "Bayelsa State",
     candidates: "3 candidates",
-    image: "/images/candidates/bayelsa-senate.jpg",
+    image: "/images/senators/bayelsa-Friday-Konbowei-860x513.webp",
+  },
+  {
+    state: "Benue State",
+    candidates: "3 candidates",
+    image: "/images/senators/benue-state.jpg",
+  },
+  {
+    state: "Borno State",
+    candidates: "3 candidates",
+    image: "/images/senators/borno-state.jpg",
+  },
+  {
+    state: "Cross River State",
+    candidates: "3 candidates",
+    image: "/images/senators/cross-river.jpeg",
+  },
+  {
+    state: "Delta State",
+    candidates: "3 candidates",
+    image: "/images/senators/delta.jpeg",
+  },
+  {
+    state: "Ebonyi State",
+    candidates: "3 candidates",
+    image: "/images/senators/ebonyi-state.jpg",
+  },
+  {
+    state: "Edo State",
+    candidates: "3 candidates",
+    image: "/images/senators/edo-state.jpg",
+  },
+  {
+    state: "Ekiti State",
+    candidates: "3 candidates",
+    image: "/images/senators/ekiti-state.webp",
+  },
+  {
+    state: "Enugu State",
+    candidates: "3 candidates",
+    image: "/images/senators/enugu-senate.png",
+  },
+  {
+    state: "Gombe State",
+    candidates: "3 candidates",
+    image: "/images/senators/gombe.webp",
+  },
+  {
+    state: "Imo State",
+    candidates: "3 candidates",
+    image: "/images/senators/imo-state.jpg",
+  },
+  {
+    state: "Jigawa State",
+    candidates: "3 candidates",
+    image: "/images/senators/jigawa.webp",
+  },
+  {
+    state: "Kaduna State",
+    candidates: "3 candidates",
+    image: "/images/senators/kaduna-state.jpg",
+  },
+  {
+    state: "Kano State",
+    candidates: "3 candidates",
+    image: "/images/senators/kano-senate.webp",
+  },
+  {
+    state: "Katsina State",
+    candidates: "3 candidates",
+    image: "/images/senators/katsina-state.webp",
+  },
+  {
+    state: "Kebbi State",
+    candidates: "3 candidates",
+    image: "/images/senators/kebbi-state.jpg",
+  },
+  {
+    state: "Kogi State",
+    candidates: "3 candidates",
+    image: "/images/senators/kogi-Natasha-Akpoti-at-Senate.jpg",
+  },
+  {
+    state: "Kwara State",
+    candidates: "3 candidates",
+    image: "/images/senators/kwara-Lola_Ashiru.jpg",
+  },
+  {
+    state: "Lagos State",
+    candidates: "3 candidates",
+    image: "/images/senators/lagos-Wasiu-Eshilokun-Sanni.webp",
+  },
+  {
+    state: "Nasarawa State",
+    candidates: "3 candidates",
+    image: "/images/senators/nasarawa-state.jpg",
+  },
+  {
+    state: "Niger State",
+    candidates: "3 candidates",
+    image: "/images/senators/niger-state.jpeg",
+  },
+  {
+    state: "Ogun State",
+    candidates: "3 candidates",
+    image: "/images/senators/ogun-state.jpg",
+  },
+  {
+    state: "Ondo State",
+    candidates: "3 candidates",
+    image: "/images/senators/ondo-state.jpg",
+  },
+  {
+    state: "Osun State",
+    candidates: "3 candidates",
+    image: "/images/senators/osun-Lere-Oyewumi-scaled.jpg",
+  },
+  {
+    state: "Oyo State",
+    candidates: "3 candidates",
+    image: "/images/senators/oyo-senate.jpg",
+  },
+  {
+    state: "Plateau State",
+    candidates: "3 candidates",
+    image: "/images/senators/plateau-Diket-Plang.webp",
+  },
+  {
+    state: "Rivers State",
+    candidates: "3 candidates",
+    image: "/images/senators/rivers-senate.jpg",
+  },
+  {
+    state: "Sokoto State",
+    candidates: "3 candidates",
+    image: "/images/senators/sokoto-senate.jpg",
+  },
+  {
+    state: "Taraba State",
+    candidates: "3 candidates",
+    image: "/images/senators/taraba-senate.png",
+  },
+  {
+    state: "Yobe State",
+    candidates: "3 candidates",
+    image: "/images/senators/yobe-Ibrahim_Geidam.png",
+  },
+  {
+    state: "Zamfara State",
+    candidates: "3 candidates",
+    image: "/images/senators/zamfara-senate.jpg",
+  },
+  {
+    state: "Federal Capital Territory",
+    candidates: "3 candidates",
+    image: "/images/senators/abuja-senator-ireti-kingibe.jpg",
   },
 ];
 
