@@ -554,14 +554,14 @@ const senateStates = [
     district: "Borno North",
     name: "Mohammed Tahir Monguno",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/mohammed-tahir-monguno.jpg",
+    image: "/images/candidates/senate/mohammed-tahir-monguno.webp",
   },
   {
     state: "Borno State",
     district: "Borno South",
     name: "Mohammed Ali Ndume",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/mohammed-ali-ndume.jpg",
+    image: "/images/candidates/senate/mohammed-ali-ndume.png",
   },
 
   // CROSS RIVER STATE
@@ -582,48 +582,48 @@ const senateStates = [
   {
     state: "Cross River State",
     district: "Cross River South",
-    name: null,
+    name: "Asuquo Ekpenyong",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/asuquo-ekpenyong.png",
   },
 
   // DELTA STATE
   {
     state: "Delta State",
     district: "Delta Central",
-    name: null,
+    name: "Ede Omueya Dafinone",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/ede-omueya-dafinone.jpeg",
   },
   {
     state: "Delta State",
     district: "Delta North",
     name: "Ned Munir Nwoko",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/ned-munir-nwoko.jpg",
+    image: "/images/candidates/senate/ned-munir-nwoko.webp",
   },
   {
     state: "Delta State",
     district: "Delta South",
-    name: null,
+    name: "Joel-Onowakpo Thomas",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/joel-onowakpo-thomas.png",
   },
 
   // EBONYI STATE
   {
     state: "Ebonyi State",
     district: "Ebonyi Central",
-    name: null,
+    name: "Kenneth Emeka Eze",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/kenneth-emeka-eze.jpg",
   },
   {
     state: "Ebonyi State",
     district: "Ebonyi North",
-    name: null,
+    name: "Onyeka Peter Nwebonyi",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/onyeka-peter-nwebonyi.png",
   },
   {
     state: "Ebonyi State",
