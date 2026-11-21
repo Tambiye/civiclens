@@ -515,23 +515,23 @@ const senateStates = [
     district: "Bayelsa West",
     name: "Seriake Henry Dickson",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/seriake-henry-dickson.jpg",
+    image: "/images/candidates/senate/seriake-henry-dickson.webp",
   },
 
   // BENUE STATE
   {
     state: "Benue State",
     district: "Benue North-East",
-    name: null,
+    name: "Emmanuel Memsa Udende",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/emmanuel-memsa-udende.webp",
   },
   {
     state: "Benue State",
     district: "Benue North-West",
-    name: null,
+    name: "Titus Tartenger Zam",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/titus-tartenger-zam.webp",
   },
   {
     state: "Benue State",
@@ -547,7 +547,7 @@ const senateStates = [
     district: "Borno Central",
     name: "Kaka Shehu Lawan",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/kaka-shehu-lawan.jpg",
+    image: "/images/candidates/senate/kaka-shehu-lawan.webp",
   },
   {
     state: "Borno State",
