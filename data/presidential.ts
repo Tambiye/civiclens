@@ -1,6 +1,7 @@
 export const presidentialCandidates = [
   {
     name: "Bola Ahmed Tinubu",
+    slug: "bola-ahmed-tinubu",
     party: "All Progressives Congress",
     shortParty: "APC",
     status: "Confirmed",
@@ -9,6 +10,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Atiku Abubakar",
+    slug: "atiku-abubakar",
     party: "African Democratic Congress",
     shortParty: "ADC",
     status: "Disputed",
@@ -17,6 +19,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Peter Gregory Obi",
+    slug: "peter-gregory-obi",
     party: "Nigerian Democratic Congress",
     shortParty: "NDC",
     status: "Confirmed",
@@ -25,6 +28,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Sunday Chibuzo Okereke",
+    slug: "sunday-chibuzo-okereke",
     party: "Labour Party",
     shortParty: "LP",
     status: "Confirmed",
@@ -33,6 +37,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Sandy Ojang Onor",
+    slug: "sandy-ojang-onor",
     party: "Peoples Democratic Party",
     shortParty: "PDP",
     status: "Confirmed",
@@ -41,6 +46,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Aliyu Abbas-Bin",
+    slug: "aliyu-abbas-bin",
     party: "Action Democratic Party",
     shortParty: "ADP",
     status: "Confirmed",
@@ -49,6 +55,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Kabiru Yusuf",
+    slug: "kabiru-yusuf",
     party: "Allied Peoples Party",
     shortParty: "APP",
     status: "Confirmed",
@@ -57,6 +64,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Omoyele Sowore",
+    slug: "omoyele-sowore",
     party: "African Action Congress",
     shortParty: "AAC",
     status: "Confirmed",
@@ -65,6 +73,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Oluseyi Abiodun Makinde",
+    slug: "oluseyi-abiodun-makinde",
     party: "Allied Peoples Movement",
     shortParty: "APM",
     status: "Confirmed",
@@ -73,6 +82,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Sunday Adenuga",
+    slug: "sunday-adenuga",
     party: "Boot Party",
     shortParty: "BP",
     status: "Confirmed",
@@ -81,6 +91,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Moses Olusoji Adebisi",
+    slug: "moses-olusoji-adebisi",
     party: "Democratic Leadership Alliance",
     shortParty: "DLA",
     status: "Confirmed",
@@ -89,6 +100,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Ada Elizabeth Fredrick Okwori",
+    slug: "ada-elizabeth-fredrick-okwori",
     party: "National Democratic Party",
     shortParty: "NDP",
     status: "Confirmed",
@@ -97,6 +109,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Nkem Esther Okereke",
+    slug: "nkem-esther-okereke",
     party: "National Rescue Movement",
     shortParty: "NRM",
     status: "Confirmed",
@@ -105,6 +118,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Donald Duke",
+    slug: "donald-duke",
     party: "People's Redemption Party",
     shortParty: "PRP",
     status: "Confirmed",
@@ -113,6 +127,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Adewole Ebenezer Adebayo",
+    slug: "adewole-ebenezer-adebayo",
     party: "Social Democratic Party",
     shortParty: "SDP",
     status: "Confirmed",
@@ -121,6 +136,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Peter Ada Agada",
+    slug: "peter-ada-agada",
     party: "Young Progressive Party",
     shortParty: "YPP",
     status: "Confirmed",
@@ -129,6 +145,7 @@ export const presidentialCandidates = [
   },
   {
     name: "Daniel Daberechukwu Nwanyanwu",
+    slug: "daniel-daberechukwu-nwanyanwu",
     party: "Zenith Labour Party",
     shortParty: "ZLP",
     status: "Confirmed",
