@@ -393,14 +393,14 @@ const senateStates = [
     district: "Abia North",
     name: "Orji Uzor Kalu",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/orji-uzor-kalu.jpg",
+    image: "/images/candidates/senate/orji-uzor-kalu.jpeg",
   },
   {
     state: "Abia State",
     district: "Abia South",
     name: "Enyinnaya Harcourt Abaribe",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/enyinnaya-harcourt-abaribe.jpg",
+    image: "/images/candidates/senate/enyinnaya-harcourt-abaribe.jpeg",
   },
 
   // ADAMAWA STATE
@@ -416,7 +416,7 @@ const senateStates = [
     district: "Adamawa North",
     name: "Ishaku Elisha Cliff Abbo",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/ishaku-elisha-cliff-abbo.jpg",
+    image: "/images/candidates/senate/ishaku-elisha-cliff-abbo.webp",
   },
   {
     state: "Adamawa State",
@@ -444,9 +444,9 @@ const senateStates = [
   {
     state: "Akwa Ibom State",
     district: "Akwa Ibom South",
-    name: null,
+    name: "Akpan Ekong Sampson",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/akpan-ekong-sampson.jpg",
   },
 
   // ANAMBRA STATE
@@ -455,21 +455,21 @@ const senateStates = [
     district: "Anambra Central",
     name: "Victor Umeh",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/victor-umeh.jpg",
+    image: "/images/candidates/senate/victor-umeh.webp",
   },
   {
     state: "Anambra State",
     district: "Anambra North",
-    name: null,
+    name: "Tony Okechukwu Nwoye",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/tony-okechukwu-nwoye.jpg",
   },
   {
     state: "Anambra State",
     district: "Anambra South",
     name: "Nwachukwu Emmanuel",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/nwachukwu-emmanuel.jpg",
+    image: "/images/candidates/senate/nwachukwu-emmanuel.jpeg",
   },
 
   // BAUCHI STATE
@@ -478,7 +478,7 @@ const senateStates = [
     district: "Bauchi Central",
     name: "Abdul Ningi",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/abdul-ningi.jpg",
+    image: "/images/candidates/senate/abdul-ningi.jpeg",
   },
   {
     state: "Bauchi State",
@@ -499,16 +499,16 @@ const senateStates = [
   {
     state: "Bayelsa State",
     district: "Bayelsa Central",
-    name: null,
+    name: "Konbowei Friday Benson",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/konbowei-friday-benson.webp",
   },
   {
     state: "Bayelsa State",
     district: "Bayelsa East",
     name: "Benson Agadaga",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/benson-agadaga.jpg",
+    image: "/images/candidates/senate/benson-agadaga.webp",
   },
   {
     state: "Bayelsa State",
