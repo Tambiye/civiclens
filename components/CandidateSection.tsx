@@ -628,32 +628,32 @@ const senateStates = [
   {
     state: "Ebonyi State",
     district: "Ebonyi South",
-    name: null,
+    name: "Anthony Okorie Ani",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/anthony-okorie-ani.jpg",
   },
 
   // EDO STATE
   {
     state: "Edo State",
     district: "Edo Central",
-    name: null,
+    name: "Joseph Igiagbe Ikpea",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/joseph-igIagbe-ikpea.webp",
   },
   {
     state: "Edo State",
     district: "Edo North",
-    name: null,
+    name: "Adams Aliyu Oshiomole",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/adams-aliyu-oshiomole.webp",
   },
   {
     state: "Edo State",
     district: "Edo South",
-    name: null,
+    name: "Neda Bernards Imasuen",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/neda-bernards-imasuen.webp",
   },
 
   // EKITI STATE
@@ -662,21 +662,21 @@ const senateStates = [
     district: "Ekiti Central",
     name: "Michael Opeyemi Bamidele",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/michael-opeyemi-bamidele.jpg",
+    image: "/images/candidates/senate/michael-opeyemi-bamidele.webp",
   },
   {
     state: "Ekiti State",
     district: "Ekiti North",
-    name: null,
+    name: "Cyril Oluwole Fasuyi",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/cyril-oluwole-fasuyi.webp",
   },
   {
     state: "Ekiti State",
     district: "Ekiti South",
-    name: null,
+    name: "Adeyemi Raphael Adaramodu",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/adeyemi-raphael-adaramodu.webp",
   },
 
   // ENUGU STATE
@@ -690,16 +690,17 @@ const senateStates = [
   {
     state: "Enugu State",
     district: "Enugu North",
-    name: "Okechukwu Ezea",
+    // name: "Okechukwu Ezea" now late,
+    name: "Ikeje Israel Asogwa",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/okechukwu-ezea.jpg",
+    image: "/images/candidates/senate/ikeje-israel-asogwa.webp",
   },
   {
     state: "Enugu State",
     district: "Enugu West",
-    name: null,
+    name: "Osita Ngwu",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/osita-ngwu.jpg",
   },
 
   // FCT
@@ -724,7 +725,7 @@ const senateStates = [
     district: "Gombe North",
     name: "Ibrahim Dankwambo",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/ibrahim-dankwambo.jpg",
+    image: "/images/candidates/senate/ibrahim-dankwambo.webp",
   },
   {
     state: "Gombe State",
@@ -745,16 +746,16 @@ const senateStates = [
   {
     state: "Imo State",
     district: "Imo North",
-    name: null,
+    name: "Patrick Chiwuba Ndubueze",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/patrick-chiwuba-ndubueze.jpg",
   },
   {
     state: "Imo State",
     district: "Imo West",
-    name: null,
+    name:"Osita Bonaventure Izunaso",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/osita-bonaventure-izunaso.webp",
   },
 
   // JIGAWA STATE
