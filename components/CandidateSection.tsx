@@ -748,14 +748,14 @@ const senateStates = [
     district: "Imo North",
     name: "Patrick Chiwuba Ndubueze",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/patrick-chiwuba-ndubueze.jpg",
+    image: "/images/candidates/senate/patrick-chiwuba-ndubueze.jpeg",
   },
   {
     state: "Imo State",
     district: "Imo West",
     name:"Osita Bonaventure Izunaso",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/osita-bonaventure-izunaso.webp",
+    image: "/images/candidates/senate/osita-bonaventure-izunaso.jpeg",
   },
 
   // JIGAWA STATE
@@ -771,14 +771,14 @@ const senateStates = [
     district: "Jigawa North-West",
     name: "Babangida Hussaini",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/babangida-hussaini.jpg",
+    image: "/images/candidates/senate/babangida-hussaini.jpeg",
   },
   {
     state: "Jigawa State",
     district: "Jigawa South-West",
-    name: null,
+    name: "Mustapha Khabeeb",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/mustapha-khabeeb.jpeg",
   },
 
   // KADUNA STATE
@@ -792,10 +792,11 @@ const senateStates = [
   {
     state: "Kaduna State",
     district: "Kaduna North",
-    name: null,
+    name: "Ibrahim Khalid Mustapha",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/ibrahim-khalid-mustapha.jpg",
   },
+  // 1
   {
     state: "Kaduna State",
     district: "Kaduna South",
@@ -808,9 +809,9 @@ const senateStates = [
   {
     state: "Kano State",
     district: "Kano Central",
-    name: null,
+    name: "Rufai Sani Hanga",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/rufai-sani-hanga.jpeg",
   },
   {
     state: "Kano State",
@@ -822,32 +823,32 @@ const senateStates = [
   {
     state: "Kano State",
     district: "Kano South",
-    name: null,
+    name: "Suleiman Abdurrahman Kawu Sumaila",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/suleiman-abdurrahman-kawu-sumaila.jpg",
   },
 
   // KATSINA STATE
   {
     state: "Katsina State",
     district: "Katsina Central",
-    name: null,
+    name: "Abdulaziz Musa Yar'Adua",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/abdulaziz-musa-yaradua.jpeg",
   },
   {
     state: "Katsina State",
     district: "Katsina North",
     name: "Nasiru Sani Zangon Daura",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/nasiru-sani-zangon-daura.jpg",
+    image: "/images/candidates/senate/nasiru-sani-zangon-daura.png",
   },
   {
     state: "Katsina State",
     district: "Katsina South",
-    name: null,
+    name: "Mohammed Muntari Dandutse",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/mohammed-muntari-dandutse.jpg",
   },
 
   // KEBBI STATE
@@ -868,9 +869,9 @@ const senateStates = [
   {
     state: "Kebbi State",
     district: "Kebbi South",
-    name: null,
+    name: "Garba Musa Maidoki",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/garba-musa-maidoki.jpg",
   },
 
   // KOGI STATE
@@ -879,7 +880,7 @@ const senateStates = [
     district: "Kogi Central",
     name: "Akpoti-uduaghan Natasha",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/akpoti-uduaghan-natasha.jpg",
+    image: "/images/candidates/senate/akpoti-uduaghan-natasha.webp",
   },
   {
     state: "Kogi State",
@@ -900,9 +901,9 @@ const senateStates = [
   {
     state: "Kwara State",
     district: "Kwara Central",
-    name: null,
+    name: "Saliu Mustapha",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/saliu-mustapha.jpg",
   },
   {
     state: "Kwara State",
@@ -937,18 +938,19 @@ const senateStates = [
   {
     state: "Lagos State",
     district: "Lagos West",
-    name: null,
+    name: "Idiat Oluranti Adebule",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/idiat-oluranti-adebule.jpg",
   },
 
   // NASARAWA STATE
   {
     state: "Nasarawa State",
     district: "Nasarawa North",
-    name: "Godiya Akwashiki",
+    // name: "Godiya Akwashiki(late)",
+    name: "Danladi Halilu Envulanza",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/godiya-akwashiki.jpg",
+    image: "/images/candidates/senate/danladi-halilu-envulanza.jpg",
   },
   {
     state: "Nasarawa State",
@@ -1061,9 +1063,9 @@ const senateStates = [
   {
     state: "Oyo State",
     district: "Oyo Central",
-    name: null,
+    name: "Yunus Abiodun Akintunde",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/yunus-abiodun-akintunde.jpg",
   },
   {
     state: "Oyo State",
@@ -1075,18 +1077,18 @@ const senateStates = [
   {
     state: "Oyo State",
     district: "Oyo South",
-    name: null,
+    name: "Sharafadeen Abiodun Alli",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/sharafadeen-abiodun-alli.jpg",
   },
 
   // PLATEAU STATE
   {
     state: "Plateau State",
     district: "Plateau Central",
-    name: null,
+    name: "Diket Satso Plang",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/diket-satso-plang.jpg",
   },
   {
     state: "Plateau State",
@@ -1098,9 +1100,9 @@ const senateStates = [
   {
     state: "Plateau State",
     district: "Plateau South",
-    name: null,
+    name: "Simon Bako Lalong",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/simon-bako-lalong.jpg",
   },
 
   // RIVERS STATE
@@ -1114,25 +1116,26 @@ const senateStates = [
   {
     state: "Rivers State",
     district: "Rivers South-East",
-    name: "Barinada Barry Mpigi",
+    // name: "Barinada Barry Mpigi" late,
+    name: "Olaka Nwogu",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/barinada-barry-mpigi.jpg",
+    image: "/images/candidates/senate/olaka-nwogu.jpg",
   },
   {
     state: "Rivers State",
     district: "Rivers West",
-    name: null,
+    name: "Ipalibo Harry Banigo",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/ipalibo-harry-banigo.jpg",
   },
 
   // SOKOTO STATE
   {
     state: "Sokoto State",
     district: "Sokoto East",
-    name: null,
+    name: "Ibrahim Lamido",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/ibrahim-lamido.jpg",
   },
   {
     state: "Sokoto State",
@@ -1144,9 +1147,9 @@ const senateStates = [
   {
     state: "Sokoto State",
     district: "Sokoto South",
-    name: null,
+    name: "Aminu Waziri Tambuwal",
     electionDate: "16 January 2027",
-    image: null,
+    image: "/images/candidates/senate/aminu-waziri-tambuwal.jpg",
   },
 
   // TARABA STATE
@@ -1208,7 +1211,7 @@ const senateStates = [
     district: "Zamfara North",
     name: "Yau Sahabi Alhaji",
     electionDate: "16 January 2027",
-    image: "/images/candidates/senate/yau-sahabi-alhaji.jpg",
+    image: "/images/candidates/senate/yau-sahabi-alhaji.webp",
   },
   {
     state: "Zamfara State",
