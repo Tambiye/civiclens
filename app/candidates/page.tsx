@@ -1,7 +1,7 @@
-
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import { useRouter } from "next/navigation";
 import { presidentialCandidates } from "@/data/presidential";
 
 const heroContent = {
@@ -154,9 +154,9 @@ function ElectionStatistics() {
   );
 }
 
-
 function PresidentialCandidates() {
   const sectionRef = useRef<HTMLElement>(null);
+  const router = useRouter();
 
   useEffect(() => {
     const section = sectionRef.current;
@@ -217,7 +217,18 @@ function PresidentialCandidates() {
           {presidentialCandidates.map((candidate) => (
             <article
               className="presidential-candidate-card"
-              key={candidate.name}
+              key={candidate.slug}
+              onClick={() =>
+                router.push(`/candidates/${candidate.slug}`)
+              }
+              role="link"
+              tabIndex={0}
+              onKeyDown={(event) => {
+                if (event.key === "Enter" || event.key === " ") {
+                  event.preventDefault();
+                  router.push(`/candidates/${candidate.slug}`);
+                }
+              }}
             >
               <div className="presidential-candidate-card__image">
                 <img
@@ -248,7 +259,6 @@ function PresidentialCandidates() {
     </section>
   );
 }
-
 
 export default function CandidatesPage() {
   return (
