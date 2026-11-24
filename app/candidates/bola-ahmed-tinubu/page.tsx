@@ -1,3 +1,4 @@
+
 "use client";
 
 import {
@@ -28,14 +29,14 @@ const candidate = {
   party: "All Progressives Congress (APC)",
   position: "President of the Federal Republic of Nigeria",
   slogan: "Renewed Hope. A Greater Nigeria.",
-  image: "/images/tinubu.jpg",
+  image: "/images/candidates/tinubu.jpg",
 
   quickFacts: [
     {
       icon: <FiCalendar />,
       label: "Date of Birth",
       value: "29 March 1952",
-      extra: "(73 years old)",
+      extra: "(74 years old)",
     },
     {
       icon: <FiMapPin />,
@@ -60,7 +61,7 @@ const candidate = {
   ],
 
   overview:
-    "Bola Ahmed Tinubu is a Nigerian politician, statesman and the current President of the Federal Republic of Nigeria. He has served in various public offices, including Governor of Lagos State and Senator, and is a prominent figure in Nigeria's political landscape.",
+    "Bola Ahmed Tinubu is a Nigerian politician and the President of the Federal Republic of Nigeria. Before becoming president in May 2023, he served as Governor of Lagos State from 1999 to 2007 and represented Lagos West in the Senate. He is a prominent figure in Nigeria's political landscape.",
 
   personalInfo: [
     ["Full Name", "Bola Ahmed Tinubu"],
@@ -73,12 +74,12 @@ const candidate = {
 
   qualifications: [
     {
-      title: "B.Sc. Economics",
-      school: "University of Chicago, USA",
+      title: "B.Sc. Business Administration",
+      school: "Chicago State University, USA",
     },
     {
-      title: "LL.B (Hons)",
-      school: "University of Lagos",
+      title: "Accounting",
+      school: "Major, Chicago State University, USA",
     },
     {
       title: "Barrister at Law",
@@ -95,31 +96,136 @@ const candidate = {
       period: "1999 – 2007",
       title: "Governor of Lagos State (Two Terms)",
       description:
-        "Led Lagos through significant infrastructure and urban renewal projects.",
+        "Served two consecutive terms as Governor of Lagos State.",
     },
     {
       period: "2003 – 2007",
-      title: "Chairman, National Governors' Forum",
-      description: "Represented the interests of state governors.",
+      title: "Political Leadership",
+      description:
+        "Played a prominent role in national opposition politics and party organisation.",
     },
     {
-      period: "2011 – 2015",
-      title: "Senator, representing Lagos Central Senatorial District",
+      period: "1992 – 1993",
+      title: "Senator, Lagos West",
       description:
-        "Contributed to legislative activities in the National Assembly.",
+        "Represented Lagos West Senatorial District in the Nigerian Senate.",
+    },
+    {
+      period: "2023 – Present",
+      title: "President of Nigeria",
+      description:
+        "Assumed office as President of the Federal Republic of Nigeria on 29 May 2023.",
     },
   ],
 
   controversies: [
-    "Economic policies and their impact",
-    "Fuel subsidy removal and public reaction",
-    "Security challenges during his administration",
+    {
+      text:
+        "The removal of the petrol subsidy in May 2023 attracted widespread public debate over rising fuel prices, inflation and the cost of living. Critics questioned the timing of the reform and the adequacy of measures to protect vulnerable households.",
+
+      source: "Financial Times",
+      date: "2024",
+      url:
+        "https://www.ft.com/content/29752a06-adea-4175-b278-22e0632c375a",
+    },
+
+    {
+      text:
+        "The February 2023 presidential election result was challenged by opposition candidates Peter Obi and Atiku Abubakar. On 26 October 2023, Nigeria's Supreme Court dismissed their appeals and upheld Tinubu's election victory.",
+
+      source: "Associated Press",
+      date: "26 October 2023",
+      url:
+        "https://apnews.com/article/ad610050879e5a0178bcb52934c56054",
+    },
+
+    {
+      text:
+        "A 1993 US civil forfeiture case involving funds held in accounts associated with Tinubu became a subject of public and political debate. AFP reported that the authentic court documents did not establish that Tinubu was indicted or convicted.",
+
+      source: "AFP Fact Check",
+      date: "18 November 2022",
+      url:
+        "https://factcheck.afp.com/doc.afp.com.32NP3DU",
+    },
   ],
 
   allegations: [
-    "Corruption allegations linked to his political career",
-    "Health-related claims in 2023",
-    "Controversy over academic credentials (disputed)",
+    {
+      text:
+        "During the 2023 election litigation, Atiku Abubakar raised questions about Tinubu's educational qualifications and submitted arguments concerning his academic records. The Supreme Court dismissed the election petitions.",
+
+      source: "Associated Press",
+      date: "26 October 2023",
+      url:
+        "https://apnews.com/article/ad610050879e5a0178bcb52934c56054",
+    },
+
+    {
+      text:
+        "Questions about Tinubu's Chicago State University academic records became part of public debate and legal proceedings. The university confirmed that Tinubu attended the institution and was awarded a bachelor's degree in 1979.",
+
+      source: "The ICIR",
+      date: "27 June 2022",
+      url:
+        "https://www.icirnigeria.org/chicago-university-replies-icir-on-tinubus-controversial-certificate/",
+    },
+
+    {
+      text:
+        "A purported INEC press release claiming that the electoral commission was investigating Tinubu over the historical US case circulated online in November 2022. AFP Fact Check found the release was fabricated, and INEC dismissed the claim.",
+
+      source: "AFP Fact Check",
+      date: "18 November 2022",
+      url:
+        "https://factcheck.afp.com/doc.afp.com.32NP3DU",
+    },
+  ],
+
+  sources: [
+    {
+      name: "The State House",
+      title: "Official Presidential Biography: Bola Ahmed Tinubu",
+      date: "Official government profile",
+      url:
+        "https://statehouse.gov.ng/team/bola-ahmed-tinubu/",
+    },
+
+    {
+      name: "Associated Press",
+      title:
+        "Nigeria's Supreme Court upholds Tinubu's election victory",
+      date: "26 October 2023",
+      url:
+        "https://apnews.com/article/ad610050879e5a0178bcb52934c56054",
+    },
+
+    {
+      name: "AFP Fact Check",
+      title:
+        "Hoax press release falsely claims Nigerian electoral body will probe ruling party candidate",
+      date: "18 November 2022",
+      url:
+        "https://factcheck.afp.com/doc.afp.com.32NP3DU",
+    },
+
+    {
+      name: "The ICIR",
+      title:
+        "Chicago University replies ICIR on Tinubu's controversial certificate",
+      date: "27 June 2022",
+      url:
+        "https://www.icirnigeria.org/chicago-university-replies-icir-on-tinubus-controversial-certificate/",
+    },
+
+    {
+      name: "Financial Times",
+      title:
+        "Nigeria's economic crisis puts fuel subsidies removal under scrutiny",
+      date: "2024",
+      url:
+        "https://www.ft.com/content/29752a06-adea-4175-b278-22e0632c375a",
+    },
   ],
 };
 
@@ -188,7 +294,9 @@ export default function CandidateProfilePage() {
             <div className="quick-facts-body">
               {candidate.quickFacts.map((fact) => (
                 <div className="quick-fact" key={fact.label}>
-                  <div className="quick-fact-icon">{fact.icon}</div>
+                  <div className="quick-fact-icon">
+                    {fact.icon}
+                  </div>
 
                   <div className="quick-fact-label">
                     {fact.label}
@@ -209,7 +317,7 @@ export default function CandidateProfilePage() {
 
       {/* TABS */}
 
-      <nav className="candidate-tabs">
+      {/* <nav className="candidate-tabs">
         {tabs.map((tab, index) => (
           <button
             key={tab.label}
@@ -221,7 +329,7 @@ export default function CandidateProfilePage() {
             <span>{tab.label}</span>
           </button>
         ))}
-      </nav>
+      </nav> */}
 
       {/* MAIN CONTENT */}
 
@@ -334,107 +442,157 @@ export default function CandidateProfilePage() {
           </div>
         </article>
 
-        {/* CONTROVERSIES + ALLEGATIONS */}
+        {/* PUBLIC RECORD + REPORTED CLAIMS */}
 
         <div className="content-grid two-columns warning-grid">
           <article className="warning-card controversy-card">
             <div className="warning-heading">
               <FiShield />
-              <h2>Controversies</h2>
+              <h2>Public Record & Disputes</h2>
             </div>
+
+            <p>
+              Matters documented in public records, court
+              proceedings and independent reporting.
+              Inclusion does not imply wrongdoing.
+            </p>
 
             <ul>
               {candidate.controversies.map((item) => (
-                <li key={item}>{item}</li>
+                <li key={item.text}>
+                  <p>{item.text}</p>
+
+                  <a
+                    href={item.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {item.source} · {item.date}
+                    <FiChevronRight />
+                  </a>
+                </li>
               ))}
             </ul>
 
-            <button className="details-button">
-              View Details
+            <a
+              href="#sources"
+              className="details-button"
+            >
+              View Sources
               <FiChevronRight />
-            </button>
+            </a>
           </article>
 
           <article className="warning-card allegation-card">
             <div className="warning-heading">
               <FiAlertTriangle />
-              <h2>Alleged Accusations</h2>
+              <h2>Reported Claims</h2>
             </div>
+
+            <p>
+              Claims, criticisms and disputed matters attributed
+              to identifiable individuals, organisations or
+              publications. Inclusion does not mean a claim
+              has been established as fact.
+            </p>
 
             <ul>
               {candidate.allegations.map((item) => (
-                <li key={item}>{item}</li>
+                <li key={item.text}>
+                  <p>{item.text}</p>
+
+                  <a
+                    href={item.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {item.source} · {item.date}
+                    <FiChevronRight />
+                  </a>
+                </li>
               ))}
             </ul>
 
-            <button className="details-button">
-              View Details
+            <a
+              href="#sources"
+              className="details-button"
+            >
+              View Sources
               <FiChevronRight />
-            </button>
+            </a>
           </article>
         </div>
 
         {/* SOURCES */}
 
-        <article className="sources-card">
+        <article className="sources-card" id="sources">
           <div className="sources-icon">
             <FiFileText />
           </div>
 
           <div className="sources-content">
             <h2>Sources & Verification</h2>
+
             <p>
-              All information is backed by credible sources,
-              including official records, reputable media and
-              public documents.
+              CivicLens references publicly available information
+              from official government publications, court
+              proceedings, established news organisations and
+              independent fact-checking organisations.
+              The following sources were consulted for this
+              profile.
+            </p>
+
+            <ul>
+              {candidate.sources.map((source) => (
+                <li key={source.url}>
+                  <a
+                    href={source.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <strong>{source.name}</strong>
+                    <span>{source.title}</span>
+                    <small>{source.date}</small>
+                    <FiGlobe />
+                  </a>
+                </li>
+              ))}
+            </ul>
+
+            <p>
+              CivicLens is an independent informational platform.
+              The inclusion of an individual, event, claim or
+              reported matter does not constitute an endorsement
+              or confirmation of its accuracy. Reported
+              allegations should not be interpreted as findings
+              of guilt or wrongdoing.
+            </p>
+
+            <p>
+              Information reflects the sources available at
+              the time of publication and may change as new
+              evidence, official records or legal decisions
+              become available. Readers are encouraged to
+              consult the original sources for full context.
+            </p>
+
+            <p>
+              CivicLens does not guarantee that third-party
+              information is complete or current. Where
+              inaccuracies are identified, the platform
+              aims to review and update the relevant material.
             </p>
           </div>
 
-          <button className="sources-button">
+          <a
+            href="#sources"
+            className="sources-button"
+          >
             View Sources
             <FiChevronRight />
-          </button>
+          </a>
         </article>
       </section>
-
-      {/* FOOTER */}
-
-      <footer className="candidate-footer">
-        <div className="footer-top">
-          <div className="footer-brand">
-            <div className="footer-logo-mark">
-              <FiFlag />
-            </div>
-
-            <div>
-              <h2>CivicLens</h2>
-              <p>See beyond the campaign.</p>
-            </div>
-          </div>
-
-          <div className="footer-links">
-            <a href="#">About</a>
-            <span>|</span>
-            <a href="#">Privacy Policy</a>
-            <span>|</span>
-            <a href="#">Contact</a>
-            <span>|</span>
-            <a href="#">Methodology</a>
-          </div>
-
-          <div className="footer-socials">
-            <span>𝕏</span>
-            <span>f</span>
-            <span>▶</span>
-            <span>◎</span>
-          </div>
-        </div>
-
-        <div className="footer-bottom">
-          <span>An independent, non-partisan platform.</span>
-          <span>© 2026 CivicLens. All rights reserved.</span>
-        </div>
-      </footer>
     </main>
   );
 }

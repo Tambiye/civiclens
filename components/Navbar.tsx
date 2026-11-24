@@ -1,9 +1,9 @@
-
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
 import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import {
   FiMenu,
   FiX,
@@ -12,7 +12,7 @@ import {
 } from "react-icons/fi";
 
 const navLinks = [
-  { label: "Home", href: "/", active: true },
+  { label: "Home", href: "/" },
   { label: "Candidates", href: "/candidates" },
   { label: "Compare", href: "/compare" },
   { label: "The Issues", href: "/issues" },
@@ -20,6 +20,8 @@ const navLinks = [
 ];
 
 export default function Navbar() {
+  const pathname = usePathname();
+
   const [isOpen, setIsOpen] = useState(false);
   const [showBg, setShowBg] = useState(false);
 
@@ -30,6 +32,18 @@ export default function Navbar() {
   const toggleMenu = useCallback(() => {
     setIsOpen((prev) => !prev);
   }, []);
+
+  // Check whether a navigation link is active
+  const isLinkActive = useCallback(
+    (href: string) => {
+      if (href === "/") {
+        return pathname === "/";
+      }
+
+      return pathname === href || pathname.startsWith(`${href}/`);
+    },
+    [pathname]
+  );
 
   // Navbar background on scroll
   useEffect(() => {
@@ -85,17 +99,19 @@ export default function Navbar() {
     >
       {/* Logo */}
       <Link href="/" className="navbar-logo" onClick={closeMenu}>
-  <Image
-    src="/images/gold-map.png"
-    alt="CivicLens logo"
-    width={100}
-    height={100}
-    className="navbar-logo-icon"
-  />
+        <Image
+          src="/images/gold-map.png"
+          alt="CivicLens logo"
+          width={100}
+          height={100}
+          className="navbar-logo-icon"
+        />
+
         <span className="navbar-brand">
           <span className="navbar-brand-name">
             Poli<span>Peek</span>
           </span>
+
           <span className="navbar-tagline">
             See beyond the campaign.
           </span>
@@ -104,18 +120,22 @@ export default function Navbar() {
 
       {/* Desktop Navigation */}
       <ul className="nav-links">
-        {navLinks.map((link) => (
-          <li key={link.href}>
-            <Link
-              href={link.href}
-              className={link.active ? "active" : ""}
-              aria-current={link.active ? "page" : undefined}
-              onClick={closeMenu}
-            >
-              {link.label}
-            </Link>
-          </li>
-        ))}
+        {navLinks.map((link) => {
+          const active = isLinkActive(link.href);
+
+          return (
+            <li key={link.href}>
+              <Link
+                href={link.href}
+                className={active ? "active" : ""}
+                aria-current={active ? "page" : undefined}
+                onClick={closeMenu}
+              >
+                {link.label}
+              </Link>
+            </li>
+          );
+        })}
       </ul>
 
       {/* Navigation Actions */}
@@ -124,7 +144,9 @@ export default function Navbar() {
           <span className="nigeria-flag" aria-label="Nigeria flag">
             🇳🇬
           </span>
+
           <span>NG</span>
+
           <FiChevronDown size={14} />
         </div>
 
@@ -161,24 +183,29 @@ export default function Navbar() {
           <span className="mobile-menu-eyebrow">
             Explore CivicLens
           </span>
+
           <span className="mobile-menu-divider" />
         </div>
 
         <div className="mobile-menu-links">
-          {navLinks.map((link, index) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              onClick={closeMenu}
-              className={link.active ? "active" : ""}
-              style={{ "--i": index } as React.CSSProperties}
-              tabIndex={isOpen ? 0 : -1}
-              aria-current={link.active ? "page" : undefined}
-            >
-              <span>{link.label}</span>
-              <FiArrowUpRight size={18} />
-            </Link>
-          ))}
+          {navLinks.map((link, index) => {
+            const active = isLinkActive(link.href);
+
+            return (
+              <Link
+                key={link.href}
+                href={link.href}
+                onClick={closeMenu}
+                className={active ? "active" : ""}
+                style={{ "--i": index } as React.CSSProperties}
+                tabIndex={isOpen ? 0 : -1}
+                aria-current={active ? "page" : undefined}
+              >
+                <span>{link.label}</span>
+                <FiArrowUpRight size={18} />
+              </Link>
+            );
+          })}
         </div>
 
         {/* Country */}
