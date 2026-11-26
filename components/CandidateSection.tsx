@@ -1,6 +1,6 @@
 
 "use client";
-
+import Link from "next/link";
 import {
   useEffect,
   useRef,
@@ -19,6 +19,7 @@ import "../styles/candidates.css";
 const presidentialCandidates = [
   {
     name: "Bola Ahmed Tinubu",
+    slug: "bola-ahmed-tinubu",
     party: "All Progressives Congress",
     shortParty: "APC",
     status: "Confirmed",
@@ -27,6 +28,7 @@ const presidentialCandidates = [
   },
   {
     name: "Atiku Abubakar",
+    slug: "atiku-abubakar",
     party: "African Democratic Congress",
     shortParty: "ADC",
     status: "Disputed",
@@ -35,6 +37,7 @@ const presidentialCandidates = [
   },
   {
     name: "Peter Gregory Obi",
+    slug: "peter-gregory-obi",
     party: "Nigerian Democratic Congress",
     shortParty: "NDC",
     status: "Confirmed",
@@ -43,6 +46,7 @@ const presidentialCandidates = [
   },
   {
     name: "Sunday Chibuzo Okereke",
+    slug: "sunday-chibuzo-okereke",
     party: "Labour Party",
     shortParty: "LP",
     status: "Confirmed",
@@ -51,6 +55,7 @@ const presidentialCandidates = [
   },
   {
     name: "Sandy Ojang Onor",
+    slug: "sandy-ojang-onor",
     party: "Peoples Democratic Party",
     shortParty: "PDP",
     status: "Confirmed",
@@ -59,6 +64,7 @@ const presidentialCandidates = [
   },
   {
     name: "Aliyu Abbas-Bin",
+    slug: "aliyu-abbas-bin",
     party: "Action Democratic Party",
     shortParty: "ADP",
     status: "Confirmed",
@@ -67,6 +73,7 @@ const presidentialCandidates = [
   },
   {
     name: "Kabiru Yusuf",
+    slug: "kabiru-yusuf",
     party: "Allied Peoples Party",
     shortParty: "APP",
     status: "Confirmed",
@@ -75,6 +82,7 @@ const presidentialCandidates = [
   },
   {
     name: "Omoyele Sowore",
+    slug: "omoyele-sowore",
     party: "African Action Congress",
     shortParty: "AAC",
     status: "Confirmed",
@@ -83,6 +91,7 @@ const presidentialCandidates = [
   },
   {
     name: "Oluseyi Abiodun Makinde",
+    slug: "oluseyi-abiodun-makinde",
     party: "Allied Peoples Movement",
     shortParty: "APM",
     status: "Confirmed",
@@ -91,6 +100,7 @@ const presidentialCandidates = [
   },
   {
     name: "Sunday Adenuga",
+    slug: "sunday-adenuga",
     party: "Boot Party",
     shortParty: "BP",
     status: "Confirmed",
@@ -99,6 +109,7 @@ const presidentialCandidates = [
   },
   {
     name: "Moses Olusoji Adebisi",
+    slug: "moses-olusoji-adebisi",
     party: "Democratic Leadership Alliance",
     shortParty: "DLA",
     status: "Confirmed",
@@ -107,6 +118,7 @@ const presidentialCandidates = [
   },
   {
     name: "Ada Elizabeth Fredrick Okwori",
+    slug: "ada-elizabeth-fredrick-okwori",
     party: "National Democratic Party",
     shortParty: "NDP",
     status: "Confirmed",
@@ -115,6 +127,7 @@ const presidentialCandidates = [
   },
   {
     name: "Nkem Esther Okereke",
+    slug: "nkem-esther-okereke",
     party: "National Rescue Movement",
     shortParty: "NRM",
     status: "Confirmed",
@@ -123,6 +136,7 @@ const presidentialCandidates = [
   },
   {
     name: "Donald Duke",
+    slug: "donald-duke",
     party: "People's Redemption Party",
     shortParty: "PRP",
     status: "Confirmed",
@@ -131,6 +145,7 @@ const presidentialCandidates = [
   },
   {
     name: "Adewole Ebenezer Adebayo",
+    slug: "adewole-ebenezer-adebayo",
     party: "Social Democratic Party",
     shortParty: "SDP",
     status: "Confirmed",
@@ -139,6 +154,7 @@ const presidentialCandidates = [
   },
   {
     name: "Peter Ada Agada",
+    slug: "peter-ada-agada",
     party: "Young Progressive Party",
     shortParty: "YPP",
     status: "Confirmed",
@@ -147,6 +163,7 @@ const presidentialCandidates = [
   },
   {
     name: "Daniel Daberechukwu Nwanyanwu",
+    slug: "daniel-daberechukwu-nwanyanwu",
     party: "Zenith Labour Party",
     shortParty: "ZLP",
     status: "Confirmed",
@@ -154,7 +171,6 @@ const presidentialCandidates = [
     image: "/images/candidates/nwanyanwu.jpg",
   },
 ];
-
 
 const governorStates = [
   // 6 FEBRUARY 2027
@@ -1224,7 +1240,10 @@ function CandidateCard({
   candidate: (typeof presidentialCandidates)[number];
 }) {
   return (
-    <article className="candidate-card">
+    <Link
+      href={`/candidates/${candidate.slug}`}
+      className="candidate-card"
+    >
       <div className="candidate-image-wrapper">
         <img
           src={candidate.image}
@@ -1254,15 +1273,14 @@ function CandidateCard({
 
         <p>{candidate.party}</p>
 
-        <button className="profile-button">
+        <span className="profile-button">
           View Profile
           <FiArrowRight />
-        </button>
+        </span>
       </div>
-    </article>
+    </Link>
   );
 }
-
 function StateCard({
   state,
   candidates,

@@ -1028,3 +1028,98 @@
     flex-shrink: 0;
     color: green;
 }
+
+
+/* Clickable candidate card */
+.candidate-card {
+  position: relative;
+  cursor: pointer;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+  animation: candidate-card-float 3.5s ease-in-out infinite;
+}
+
+/* Subtle movement that works on mobile */
+@keyframes candidate-card-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-3px);
+  }
+}
+
+/* Keep hover for desktop */
+@media (hover: hover) and (pointer: fine) {
+  .candidate-card:hover {
+    transform: translateY(-7px);
+    box-shadow: 0 14px 32px rgba(23, 42, 37, 0.16);
+    animation-play-state: paused;
+  }
+
+  .candidate-card:hover .candidate-image {
+    transform: scale(1.04);
+  }
+
+  .candidate-card:hover .profile-button {
+    gap: 0.65rem;
+  }
+
+  .candidate-card:hover .profile-button svg {
+    transform: translateX(4px);
+  }
+}
+
+/* Image */
+.candidate-card .candidate-image {
+  transition: transform 0.35s ease;
+}
+
+/* Profile button */
+.candidate-card .profile-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition:
+    gap 0.2s ease,
+    transform 0.2s ease;
+}
+
+.candidate-card .profile-button svg {
+  transition: transform 0.2s ease;
+}
+
+/* Actual tap feedback on phones */
+@media (hover: none) and (pointer: coarse) {
+  .candidate-card:active {
+    transform: scale(0.98);
+    transition: transform 0.1s ease;
+  }
+
+  .candidate-card:active .profile-button {
+    transform: translateX(3px);
+  }
+}
+
+/* Keyboard accessibility */
+.candidate-card:focus-visible {
+  outline: 3px solid rgba(201, 162, 39, 0.7);
+  outline-offset: 4px;
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .candidate-card {
+    animation: none;
+    transition: none;
+  }
+
+  .candidate-card .candidate-image,
+  .candidate-card .profile-button,
+  .candidate-card .profile-button svg {
+    transition: none;
+  }
+}

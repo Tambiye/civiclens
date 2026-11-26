@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { presidentialCandidates } from "@/data/presidential";
+import GovernorCandidates from "@/components/GovernorCandidates";
 
 const heroContent = {
   eyebrow: "2027 ELECTION",
@@ -266,6 +267,7 @@ export default function CandidatesPage() {
       <CandidatesHero />
       <ElectionStatistics />
       <PresidentialCandidates />
+       <GovernorCandidates />
     </main>
   );
 }
