@@ -1,9 +1,9 @@
 
 "use client";
-import Link from "next/link";
-import { FiArrowRight } from "react-icons/fi";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
+import { FiArrowRight } from "react-icons/fi";
+import GovernorshipAspirants from "./GovernorshipAspirants";
 
 /* =========================================
    GOVERNOR STATE IMAGES
@@ -502,9 +502,8 @@ const governorDetails: Record<string, GovernorInfo> = {
    TENURE CALCULATOR
 ========================================= */
 
-function getGovernorTenure(startDate: string) {
+function getGovernorTenure(startDate: string, today: Date) {
   const start = new Date(`${startDate}T00:00:00`);
-  const today = new Date();
 
   let years = today.getFullYear() - start.getFullYear();
   let months = today.getMonth() - start.getMonth();
@@ -546,6 +545,19 @@ function getGovernorTenure(startDate: string) {
 export default function GovernorCandidates() {
   const sectionRef = useRef<HTMLElement>(null);
 
+  const [selectedState, setSelectedState] = useState<string | null>(null);
+  const [today, setToday] = useState<Date | null>(null);
+
+  /* GET CURRENT DATE AFTER MOUNTING */
+
+  useEffect(() => {
+    setToday(new Date());
+  }, []);
+
+  /* =========================================
+     GOVERNOR CARD ANIMATIONS
+  ========================================= */
+
   useEffect(() => {
     const section = sectionRef.current;
 
@@ -585,6 +597,19 @@ export default function GovernorCandidates() {
     return () => observer.disconnect();
   }, []);
 
+  /* =========================================
+     DISPLAY SELECTED STATE ASPIRANTS
+  ========================================= */
+
+  if (selectedState) {
+    return (
+      <GovernorshipAspirants
+        stateName={selectedState}
+        onBack={() => setSelectedState(null)}
+      />
+    );
+  }
+
   return (
     <section
       className="presidential-section governors-section"
@@ -614,10 +639,7 @@ export default function GovernorCandidates() {
             const governor = governorDetails[state.state];
 
             if (!governor) return null;
-const stateSlug = state.state
-  .replace(/\s+State$/i, "")
-  .toLowerCase()
-  .replace(/\s+/g, "-");
+
             return (
               <article
                 className="presidential-candidate-card governor-candidate-card"
@@ -653,17 +675,24 @@ const stateSlug = state.state
 
                   <p className="governor-extra-info">
                     In office:{" "}
-                    {getGovernorTenure(governor.inOfficeSince)}
+                    {today
+                      ? getGovernorTenure(governor.inOfficeSince, today)
+                      : "Calculating..."}
                   </p>
 
                 </div>
-                <Link
-  href={`/governorship/${stateSlug}`}
-  className="governor-card__button"
->
-  <span>View State Aspirants</span>
-  <FiArrowRight />
-</Link>
+
+                {/* VIEW STATE ASPIRANTS */}
+
+                <button
+                  type="button"
+                  className="governor-card__button"
+                  onClick={() => setSelectedState(state.state)}
+                >
+                  <span>View State Aspirants</span>
+                  <FiArrowRight />
+                </button>
+
               </article>
             );
           })}

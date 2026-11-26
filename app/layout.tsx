@@ -13,6 +13,7 @@ import "../styles/governorCandidates.css";
 import "../styles/footer.css";
 import "../styles/candidate-profile.css";
 import "../styles/candidates-section.css";
+import "../styles/governorshipAspirants.css";
 import "./globals.css";
 
 const geistSans = Geist({
