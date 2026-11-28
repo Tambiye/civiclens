@@ -1,0 +1,528 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "aliyu-abbas-bin",
+  "name": "Abbas-Bin Aliyu",
+  "researchVersion": 1,
+  "status": "INSUFFICIENT_DATA",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Abbas-Bin Aliyu",
+    "commonName": "Aliyu Bin Abbas (name order varies in press reports)",
+    "born": null,
+    "stateOfOrigin": "Borno State (reported)",
+    "party": "Action Democratic Party (ADP)",
+    "partyHistory": [
+      {
+        "party": "Action Democratic Party (ADP)",
+        "period": "2026 (presidential candidate)",
+        "sourceIds": ["s1", "s5"]
+      },
+      {
+        "party": "Peoples Democratic Party (PDP) campaign of Atiku Abubakar (role as campaign aide; formal membership not established)",
+        "period": "December 2018 (appointment reported)",
+        "sourceIds": ["s7"]
+      }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": false,
+    "education": [
+      {
+        "credential": "FSLC, SSCE, BSC (as filed with INEC; institutions not stated)",
+        "sourceIds": ["s1", "s3"]
+      },
+      {
+        "credential": "Master's in Political Science (reported in 2018 press coverage; not on INEC filing)",
+        "sourceIds": ["s7"]
+      },
+      {
+        "credential": "Postgraduate degrees from Concordia College, United States (claimed in VON report; not on INEC filing; not verified)",
+        "sourceIds": ["s5"]
+      }
+    ],
+    "professional": [
+      "Founder and president, National Youth Alliance (NYA)",
+      "Former Director-General, Atiku Care (Cares) Foundation (reported 2018)"
+    ]
+  },
+  "career": [
+    {
+      "period": "By December 2018",
+      "title": "Director-General, Atiku Care Foundation",
+      "description": "Described in 2018 coverage as founder and DG of the Atiku Cares Foundation, a philanthropic platform associated with Atiku Abubakar.",
+      "kind": "activism",
+      "sourceIds": ["s7"]
+    },
+    {
+      "period": "December 2018",
+      "title": "Special Assistant on Youth Support Groups to Atiku Abubakar (PDP presidential campaign)",
+      "description": "Named by Atiku Abubakar, then PDP presidential candidate, ahead of the 2019 campaign; reported as 34 years old and from Borno State. How long the role lasted is not documented.",
+      "kind": "appointment",
+      "sourceIds": ["s7", "s8"]
+    },
+    {
+      "period": "After 2023",
+      "title": "Founder, National Youth Alliance",
+      "description": "By his own account, founded with others after the 2023 elections; says its bid for party registration was denied by INEC and it then joined the ADP. The group reports coordinators in all states and LGAs; this has not been independently established.",
+      "kind": "activism",
+      "sourceIds": ["s6", "s5", "s3"]
+    },
+    {
+      "period": "30 May 2026",
+      "title": "ADP presidential candidate",
+      "description": "Declared the ADP's candidate at its national convention and presidential primary in Abuja. Vote counts and other contestants were not reported in sources reviewed.",
+      "kind": "candidacy",
+      "sourceIds": ["s5", "s3", "s9"]
+    },
+    {
+      "period": "September 2026",
+      "title": "Listed on INEC's final list of presidential candidates",
+      "description": "INEC lists ABBAS-BIN ALIYU, 44, male, as ADP candidate with IKE CHINAZAM, 50, as running mate.",
+      "kind": "candidacy",
+      "sourceIds": ["s1", "s2"]
+    }
+  ],
+  "elections": [
+    {
+      "year": "2027",
+      "office": "President of Nigeria",
+      "party": "Action Democratic Party (ADP)",
+      "result": "Pending; election scheduled for January 2027. Nomination challenged in court (FHC/ABJ/CS/1853/2026). No earlier contested election found.",
+      "sourceIds": ["s1", "s4"]
+    }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Only broad themes (economic development, wealth creation, food security) have been reported; no economic plan was found.",
+      "analysis": "Premium Times reports an 'eight-point agenda' covering food security, transport, wealth creation and land reform, but the agenda document itself was not located and no economic specifics were found. He has no economic-management record.",
+      "strengths": [],
+      "limitations": ["Agenda document not located"],
+      "unknowns": ["Content of the eight-point agenda"],
+      "sourceIds": ["s3"],
+      "verification": "AI_DRAFT",
+      "missing": ["Text of the eight-point agenda", "Positions on inflation, exchange rate, subsidies and tax"]
+    },
+    "security": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Security is listed among his priorities; no plan was found.",
+      "analysis": "Premium Times lists security among his stated priorities. No detail on approach, funding or institutions was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Security approach"],
+      "sourceIds": ["s3"],
+      "verification": "AI_DRAFT",
+      "missing": ["Security policy statements", "Position on state policing and the North-East conflict"]
+    },
+    "education": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Education is listed among his priorities; no plan was found. He has spoken of growing up as an Almajiri pupil in Kano.",
+      "analysis": "Premium Times lists education among his priorities, and VON reports that he grew up as an Almajiri child in Kano. No proposals on out-of-school children, Almajiri reform or funding were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Education proposals"],
+      "sourceIds": ["s3", "s5"],
+      "verification": "AI_DRAFT",
+      "missing": ["Education policy statements", "Any Almajiri or out-of-school children proposal"]
+    },
+    "healthcare": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No healthcare statements were found.",
+      "analysis": "No health-related statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Health policy statements"]
+    },
+    "infrastructure": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Transport is reportedly part of his eight-point agenda; no detail was found.",
+      "analysis": "Transport is named as an item in the reported eight-point agenda, but no projects or financing were described in sources reviewed.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": ["s3"],
+      "verification": "AI_DRAFT",
+      "missing": ["Transport and infrastructure proposals"]
+    },
+    "power": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No power-sector statements were found.",
+      "analysis": "No electricity-sector statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Power-sector policy statements"]
+    },
+    "jobs": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Youth inclusion and 'wealth creation' are themes; no employment plan was found.",
+      "analysis": "His campaign emphasises youth inclusion and wealth creation, but no job-creation targets or mechanisms were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": ["s3", "s5"],
+      "verification": "AI_DRAFT",
+      "missing": ["Employment and MSME proposals"]
+    },
+    "finance": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No public-finance statements were found.",
+      "analysis": "No statements on budgets, debt or revenue were located. He has spoken against 'money politics', which concerns campaign finance rather than public finance.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": ["s6"],
+      "verification": "AI_DRAFT",
+      "missing": ["Positions on borrowing, debt, revenue and budget transparency"]
+    },
+    "leadership": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "His leadership record consists of youth mobilisation for Atiku's 2019 campaign and founding the National Youth Alliance. Since his nomination he has been in open dispute with his party's national chairman.",
+      "analysis": "Abbas-Bin Aliyu has not held public office, so evidence on leadership comes from organising roles. In December 2018 Atiku Abubakar appointed him Special Assistant on Youth Support Groups for the PDP presidential campaign; contemporaneous coverage described him as Director-General of the Atiku Care Foundation (Realnews). After the 2023 elections he co-founded the National Youth Alliance, which he says sought party registration, was refused by INEC, and then moved into the ADP. He told SaharaTV the group inaugurated chairmen in all 36 states and the FCT and coordinators in the 774 local government areas; Premium Times notes that the NYA's nationwide reach has not been independently established.\n\nSince winning the ADP primary on 30 May 2026, his relationship with the party leadership has been contentious. In August and October 2026 he publicly accused ADP National Chairman Yabagi Yusuf Sani of trying to have him withdraw so the ticket could go to Atiku Abubakar, now the ADC candidate, and of asking him to sign a voluntary withdrawal form, which he refused. The ADP has dismissed claims that its ticket would be surrendered to Atiku. These are competing claims; no ruling settles them. The dispute indicates he has retained the nomination against internal pressure, but also that the party apparatus a candidate normally relies on is divided. No information was found on a campaign council or policy team.",
+      "strengths": [
+        "Documented experience in campaign youth mobilisation",
+        "Retained his name on INEC's final list despite internal disputes"
+      ],
+      "limitations": [
+        "No executive or administrative record",
+        "NYA membership and reach not independently verified",
+        "Open conflict with party leadership"
+      ],
+      "unknowns": ["Campaign team", "Current state of relations with the ADP chairman"],
+      "sourceIds": ["s7", "s6", "s3", "s10", "s11"],
+      "verification": "AI_DRAFT"
+    },
+    "integrity": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "No criminal charges or findings were found. His nomination is challenged in court, the ADP has asked him about a disputed nomination-form upload, and press claims about his postgraduate degrees do not match his INEC filing.",
+      "analysis": "Three integrity-relevant matters were found, none of which is a finding of wrongdoing. First, ADP presidential aspirant Dr Johnson Chukwuka sued the ADP and INEC at the Federal High Court, Abuja (Suit No. FHC/ABJ/CS/1853/2026), asking the court to declare the 29-30 May 2026 primary invalid, recognise him as candidate and direct INEC to remove Aliyu's name; he alleges breaches of sections 29, 77, 84, 86 and 88 of the Electoral Act 2026 (Leadership, October 2026). No ruling was found. Aliyu is not a named defendant in the report, but the outcome determines his candidacy.\n\nSecond, the ADP petitioned the Inspector-General of Police and wrote to INEC over what it called an unauthorised upload of a presidential nomination form on the INEC portal, which it attributed to a former staff member whose authority had been withdrawn. A 2 September 2026 internal memorandum reportedly asked Aliyu to clarify whether he had any knowledge of or involvement in it. No response from him and no investigation outcome were reported. Aliyu, for his part, accuses the party chairman of trying to replace him.\n\nThird, his INEC filing lists FSLC, SSCE and BSC only, whereas 2018 coverage said he held a master's in political science and a June 2026 VON report said he holds postgraduate degrees from Concordia College in the United States. Vero Record has flagged a website-versus-INEC discrepancy; its findings were not reviewed. Candidates may choose which credentials to file, so the gap is a matter to verify rather than evidence of misrepresentation.",
+      "strengths": ["No charges, convictions or audit findings found"],
+      "limitations": [
+        "Pending court challenge to nomination",
+        "Unresolved party query over form upload",
+        "Unverified postgraduate degree claims"
+      ],
+      "unknowns": ["Outcome of FHC/ABJ/CS/1853/2026", "Outcome of police/INEC inquiry into the upload", "Whether the US postgraduate degrees exist"],
+      "sourceIds": ["s4", "s1", "s5", "s7", "s12"],
+      "verification": "AI_DRAFT"
+    },
+    "experience": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "A campaign aide and youth-movement organiser with a filed bachelor's degree; no elected, ministerial or executive office.",
+      "analysis": "INEC's final list records Abbas-Bin Aliyu as 44, male, with filed qualifications of FSLC, SSCE and a bachelor's degree. He is reported to be from Borno State (Realnews 2018; VON 2026; Premium Times 2026) and says he grew up as an Almajiri pupil in Kano before further study. His documented roles are: founder and Director-General of the Atiku Care Foundation, a philanthropic platform; Special Assistant on Youth Support Groups to Atiku Abubakar's 2019 campaign, from December 2018; and founder of the National Youth Alliance after the 2023 elections. VON describes 'over two decades of civic engagement', which is a campaign characterisation.\n\nThe nature and duration of his Atiku role after the 2019 election are not documented; the existing profile's '2018-2023' framing could not be confirmed. No public-sector employment, legislative role, ministerial post or private-sector management position was found. Premium Times found no documented record of elected office. Campaign and youth-mobilisation work is relevant to political organisation but is a different kind of experience from administering a federal government, managing budgets or directing security agencies, which the presidency requires. Like several candidates in the 2027 field, his experience relevant to national executive office is limited.",
+      "strengths": ["Political organising experience at national-campaign level"],
+      "limitations": ["No public office of any kind", "Educational claims inconsistent across sources"],
+      "unknowns": ["Career between 2019 and 2023", "Institutions attended"],
+      "sourceIds": ["s1", "s3", "s5", "s7"],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Campaign vision 'Birthing a New Nigeria', focused on youth inclusion, national unity and bridging generational and regional divides. No manifesto was found.",
+      "analysis": "VON reports the slogan 'Birthing a New Nigeria' and aims of bridging regional divides, increasing youth inclusion and mobilising a new generation of leaders. Premium Times reports an eight-point agenda and a proposal to use artificial intelligence to address national problems, and notes no detailed costed manifesto was available. On SaharaTV he stressed opposing money politics and 'Nigeria must come first'.",
+      "strengths": [],
+      "limitations": ["No manifesto document located"],
+      "unknowns": ["Content of the eight-point agenda", "How AI would be applied"],
+      "sourceIds": ["s5", "s3", "s6"],
+      "verification": "AI_DRAFT",
+      "missing": ["ADP 2027 manifesto or the candidate's eight-point agenda document", "Policy-specific interviews"]
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No foreign-policy statements were found.",
+      "analysis": "No foreign-policy statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Foreign and regional policy statements"]
+    },
+    "humanImpact": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No governing record exists to assess household impact; the Atiku Care Foundation's activities were not documented in sources reviewed.",
+      "analysis": "He has held no public office. The humanitarian activities of the Atiku Care Foundation under his reported leadership were not documented in the sources found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Atiku Care Foundation programmes and reach"],
+      "sourceIds": ["s7"],
+      "verification": "AI_DRAFT",
+      "missing": ["Records of Atiku Care Foundation programmes", "Social-protection proposals"]
+    },
+    "promises": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Reported commitments are thematic (youth inclusion, unity, AI, food security, land reform) without targets or costs.",
+      "analysis": "The commitments found are general themes. None has a target, timeline or funding source, and the agenda document was not located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": ["s3", "s5"],
+      "verification": "AI_DRAFT",
+      "missing": ["Specific, measurable campaign commitments"]
+    }
+  },
+  "record": [
+    {
+      "id": "rec1",
+      "title": "Federal High Court suit challenging his nomination",
+      "kind": "controversy",
+      "label": "FACT",
+      "period": "Filed by October 2026",
+      "description": "Dr Johnson Chukwuka v ADP and INEC, Suit No. FHC/ABJ/CS/1853/2026, seeks to nullify the 29-30 May 2026 ADP primary and have Chukwuka recognised as candidate. These are the plaintiff's claims. No ruling was found.",
+      "legalStatus": "allegation",
+      "categories": ["integrity"],
+      "sourceIds": ["s4"]
+    },
+    {
+      "id": "rec2",
+      "title": "ADP query over disputed nomination-form upload",
+      "kind": "controversy",
+      "label": "UNVERIFIED",
+      "period": "September-October 2026",
+      "description": "The ADP petitioned the IGP and INEC over an alleged unauthorised upload of a presidential nomination form, attributed by the party to a former staff member, and asked Aliyu by memo (2 September 2026) whether he knew of or was involved in it. No finding against him and no response from him were reported.",
+      "legalStatus": "investigation",
+      "categories": ["integrity"],
+      "sourceIds": ["s4"]
+    },
+    {
+      "id": "rec3",
+      "title": "Public dispute with ADP national chairman over alleged substitution plan",
+      "kind": "controversy",
+      "label": "DISPUTED",
+      "period": "August-October 2026",
+      "description": "Aliyu alleges ADP chairman Yabagi Yusuf Sani sought his withdrawal to make way for Atiku Abubakar; the ADP has dismissed claims that its ticket would be handed to Atiku.",
+      "legalStatus": "allegation",
+      "categories": ["leadership"],
+      "sourceIds": ["s6", "s10", "s11"]
+    }
+  ],
+  "plans": [
+    {
+      "id": "pl1",
+      "title": "Youth inclusion and generational change in governance",
+      "label": "PROPOSAL",
+      "category": "vision",
+      "outcome": "Greater youth participation in government",
+      "sourceIds": ["s5", "s3"]
+    },
+    {
+      "id": "pl2",
+      "title": "Use artificial intelligence to address national problems",
+      "label": "PROPOSAL",
+      "category": "vision",
+      "outcome": "Not specified",
+      "sourceIds": ["s3"]
+    },
+    {
+      "id": "pl3",
+      "title": "Eight-point agenda (food security, transport, wealth creation, land reform)",
+      "label": "PROPOSAL",
+      "category": "economy",
+      "outcome": "Not specified; agenda document not located",
+      "sourceIds": ["s3"]
+    }
+  ],
+  "test": [
+    { "questionId": "r1", "answer": "Problems are named only as themes (youth exclusion, disunity, money politics).", "assessment": "unknown", "sourceIds": ["s5", "s6"] },
+    { "questionId": "r2", "answer": "No specific solutions were found.", "assessment": "no", "sourceIds": ["s3"] },
+    { "questionId": "r3", "answer": "No evidence base was cited.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r4", "answer": "No costing was found; Premium Times notes no costed manifesto.", "assessment": "unknown", "sourceIds": ["s3"] },
+    { "questionId": "r5", "answer": "No timelines were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r6", "answer": "Cannot be assessed without specific proposals.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r7", "answer": "Land reform would likely involve the Land Use Act, which is entrenched in the Constitution, but the proposal's content is unknown.", "assessment": "unknown", "sourceIds": ["s3"] },
+    { "questionId": "r8", "answer": "No risks or trade-offs were disclosed.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r9", "answer": "No implementation team was identified.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r10", "answer": "Experience is in campaign mobilisation and a youth movement; no record of executing government programmes.", "assessment": "unknown", "sourceIds": ["s7", "s3"] }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Presidential and National Assembly Elections for Jan, 2027 - Presidential: Final List of Candidates",
+      "url": "https://inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf",
+      "publisher": "Independent National Electoral Commission (INEC)",
+      "type": "electoral",
+      "published": "2026-10",
+      "accessed": "2026-11-28",
+      "categories": ["experience", "integrity"],
+      "claim": "ADP candidate ABBAS-BIN ALIYU, 44, male, qualifications FSLC SSCE BSC; running mate IKE CHINAZAM, 50, male, FSLC SSCE BNG.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s2",
+      "title": "Full List: INEC Publishes Credentials of 19 Presidential Candidates for 2027 Elections",
+      "url": "https://www.legit.ng/nigeria/1722781-inec-publishes-credentials-19-presidential-candidates-2027-elections/",
+      "publisher": "Legit.ng",
+      "type": "news",
+      "published": "2026-08-03",
+      "accessed": "2026-11-28",
+      "categories": [],
+      "claim": "Lists Abbas-Bin Aliyu (ADP) with running mate Ike Chinazam.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s3",
+      "title": "Nigeria: Profiles - the Men, Women Seeking to Be Nigeria's President in 2027",
+      "url": "https://allafrica.com/stories/202610260089.html",
+      "publisher": "Premium Times (via AllAfrica)",
+      "type": "news",
+      "published": "2026-10-25",
+      "accessed": "2026-11-28",
+      "categories": ["experience", "leadership", "vision", "economy", "security", "education", "promises"],
+      "claim": "Age 44, Borno State; Almajiri upbringing in Kano; Atiku SA on Youth Support Groups (Dec 2018); NYA founder; consensus candidate 30 May 2026; eight-point agenda and AI proposal; no costed manifesto.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s4",
+      "title": "2027: ADP Presidential Aspirant Sues Party, INEC Over Nomination",
+      "url": "https://leadership.ng/2027-adp-presidential-aspirant-sues-party-inec-over-nomination/",
+      "publisher": "Leadership",
+      "type": "news",
+      "published": "2026-10-03",
+      "accessed": "2026-11-28",
+      "categories": ["integrity"],
+      "claim": "Suit FHC/ABJ/CS/1853/2026 by Dr Johnson Chukwuka; ADP petition to IGP and INEC over nomination-form upload; 2 September 2026 memo asking Aliyu about it.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s5",
+      "title": "2027: ADP picks young Nigerian as presidential candidate",
+      "url": "https://von.gov.ng/2027-adp-picks-young-nigerian-as-presidential-candidate/",
+      "publisher": "Voice of Nigeria",
+      "type": "news",
+      "published": "2026-06-03",
+      "accessed": "2026-11-28",
+      "categories": ["vision", "experience", "education"],
+      "claim": "Elected at ADP convention; NYA founder; Borno indigene raised as Almajiri in Kano; claims postgraduate degrees from Concordia College, US; slogan 'Birthing a New Nigeria'.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s6",
+      "title": "ADP crisis deepens: presidential candidate Aliyu accuses party chairman of plotting to replace him",
+      "url": "https://saharareporters.com/2026/10/07/adp-crisis-deepens-presidential-candidate-aliyu-accuses-party-chairman-plotting-replace",
+      "publisher": "Sahara Reporters",
+      "type": "news",
+      "published": "2026-10-07",
+      "accessed": "2026-11-28",
+      "categories": ["leadership", "vision"],
+      "claim": "Aliyu alleges chairman Yabagi Sani sought his withdrawal for Atiku; describes founding NYA after 2023 and its structures.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s7",
+      "title": "2019: Atiku Care Foundation chair appointed SA Youth Support Groups by PDP candidate",
+      "url": "https://realnewsmagazine.net/2019-atiku-care-foundation-chair-appointed-sa-youth-support-groups-by-pdp-candidate/",
+      "publisher": "Realnews Magazine",
+      "type": "news",
+      "published": "2018-12-03",
+      "accessed": "2026-11-28",
+      "categories": ["experience", "leadership"],
+      "claim": "Aliyu Bin Abbas, DG of the Atiku Care Foundation, appointed Special Assistant on Youth Support Groups; aged 34; holds first degree and Master's in Political Science; from Borno State.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s8",
+      "title": "Atiku Appoints Three Youths, Woman As Aides",
+      "url": "https://www.channelstv.com/2018/12/02/atiku-appoints-three-youths-woman-as-aides/",
+      "publisher": "Channels Television",
+      "type": "news",
+      "published": "2018-12-02",
+      "accessed": "2026-11-28",
+      "categories": ["experience"],
+      "claim": "Report of Atiku's December 2018 appointment of youth aides (seen in search results; page blocked automated access).",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s9",
+      "title": "2027: Aliyu Bin Abbas emerges ADP presidential candidate for 2027",
+      "url": "https://guardian.ng/politics/2027-aliyu-bin-abbas-emerges-adp-presidential-candidate-for-2027/",
+      "publisher": "The Guardian (Nigeria)",
+      "type": "news",
+      "published": "2026-05-30",
+      "accessed": "2026-11-28",
+      "categories": [],
+      "claim": "Headline reports his emergence as ADP candidate (seen in search results; page not read).",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s10",
+      "title": "Nigeria: 2027 Presidency - ADP Candidate Raises Concern Over Possible Substitution",
+      "url": "https://allafrica.com/stories/202608140150.html",
+      "publisher": "AllAfrica",
+      "type": "news",
+      "published": "2026-08-14",
+      "accessed": "2026-11-28",
+      "categories": ["leadership"],
+      "claim": "Headline reports Aliyu raising concern over possible substitution of his candidacy (seen in search results; page not read).",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s11",
+      "title": "2027: ADP dismisses Atiku placeholder claims",
+      "url": "https://guardian.ng/?p=2850966",
+      "publisher": "The Guardian (Nigeria)",
+      "type": "news",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": ["leadership"],
+      "claim": "ADP dismissed suggestions that its ticket would be surrendered to Atiku (seen in search results; page not read).",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s12",
+      "title": "Action Democratic Party's 2027 Pick: What the Record Shows About Abbas-Bin Aliyu",
+      "url": "https://verorecord.com/story/action-democratic-party-s-2027-pick-what-the-record-shows-ab",
+      "publisher": "Vero Record",
+      "type": "investigative",
+      "published": "2026-09-26",
+      "accessed": "2026-11-28",
+      "categories": ["integrity", "experience"],
+      "claim": "INEC filing confirms age 44 and FSLC/SSCE/BSC; Atiku-aide and NYA characterisations are press attributions; links a follow-up on degrees claimed on his website versus INEC filing.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    }
+  ],
+  "gaps": [
+    "Track Suit No. FHC/ABJ/CS/1853/2026 (Chukwuka v ADP & INEC) for rulings",
+    "Find the outcome of the ADP petition to the IGP/INEC over the nomination-form upload and any response by Aliyu",
+    "Verify degree claims (bachelor's institution; master's in political science; Concordia College postgraduate degrees) and read Vero Record's 1 October 2026 follow-up",
+    "Obtain the eight-point agenda / ADP manifesto",
+    "Document his activities between 2019 and 2023 and the end date of his Atiku role",
+    "Verify NYA's registration and membership claims",
+    "Confirm the ADP primary vote count and other contestants"
+  ]
+}

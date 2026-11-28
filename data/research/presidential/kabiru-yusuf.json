@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "kabiru-yusuf",
+  "name": "Yusuf Kabiru",
+  "researchVersion": 1,
+  "status": "INSUFFICIENT_DATA",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Yusuf Kabiru",
+    "commonName": "Kabiru Yusuf",
+    "born": null,
+    "stateOfOrigin": null,
+    "party": "Action Peoples Party (APP)",
+    "partyHistory": [
+      {
+        "party": "Action Peoples Party (APP)",
+        "period": "2026 (presidential candidate); earlier history not established",
+        "sourceIds": ["s1", "s2"]
+      }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": false,
+    "education": [
+      {
+        "credential": "FSLC, SSCE, National Diploma (as filed with INEC; institutions not stated)",
+        "sourceIds": ["s1", "s3"]
+      }
+    ],
+    "professional": []
+  },
+  "career": [
+    {
+      "period": "2026",
+      "title": "APP presidential candidate",
+      "description": "Listed on INEC's final list of presidential candidates for January 2027 as the APP candidate, age 54, male, with Ofordile Peace Egobia (47, female) as running mate. No authenticated primary result was located.",
+      "kind": "candidacy",
+      "sourceIds": ["s1", "s2", "s3"]
+    }
+  ],
+  "elections": [
+    {
+      "year": "2027",
+      "office": "President of Nigeria",
+      "party": "Action Peoples Party (APP)",
+      "result": "Pending; election scheduled for January 2027. No earlier election participation was found.",
+      "sourceIds": ["s1", "s3"]
+    }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No economic statements or record were found.",
+      "analysis": "As of this review no manifesto, interview or policy statement by Yusuf Kabiru was located. Premium Times reported that no authenticated manifesto in his name had been found as of 17 October 2026.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Any economic policy position"],
+      "sourceIds": ["s3"],
+      "verification": "AI_DRAFT",
+      "missing": ["Manifesto or policy statements on inflation, exchange rate, subsidies, tax and growth"]
+    },
+    "security": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No security statements or record were found.",
+      "analysis": "No security-related statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Any security policy position"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Security policy statements", "Position on policing structure"]
+    },
+    "education": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No education statements were found.",
+      "analysis": "No education-related statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Any education policy position"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Education policy statements"]
+    },
+    "healthcare": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No healthcare statements were found.",
+      "analysis": "No health-related statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Any health policy position"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Health policy statements"]
+    },
+    "infrastructure": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No infrastructure statements were found.",
+      "analysis": "No infrastructure plans or statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Any infrastructure plan"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Infrastructure plans and financing approach"]
+    },
+    "power": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No power-sector statements were found.",
+      "analysis": "No electricity-sector statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Any power-sector position"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Power-sector policy statements"]
+    },
+    "jobs": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No employment statements were found.",
+      "analysis": "No job-creation proposals by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Any employment plan"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Employment and MSME policy statements"]
+    },
+    "finance": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No public-finance statements were found.",
+      "analysis": "No statements on budgets, debt or revenue by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Any fiscal policy position"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Positions on borrowing, debt service, revenue and budget transparency"]
+    },
+    "leadership": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No record of leadership roles was found.",
+      "analysis": "No information on organisations, teams or institutions he has led was located. How he became the APP candidate is also unclear: Premium Times reported that the party scheduled a presidential primary for 27 May 2026 but that no authenticated result or convention report was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["How he was nominated"],
+      "sourceIds": ["s3"],
+      "verification": "AI_DRAFT",
+      "missing": ["APP primary result or convention report", "Any leadership roles held", "Campaign team"]
+    },
+    "integrity": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No investigations, charges or court records involving this candidate were found.",
+      "analysis": "A search found no reported allegations or proceedings. Because the name 'Yusuf' is shared by other public figures, including Kano Governor Abba Kabir Yusuf (APC), results must be checked carefully; none relating to this candidate were found. Absence of findings in a limited search is not a clearance.",
+      "strengths": [],
+      "limitations": ["Very limited public record"],
+      "unknowns": ["Asset declaration"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Asset and interest declarations", "Court and EFCC/ICPC record checks", "Verification of filed credentials"]
+    },
+    "experience": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "Only INEC-filed data (age 54; FSLC, SSCE, National Diploma) is available. No professional or political career was documented.",
+      "analysis": "INEC's final list records Yusuf Kabiru as 54 and male, with filed qualifications of FSLC, SSCE and National Diploma; institutions are not given. Premium Times could not verify his state of origin, professional background, institutions attended or past political appointments, and found no record of earlier election participation.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Career history", "State of origin"],
+      "sourceIds": ["s1", "s3"],
+      "verification": "AI_DRAFT",
+      "missing": ["Professional history", "Prior party or public roles", "State of origin and date of birth", "Institutions for filed qualifications"]
+    },
+    "vision": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No manifesto or campaign platform was located.",
+      "analysis": "No manifesto, slogan or policy programme in the candidate's name was found. Pulse Nigeria noted in October 2026 that more information on his campaign promises is needed.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Campaign platform"],
+      "sourceIds": ["s3", "s4"],
+      "verification": "AI_DRAFT",
+      "missing": ["APP 2027 manifesto", "Candidate interviews or speeches"]
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No foreign-policy statements were found.",
+      "analysis": "No foreign-policy statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Any foreign-policy position"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Foreign and regional policy statements"]
+    },
+    "humanImpact": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No governing record exists to assess household impact.",
+      "analysis": "He has held no documented office whose policies could be assessed for effects on households.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Social-protection proposals", "Any record of programmes run"]
+    },
+    "promises": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No campaign promises were found to assess for specificity.",
+      "analysis": "No public commitments by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Any published campaign commitments"]
+    }
+  },
+  "record": [],
+  "plans": [],
+  "test": [
+    { "questionId": "r1", "answer": "No published plans were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r2", "answer": "No published plans were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r3", "answer": "No published plans were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r4", "answer": "No published plans were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r5", "answer": "No published plans were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r6", "answer": "No published plans were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r7", "answer": "No published plans were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r8", "answer": "No published plans were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r9", "answer": "No campaign or implementation team was identified.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r10", "answer": "No record of previous execution was found.", "assessment": "unknown", "sourceIds": ["s3"] }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Presidential and National Assembly Elections for Jan, 2027 - Presidential: Final List of Candidates",
+      "url": "https://inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf",
+      "publisher": "Independent National Electoral Commission (INEC)",
+      "type": "electoral",
+      "published": "2026-10",
+      "accessed": "2026-11-28",
+      "categories": ["experience"],
+      "claim": "APP candidate YUSUF KABIRU, 54, male, qualifications FSLC SSCE NATIONAL DIPLOMA; running mate OFORDILE PEACE EGOBIA, 47, female, SSCE.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s2",
+      "title": "Full List: INEC Publishes Credentials of 19 Presidential Candidates for 2027 Elections",
+      "url": "https://www.legit.ng/nigeria/1722781-inec-publishes-credentials-19-presidential-candidates-2027-elections/",
+      "publisher": "Legit.ng",
+      "type": "news",
+      "published": "2026-08-03",
+      "accessed": "2026-11-28",
+      "categories": [],
+      "claim": "Lists Yusuf Kabiru as the Action Peoples Party (APP) candidate with running mate Ofordile Peace Egobia.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s3",
+      "title": "Nigeria: Profiles - the Men, Women Seeking to Be Nigeria's President in 2027",
+      "url": "https://allafrica.com/stories/202610260089.html",
+      "publisher": "Premium Times (via AllAfrica)",
+      "type": "news",
+      "published": "2026-10-25",
+      "accessed": "2026-11-28",
+      "categories": ["experience", "leadership", "vision", "economy"],
+      "claim": "Could not verify his state of origin, career or past roles; no authenticated primary result or manifesto located as of 17 October 2026; APP polled 12,839 votes with Charles Nnadi in 2023.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s4",
+      "title": "2027 election: Here are all the 18 presidential candidates",
+      "url": "https://www.pulse.ng/story/nigeria-2027-presidential-candidates-list-2026101909505684714",
+      "publisher": "Pulse Nigeria",
+      "type": "news",
+      "published": "2026-10-19",
+      "accessed": "2026-11-28",
+      "categories": ["vision"],
+      "claim": "Notes that more information is needed on his professional background, political experience and campaign promises.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    },
+    {
+      "id": "s5",
+      "title": "Kabiru Yusuf - 2027 Presidential Elections",
+      "url": "https://ngelections.com/candidate/kabiru-yusuf-2027/",
+      "publisher": "NGElections",
+      "type": "reference",
+      "published": "2026-08-02",
+      "accessed": "2026-11-28",
+      "categories": [],
+      "claim": "Database entry naming him the APP nominee with running mate Ofordile Peace Egobia; no further biography.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    }
+  ],
+  "gaps": [
+    "Obtain the APP's 2027 presidential primary result or convention report",
+    "Obtain INEC Form EC9 for the candidate (date of birth, state of origin, institutions attended)",
+    "Contact the APP national secretariat for an official biography and manifesto",
+    "Search Hausa-language and northern regional media for coverage under both 'Yusuf Kabiru' and 'Kabiru Yusuf'",
+    "Disambiguation: do not confuse with Kano Governor Abba Kabir Yusuf (APC) or other public figures named Kabiru Yusuf",
+    "Party name: INEC/press list the party as Action Peoples Party (APP), not 'Allied Peoples Party'"
+  ]
+}

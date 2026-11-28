@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "donald-duke",
+  "name": "Donald Duke",
+  "researchVersion": 1,
+  "status": "RESEARCHED",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Donald Duke",
+    "commonName": "Donald Duke",
+    "born": "1961-09-30",
+    "stateOfOrigin": "Cross River",
+    "party": "People's Redemption Party (PRP)",
+    "partyHistory": [
+      { "party": "Peoples Democratic Party (PDP)", "period": "1999-2018 (governor on the PDP platform); rejoined later and left again in January 2026", "sourceIds": ["s31", "s34", "s33"] },
+      { "party": "Social Democratic Party (SDP)", "period": "2018-2019 (2019 presidential candidate)", "sourceIds": ["s34", "s30"] },
+      { "party": "African Democratic Congress (ADC)", "period": "January 2026 (reported joining after leaving the PDP); exit date not found", "sourceIds": ["s33"] },
+      { "party": "People's Redemption Party (PRP)", "period": "2026 to date (presidential candidate)", "sourceIds": ["s3", "s4"] }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": true,
+    "education": [
+      { "credential": "LL.B.", "institution": "Ahmadu Bello University, Zaria", "year": "1982", "sourceIds": ["s26", "s27"] },
+      { "credential": "B.L. (called to the Nigerian Bar)", "institution": "Nigerian Law School", "year": "1983", "sourceIds": ["s26", "s27"] },
+      { "credential": "LL.M. (described as International Business by Cowrie Partners; as Business Law and Admiralty by Dubawa)", "institution": "University of Pennsylvania", "year": "1984", "sourceIds": ["s26", "s27"] }
+    ],
+    "professional": [
+      "Corporate lawyer (Onyia & Duke, 1985-1988)",
+      "Company director; partner at Cowrie Partners, Lagos"
+    ]
+  },
+  "career": [
+    { "period": "1985-1988", "title": "Corporate lawyer, Onyia & Duke", "description": "Partnership as a corporate lawyer.", "kind": "professional", "sourceIds": ["s26"] },
+    { "period": "1992-1993", "title": "Commissioner for Finance and Budget/Planning, Cross River State", "description": "State commissioner role before the 1999 governorship.", "kind": "appointment", "sourceIds": ["s27"] },
+    { "period": "1997-1998", "title": "Federal economic committees", "description": "Member of the National Economic Intelligence Committee and the Federal Economic Council (1997); chaired the NAFCON privatisation committee and sat on the Federal Capital Budget Monitoring Committee (1998), per his firm's biography.", "kind": "appointment", "sourceIds": ["s26"] },
+    { "period": "1999-2007", "title": "Governor of Cross River State", "description": "Two terms (29 May 1999-29 May 2007) on the PDP platform. His administration focused on tourism (Tinapa, Obudu Ranch, Calabar Carnival) and Calabar urban management.", "kind": "political-office", "sourceIds": ["s31", "s32", "s27"] },
+    { "period": "2007", "title": "Withdrawn PDP presidential bid", "description": "Announced a 2007 PDP presidential bid but stood down in favour of Umaru Musa Yar'Adua.", "kind": "candidacy", "sourceIds": ["s27"] },
+    { "period": "2018-2019", "title": "SDP presidential candidate", "description": "Left the PDP for the SDP in September 2018, won the SDP primary and was confirmed as candidate on appeal after litigation with Jerry Gana. Received 34,746 votes in February 2019.", "kind": "candidacy", "sourceIds": ["s34", "s30", "s29"] },
+    { "period": "January 2026", "title": "Left PDP (again)", "description": "Reported to have left the PDP for the ADC in January 2026.", "kind": "party", "sourceIds": ["s33"] },
+    { "period": "May-June 2026", "title": "PRP presidential candidate", "description": "Won the PRP primary with 6,499 votes and received the party flag and certificate of return in June 2026.", "kind": "candidacy", "sourceIds": ["s3", "s4", "s5"] },
+    { "period": "November 2026", "title": "Manifesto and running mate", "description": "Unveiled the PRP manifesto 'A Compact for Nigeria's Renewal' and running mate Sule Mohammed in Abuja; said he would step aside for a consensus opposition candidate.", "kind": "candidacy", "sourceIds": ["s9", "s8"] }
+  ],
+  "elections": [
+    { "year": "1999", "office": "Governor of Cross River State", "party": "PDP", "result": "Won: 529,335 votes to 457,660 for the APP (reference summary; INEC primary record not located).", "sourceIds": ["s31"] },
+    { "year": "2003", "office": "Governor of Cross River State", "party": "PDP", "result": "Re-elected, defeating his former deputy John Okpa (ANPP). The per-candidate count was not verified.", "sourceIds": ["s32"] },
+    { "year": "2019", "office": "President of Nigeria", "party": "SDP", "result": "Lost: 34,746 votes, per INEC's declaration.", "sourceIds": ["s29"] },
+    { "year": "2026", "office": "PRP presidential primary", "party": "PRP", "result": "Won: 6,499 votes to 2,699 (Kingsley Yakubu) and 784 (Nnaoke Ufere). A suit by Yakubu was dismissed.", "sourceIds": ["s3", "s12"] },
+    { "year": "2027", "office": "President of Nigeria", "party": "PRP", "result": "Listed as the PRP candidate on INEC's final list. The election is pending.", "sourceIds": ["s1"] }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "As governor he pursued a tourism-led growth strategy whose flagship, Tinapa, later failed commercially. His main 2027 economic pledge is to price petrol for domestic use at production cost, which he puts at about ₦300 per litre.",
+      "analysis": "Duke's governorship (1999-2007) predates current state economic data series, so no reliable figures were found for growth, IGR or poverty in Cross River during his tenure. His administration bet heavily on tourism and services: the Tinapa business and leisure resort, the revived Obudu Ranch and the Calabar Carnival (RECORD). He has said tourism brought about 2.3 million visitors to the state within a month. That is his own claim and is UNVERIFIED. Tinapa's later failure to trade as planned is covered under infrastructure and finance.\n\nFor 2027, his headline pledge is to cut petrol to about ₦300 per litre. Speaking on Channels Television in October 2026, he said he would price petroleum for local consumption at production and refining costs, which he estimates at about $45 a barrel, rather than at international crude prices. He would reserve part of daily crude output, for example 600,000 barrels, for domestic use (PROMISE). He has called the current arrangement a 'poorly-managed option' that replaced the earlier 'subsidy scam'. ANALYSIS: pricing crude below market for domestic refiners is an implicit subsidy. It would reduce Federation Account revenue shared with states and could revive cross-border smuggling. The sources reviewed do not show how he would finance or ring-fence it. His acceptance speech also stressed local production and import substitution, with few specifics.",
+      "strengths": [
+        "Clear, testable fuel-price commitment",
+        "Track record of pursuing a distinctive sectoral strategy (tourism)"
+      ],
+      "limitations": [
+        "No published costing of the crude-allocation plan",
+        "Flagship Tinapa investment did not perform commercially"
+      ],
+      "unknowns": [
+        "Cross River economic indicators 1999-2007",
+        "Fiscal impact of the ₦300 petrol plan"
+      ],
+      "sourceIds": ["s6", "s7", "s11", "s5", "s15"],
+      "verification": "AI_DRAFT"
+    },
+    "security": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "He proposes state police and, where needed, local-government police, along with intelligence-led policing and judicial oversight. His governorship-era security record was not documented in the sources found.",
+      "analysis": "No sources were found evaluating security conditions in Cross River during 1999-2007. The Bakassi Peninsula transfer to Cameroon was agreed by the federal government in the 2006 Greentree Agreement while he was governor. Foreign and boundary policy was federal, and his own role and statements on it were not documented in the sources reviewed.\n\nHis 2027 proposals are more developed. In a September 2026 Arise News interview he argued that Nigeria's security architecture has barely changed since 1970. He backed state police and, where needed, local-government police, with clear guidelines and safeguards (PROMISE). He said intelligence is 'eighty per cent of security' and criticised the failure to penetrate Boko Haram after nearly two decades. He cited the US National Guard as a model of state formations within a federal framework, and he wants a stronger judiciary to oversee police conduct. He links banditry and kidnapping to poverty and the lack of legitimate jobs. When accepting the nomination, he called for stronger intelligence gathering and community-based policing. ANALYSIS: his position differs from his party's. In June 2026 the PRP rejected the federal government's state-police amendment as 'suspicious', although that objection was about who leads the reform. Any state-police model requires a constitutional amendment.",
+      "strengths": [
+        "Coherent decentralised-policing position with oversight safeguards"
+      ],
+      "limitations": [
+        "No timeline, cost or legislative strategy found",
+        "No documented security record from his governorship"
+      ],
+      "unknowns": [
+        "Detailed security chapter of the PRP manifesto",
+        "His role in state responses during the Bakassi transition"
+      ],
+      "sourceIds": ["s10", "s5"],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "insufficient",
+      "basis": "mixed",
+      "summary": "Little documented evidence exists on his education record beyond the founding of Cross River University of Technology. His 2027 education plans are unspecified in the sources reviewed.",
+      "analysis": "Governor Bassey Otu has credited Duke with establishing the Cross River University of Technology (RECORD, as attributed by his successor's government). No enrolment, funding or outcome data from 1999-2007 were found. His 2019 platform promised compulsory education to age 18, teacher-pupil ratios of 1:20 (primary) and 1:30 (secondary), and rural hardship allowances. In 2018, Africa Check found one of his education statistics downplayed and another exaggerated. His 2026 acceptance speech listed education as a priority without detail.",
+      "strengths": [],
+      "limitations": [
+        "No outcome data for his governorship",
+        "2027 education plans not detailed in sources reviewed"
+      ],
+      "unknowns": [
+        "Whether 2019 education commitments carry into the 2027 manifesto"
+      ],
+      "missing": [
+        "Cross River education budgets, enrolment and exam outcomes 1999-2007",
+        "Education chapter of 'A Compact for Nigeria's Renewal'",
+        "Independent assessment of CRUTECH's founding and funding"
+      ],
+      "sourceIds": ["s25", "s27", "s28", "s5"],
+      "verification": "AI_DRAFT"
+    },
+    "healthcare": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No documented health record from his governorship and no specific 2027 health plan were found.",
+      "analysis": "This research found no reliable sources on Cross River health spending, facilities or outcomes under Duke. His 2019 platform proposed raising the health budget by more than 35 per cent, universal health coverage and at least one general hospital per local government area. His 2026 acceptance speech named health as a priority without specifics. The PRP manifesto's health content was not available.",
+      "strengths": [],
+      "limitations": [
+        "No evidence base for record or plan"
+      ],
+      "unknowns": [
+        "Health content of the 2027 manifesto"
+      ],
+      "missing": [
+        "Cross River health budget and facility data 1999-2007",
+        "Health chapter of 'A Compact for Nigeria's Renewal'",
+        "Position on NHIA reform and primary-care financing"
+      ],
+      "sourceIds": ["s27", "s5"],
+      "verification": "AI_DRAFT"
+    },
+    "infrastructure": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "His administration built Tinapa and revived Obudu Ranch, and made Calabar known for urban cleanliness. Tinapa was inaugurated in 2007 but later decayed and was handed to AMCON over unpaid debt. Successors and critics blame its design; Duke blames successors for abandoning it.",
+      "analysis": "Tinapa broke ground in 2005 on a 265-hectare site near Calabar. It was declared a federal free trade zone in August 2006 and inaugurated in April 2007 under Duke (RECORD; status commissioned). Reported costs exceed $350 million, and his successor Liyel Imoke uses the same figure. Shops were later largely empty, Customs disputed the zone's status in 2013, the state transferred 85 per cent of shares to AMCON, and EndSARS looting in 2020 damaged the hotel. Governor Otu's government took the resort back in February 2025, with no revival steps reported six months later (FACT). Imoke has said the project was 'badly conceived' and lacked the infrastructure and regulation it needed. Duke said in 2019 that successors 'did not understand the concept' and abandoned it (DISPUTED).\n\nHe also revived the pre-existing Obudu Cattle Ranch as a mountain resort. Imoke says it was funded with about ₦10 billion in state bonds and that its cable car, which he costs at about $40 million, covered only 8 per cent of its maintenance through ticket revenue (DISPUTED; Imoke's figures). In Calabar he created waste-management and urban-development agencies. A 2006 US diplomatic cable described the city as widely considered Nigeria's cleanest. Al Jazeera reported in 2022 that those standards later declined under successors.",
+      "strengths": [
+        "Visible urban-management results in Calabar during his tenure",
+        "Delivered large projects to commissioning"
+      ],
+      "limitations": [
+        "Tinapa's commercial failure and debt burden",
+        "Maintenance burden of Obudu assets after his tenure"
+      ],
+      "unknowns": [
+        "Audited total cost of Tinapa and Obudu works",
+        "Independent post-completion evaluation"
+      ],
+      "sourceIds": ["s15", "s16", "s17", "s21", "s22", "s23", "s25"],
+      "verification": "AI_DRAFT"
+    },
+    "power": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No power-sector record or detailed 2027 electricity plan was found.",
+      "analysis": "This research found no documented power projects from his governorship. His 2019 platform referred to revamping hydro infrastructure and localising power value chains. His 2027 statements reviewed focus on petrol pricing, not electricity tariffs, grid investment, gas supply or the Electricity Act 2023 framework. His 2019 platform supported restructuring, which could align with state electricity markets, but no explicit 2027 position was found.",
+      "strengths": [],
+      "limitations": [
+        "No evidence on power policy"
+      ],
+      "unknowns": [
+        "Position on tariffs and state electricity markets"
+      ],
+      "missing": [
+        "Electricity section of the PRP manifesto",
+        "Stated position on cost-reflective tariffs and Band A pricing",
+        "Any Cross River power projects 1999-2007"
+      ],
+      "sourceIds": ["s27"],
+      "verification": "AI_DRAFT"
+    },
+    "jobs": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "His jobs agenda rests on local production and support for farmers, with no targets. No employment data from his governorship were found.",
+      "analysis": "Tourism was intended to create jobs in Cross River, but no employment figures for 1999-2007 were found, apart from his own unverified visitor claims. His 2019 platform aimed to cut unemployment by 15 per cent over two terms. In 2026 he called for job creation through local production and value addition, better credit access and guaranteed markets for farmers. He also linked insecurity to the lack of legitimate jobs. No numeric target or mechanism was found.",
+      "strengths": [],
+      "limitations": [
+        "No targets or mechanisms published"
+      ],
+      "unknowns": [
+        "Employment effects of Tinapa and Obudu"
+      ],
+      "missing": [
+        "Jobs section of the PRP manifesto",
+        "Cross River employment data for 1999-2007",
+        "Employment numbers at Tinapa and Obudu during operation"
+      ],
+      "sourceIds": ["s5", "s10", "s27"],
+      "verification": "AI_DRAFT"
+    },
+    "finance": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "Tinapa was financed partly by a ₦40 billion federally guaranteed bond on which the state later defaulted, and short-term bank loans funded long-term projects. How much of Cross River's later debt traces to his era is disputed.",
+      "analysis": "A former DMO staff member who says he recommended the guarantee wrote in 2018 that Tinapa was backed by a ₦40 billion bond with a federal guarantee approved in 2005. He wrote that Cross River later defaulted on interest payments and the debt became an obligation to the federal government. He also said short-term commercial bank loans, secured by irrevocable standing payment orders on federal allocations, financed long-term projects including Tinapa and Obudu, and that the projects could not generate enough cash to service them (ANALYSIS by an informed but interested author). Imoke has said Tinapa debt service once took more than half of state revenues. The state later handed the asset to AMCON, which had been expected to invest ₦26-29 billion. Bayelsa Governor Douye Diri, responding in 2026 to Duke's criticism of the coastal highway, called Tinapa a 'white elephant' and urged Duke to repay its debts (DISPUTED; political claim).\n\nOn the other side, a 2015 Daily Trust report quoted a former vice-chancellor describing much of the state's debt as accumulated after Duke left office in 2007. No audited debt figure for May 2007 was found. ANALYSIS: the record shows high-risk, debt-financed public investment. How much of the burden belongs to his administration, and how much to successors' borrowing and management, is not settled.",
+      "strengths": [
+        "Pre-governorship experience as state finance commissioner"
+      ],
+      "limitations": [
+        "Tinapa bond default and AMCON takeover",
+        "Short-term loans used for long-term assets"
+      ],
+      "unknowns": [
+        "Cross River debt stock at May 2007",
+        "Audit reports for 1999-2007"
+      ],
+      "sourceIds": ["s18", "s16", "s15", "s20", "s19"],
+      "verification": "AI_DRAFT"
+    },
+    "leadership": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "He completed two terms as governor with a strong, personally associated agenda. He has since moved between several parties, and he says he would step aside for a consensus opposition candidate.",
+      "analysis": "Duke served two full terms and handed over to his elected successor in 2007 (FACT). Accounts of his governing style describe close personal involvement. Residents told Al Jazeera that he drove around Calabar incognito to check cleanliness, and that waste workers were paid promptly while tourism was central to policy (UNVERIFIED anecdotes). Governor Otu has credited his leadership as a guide for current policy. His successor Imoke has said he 'dissected' and criticised Duke's approach (ANALYSIS: an intra-party dispute).\n\nSince leaving office he has moved between parties several times. He left the PDP for the SDP in 2018 and won the SDP ticket after court battles that ended in his favour. He was later back in the PDP, left it again for the ADC in January 2026, and won the PRP primary in May 2026 (FACT). In November 2026 he said he would step aside for a consensus opposition candidate if parties agreed collectively. He argued that a coalition must first agree on a national vision, not just share out positions (PROMISE/statement). ANALYSIS: this conditional pledge is unusual. Voters cannot yet tell whether he will be on the final ballot as a principal contender.",
+      "strengths": [
+        "Completed two terms and a peaceful handover",
+        "Openly committed to opposition consolidation"
+      ],
+      "limitations": [
+        "Frequent party changes",
+        "Coalition-building at national level untested"
+      ],
+      "unknowns": [
+        "Proposed cabinet or delivery team"
+      ],
+      "sourceIds": ["s21", "s25", "s34", "s30", "s33", "s3", "s9"],
+      "verification": "AI_DRAFT"
+    },
+    "integrity": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "No criminal charge or conviction was found. He was reported in 2006 as one of the few governors not on the EFCC's watch list, a challenge to his 2026 nomination was dismissed, and the criticism of his Tinapa debts is political, not legal.",
+      "analysis": "Searches found no EFCC charge, court conviction or adverse audit finding against Duke personally. A Dubawa profile notes he was described as one of the only governors not on the EFCC's 2006 watch list, a point reported by the BBC at the time according to secondary summaries (FACT as reported; primary BBC report not opened). The criticism he faces over Tinapa and state debt comes from political rivals and successors, including Imoke and Diri. It concerns policy and financing judgement, not alleged personal enrichment, and none has led to legal action that this research found (legalStatus: allegation).\n\nIn June 2026, PRP aspirant Kingsley Yakubu sued to void his nomination. Yakubu alleged that Duke's name was missing from the membership register sent to INEC, that he skipped physical screening, and that vote totals were inflated. Around 30 September 2026, the Federal High Court in Abuja dismissed the suit. Reports differ on the grounds: ThisDay says party membership was held to be an internal matter, and Premium Times says the suit was statute-barred and the claims were not proved (legalStatus: judgment). No appeal was found. Africa Check rated two of his 2018 education statistics as inaccurate. That concerns accuracy, not misconduct. No public asset declaration by Duke was found in the sources reviewed.",
+      "strengths": [
+        "No criminal case found",
+        "Nomination upheld in court"
+      ],
+      "limitations": [
+        "No public asset declaration found",
+        "Contested accuracy of some campaign statistics"
+      ],
+      "unknowns": [
+        "Whether Yakubu appealed",
+        "Code of Conduct Bureau declarations"
+      ],
+      "sourceIds": ["s27", "s12", "s13", "s14", "s16", "s20", "s28"],
+      "verification": "AI_DRAFT"
+    },
+    "experience": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "He was a two-term governor (1999-2007), a state finance commissioner and a corporate lawyer. He has held no public office since 2007.",
+      "analysis": "Duke trained as a lawyer (LL.B. from ABU in 1982, called to the Bar in 1983, LL.M. from the University of Pennsylvania in 1984) and practised corporate law in 1985-1988 (FACT). He was Cross River's commissioner for finance and budget/planning in 1992-1993. In 1997-1998 he sat on federal economic bodies, including the National Economic Intelligence Committee and the Federal Economic Council, and chaired the NAFCON privatisation committee, according to his firm's biography (FACT, self-published). He was governor from 1999 to 2007, winning 529,335 votes in 1999 according to reference summaries, and won re-election in 2003. He received the CON national honour in 2008.\n\nANALYSIS: his executive experience is real but nearly two decades old. It predates the current fiscal federalism, the post-2023 subsidy and exchange-rate reforms, and the scale of present insecurity. He has no federal executive or legislative service. His 2019 presidential run won 34,746 votes, so he has not yet built a national electoral base. His record as governor offers both a model of focused urban management and a cautionary case in debt-financed megaprojects, and both are relevant to national office.",
+      "strengths": [
+        "Two terms of state executive experience",
+        "Legal and finance background"
+      ],
+      "limitations": [
+        "No public office since 2007",
+        "No federal executive experience"
+      ],
+      "unknowns": [
+        "Private-sector roles 2007-2026 in detail"
+      ],
+      "sourceIds": ["s26", "s27", "s31", "s32", "s29"],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "The PRP manifesto 'A Compact for Nigeria's Renewal' was launched in November 2026, but its full content was not available. His public positions focus on fuel pricing, state police, local production and opposition unity.",
+      "analysis": "The PRP unveiled 'A Compact for Nigeria's Renewal' in Abuja in November 2026. Coverage reviewed for this research reports themes, not detailed contents. The party chairman listed insecurity, economic hardship, youth participation and protection of vulnerable communities. Duke argued that an opposition coalition must rest on a shared national vision (PROMISE/statement). The Guardian's report of the launch says he warned that Nigeria risked another civil war; that article could not be opened for detail.\n\nFrom his statements through 2026, his platform includes:\n- pricing petrol for domestic use at production cost (about ₦300 per litre), with a crude set-aside for local refining;\n- state and local-government police with judicial oversight;\n- local production, credit and guaranteed markets for farmers;\n- investment in education, health, infrastructure and the justice system;\n- by some reports, an overhaul of the financial architecture to address high interest rates and public debt (PROMISE).\n\nHis 2019 platform had supported restructuring. ANALYSIS: compared with the most detailed 2027 manifestos, the publicly reported content has few targets, timelines or costings. A full reading of the manifesto document is needed before drawing firm conclusions.",
+      "strengths": [
+        "Clear headline positions on fuel and policing"
+      ],
+      "limitations": [
+        "Few quantified targets or timelines publicly reported",
+        "No costing found"
+      ],
+      "unknowns": [
+        "Full manifesto text"
+      ],
+      "sourceIds": ["s9", "s8", "s6", "s10", "s5", "s27"],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No 2027 foreign-policy positions were found. His background includes international business law training and a governorship focused on attracting foreign visitors and investors.",
+      "analysis": "Duke holds an LL.M. from the University of Pennsylvania and promoted Tinapa and the Calabar Carnival partly to attract international visitors and investors. The Bakassi transfer to Cameroon occurred during his tenure, but his role and statements on it were not documented in sources reviewed. No positions on ECOWAS, the Sahel, trade or diaspora policy were found.",
+      "strengths": [],
+      "limitations": [
+        "No foreign-policy platform found"
+      ],
+      "unknowns": [
+        "Positions on ECOWAS and AfCFTA"
+      ],
+      "missing": [
+        "Foreign-policy section of the PRP manifesto",
+        "His statements on Bakassi (2006-2008)",
+        "Positions on ECOWAS, Sahel juntas and trade agreements"
+      ],
+      "sourceIds": ["s26", "s15"],
+      "verification": "AI_DRAFT"
+    },
+    "humanImpact": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "Residents remember a clean, well-run Calabar during his tenure. The debts from his flagship projects constrained later state budgets, and Tinapa's decline removed expected jobs and services.",
+      "analysis": "For Calabar residents, the most cited effect of his tenure is urban cleanliness and order. Traders and civic campaigners told Al Jazeera in 2022 that refuse was rarely seen on the roads, bins were placed about every 100 metres and collectors were paid promptly. They compared this with later conditions, when refuse piled up at Watts Market and collectors boycotted over unpaid wages (UNVERIFIED recollections; the later decline occurred under successors). A 2006 US diplomatic cable recorded the city's reputation as Nigeria's cleanest.\n\nThe longer-term household cost is harder to measure. If Tinapa and Obudu debts were serviced from federal allocations, as a former DMO official and Imoke have described, they would have reduced money available for salaries and services after 2007. Imoke estimated Tinapa's cost at close to $170 per Cross River resident (ANALYSIS/DISPUTED). Tinapa's empty shops and looted hotel also meant the expected employment did not materialise at scale. For 2027, his ₦300 petrol pledge is aimed directly at household transport and food costs. He cites the ₦70,000 minimum wage being consumed by fuel. Its distributional effects depend on financing details not yet published.",
+      "strengths": [
+        "Documented improvement in urban environment during tenure"
+      ],
+      "limitations": [
+        "Debt burden passed to later administrations",
+        "No household-level data from 1999-2007"
+      ],
+      "unknowns": [
+        "Cross River poverty and service-access data for his tenure"
+      ],
+      "sourceIds": ["s21", "s22", "s16", "s18", "s15", "s6"],
+      "verification": "AI_DRAFT"
+    },
+    "promises": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "His 2027 promises (₦300 petrol, state police, opposition unity) are clear in direction but mostly lack targets, timelines and costs. No independent tracking of his 1999-2007 promises was found.",
+      "analysis": "For his governorship there is no independent tracker comparing 1999 and 2003 campaign promises with delivery. His flagship projects (Tinapa, Obudu, the Calabar Carnival) were delivered to the point of operation within his tenure. Their long-run sustainability is disputed (RECORD).\n\nAs a 2027 aspirant, his most specific promise is the ₦300 petrol price, with a stated mechanism: domestic crude priced at production cost and a share of output, such as 600,000 barrels a day, reserved for local consumption (PROMISE). It has no published timeline or fiscal estimate. His state and local-government police proposal names safeguards (judicial oversight, guidelines) but has no timeline. His June 2026 agenda names priorities without targets. He has made a conditional commitment to step aside for a consensus opposition candidate if parties agree collectively (PROMISE). That commitment is unusual and can be checked against events. His 2019 platform contained more quantified pledges, including a 15 per cent unemployment cut over two terms, specific teacher ratios and a health budget increase of more than 35 per cent. It is unclear whether these carry into the 2027 manifesto. ANALYSIS: on the evidence available, his 2027 promises are less specific than his 2019 ones.",
+      "strengths": [
+        "Mechanism stated for fuel pledge",
+        "Testable conditional step-down commitment"
+      ],
+      "limitations": [
+        "No timelines or costs for main pledges"
+      ],
+      "unknowns": [
+        "Whether 2019 quantified pledges remain"
+      ],
+      "sourceIds": ["s6", "s10", "s5", "s9", "s27", "s15"],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    { "id": "rec1", "title": "Tinapa Business and Leisure Resort", "kind": "project", "label": "RECORD", "period": "2005-2007", "office": "Governor of Cross River State", "status": "commissioned", "description": "Ground broken in 2005, free trade zone status granted in August 2006, inaugurated in April 2007. Reported cost exceeds $350m. Later underused; 85% of shares went to AMCON; the state reclaimed it in 2025.", "categories": ["infrastructure", "economy", "finance"], "sourceIds": ["s15", "s16"] },
+    { "id": "rec2", "title": "₦40bn federally guaranteed Tinapa bond", "kind": "decision", "label": "FACT", "period": "2005", "office": "Governor of Cross River State", "description": "According to a former DMO official, the bond was backed by a federal guarantee; the state later defaulted on interest and the debt became owed to the federal government.", "categories": ["finance"], "sourceIds": ["s18"] },
+    { "id": "rec3", "title": "Tinapa underperformance and blame dispute", "kind": "controversy", "label": "DISPUTED", "period": "2007-2026", "office": "Former governor", "legalStatus": "allegation", "description": "Imoke says the project was badly conceived and Diri calls it a white elephant; Duke says successors abandoned it. This is a political dispute with no legal proceedings found.", "categories": ["infrastructure", "finance", "integrity"], "sourceIds": ["s16", "s17", "s20"] },
+    { "id": "rec4", "title": "Obudu Ranch revival", "kind": "project", "label": "RECORD", "period": "1999-2007", "office": "Governor of Cross River State", "status": "completed", "description": "Revived the pre-existing Obudu Cattle Ranch as a mountain resort. Imoke says it was funded by about ₦10bn in state bonds and that its cable car ran at a large maintenance deficit.", "categories": ["infrastructure", "finance"], "sourceIds": ["s25", "s16"] },
+    { "id": "rec5", "title": "Calabar Carnival", "kind": "policy", "label": "RECORD", "period": "2004/2005", "office": "Governor of Cross River State", "description": "Annual carnival started under his administration; sources differ on whether it began in 2004 or 2005. The 2025 edition was the 20th.", "categories": ["economy"], "sourceIds": ["s24", "s25"] },
+    { "id": "rec6", "title": "Calabar urban management", "kind": "policy", "label": "RECORD", "period": "1999-2007", "office": "Governor of Cross River State", "description": "Created waste-management and urban-development agencies and a 'Keep Calabar Clean and Green' campaign. A 2006 US cable described Calabar as widely considered Nigeria's cleanest city.", "categories": ["infrastructure", "humanImpact"], "sourceIds": ["s23", "s22", "s21"] },
+    { "id": "rec7", "title": "Cross River University of Technology established", "kind": "decision", "label": "RECORD", "period": "1999-2007", "office": "Governor of Cross River State", "description": "Credited to Duke by Governor Otu.", "categories": ["education"], "sourceIds": ["s25"] },
+    { "id": "rec8", "title": "2019 SDP candidacy litigation", "kind": "outcome", "label": "FACT", "period": "2018-2019", "office": "Presidential candidate", "description": "The High Court voided his SDP nomination in Jerry Gana's favour; the Court of Appeal unanimously restored him in January 2019.", "categories": ["experience", "leadership"], "sourceIds": ["s30"] },
+    { "id": "rec9", "title": "Suit against PRP nomination dismissed", "kind": "controversy", "label": "FACT", "period": "June-September 2026", "office": "Presidential candidate", "legalStatus": "judgment", "description": "The Federal High Court in Abuja dismissed Kingsley Yakubu's suit alleging ineligibility, a screening breach and inflated votes. Reports differ on the grounds; no appeal was found.", "categories": ["integrity"], "sourceIds": ["s12", "s13", "s14"] }
+  ],
+  "plans": [
+    { "id": "pl1", "title": "Petrol at about ₦300 per litre", "label": "PROMISE", "category": "economy", "outcome": "Lower domestic petrol price", "method": "Price crude for domestic refining at production cost (about $45/bbl); reserve part of output (e.g. 600,000 bpd) for local use", "target": "₦300 per litre", "risks": "Federation Account revenue loss; smuggling; implicit subsidy", "dependencies": "NNPC, refinery capacity, NUPRC/NMDPRA regulation", "sourceIds": ["s6", "s7"] },
+    { "id": "pl2", "title": "State and local-government police", "label": "PROPOSAL", "category": "security", "outcome": "Decentralised, intelligence-led policing", "method": "Clear guidelines, safeguards and judicial oversight; National Guard-style model", "dependencies": "Constitutional amendment", "sourceIds": ["s10"] },
+    { "id": "pl3", "title": "Local production and farmer support", "label": "PROPOSAL", "category": "jobs", "outcome": "Import substitution and jobs", "method": "Credit access and guaranteed markets for farmers", "sourceIds": ["s5"] },
+    { "id": "pl4", "title": "Step aside for consensus opposition candidate", "label": "PROMISE", "category": "leadership", "outcome": "Single opposition candidate", "assumptions": "Collective agreement among opposition parties", "sourceIds": ["s9"] },
+    { "id": "pl5", "title": "A Compact for Nigeria's Renewal", "label": "PROPOSAL", "category": "vision", "outcome": "PRP governing programme on insecurity, hardship, youth participation and vulnerable communities", "sourceIds": ["s9", "s8"] }
+  ],
+  "test": [
+    { "questionId": "r1", "answer": "Partly. He frames fuel costs, insecurity and import dependence as core problems, but the full manifesto problem statements were not reviewed.", "assessment": "partly", "sourceIds": ["s6", "s10", "s5"] },
+    { "questionId": "r2", "answer": "Partly. The fuel pledge has a stated mechanism; other areas are stated as priorities only.", "assessment": "partly", "sourceIds": ["s6", "s5"] },
+    { "questionId": "r3", "answer": "No supporting evidence for the domestic crude-pricing approach was found in the sources reviewed.", "assessment": "unknown", "sourceIds": ["s6"] },
+    { "questionId": "r4", "answer": "Unclear. No costing of the ₦300 petrol plan or other pledges was found.", "assessment": "unknown", "sourceIds": ["s6"] },
+    { "questionId": "r5", "answer": "No timelines were found for the main pledges.", "assessment": "unknown", "sourceIds": ["s6", "s10"] },
+    { "questionId": "r6", "answer": "Partly. Crude allocation policy is federal-executive, but state police needs constitutional change.", "assessment": "partly", "sourceIds": ["s10", "s6"] },
+    { "questionId": "r7", "answer": "Yes. State and local police require constitutional amendments, and fuel-pricing changes would likely need legislative and budget action.", "assessment": "yes", "sourceIds": ["s10"] },
+    { "questionId": "r8", "answer": "Partly. He addresses the risk of governors abusing state police, but not the fiscal risks of the fuel plan.", "assessment": "partly", "sourceIds": ["s10"] },
+    { "questionId": "r9", "answer": "Partly. His running mate (Sule Mohammed) is known; no delivery team has been announced.", "assessment": "partly", "sourceIds": ["s9"] },
+    { "questionId": "r10", "answer": "Partly. He delivered large state projects to commissioning in 1999-2007, but the flagship's long-run performance and financing are disputed.", "assessment": "partly", "sourceIds": ["s15", "s16", "s21"] }
+  ],
+  "sources": [
+    { "id": "s1", "title": "Presidential and National Assembly Elections for January 2027: Final List of Candidates", "url": "https://inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf", "publisher": "Independent National Electoral Commission", "type": "electoral", "published": "2026-09", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Duke listed as PRP presidential candidate (cited from the existing profile page; not reopened).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "s2", "title": "PRP picks Donald Duke as presidential candidate for 2027", "url": "https://www.thecable.ng/prp-picks-donald-duke-as-presidential-candidate-for-2027/", "publisher": "TheCable", "type": "news", "published": "2026-06-06", "accessed": "2026-11-28", "categories": ["experience"], "claim": "PRP confirmation of candidacy (from the existing profile page).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "s3", "title": "2027: Donald Duke emerges PRP presidential flag bearer", "url": "https://www.premiumtimesng.com/regional/south-south-regional/883175-2027-donald-duke-emerges-prp-presidential-flag-bearer.html", "publisher": "Premium Times", "type": "news", "published": "2026-05-27", "accessed": "2026-11-28", "categories": ["experience", "leadership"], "claim": "Primary result: 6,499 vs 2,699 vs 784.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s4", "title": "PRP clears Donald Duke as presidential candidate, 420 others for 2027 elections", "url": "https://www.premiumtimesng.com/news/top-news/885566-prp-clears-donald-duke-as-presidential-candidate-420-others-for-2027-elections.html", "publisher": "Premium Times", "type": "news", "published": "2026-06", "accessed": "2026-11-28", "categories": ["experience"], "claim": "PRP clearance after appeal review.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s5", "title": "2027: Donald Duke accepts PRP presidential ticket, unveils agenda", "url": "https://von.gov.ng/2027-donald-duke-accepts-prp-presidential-ticket-unveils-agenda/", "publisher": "Voice of Nigeria", "type": "news", "published": "2026-06-11", "accessed": "2026-11-28", "categories": ["economy", "security", "jobs", "vision", "education", "healthcare"], "claim": "Acceptance agenda: local production, intelligence and community policing, farmer credit and markets.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s6", "title": "PRP Presidential Candidate, Duke, Pledges N300 Petrol Price", "url": "https://allafrica.com/stories/202610080804.html", "publisher": "Daily Trust via AllAfrica", "type": "news", "published": "2026-10-08", "accessed": "2026-11-28", "categories": ["economy", "promises", "humanImpact"], "claim": "₦300 petrol pledge and crude set-aside mechanism.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s7", "title": "Donald Duke: I'll reduce petrol price to N300 per litre if elected president", "url": "https://www.thecable.ng/donald-duke-ill-reduce-petrol-price-to-n300-per-litre-if-elected-president/", "publisher": "TheCable", "type": "news", "published": "2026-10-07", "accessed": "2026-11-28", "categories": ["economy"], "claim": "Same pledge (from the existing profile page; the page refused automated access).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "s8", "title": "PRP unveils manifesto as Duke warns Nigeria risks another civil war", "url": "https://guardian.ng/politics/prp-unveils-manifesto-as-duke-warns-nigeria-risks-another-civil-war/", "publisher": "The Guardian (Nigeria)", "type": "news", "published": "2026-11-11", "accessed": "2026-11-28", "categories": ["vision"], "claim": "Manifesto launch and civil-war warning (headline only; page refused automated access).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "s9", "title": "2027 - Donald Duke signals readiness to step down for consensus opposition candidate", "url": "https://allafrica.com/stories/202611110263.html", "publisher": "Premium Times via AllAfrica", "type": "news", "published": "2026-11-10", "accessed": "2026-11-28", "categories": ["leadership", "vision", "promises"], "claim": "Conditional step-down pledge; running mate Sule Mohammed; manifesto themes listed by the party chairman.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s10", "title": "Donald Duke calls for state, local government police to address Nigeria's security challenges", "url": "https://www.arise.tv/donald-duke-calls-for-state-local-government-police-to-address-nigerias-security-challenges/", "publisher": "Arise News", "type": "news", "published": "2026-09-30", "accessed": "2026-11-28", "categories": ["security", "promises"], "claim": "Decentralised policing proposals and rationale.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s11", "title": "PRP presidential candidate Donald Duke demands end to Tinubu's poorly-managed fuel subsidy", "url": "https://saharareporters.com/2026/08/22/prp-presidential-candidate-donald-duke-demands-end-tinubus-poorly-managed-fuel-subsidy", "publisher": "Sahara Reporters", "type": "news", "published": "2026-08-22", "accessed": "2026-11-28", "categories": ["economy"], "claim": "Duke's critique of current fuel pricing.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s12", "title": "2027: Court dismisses suit challenging ex-governor Duke's emergence as PRP's presidential candidate", "url": "https://premiumtimesng.com/news/top-news/913537-2027-court-dismisses-suit-challenging-ex-governor-dukes-emergence-as-prps-presidential-candidate.html", "publisher": "Premium Times", "type": "court", "published": "2026-09-30", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Suit dismissed as statute-barred and unproven.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s13", "title": "Court Dismisses Suit against Donald Duke's Emergence as PRP Presidential Candidate", "url": "https://www.thisdaylive.com/2026/10/01/court-dismisses-suit-against-donald-dukes-emergence-as-prp-presidential-candidate/", "publisher": "ThisDay", "type": "court", "published": "2026-10-01", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Membership held to be an internal party matter.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s14", "title": "Donald Duke's PRP ticket challenged in court: Yakubu Kingsley alleges ineligibility, screening breach and inflated votes", "url": "https://thenigerialawyer.com/donald-dukes-prp-ticket-challenged-in-court-yakubu-kingsley-alleges-ineligibility-screening-breach-and-inflated-votes/", "publisher": "TheNigeriaLawyer", "type": "court", "published": "2026-06", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Allegations in suit FHC/ABJ/CS/1234/2026.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s15", "title": "Tinapa: Cross River's ambitious project fades away", "url": "https://www.premiumtimesng.com/regional/south-south-regional/813676-tinapa-cross-rivers-ambitious-project-fades-away.html", "publisher": "Premium Times / NAN", "type": "news", "published": "2025-08-12", "accessed": "2026-11-28", "categories": ["infrastructure", "economy", "finance", "humanImpact"], "claim": "Tinapa timeline, cost, AMCON transfer, decline and 2025 reclamation.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s16", "title": "Liyel Imoke: Tinapa was badly conceived at the beginning", "url": "https://www.arise.tv/liyel-imoke-tinapa-was-badly-conceived-at-the-beginning/", "publisher": "Arise News", "type": "news", "published": "2026-09-17", "accessed": "2026-11-28", "categories": ["infrastructure", "finance", "humanImpact"], "claim": "Imoke's account of Tinapa cost ($350m), debt burden and Obudu financing.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s17", "title": "Duke: Why my successors abandoned Tinapa", "url": "https://dailytrust.com/duke-why-my-successors-abandoned-tinapa/", "publisher": "Daily Trust", "type": "news", "published": "2019-09-03", "accessed": "2026-11-28", "categories": ["infrastructure"], "claim": "Duke says successors did not understand the concept.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s18", "title": "Opinion: Genesis of Cross River State debt overhang", "url": "https://thewillnews.com/opinion-genesis-of-cross-river-state-debt-overhang", "publisher": "TheWill (opinion by a former DMO staff member)", "type": "other", "published": "2018-09-18", "accessed": "2026-11-28", "categories": ["finance", "humanImpact"], "claim": "₦40bn FG-guaranteed Tinapa bond, default, short-term loans for long-term assets.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s19", "title": "How much really does Cross River owe?", "url": "https://dailytrust.com/how-much-really-does-cross-river-owe/", "publisher": "Daily Trust", "type": "news", "published": "2015-02-18", "accessed": "2026-11-28", "categories": ["finance"], "claim": "Conflicting debt figures; claim that much of the debt accrued after 2007.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s20", "title": "Lagos-Calabar coastal highway: My disagreement with Umahi, Diri", "url": "https://leadership.ng/lagos-calabar-coastal-highway-my-disagreement-with-umahi-diri/", "publisher": "Leadership", "type": "news", "published": "2026-10-22", "accessed": "2026-11-28", "categories": ["finance", "integrity"], "claim": "Diri calls Tinapa a white elephant and urges Duke to settle its debts.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s21", "title": "The decaying underbelly of Calabar, Nigeria's 'cleanest city'", "url": "https://www.aljazeera.com/features/2022/5/13/the-decaying-underbelly-of-calabar-nigerias-cleanest-city", "publisher": "Al Jazeera", "type": "news", "published": "2022-05-13", "accessed": "2026-11-28", "categories": ["infrastructure", "humanImpact", "leadership"], "claim": "Residents' accounts of Calabar cleanliness under Duke and later decline.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s22", "title": "Cablegate: Calabar: Nigeria's Model City", "url": "https://www.scoop.co.nz/stories/WL0607/S00105.htm", "publisher": "Scoop (WikiLeaks US diplomatic cable)", "type": "other", "published": "2006-07", "accessed": "2026-11-28", "categories": ["infrastructure", "humanImpact"], "claim": "Calabar widely considered Nigeria's cleanest city with effective waste management (search snippet; page did not render).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "s23", "title": "Special Report: Magic Calabar women", "url": "https://www.vanguardngr.com/2014/08/magic-clabar-women/amp/", "publisher": "Vanguard", "type": "news", "published": "2014-08", "accessed": "2026-11-28", "categories": ["infrastructure"], "claim": "Duke established the waste-management and urban-development agencies and the Keep Calabar Clean and Green campaign (search snippet).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "s24", "title": "Cross River to restructure Calabar Carnival after 20 years", "url": "https://www.premiumtimesng.com/regional/south-south-regional/776469-cross-river-to-restructure-calabar-carnival-after-20-years.html", "publisher": "Premium Times", "type": "news", "published": "2025", "accessed": "2026-11-28", "categories": ["economy"], "claim": "Carnival initiated by the Duke administration (2005 per this report).", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s25", "title": "Your leadership lit a path that guides us today - Otu extols ex-Gov Duke at 64", "url": "https://businessday.ng/news/article/your-leadership-lit-a-path-that-guides-us-today-otu-extols-ex-gov-duke-at-64/", "publisher": "BusinessDay", "type": "news", "published": "2025-09", "accessed": "2026-11-28", "categories": ["infrastructure", "education", "leadership"], "claim": "Otu credits Duke with Obudu revival, the carnival and CRUTECH.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s26", "title": "Donald Duke - Our People", "url": "https://cowriepartners.com/our-people/donald-duke/", "publisher": "Cowrie Partners", "type": "candidate-statement", "published": null, "accessed": "2026-11-28", "categories": ["experience", "foreign"], "claim": "Education, legal career, federal committee roles, CON honour (self-published).", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "s27", "title": "Donald Duke (candidate profile)", "url": "https://dubawa.org/donald-duke/", "publisher": "Dubawa", "type": "reference", "published": "2019", "accessed": "2026-11-28", "categories": ["experience", "integrity", "education", "healthcare", "power", "jobs", "promises"], "claim": "Biography, commissioner role, 2007 PDP bid, EFCC watch-list note, 2019 promises.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s28", "title": "Crisis in Nigerian schooling? Grading three claims by presidential hopeful", "url": "https://www.africacheck.org/fact-checks/reports/crisis-nigerian-schooling-grading-three-claims-presidential-hopeful", "publisher": "Africa Check", "type": "investigative", "published": "2018", "accessed": "2026-11-28", "categories": ["education", "integrity"], "claim": "Duke's 2018 education statistics rated 'downplayed' and 'exaggerated' (search snippet; page refused automated access).", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s29", "title": "2019 General Election Presidential Election Results", "url": "https://www.inecnigeria.org/wp-content/uploads/2019/03/2019-GE-PRESIDENTIAL-ELECTION-RESULTS.pdf", "publisher": "Independent National Electoral Commission", "type": "electoral", "published": "2019-03", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Duke (SDP) 34,746 votes.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s30", "title": "Court of Appeal Returns Duke as SDP Presidential Candidate", "url": "https://thisdaylive.com/index.php/2019/01/25/court-of-appeal-returns-duke-as-sdp-presidential-candidate", "publisher": "ThisDay", "type": "court", "published": "2019-01-25", "accessed": "2026-11-28", "categories": ["experience", "leadership"], "claim": "Appeal court restored Duke as SDP candidate.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s31", "title": "1999 Cross River State gubernatorial election", "url": "https://en.wikipedia.org/wiki/1999_Cross_River_State_gubernatorial_election", "publisher": "Wikipedia", "type": "reference", "published": null, "accessed": "2026-11-28", "categories": ["experience"], "claim": "1999 result 529,335 vs 457,660 (to be confirmed against INEC records).", "verification": "UNVERIFIED", "quality": "low" },
+    { "id": "s32", "title": "2003 Cross River State gubernatorial election", "url": "https://en.wikipedia.org/wiki/2003_Cross_River_State_gubernatorial_election", "publisher": "Wikipedia", "type": "reference", "published": null, "accessed": "2026-11-28", "categories": ["experience"], "claim": "Re-elected in 2003 over John Okpa (ANPP).", "verification": "UNVERIFIED", "quality": "low" },
+    { "id": "s33", "title": "Again, Ex-Cross River Gov Duke Leaves PDP", "url": "https://allafrica.com/stories/202602020835.html", "publisher": "Leadership via AllAfrica", "type": "news", "published": "2026-02-02", "accessed": "2026-11-28", "categories": ["leadership"], "claim": "Second exit from the PDP (January 2026), reportedly to the ADC.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s34", "title": "PDP has derailed, says Donald Duke as he joins SDP", "url": "https://saharareporters.com/2018/09/05/pdp-has-derailed-says-donald-duke-he-joins-sdp", "publisher": "Sahara Reporters", "type": "news", "published": "2018-09-05", "accessed": "2026-11-28", "categories": ["leadership"], "claim": "Left the PDP for the SDP in 2018.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s35", "title": "Donald Duke: Interview and Profile", "url": "https://successfulsocieties.princeton.edu/interviews/donald-duke", "publisher": "Princeton University, Innovations for Successful Societies", "type": "academic", "published": "2009", "accessed": "2026-11-28", "categories": ["leadership", "experience"], "claim": "Interview on governance reforms (from the existing profile page; the page refused automated access, so contents not reviewed).", "verification": "UNVERIFIED", "quality": "high" }
+  ],
+  "gaps": [
+    "Obtain and review the full text of 'A Compact for Nigeria's Renewal' (PRP manifesto).",
+    "Read the Princeton ISS interview (2009) for first-hand accounts of civil-service, budget and revenue reforms.",
+    "Find the Cross River debt stock and audited accounts at May 2007, and the total Tinapa and Obudu financing.",
+    "Locate INEC or official results for the 1999 and 2003 governorship elections.",
+    "Find Cross River education and health data for 1999-2007.",
+    "Establish when and why Duke left the ADC for the PRP in 2026.",
+    "Check whether Kingsley Yakubu appealed the dismissal of his suit.",
+    "Find Duke's positions on electricity, foreign policy and the Bakassi transfer.",
+    "Look for any Code of Conduct Bureau asset declaration made public by Duke.",
+    "Read the Guardian manifesto-launch article for policy specifics."
+  ]
+}

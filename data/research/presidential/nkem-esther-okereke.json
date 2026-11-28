@@ -1,0 +1,757 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "nkem-esther-okereke",
+  "name": "Nkem Esther Okereke",
+  "researchVersion": 1,
+  "status": "INSUFFICIENT_DATA",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Nkem Esther Okereke",
+    "commonName": "Esther Okereke (also 'Esther Nkem Okereke')",
+    "born": null,
+    "stateOfOrigin": null,
+    "party": "National Rescue Movement (NRM)",
+    "partyHistory": [
+      {
+        "party": "National Rescue Movement (NRM)",
+        "period": "2026 – present (membership start date not found)",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ]
+      }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": false,
+    "education": [
+      {
+        "credential": "FSLC and SSCE (as declared to INEC)",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "credential": "BSc (as declared to INEC; institution not established)",
+        "sourceIds": [
+          "s1",
+          "s7"
+        ]
+      },
+      {
+        "credential": "MSc / Master's in International Relations (reported)",
+        "institution": "University of Abuja (reported)",
+        "sourceIds": [
+          "s1",
+          "s8"
+        ]
+      },
+      {
+        "credential": "PhD (declared to INEC; campaign site describes research as in progress)",
+        "sourceIds": [
+          "s1",
+          "s7",
+          "s8"
+        ]
+      }
+    ],
+    "professional": [
+      "Actress and film producer",
+      "Businesswoman (Kamdera Services Ltd, RavKam Group; self-described)"
+    ]
+  },
+  "career": [
+    {
+      "period": "c. 2009 – present",
+      "title": "Actress and film producer",
+      "description": "Credits include A Woman's Plight (producer), Wedding Saga, Crux and Rebellion.",
+      "kind": "professional",
+      "sourceIds": [
+        "s2",
+        "s8"
+      ]
+    },
+    {
+      "period": "2015 – present",
+      "title": "Founder, Kamdera Services Limited (reported)",
+      "description": "HR and talent firm that later expanded into hotel management and consulting.",
+      "kind": "professional",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "period": "2023 – present",
+      "title": "Owner, Gliding Stars Football Club (reported)",
+      "description": "Launched 2023 according to OurNigeria.",
+      "kind": "professional",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "period": "29 May 2026",
+      "title": "NRM presidential candidate",
+      "description": "Emerged by consensus at the NRM convention in Abuja as the only aspirant cleared at screening.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "period": "2026",
+      "title": "On INEC final list of presidential candidates",
+      "description": "Running mate Sulaiman Nasir Muhammed.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s1"
+      ]
+    }
+  ],
+  "elections": [
+    {
+      "year": "2027",
+      "office": "President of Nigeria",
+      "party": "NRM",
+      "result": "Pending (election scheduled for 16 January 2027)",
+      "sourceIds": [
+        "s1"
+      ]
+    }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Her economic statements are general (structural reform, a 'productive economy and employment' pillar); no measures, costings or macro positions were found.",
+      "analysis": "The NRM's six-pillar agenda includes a 'productive economy and employment' pillar, and she has spoken of structural reforms and reinvesting recovered funds. The sources give no policy on inflation, the exchange rate, subsidy, tax or trade.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Specific economic measures under the 'productive economy' pillar",
+        "Positions on exchange rate, subsidy, tax and trade",
+        "Published manifesto text"
+      ]
+    },
+    "security": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "She proposes funding security agencies and community policing that could be trained and equipped within six months; no cost or legal route was given.",
+      "analysis": "Okereke has addressed security in two interviews. On Arise in August 2026 she said she would fund the security agencies and strengthen community policing so that local people protect their own communities. She added that community police could be trained and equipped within six months using outside expertise. On Channels in October 2026 she described insecurity as an immediate priority, linking it to her aim of attracting diaspora Nigerians to return and invest. The NRM's six-pillar agenda includes 'security, justice and national cohesion', but the NAN report gives no detail on it.\n\nThe six-month timeline is specific but is not accompanied by numbers of personnel, costs, or an explanation of the legal basis. A federally controlled police force means that armed community policing would likely need constitutional amendment or must operate within existing frameworks such as the police's own community-policing structures. She has no record of overseeing security institutions. Outcomes would also depend on states, the military's internal deployments and regional conflicts, which the sources do not discuss.",
+      "strengths": [
+        "Gives a specific timeline for community policing"
+      ],
+      "limitations": [
+        "No personnel numbers, costs or legal framework",
+        "Relationship to existing police and military operations not explained"
+      ],
+      "unknowns": [
+        "Who trains and commands the community police",
+        "Funding source"
+      ],
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Education appears only as part of a 'human capital' pillar (technically oriented education); no specific proposals were found.",
+      "analysis": "The NRM agenda describes quality, technically oriented education, and she has spoken of investing in people to slow emigration of skilled workers. No funding, targets or institutional proposals were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4",
+        "s5"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Specific education proposals and funding",
+        "Position on universities, UBEC transfers and student loans"
+      ]
+    },
+    "healthcare": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "She names healthcare, especially at grassroots level, as a priority without specifying measures.",
+      "analysis": "On Channels she listed housing and grassroots healthcare among her priorities; the party agenda refers to accessible, affordable and preventive healthcare. No financing, insurance or workforce proposals were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s5",
+        "s6"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Specific health proposals (insurance, primary healthcare funding, workforce)"
+      ]
+    },
+    "infrastructure": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "She calls for routine road maintenance and lists housing and transport in the party's infrastructure pillar, without projects or financing.",
+      "analysis": "She criticised the practice of repairing roads only before official visits and called for maintenance as routine governance. The party's infrastructure pillar lists power, transport, housing and digital connectivity. No named projects or financing models were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s5",
+        "s6"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Infrastructure priorities, projects and financing"
+      ]
+    },
+    "power": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Electricity is her stated first priority; she has given a target of 25,000MW within 100 days through renewables and decentralised generation, without a plan for financing or transmission.",
+      "analysis": "Okereke has made electricity the centre of her campaign. On Channels in October 2026 she called unreliable power the main obstacle to small businesses and technology adoption and named it her first priority. On Arise in August 2026 she gave a target of 25,000 megawatts within 100 days of taking office through renewable energy and decentralised generation. She also said corruption and vested interests in the sector must be fought and that officials who fail to deliver should step down.\n\nThe 25,000MW figure is the most specific numerical promise she has made. It is also the hardest to assess, because she gave no breakdown of sources, no estimate of investment required and no explanation of how new capacity would be transmitted and distributed. Generation companies and distribution companies are largely privately owned, the grid operator is federal, and tariffs are set by the regulator. A 100-day timeline is far shorter than typical build times for utility-scale generation, so the target would need independent technical review. This file does not cite an official figure for current grid output; a reviewer should add one to give context.",
+      "strengths": [
+        "Clear priority and a measurable target"
+      ],
+      "limitations": [
+        "No investment estimate, source mix or transmission plan",
+        "Timeline not supported by any stated analysis"
+      ],
+      "unknowns": [
+        "How 25,000MW is defined (installed, available or delivered)",
+        "Financing and private-sector role"
+      ],
+      "sourceIds": [
+        "s4",
+        "s6"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "jobs": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Employment is folded into a 'productive economy and employment' pillar; no jobs targets or programmes were found.",
+      "analysis": "No jobs targets, sector programmes or youth-employment schemes were found beyond the pillar title and general references to entrepreneurship and youth mobilisation.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s3",
+        "s5"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Employment targets and programmes"
+      ]
+    },
+    "finance": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "She proposes cutting redundant or 'ghost' agencies and recovering public funds to reinvest, with no amounts.",
+      "analysis": "On Arise she said she would cut redundant or 'ghost' parastatals, agencies and ministries, recover public funds and reinvest them to address debt. No estimate of savings, list of agencies or position on borrowing and revenue was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Estimated savings and which agencies",
+        "Positions on borrowing, debt service and revenue"
+      ]
+    },
+    "leadership": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "She has run private businesses and foundations by her own account; she proposes zero tolerance for corruption and post-election reporting to citizens.",
+      "analysis": "She cites her business management record in answer to questions about her lack of government experience. Her campaign council of 38 members is led by Muhammad Garba as Director-General. She proposes treating corruption as the first priority and reporting back to citizens after elections. No independent evidence of her management record was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Independent evidence of her organisational management",
+        "Policy or transition team"
+      ]
+    },
+    "integrity": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No court case, investigation or allegation against her was found; this reflects limited coverage, not a confirmed clean record. Her declared PhD is described as in progress by her own campaign site.",
+      "analysis": "OurNigeria reports no court case or investigation. INEC lists a PhD among her qualifications, while the NRM campaign biography describes 'PhD research in progress' and OurNigeria reports the doctorate as in progress. This discrepancy needs clarification from INEC Form EC9. No asset declaration was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s1",
+        "s7",
+        "s8"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "INEC Form EC9 and supporting certificates",
+        "Asset declaration",
+        "Clarification of PhD status"
+      ]
+    },
+    "experience": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "No public office held. Her background is in film acting and production and in private business, mostly documented through her own statements and campaign materials.",
+      "analysis": "Okereke has not held elected or appointed public office, and she won the NRM nomination by consensus on 29 May 2026 as the only aspirant cleared at screening. Premium Times describes her as a Nollywood actress and producer with credits including A Woman's Plight, Wedding Saga, Crux and Rebellion. OurNigeria dates her film work to at least 2009. INEC lists her as 43, with FSLC, SSCE, BSc, MSc and PhD; OurNigeria reports a University of Abuja master's in International Relations and a doctorate in progress.\n\nHer business record is mostly self-reported. OurNigeria lists Kamdera Services Limited (founded 2015, human resources and later hotel management), the RavKam Group, of which she calls herself founder and president, and ownership of Gliding Stars Football Club from 2023. The NRM campaign site adds Prekenlinks Services Ltd and Aquarava. On Arise she said she has invested in and managed businesses in hospitality, real estate, construction and agriculture. She pointed to that record when asked about her lack of government experience. No company accounts, staff numbers or independent reporting on these firms were found, and none of these roles involved public budgets or legislation.",
+      "strengths": [
+        "Has founded and run private ventures and a film production career"
+      ],
+      "limitations": [
+        "No public-office record",
+        "Business record largely self-reported"
+      ],
+      "unknowns": [
+        "Size and performance of her companies",
+        "Institution and status of each degree"
+      ],
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s4",
+        "s7",
+        "s8"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Her 'ESTHER' or 'Esther Rescue Nigeria' agenda frames six pillars around accountability, a productive economy, human capital, security, infrastructure and a knowledge economy.",
+      "analysis": "Okereke's vision is presented as the 'ESTHER Agenda', also called the 'Esther Rescue Nigeria Agenda'. NAN's October 2026 report on the campaign council's inauguration lists six pillars: governance and accountability; a productive economy and employment; human capital (technical education and preventive healthcare); security, justice and national cohesion; infrastructure (power, transport, housing and digital connectivity); and a knowledge economy built on science, research, vocational training and entrepreneurship. The acronym is explained inconsistently in the sources. Profiles say Education, Security, Technology, Housing, Entrepreneurship and Restitution, while the Arise interview gives a longer list in which 'R' stands for Recovery.\n\nThe party also has a broader 24-pillar 'Blueprint for a Rescued Nigeria', according to THISDAY, but its relationship to her six pillars is not explained. Her public framing stresses accountability over gender: 'I'm not here for gender politics. I'm here with accountability.' The agenda sets direction but contains no targets, apart from the power and policing timelines stated in interviews, and no costing was found.",
+      "strengths": [
+        "Agenda is organised into defined pillars"
+      ],
+      "limitations": [
+        "Acronym explained inconsistently",
+        "Few targets or costings"
+      ],
+      "unknowns": [
+        "Full manifesto text",
+        "Relationship between the six pillars and the party's 24-pillar blueprint"
+      ],
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Her only foreign-facing theme is attracting diaspora Nigerians to return and invest once security improves.",
+      "analysis": "She links improved security to diaspora investment and speaks of reducing emigration of skilled workers. No positions on ECOWAS, trade or international security cooperation were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4",
+        "s6"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Foreign-policy and regional positions",
+        "Diaspora engagement policy detail"
+      ]
+    },
+    "humanImpact": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "She says she runs self-funded foundations for widows, orphans and people with disabilities; outcome figures come only from her campaign site.",
+      "analysis": "OurNigeria names the Ravadel Care Foundation and the Kamdera Development Foundation. The NRM site claims 12 community wellness centres, more than 5,000 people reached and a '40% uptick in local safety indicators'. These figures are self-reported and no independent verification was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4",
+        "s7",
+        "s8"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Registration and accounts of her foundations",
+        "Independent verification of reported beneficiaries and outcomes"
+      ]
+    },
+    "promises": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Her two most specific promises are 25,000MW of power within 100 days and community police trained within six months; the rest are general priorities without costing.",
+      "analysis": "Okereke's commitments fall into two groups. The first group is specific and time-bound: 25,000MW of electricity within 100 days of taking office, and community police trained and equipped within six months. The second group is directional: corruption as her first priority, cutting 'ghost' agencies and recovering public funds, routine road maintenance, priority for housing and grassroots healthcare, technically oriented education, and reporting back to citizens after the election.\n\nNone of these commitments is costed, and none names the legislation or regulatory changes it would need. Premium Times noted the absence of costings, timelines and methods for the priorities she gave on Channels. The time-bound promises are measurable, which helps future accountability. The power target in particular would need technical validation given its scale and short timeline. Cutting agencies would generally require amending the statutes that create them, which means National Assembly support. Because a full manifesto text was not found, these promises are taken from interviews and party statements. They are listed individually under plans.",
+      "strengths": [
+        "Two promises are measurable and time-bound"
+      ],
+      "limitations": [
+        "No costings",
+        "Legislative dependencies not addressed"
+      ],
+      "unknowns": [
+        "Published manifesto",
+        "Costing of the package"
+      ],
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    {
+      "id": "rec1",
+      "title": "Declared PhD versus 'in progress' description",
+      "kind": "unresolved",
+      "label": "UNVERIFIED",
+      "period": "2026",
+      "description": "INEC's list includes a PhD; the NRM campaign biography lists 'PhD research in progress' and OurNigeria reports the doctorate as in progress. No finding of false declaration exists.",
+      "categories": [
+        "integrity"
+      ],
+      "sourceIds": [
+        "s1",
+        "s7",
+        "s8"
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "id": "pl1",
+      "title": "25,000MW within 100 days",
+      "label": "PROMISE",
+      "category": "power",
+      "outcome": "Reliable electricity supply.",
+      "method": "Renewable energy and decentralised generation; tackling corruption in the sector.",
+      "target": "25,000 megawatts",
+      "timeline": "Within 100 days of taking office",
+      "feasibility": "No investment estimate or transmission plan; timeline unusually short for generation projects.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "pl2",
+      "title": "Community policing within six months",
+      "label": "PROMISE",
+      "category": "security",
+      "outcome": "Communities protected by trained local police; better-funded security agencies.",
+      "method": "Train and equip community police with outside expertise.",
+      "timeline": "Six months",
+      "dependencies": "Likely constitutional or legal changes for armed community policing.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "pl3",
+      "title": "Cut 'ghost' agencies and recover public funds",
+      "label": "PROPOSAL",
+      "category": "finance",
+      "outcome": "Savings reinvested in the economy and debt reduction.",
+      "dependencies": "Many agencies are created by statute.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "pl4",
+      "title": "Corruption as first priority",
+      "label": "PROMISE",
+      "category": "leadership",
+      "outcome": "Zero tolerance for corruption; officials who fail to deliver step down.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "id": "pl5",
+      "title": "Routine road maintenance",
+      "label": "PROPOSAL",
+      "category": "infrastructure",
+      "outcome": "Roads maintained continuously rather than before official visits.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "pl6",
+      "title": "Priority for housing and grassroots healthcare",
+      "label": "PROPOSAL",
+      "category": "healthcare",
+      "outcome": "Accessible local healthcare and housing.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "pl7",
+      "title": "Six-pillar Esther Rescue Nigeria Agenda",
+      "label": "PROPOSAL",
+      "category": "vision",
+      "outcome": "Governance, economy, human capital, security, infrastructure and knowledge-economy reforms.",
+      "sourceIds": [
+        "s5"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "questionId": "r1",
+      "answer": "Problems (power, insecurity, corruption, brain drain) are named; diagnosis is brief.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "questionId": "r2",
+      "answer": "Two items are specific (25,000MW, six-month community policing); most are general.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "questionId": "r3",
+      "answer": "No evidence base was cited.",
+      "assessment": "no",
+      "sourceIds": [
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "questionId": "r4",
+      "answer": "No costings; Premium Times notes their absence.",
+      "assessment": "no",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "questionId": "r5",
+      "answer": "The 100-day power target is not supported by any stated analysis.",
+      "assessment": "no",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "questionId": "r6",
+      "answer": "Power is largely privatised and tariff-regulated; policing structure is constitutional. Presidential authority alone is insufficient for some items.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "questionId": "r7",
+      "answer": "Agency cuts and community policing would likely need legislation or constitutional amendment.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "questionId": "r8",
+      "answer": "No risks or trade-offs disclosed.",
+      "assessment": "no",
+      "sourceIds": []
+    },
+    {
+      "questionId": "r9",
+      "answer": "A 38-member campaign council led by Muhammad Garba exists; no policy or transition team is identified.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
+      "questionId": "r10",
+      "answer": "No public-office record; private-sector claims are self-reported.",
+      "assessment": "unknown",
+      "sourceIds": [
+        "s8"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Presidential and National Assembly Elections for Jan, 2027 – Presidential: Final List of Candidates",
+      "url": "https://www.inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf",
+      "publisher": "Independent National Electoral Commission (INEC)",
+      "type": "electoral",
+      "published": "2026-10",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Lists OKEREKE NKEM ESTHER as the NRM presidential candidate, age 43, female, qualifications FSLC, SSCE, BSc, MSc, PhD; running mate SULAIMAN NASIR MUHAMMED, age 35, male, FSLC, SSCE.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s2",
+      "title": "2027: Actress Esther Okereke emerges NRM presidential candidate",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/884203-2027-actress-esther-okereke-emerges-nrm-presidential-candidate.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2026-05-31",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Nollywood actress and producer (credits include A Woman's Plight, Wedding Saga, Crux) won the NRM ticket at the party convention in Abuja; unveiled by national chairman Chinedu Obi.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s3",
+      "title": "2027: Esther Okereke emerges NRM presidential candidate",
+      "url": "https://www.thisdaylive.com/2026/05/30/2027-esther-okereke-emerges-nrm-presidential-candidate/",
+      "publisher": "THISDAY",
+      "type": "news",
+      "published": "2026-05-30",
+      "accessed": "2026-11-28",
+      "categories": [
+        "vision",
+        "experience"
+      ],
+      "claim": "She was screened under party rules and won at the primary convention; she pledged to mobilise youth, promote ethical leadership and pursue structural reforms; the NRM has a 24-pillar 'Blueprint for a Rescued Nigeria'.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s4",
+      "title": "Esther Okereke: I'm not just an actress, I'm a humanitarian in politics who knows Nigeria's problems",
+      "url": "https://www.arise.tv/esther-okereke-im-not-just-an-actress-im-a-humanitarian-in-politics-who-knows-nigerias-problems/",
+      "publisher": "Arise News",
+      "type": "candidate-statement",
+      "published": "2026-08-20",
+      "accessed": "2026-11-28",
+      "categories": [
+        "power",
+        "security",
+        "finance",
+        "leadership",
+        "humanImpact",
+        "experience",
+        "promises"
+      ],
+      "claim": "Interview: target of 25,000MW within 100 days via renewables and decentralised generation; community police trained and equipped within six months; cut 'ghost' parastatals and recover funds; corruption as first priority; self-funded foundations for widows, orphans and people with disabilities; businesses in hospitality, real estate, construction and agriculture.",
+      "verification": "UNVERIFIED",
+      "quality": "medium",
+      "summary": "Candidate's own statements."
+    },
+    {
+      "id": "s5",
+      "title": "2027: NRM inaugurates 38-member presidential campaign council, unveils 6-pillar agenda",
+      "url": "https://nannews.ng/2027-nrm-inaugurates-38-member-presidential-campaign-council-unveils-6-pillar-agenda/",
+      "publisher": "News Agency of Nigeria (NAN)",
+      "type": "news",
+      "published": "2026-10-01",
+      "accessed": "2026-11-28",
+      "categories": [
+        "vision",
+        "leadership",
+        "promises"
+      ],
+      "claim": "Six pillars of the 'Esther Rescue Nigeria Agenda' (governance and accountability; productive economy and employment; human capital; security, justice and cohesion; infrastructure; knowledge economy); 38-member council with Muhammad Garba as Director-General.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s6",
+      "title": "2027: Men have failed Nigeria – presidential candidate",
+      "url": "https://premiumtimesng.com/gender/917043-2027-men-have-failed-nigeria-presidential-candidate.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2026-10-14",
+      "accessed": "2026-11-28",
+      "categories": [
+        "power",
+        "security",
+        "infrastructure",
+        "healthcare",
+        "leadership"
+      ],
+      "claim": "On Channels' Sunrise Daily she named electricity as first priority, insecurity as an immediate priority, routine road maintenance, citizen partnership, and housing and grassroots healthcare as priorities; no costings given.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s7",
+      "title": "Dr. Esther Nkem Okereke – candidate biography",
+      "url": "https://www.nrm.ng/candidates/dr-esther-nkem-okereke/",
+      "publisher": "National Rescue Movement (campaign website)",
+      "type": "candidate-statement",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "humanImpact"
+      ],
+      "claim": "Campaign biography listing BSc, Master's, 'PFD' and 'PhD research in progress' (no institutions), businesses (RavKam Group, Prekenlinks Services Ltd, Aquarava) and self-reported foundation outcomes.",
+      "verification": "UNVERIFIED",
+      "quality": "low",
+      "summary": "Self-published; figures are not independently verified."
+    },
+    {
+      "id": "s8",
+      "title": "Okereke Nkem Esther – candidate profile",
+      "url": "https://ournigeria.ng/officials/okereke-nkem-esther",
+      "publisher": "OurNigeria",
+      "type": "reference",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "integrity"
+      ],
+      "claim": "Reports acting since at least 2009, Kamdera Services Ltd (2015), RavKam Group, Gliding Stars FC (2023), two foundations, a reported University of Abuja master's in International Relations and a doctorate reported as in progress; no court case or investigation found; no public office held.",
+      "verification": "UNVERIFIED",
+      "quality": "medium",
+      "summary": "Aggregator profile; underlying source links not visible in the fetched text."
+    }
+  ],
+  "gaps": [
+    "Obtain INEC Form EC9 to resolve the PhD declaration and confirm institutions.",
+    "Obtain the NRM manifesto or the 24-pillar 'Blueprint for a Rescued Nigeria'.",
+    "Verify company registrations (CAC) and foundation records.",
+    "Find state of origin and date of birth from a reliable source.",
+    "The TheCable Lifestyle interview cited on the profile page returned HTTP 403 and was not re-used."
+  ]
+}

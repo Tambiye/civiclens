@@ -1,0 +1,744 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "moses-olusoji-adebisi",
+  "name": "Moses Olusoji Adebisi",
+  "researchVersion": 1,
+  "status": "INSUFFICIENT_DATA",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Moses Olusoji Adebisi",
+    "commonName": "Moses Adebisi (also 'ThisDaysMoses')",
+    "born": null,
+    "stateOfOrigin": "Osun (reported: Gbongan, Ayedaade LGA)",
+    "party": "Democratic Leadership Alliance (DLA)",
+    "partyHistory": [
+      {
+        "party": "Nigerian Liberty Movement (political association; not registered as a party)",
+        "period": "2024 (founder)",
+        "sourceIds": [
+          "s8"
+        ]
+      },
+      {
+        "party": "Democratic Leadership Alliance (DLA)",
+        "period": "2026 – present (membership start date not found)",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ]
+      }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": false,
+    "education": [
+      {
+        "credential": "First School Leaving Certificate (as declared to INEC)",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "credential": "Senior Secondary School Certificate (as declared to INEC)",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "credential": "BSc (declared to INEC); reported as Human Resource Management, ISCG University, Benin Republic — completion not independently confirmed",
+        "institution": "ISCG University (reported)",
+        "sourceIds": [
+          "s1",
+          "s8"
+        ]
+      }
+    ],
+    "professional": [
+      "Entrepreneur (Thrillers-branded travel and foundation ventures, self-described)",
+      "Founder, Nigerian Liberty Movement (2024)"
+    ]
+  },
+  "career": [
+    {
+      "period": "2022 – 2025",
+      "title": "Director of two UK companies (identity link inferred)",
+      "description": "Companies House filings show a Moses Olusoji Adebisi as director of M&M Thrillers Human Care Ltd (2022; dissolved January 2024) and Thrillers Healthtech Care Ltd (2024; appointments ended May 2025, dissolved October 2025). VeroRecord treats the link to the candidate as an inference.",
+      "kind": "professional",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "period": "2023",
+      "title": "Co-founder, Thrillers Travels",
+      "description": "Reported launch in Lagos on 2 September 2023 with a Canadian work-visa scheme.",
+      "kind": "professional",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "period": "2024",
+      "title": "Founder, Nigerian Liberty Movement",
+      "description": "Political association that sought registration as a party; it was not registered.",
+      "kind": "activism",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "period": "20–21 August 2026",
+      "title": "DLA presidential candidate (substitution)",
+      "description": "Affirmed at DLA substitution primaries (reported in Osun and Lagos) after the withdrawal of the earlier nominee, national chairman Samuel M. Memeh.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s11"
+      ]
+    },
+    {
+      "period": "2026",
+      "title": "On INEC final list of presidential candidates",
+      "description": "Listed with running mate Abubakar Nafisat Usaku.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "period": "August – November 2026",
+      "title": "Party disciplinary dispute",
+      "description": "The DLA announced suspension of his campaign activities and a referral to the EFCC and police; he rejects the suspension and denies impropriety.",
+      "kind": "party",
+      "sourceIds": [
+        "s9",
+        "s10"
+      ]
+    }
+  ],
+  "elections": [
+    {
+      "year": "2027",
+      "office": "President of Nigeria",
+      "party": "DLA",
+      "result": "Pending (election scheduled for 16 January 2027)",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Adebisi has stated a general aim to lower living costs and 'redistribute common wealth', but no economic programme was found.",
+      "analysis": "Leadership (24 August 2026) reports a pledge to redistribute the nation's common wealth with a focus on lowering living costs for poor and vulnerable Nigerians. No measures, costings, fiscal, exchange-rate, subsidy or tax positions were found. OurNigeria also records no reviewed manifesto.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4",
+        "s8"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "A published manifesto or policy document from the candidate or the DLA",
+        "Positions on fiscal, tax, subsidy, trade and exchange-rate policy",
+        "How redistribution would be financed"
+      ]
+    },
+    "security": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He has criticised federal handling of banditry but has not set out a security plan.",
+      "analysis": "In the August 2026 unveiling report, Adebisi blamed successive federal governments for lacking the political will to end banditry in northern states. No proposal on the armed forces, police, funding or institutional reform was found. The security proposals in the same article were made by the party chairman, not the candidate.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Any security policy statement by the candidate",
+        "Positions on police reform, state policing and military funding"
+      ]
+    },
+    "education": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No education policy was found; he describes a self-run digital-literacy outreach that has not been independently documented.",
+      "analysis": "In an Arise interview Adebisi said his organisation took computers and volunteers to rural communities to teach digital skills after JAMB moved to computer-based testing. No dates, scale or independent record of this were found, and he has stated no education policy.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s5",
+        "s6"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Education policy (funding, UBEC, universities, student loans)",
+        "Independent documentation of the digital-literacy outreach"
+      ]
+    },
+    "healthcare": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No healthcare statements were found.",
+      "analysis": "No statement by the candidate on health funding, insurance, hospitals or public-health preparedness was found. A dissolved UK company associated with his name declared residential care as a business activity, but this says nothing about health policy.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Any healthcare policy statement",
+        "Position on national health insurance and primary healthcare funding"
+      ]
+    },
+    "infrastructure": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No infrastructure statements were found.",
+      "analysis": "No roads, rail, housing, water or broadband proposals by the candidate were found in the sources reviewed.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Any infrastructure policy or project priorities",
+        "Financing approach for infrastructure"
+      ]
+    },
+    "power": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No power-sector statements were found.",
+      "analysis": "No statement on electricity generation, transmission, tariffs or the power-sector privatisation framework was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Any power-sector policy statement"
+      ]
+    },
+    "jobs": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He describes past 'empowerment' programmes for market women and youth but has published no jobs plan.",
+      "analysis": "Adebisi says he has run empowerment programmes for low-income market women and young Nigerians and calls himself 'Mr. Empowerment'. These claims come from his own interviews; no scale, funding or outcomes were documented, and no employment policy was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s5",
+        "s6"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "A jobs or employment policy",
+        "Independent documentation of the empowerment programmes he describes"
+      ]
+    },
+    "finance": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No public-finance positions were found.",
+      "analysis": "No statement on borrowing, debt, revenue, budgeting or the cost of governance was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Positions on public debt, revenue and budget discipline"
+      ]
+    },
+    "leadership": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "He has led private ventures and a political association but has not held public office; the DLA has suspended his campaign activities in a disputed internal matter.",
+      "analysis": "Adebisi is reported as founder of the Nigerian Liberty Movement (2024) and of Thrillers-branded ventures. In November 2026 the DLA leadership announced the suspension of his campaign activities, which he rejects. No record of managing a public institution was found. The relationship between the candidate and his party's national leadership is unresolved in the sources reviewed.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Evidence of how he has managed teams, budgets or institutions",
+        "Outcome of the DLA disciplinary process",
+        "Composition of a campaign or policy team"
+      ]
+    },
+    "integrity": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "Two unresolved matters: a party disciplinary referral to the EFCC and police, which he denies, and an unresolved question about his declared age. Neither is a legal finding.",
+      "analysis": "Two matters are on the public record, and neither is a legal finding. First, Vanguard reported on 3 November 2026 that the DLA's national chairman, Samuel Memeh, announced that the party's disciplinary committee, which had invited Adebisi to appear on 30 August 2026, had directed the suspension of all campaign activities associated with his candidacy. The dispute concerns a personal financial undertaking, including an allegedly dishonoured cheque, said to have been made before the 20 August substitution primary. The party said it had referred the matter to the EFCC and the Inspector-General of Police. In remarks relayed from a Punch interview, Adebisi rejected the suspension, said he remains the legitimate candidate, denied financial impropriety, said he had spent more than N90m reviving the party, described an N40m cheque to Memeh as an undated guarantee, and accused Memeh of trying to negotiate with another candidate. As of 28 November 2026, no EFCC or police statement confirming an investigation and no final committee decision were found.\n\nSecond, VeroRecord reported that UK Companies House filings for a director named Moses Olusoji Adebisi give an April 1994 birth month and year. That would not match the age of 35 on INEC's list. The report itself says the identity link is an inference, that Companies House does not verify filings, that the candidate's nomination form was not reviewed, and that no INEC or court finding exists. No asset declaration was found.",
+      "strengths": [
+        "He has publicly responded to the party's allegations, giving his own account of the payments"
+      ],
+      "limitations": [
+        "Both matters rest on party statements, his own denials and an inference from company filings; none has been tested by an investigator or court",
+        "The underlying Punch reports could not be retrieved directly in this pass"
+      ],
+      "unknowns": [
+        "Whether the EFCC or police opened an investigation",
+        "The DLA disciplinary committee's final recommendation",
+        "His date of birth as declared on INEC Form EC9",
+        "Asset declarations"
+      ],
+      "sourceIds": [
+        "s7",
+        "s9",
+        "s10"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "experience": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "No public-office experience. His background is in small private ventures and political organising, much of it self-described.",
+      "analysis": "Adebisi has not held elected or appointed public office, so this category rests on his private and political-organising record, much of which is self-described. INEC's final list records only a First School Leaving Certificate, a Senior Secondary School Certificate and a BSc, and gives his age as 35. OurNigeria reports that he comes from Gbongan in Ayedaade LGA of Osun State, that he declared a BSc in Human Resource Management from ISCG University in Benin Republic, and that he co-founded Thrillers Travels, which launched in Lagos in September 2023 with a Canadian work-visa scheme. The same profile lists him as founder of the Thrillers Human Development Foundation and, in 2024, of the Nigerian Liberty Movement, an association that sought but did not obtain registration as a party.\n\nVeroRecord's summary of UK Companies House filings shows a Moses Olusoji Adebisi as director of two small UK companies, incorporated in 2022 and 2024 and later dissolved after strike-off notices. The report treats the identity link as an inference. NAN described him in August 2026 as a U.S.-based businessman, and he told Arise he had returned from the United States to run. Claims of Harvard study, a fellowship and an honorary doctorate are his own and were not confirmed. None of these roles involved managing public budgets, legislation or a public workforce. He became the DLA candidate through a substitution primary in August 2026, replacing Samuel Memeh.",
+      "strengths": [
+        "Has founded and run small private ventures and a political association"
+      ],
+      "limitations": [
+        "No public-office, legislative or large-organisation management record found",
+        "Several credentials are self-reported only"
+      ],
+      "unknowns": [
+        "Verified academic history",
+        "Size, revenue and outcomes of the businesses and foundation he leads"
+      ],
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s5",
+        "s7",
+        "s8",
+        "s11"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He frames his candidacy around 'liberty' and 'restoring human dignity' without a published programme.",
+      "analysis": "Adebisi presents a 'liberty' agenda, says he has studied China's economic reforms and the American 'liberty agenda', and pledges to restore human dignity. The sources give no description of what these would mean as policy, and OurNigeria found no reviewed manifesto.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s8"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "A published manifesto or policy document from the candidate or the DLA",
+        "How the 'liberty' agenda translates into specific policies"
+      ]
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "The only foreign-related statement found is a reported pledge of 'free visas' to Canada and the UK, which a Nigerian government could not grant on its own.",
+      "analysis": "Arise's interview report says Adebisi would give people free visas to Canada and the UK. Visas for those countries are issued by their governments, so such a pledge could at most mean negotiated arrangements; the transcript is partly garbled and the exact commitment is unclear. No other foreign-policy positions were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s5"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Clarification of the visa statement",
+        "Positions on ECOWAS, trade, diaspora and security cooperation"
+      ]
+    },
+    "humanImpact": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "Self-reported empowerment and digital-literacy activities are not independently documented.",
+      "analysis": "Adebisi describes empowerment of market women, youth programmes and a digital-literacy outreach. OurNigeria reports that Thrillers Travels said in January 2024 it had presented 50 of 106 visas issued under its Canadian scheme. No independent assessment of beneficiaries or outcomes was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s5",
+        "s6",
+        "s8"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Independent records of beneficiaries and outcomes of his programmes",
+        "Registration and accounts of the Thrillers Human Development Foundation"
+      ]
+    },
+    "promises": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Only broad pledges were found: lower living costs, redistribution, restored dignity and a reported visa pledge.",
+      "analysis": "The commitments found are general and have no targets, timelines or costings. They are listed under plans. Whether his campaign continues under DLA backing is itself disputed after the party's November 2026 suspension announcement.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s9"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "A published manifesto or policy document from the candidate or the DLA",
+        "Targets, timelines and costings for any commitment"
+      ]
+    }
+  },
+  "record": [
+    {
+      "id": "rec1",
+      "title": "DLA suspends campaign activities and refers candidate to EFCC and police",
+      "kind": "controversy",
+      "label": "DISPUTED",
+      "period": "August – November 2026",
+      "description": "The DLA alleges a breached personal financial undertaking, including an allegedly dishonoured cheque, made before the 20 August 2026 substitution primary. Adebisi denies impropriety, says he spent over N90m on the party, describes an N40m cheque as an undated guarantee, and accuses the chairman of trying to negotiate with another candidate. No investigative agency statement or court process was found.",
+      "legalStatus": "allegation",
+      "categories": [
+        "integrity"
+      ],
+      "sourceIds": [
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "id": "rec2",
+      "title": "Question over declared age",
+      "kind": "unresolved",
+      "label": "UNVERIFIED",
+      "period": "October 2026",
+      "description": "UK company filings for a director with the same name record an April 1994 birth month/year, inconsistent with INEC's listed age of 35. The identity link is an inference; no INEC or court finding exists.",
+      "categories": [
+        "integrity"
+      ],
+      "sourceIds": [
+        "s7",
+        "s1"
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "id": "pl1",
+      "title": "Lower living costs and redistribute 'common wealth'",
+      "label": "PROMISE",
+      "category": "economy",
+      "outcome": "Lower cost of living for poor and vulnerable Nigerians.",
+      "feasibility": "No method, funding or timeline stated.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "pl2",
+      "title": "Restore human dignity",
+      "label": "PROMISE",
+      "category": "vision",
+      "outcome": "Restore the 'human dignity' he says successive administrations eroded.",
+      "feasibility": "General statement without measurable outcome.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "pl3",
+      "title": "'Free visas' to Canada and the UK (as reported)",
+      "label": "PROMISE",
+      "category": "foreign",
+      "outcome": "Visa access for Nigerians to Canada and the United Kingdom.",
+      "dependencies": "Visa policy is set by the Canadian and UK governments.",
+      "feasibility": "Not within the authority of a Nigerian president; transcript partly garbled.",
+      "sourceIds": [
+        "s5"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "questionId": "r1",
+      "answer": "He names cost of living and banditry as problems but gives no diagnosis or data.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "questionId": "r2",
+      "answer": "No specific solutions were found.",
+      "assessment": "no",
+      "sourceIds": [
+        "s4",
+        "s8"
+      ]
+    },
+    {
+      "questionId": "r3",
+      "answer": "No evidence base was cited.",
+      "assessment": "unknown",
+      "sourceIds": []
+    },
+    {
+      "questionId": "r4",
+      "answer": "No costings were found.",
+      "assessment": "unknown",
+      "sourceIds": []
+    },
+    {
+      "questionId": "r5",
+      "answer": "No timelines were found.",
+      "assessment": "unknown",
+      "sourceIds": []
+    },
+    {
+      "questionId": "r6",
+      "answer": "The reported visa pledge depends on foreign governments; other pledges are too general to assess.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
+      "questionId": "r7",
+      "answer": "Not determinable without specific proposals.",
+      "assessment": "unknown",
+      "sourceIds": []
+    },
+    {
+      "questionId": "r8",
+      "answer": "No risks or trade-offs disclosed.",
+      "assessment": "no",
+      "sourceIds": []
+    },
+    {
+      "questionId": "r9",
+      "answer": "No campaign or policy team was identified; the DLA has suspended his campaign activities, which he disputes.",
+      "assessment": "unknown",
+      "sourceIds": [
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "questionId": "r10",
+      "answer": "No public-office record; private-sector claims are largely self-reported.",
+      "assessment": "unknown",
+      "sourceIds": [
+        "s8"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Presidential and National Assembly Elections for Jan, 2027 – Presidential: Final List of Candidates",
+      "url": "https://www.inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf",
+      "publisher": "Independent National Electoral Commission (INEC)",
+      "type": "electoral",
+      "published": "2026-10",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Lists ADEBISI MOSES OLUSOJI as the DLA presidential candidate, age 35, male, qualifications FSLC, SSCE, BSc; running mate ABUBAKAR NAFISAT USAKU, age 35, female, FSLC, SSCE, BSc.",
+      "verification": "AI_DRAFT",
+      "quality": "high",
+      "summary": "Signed by the INEC Secretary. PDF metadata gives a creation date of 30 October 2026; press reports date the final list to September 2026."
+    },
+    {
+      "id": "s2",
+      "title": "DLA affirms Adebisi as 2027 presidential candidate",
+      "url": "https://nannews.ng/dla/",
+      "publisher": "News Agency of Nigeria (NAN)",
+      "type": "news",
+      "published": "2026-08-22",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "The Lagos DLA affirmed 'U.S.-based businessman' Moses Adebisi as presidential candidate at a substitution primary in Surulere, withdrawing the candidacy of Samuel M. Memeh.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s3",
+      "title": "2027: Osun DLA affirms Ambassador Olusoji as party presidential candidate",
+      "url": "https://leadership.ng/2027-osun-dla-affirms-ambassador-olusoji-as-party-presidential-candidate/",
+      "publisher": "Leadership",
+      "type": "news",
+      "published": "2026-08-20",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "The Osun DLA affirmed Adebisi Moses Olusoji by voice vote at its Osogbo secretariat, with INEC officials monitoring.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s4",
+      "title": "DLA unveils Adebisi as 2027 presidential candidate, vows to restore human dignity",
+      "url": "https://leadership.ng/dla-unveils-adebisi-as-2027-presidential-candidate-vows-to-restore-human-dignity/",
+      "publisher": "Leadership",
+      "type": "news",
+      "published": "2026-08-24",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "security",
+        "vision"
+      ],
+      "claim": "Adebisi pledged to redistribute 'common wealth', lower living costs for poor and vulnerable Nigerians and restore human dignity; he criticised federal handling of banditry without offering a plan.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s5",
+      "title": "Adebisi: I'm here to bring liberty to Nigerians, the chariot of the oppressors is about to sink",
+      "url": "https://www.arise.tv/adebisi-im-here-to-bring-liberty-to-nigerians-the-chariot-of-the-oppressors-is-about-to-sink/",
+      "publisher": "Arise News",
+      "type": "candidate-statement",
+      "published": "2026-08-27",
+      "accessed": "2026-11-28",
+      "categories": [
+        "vision",
+        "foreign",
+        "education",
+        "humanImpact",
+        "experience"
+      ],
+      "claim": "Interview in which Adebisi describes a 'liberty' agenda, says he would give people free visas to Canada and the UK, describes a self-run digital-literacy outreach, says he returned from the United States and holds an honorary doctorate.",
+      "verification": "UNVERIFIED",
+      "quality": "medium",
+      "summary": "Candidate's own statements; the published transcript is partly garbled."
+    },
+    {
+      "id": "s6",
+      "title": "Moses Adebisi: Nigeria's Incoming Youngest President in 2027",
+      "url": "https://www.ghanamma.com/2026/08/27/moses-adebisi-nigerias-incoming-youngest-president-in-2027/",
+      "publisher": "Ghanamma",
+      "type": "news",
+      "published": "2026-08-27",
+      "accessed": "2026-11-28",
+      "categories": [
+        "humanImpact",
+        "experience"
+      ],
+      "claim": "Interview-based report relaying Adebisi's claims of empowerment programmes for market women and youth, a digital literacy campaign, and ongoing PhD study in the United States.",
+      "verification": "UNVERIFIED",
+      "quality": "low",
+      "summary": "Largely self-promotional; claims are not independently verified."
+    },
+    {
+      "id": "s7",
+      "title": "INEC lists the DLA presidential candidate as 35; two UK company filings record a different birth year",
+      "url": "https://verorecord.com/story/inec-lists-the-dla-presidential-candidate-as-35-two-uk-compa",
+      "publisher": "VeroRecord",
+      "type": "investigative",
+      "published": "2026-10-01",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity",
+        "experience"
+      ],
+      "claim": "Companies House filings for a director named Moses Olusoji Adebisi (M&M Thrillers Human Care Ltd, 2022–2024; Thrillers Healthtech Care Ltd, 2024–2025, both dissolved) record a birth month/year of April 1994, inconsistent with INEC's age of 35; the report grades the identity link as an inference and notes no INEC or court finding exists.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s8",
+      "title": "Adebisi Moses Olusoji – candidate profile",
+      "url": "https://ournigeria.ng/officials/adebisi-moses-olusoji",
+      "publisher": "OurNigeria",
+      "type": "reference",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "integrity"
+      ],
+      "claim": "Profile reporting origin in Gbongan, Ayedaade LGA (Osun); declared BSc (Human Resource Management) from ISCG University, Benin Republic; Thrillers Travels launched September 2023; founder of the Nigerian Liberty Movement (2024); no reviewed manifesto.",
+      "verification": "UNVERIFIED",
+      "quality": "medium",
+      "summary": "Aggregator profile; underlying source links were not visible in the fetched text."
+    },
+    {
+      "id": "s9",
+      "title": "2027: DLA suspends Adebisi's presidential campaign, refers him to EFCC, police",
+      "url": "https://www.vanguardngr.com/2026/11/2027-dla-suspends-adebisis-presidential-campaign-refers-him-to-efcc-police/",
+      "publisher": "Vanguard",
+      "type": "news",
+      "published": "2026-11-03",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "The DLA, through national chairman Samuel Memeh, announced that its disciplinary committee (which invited Adebisi on 29–30 August 2026) had directed suspension of his campaign activities over a personal financial undertaking involving an allegedly dishonoured cheque, and referred the matter to the EFCC and the Inspector-General of Police.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s10",
+      "title": "DLA presidential candidate rejects suspension, accuses party chairman of plotting to sell ticket",
+      "url": "https://media.veegil.com/dla-presidential-candidate-rejects-suspension-accuses-party-chairman-of-plotting-to-sell-ticket/",
+      "publisher": "Veegil Media (relaying a Punch interview)",
+      "type": "news",
+      "published": "2026-11",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "Adebisi rejected the suspension, denied financial impropriety, said he spent over N90m reviving the party, said an N40m cheque to Memeh was undated and meant as a guarantee, and accused Memeh of trying to negotiate with another candidate.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    },
+    {
+      "id": "s11",
+      "title": "DLA dismisses female presidential aspirant's allegations of irregularities",
+      "url": "https://dailytrust.com/dla-dismisses-female-presidential-aspirants-allegations-of-irregularities/",
+      "publisher": "Daily Trust",
+      "type": "news",
+      "published": "2026-06-02",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Before the substitution, the DLA had named lawyer Samuel Memeh as its presidential candidate.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    }
+  ],
+  "gaps": [
+    "Obtain the candidate's INEC Form EC9 and affidavit (declared date of birth, education institutions).",
+    "Track the outcome of the DLA disciplinary process and confirm whether the EFCC or police opened any investigation.",
+    "Retrieve the original Punch reports on the dispute (4 November 2026) and Adebisi's response; punchng.com could not be fetched in this pass.",
+    "Confirm or rule out that the Companies House director is the candidate.",
+    "Find any manifesto or policy document from the candidate or the DLA.",
+    "Verify claimed credentials (honorary doctorate, Harvard study, fellowship) and the Thrillers businesses' registration in Nigeria (CAC)."
+  ]
+}

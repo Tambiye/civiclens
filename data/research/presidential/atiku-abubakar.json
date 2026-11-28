@@ -1,0 +1,1916 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "atiku-abubakar",
+  "name": "Atiku Abubakar",
+  "researchVersion": 1,
+  "status": "RESEARCHED",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Atiku Abubakar",
+    "commonName": "Atiku",
+    "born": "1946-11-25",
+    "stateOfOrigin": "Adamawa",
+    "party": "African Democratic Congress (ADC)",
+    "partyHistory": [
+      {
+        "party": "Peoples Democratic Party (PDP)",
+        "period": "1999-2006 (as Vice President on the PDP ticket)",
+        "sourceIds": [
+          "s4"
+        ]
+      },
+      {
+        "party": "Action Congress (AC)",
+        "period": "2006-2007 (presidential candidate)",
+        "sourceIds": [
+          "s4"
+        ]
+      },
+      {
+        "party": "Peoples Democratic Party (PDP)",
+        "period": "candidate in 2019 and 2023; resigned by letter dated 14 July 2025",
+        "sourceIds": [
+          "s7",
+          "s8",
+          "s10"
+        ]
+      },
+      {
+        "party": "African Democratic Congress (ADC)",
+        "period": "November 2025-present",
+        "sourceIds": [
+          "s11",
+          "s12"
+        ]
+      }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": true,
+    "education": [
+      {
+        "credential": "Secondary education",
+        "institution": "Adamawa Provincial Secondary School, Yola",
+        "year": "1960-1965",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "credential": "Diploma in Law",
+        "institution": "Ahmadu Bello University, Zaria",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "credential": "Master's degree in International Relations",
+        "institution": "Anglia Ruskin University, Cambridge",
+        "year": "2021",
+        "sourceIds": [
+          "s2"
+        ]
+      }
+    ],
+    "professional": [
+      "Nigeria Customs Service officer, 1969-1989, retired as Deputy Director",
+      "Businessman; co-founder of Intels (Integrated Logistics Services Nigeria Ltd), stake divested 2018-2020",
+      "Founder of the American University of Nigeria, Yola"
+    ]
+  },
+  "career": [
+    {
+      "period": "1969-1989",
+      "title": "Nigeria Customs Service",
+      "description": "Joined the Customs and Excise Department in 1969 and rose to Deputy Director before retiring in 1989 after about 20 years.",
+      "kind": "professional",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "period": "1980s-2020",
+      "title": "Business interests including Intels",
+      "description": "Described as chairman of seven companies before becoming Vice President. Co-founded the oil and gas logistics firm Intels; says he sold his interest to parent company Orlean Invest in a phased sale from 2018, made public in January 2021.",
+      "kind": "professional",
+      "sourceIds": [
+        "s1",
+        "s26"
+      ]
+    },
+    {
+      "period": "1999-2007",
+      "title": "Vice President of Nigeria",
+      "description": "Served two terms as Vice President under President Olusegun Obasanjo and chaired the National Council on Privatisation, which oversaw the sale of state enterprises.",
+      "kind": "political-office",
+      "sourceIds": [
+        "s1",
+        "s4",
+        "s27"
+      ]
+    },
+    {
+      "period": "2002-2007",
+      "title": "Founder, ABTI Academy and American University of Nigeria",
+      "description": "Set up ABTI Academy (2002); the university was licensed as ABTI University in 2003, admitted its first 124 students in 2005/2006 and was renamed American University of Nigeria in 2007.",
+      "kind": "other",
+      "sourceIds": [
+        "s3",
+        "s2"
+      ]
+    },
+    {
+      "period": "2006-2007",
+      "title": "Action Congress presidential candidate",
+      "description": "Became the Action Congress presidential candidate after his rift with President Obasanjo; was disqualified by INEC and restored to the ballot by the Supreme Court days before the April 2007 poll.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "period": "2018-2019",
+      "title": "PDP presidential candidate (2019)",
+      "description": "Contested the February 2019 election on the PDP platform with the policy document 'Let's Get Nigeria Working Again'.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s7",
+        "s33"
+      ]
+    },
+    {
+      "period": "2022-2023",
+      "title": "PDP presidential candidate (2023)",
+      "description": "Contested the February 2023 election on the PDP platform with the policy document 'My Covenant with Nigerians'; his petition was dismissed by the Supreme Court in October 2023.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s8",
+        "s9",
+        "s34"
+      ]
+    },
+    {
+      "period": "July-November 2025",
+      "title": "Exit from PDP and entry into ADC",
+      "description": "Resigned from the PDP by letter dated 14 July 2025 and formally joined the African Democratic Congress in November 2025.",
+      "kind": "party",
+      "sourceIds": [
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "period": "2026",
+      "title": "ADC presidential nominee for 2027 (disputed)",
+      "description": "Declared winner of the ADC presidential primary in May 2026 with Rotimi Amaechi named running mate in June 2026. On 5 November 2026 a Federal High Court judgment set aside the party leadership and its nominations; the ADC has appealed.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s12",
+        "s13",
+        "s15",
+        "s17"
+      ]
+    }
+  ],
+  "elections": [
+    {
+      "year": "2007",
+      "office": "President",
+      "party": "Action Congress",
+      "result": "Lost; placed third behind Umaru Yar'Adua (PDP) and Muhammadu Buhari (ANPP) with roughly 7% of the vote according to reference compilations (verify against INEC records).",
+      "sourceIds": [
+        "s6",
+        "s4"
+      ]
+    },
+    {
+      "year": "2019",
+      "office": "President",
+      "party": "PDP",
+      "result": "Lost; 11,262,978 votes to Muhammadu Buhari's 15,191,847 (INEC declaration, 27 February 2019). Results disputed by the PDP.",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "year": "2023",
+      "office": "President",
+      "party": "PDP",
+      "result": "Lost; 6,984,520 votes, second to Bola Tinubu's 8,794,726. Election petition dismissed by the Supreme Court on 26 October 2023.",
+      "sourceIds": [
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "year": "2026",
+      "office": "ADC presidential primary (for 2027)",
+      "party": "ADC",
+      "result": "Declared winner with 1,846,370 votes against Rotimi Amaechi's 504,117, per the party; Amaechi initially rejected the outcome before being named running mate.",
+      "sourceIds": [
+        "s13",
+        "s12"
+      ]
+    },
+    {
+      "year": "2027",
+      "office": "President",
+      "party": "ADC",
+      "result": "Pending. Nomination voided by a Federal High Court judgment of 5 November 2026; appeal and stay application filed; INEC had not formally delisted him as of 19 November 2026.",
+      "sourceIds": [
+        "s15",
+        "s17",
+        "s18",
+        "s19"
+      ]
+    }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "moderate",
+      "basis": "mixed",
+      "summary": "As Vice President he chaired the privatisation council during 1999-2007; his 2019 and 2023 plans were market-oriented, while his 2027 platform adds a refining-linked fuel subsidy that departs from his earlier position.",
+      "analysis": "Atiku's economic record comes from his eight years as Vice President, when he chaired the National Council on Privatisation (NCP). A 2009 BusinessDay series counted 81 state enterprises privatised between 1999 and March 2007. It credited the programme with reducing the drain of public funds and with port concessions that cut surcharges, while noting recurring controversies over many sales. Macroeconomic policy in that period, including the 2005 Paris Club debt deal, was set by President Obasanjo, the finance ministry and the CBN, so the Vice President's personal share of national outcomes cannot be isolated.\n\nHis two previous platforms were consistently pro-market. The 2018 document targeted a US$900 billion GDP by 2025 and called for selling all four refineries. The 2022 'My Covenant with Nigerians' agenda promised to end interventionist exchange-rate management and to break government monopolies in refining, rail and power transmission.\n\nThe 2027 ADC platform keeps the investment-led language, but in August 2026 Atiku said he would restore a petrol subsidy. His camp describes the 'Fuel Affordability Plan' as a capped, independently audited support for domestic refining with exit conditions. No cost, cap or legal framework has been published. The APC campaign has pointed out that in 2022 he called the subsidy system fraudulent. Whether the plan would fit within the Petroleum Industry Act and federal revenue is not yet known.",
+      "strengths": [
+        "Direct experience chairing a national privatisation programme",
+        "Earlier platforms (2019, 2023) contained quantified targets",
+        "Consistent public preference for private-sector-led growth"
+      ],
+      "limitations": [
+        "Outcomes of the 1999-2007 privatisations remain contested and lack an independent comprehensive audit in the sources found",
+        "2027 subsidy proposal has no published cost, cap or funding source",
+        "2027 position on fuel subsidy reverses his 2022-2023 stance"
+      ],
+      "unknowns": [
+        "Full 2027 ADC manifesto text and costing",
+        "Exchange-rate and tax policy for 2027"
+      ],
+      "metrics": [
+        {
+          "label": "State enterprises privatised",
+          "value": "81",
+          "period": "1999-March 2007",
+          "note": "BusinessDay count; covers the NCP era as a whole, not only decisions attributable to the Vice President",
+          "sourceIds": [
+            "s29"
+          ]
+        },
+        {
+          "label": "2019 GDP target",
+          "value": "US$900 billion by 2025",
+          "period": "2018 policy document",
+          "sourceIds": [
+            "s33"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s29",
+        "s27",
+        "s32",
+        "s33",
+        "s34",
+        "s37",
+        "s38",
+        "s39",
+        "s12"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "security": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "No command record: a Vice President does not control the armed forces or police. His 2027 security offer is recruitment, equipment, intelligence-led operations and decentralised structures, with a pledge to end insecurity within a year.",
+      "analysis": "Atiku has never held authority over Nigeria's security forces. Under the constitution the President is commander-in-chief, and the Vice President's security role during 1999-2007 was advisory and through councils, so his security record cannot be judged on outcomes from that period. Assessment therefore rests on proposals.\n\nAt the ADC screening on 20 May 2026 his aides described a security reform agenda built on intelligence-led operations, better inter-agency coordination, decentralised security structures and 'stronger political will'. His acceptance speech on 27 May 2026 added 'massive new recruitment' into the armed forces, police and other agencies, with modern equipment, training, welfare and intelligence sharing. In an August 2026 interview reported by Legit.ng he said he would 'not take more than one year' to end insecurity, linking crime partly to youth unemployment and promising funding for young entrepreneurs. His 2022 agenda had also proposed restoring birth registration and decentralising security institutions.\n\nThe proposals name directions rather than mechanisms. No recruitment figures, cost estimates or legal route for decentralised policing appear in the 2026 sources found. State or local policing would require constitutional amendment by the National Assembly and state assemblies. A 12-month deadline for ending insecurity is not supported by any published plan, and outcomes also depend on states, communities and regional conditions in the Sahel.",
+      "strengths": [
+        "Recognises intelligence, coordination and welfare gaps",
+        "Links security to youth employment",
+        "Consistent support for decentralised security since 2022"
+      ],
+      "limitations": [
+        "No executive security record to assess",
+        "No published numbers, costs or legislative pathway",
+        "One-year timeline lacks supporting detail"
+      ],
+      "unknowns": [
+        "Whether he backs state police by constitutional amendment, and how it would be designed",
+        "Planned defence and police budgets"
+      ],
+      "sourceIds": [
+        "s14",
+        "s12",
+        "s40",
+        "s34"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Founded the private American University of Nigeria in Yola; his 2027 pledge is free and compulsory primary and secondary education, without published costing.",
+      "analysis": "Atiku's main record in education is private, not governmental. He set up ABTI Academy in 2002. The university was licensed as ABTI University in 2003, admitted its first 124 students in 2005/2006 and was renamed the American University of Nigeria (AUN) in 2007. AUN graduated its pioneer class of 92 in 2009 and names him as its founder. The 2010 US Senate investigation listed AUN among the US accounts that received funds it examined (see integrity), a context relevant to how the institution was financed. No independent data on AUN's finances or outcomes was found.\n\nAs Vice President he had no portfolio responsibility for federal education policy. His policy proposals are therefore the main material. The 2018 plan proposed allocating 25% of the budget to education and putting privatisation proceeds into an education and health fund. The 2022 agenda promised skills for a science and technology economy without figures. In May 2026 he pledged to 'implement free and compulsory education at the primary and secondary levels', along with staffing, buildings, teacher welfare and skills training.\n\nBasic education is already free and compulsory in law under the Universal Basic Education framework, and secondary schools are largely run by states. Delivering the pledge would depend on federal transfers and state cooperation. No costing, UBEC funding plan or position on university funding and lecturer strikes was found in 2026 sources.",
+      "strengths": [
+        "Built and sustained a private university over two decades",
+        "Has proposed explicit budget shares for education (2019)"
+      ],
+      "limitations": [
+        "No public-sector education record",
+        "2027 pledge is uncosted and overlaps state responsibilities"
+      ],
+      "unknowns": [
+        "2027 education budget share",
+        "Position on tertiary funding, student loans and ASUU disputes"
+      ],
+      "sourceIds": [
+        "s3",
+        "s2",
+        "s33",
+        "s34",
+        "s12",
+        "s20"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "healthcare": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "No health-sector executive record; proposals emphasise primary healthcare and prevention, with a 2019 commitment to 15% of the budget for health.",
+      "analysis": "No record was found of Atiku directing federal health policy as Vice President, and he has not held a health portfolio, so this category rests on his proposals.\n\nIn his January 2019 Al Jazeera article summarising the 'Let's Get Nigeria Working Again' document, he committed to allocating 15% of the budget to health, close to the Abuja Declaration benchmark, and to putting privatisation proceeds into a fund for education and health. Those commitments did not set out how much revenue privatisation would raise or how the target would be reached against debt-service pressure.\n\nFor 2027, his acceptance speech of 27 May 2026 promised to 'make massive investments in primary healthcare' with an emphasis on prevention. It also pledged to 'properly equip and staff' existing medical centres of excellence, establish new ones where needed and offer incentives for private world-class facilities. The speech said a fuller platform with targets and timelines would follow, but no detailed ADC health document was found as of November 2026.\n\nThe 2027 commitments do not yet address health insurance coverage under the National Health Insurance Authority Act, health-worker emigration, or the federal-state split of responsibility for primary healthcare centres. Because primary care is delivered largely by states and local governments, federal investment would depend on counterpart funding and intergovernmental arrangements.",
+      "strengths": [
+        "Explicit 15% budget-share target in 2019",
+        "Prioritises prevention and primary care"
+      ],
+      "limitations": [
+        "No executive health record",
+        "2027 commitments are general and uncosted"
+      ],
+      "unknowns": [
+        "Health insurance plans",
+        "Health workforce retention measures",
+        "Whether the 15% target carries into 2027"
+      ],
+      "sourceIds": [
+        "s33",
+        "s12"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "infrastructure": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "His infrastructure record runs through the privatisation and concession programme he chaired; past platforms favoured private capital, but no 2027 infrastructure targets have been published.",
+      "analysis": "Atiku did not run a federal works ministry, and the Vice President does not award road or rail contracts. His closest infrastructure record is the NCP-supervised privatisation and concession programme. BusinessDay (2009) reported that port concessions concluded under the Bureau of Public Enterprises cut delays and surcharges by more than N23 billion a year. Some legacy assets remain disputed. In April 2026 President Tinubu, without naming him, questioned whether the steel company privatised in Delta still functions. Atiku's office replied by listing firms it considers successes, such as Oando (formerly Unipetrol), Conoil, Ardova (formerly African Petroleum), Indorama Eleme Petrochemicals, Benue Cement and Transcorp Hilton. Neither side published performance data, and no independent post-privatisation audit of these assets was found.\n\nHis platforms rely on private capital. The 2018 plan aimed to raise Nigeria's infrastructure stock from under 30% of GDP to about 50% by 2025 and 70% by 2030. The 2022 agenda proposed ending government monopolies in refining, rail and power transmission. No comparable 2027 figures were found. Financing assumptions, project lists and the treatment of inherited projects are not yet available for the ADC campaign.\n\nEarlier proposals named target ratios but did not identify projects, costs or sequencing, so feasibility cannot yet be assessed.",
+      "strengths": [
+        "Experience structuring concessions and private participation",
+        "Consistent preference for private finance in infrastructure"
+      ],
+      "limitations": [
+        "Mixed and contested record of privatised industrial assets",
+        "No 2027 project list, cost or timeline"
+      ],
+      "unknowns": [
+        "Approach to ongoing federal projects he would inherit",
+        "Use of public-private partnerships versus borrowing in 2027"
+      ],
+      "sourceIds": [
+        "s29",
+        "s27",
+        "s28",
+        "s33",
+        "s34"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "power": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "The privatisation council he chaired had a statutory role in the 2005 power-sector reform law; his 2019 plan targeted 20,000MW by 2025, while 2027 statements identify the energy crisis without specific targets.",
+      "analysis": "The Electric Power Sector Reform Act 2005 restructured NEPA into the Power Holding Company of Nigeria and set up the regulator NERC. It gave the National Council on Privatisation, which Atiku chaired as Vice President, statutory functions in vesting NEPA's assets in successor companies. The council's reform implementation work dates to 1999-2001. The sale of the successor companies was completed only in 2013, under a later administration, so the results of the privatised power market cannot be credited to or blamed on his tenure alone. Generation investment in 1999-2007, including the National Integrated Power Projects, was directed by the presidency and ministries, and the sources found do not record his personal role in those decisions.\n\nIn 2019 he called power reform a 'critical policy priority' and targeted generation of 'up to 20,000MW' by 2025, without a published financing model. In his May 2026 acceptance speech he said 'the provision of electricity is a minimum requirement for industrialization' and named the energy crisis as central, but gave no capacity, tariff or transmission targets.\n\nThe 2023 Electricity Act now lets states regulate their own electricity markets, which changes what a president can deliver. His plans for tariffs, grid investment and gas supply in that framework are not yet documented.",
+      "strengths": [
+        "Institutional familiarity with the reform framework created under the NCP",
+        "Identifies electricity as a precondition for industrialisation"
+      ],
+      "limitations": [
+        "No measurable 2027 target",
+        "2019 target lacked a financing plan"
+      ],
+      "unknowns": [
+        "Position on cost-reflective tariffs and the debt owed to generation companies",
+        "Plans for transmission and gas-to-power"
+      ],
+      "sourceIds": [
+        "s30",
+        "s33",
+        "s12"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "jobs": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "His jobs offer centres on a US$10 billion fund for young entrepreneurs and investment incentives; the mechanism, source of funds and job targets are unpublished.",
+      "analysis": "No verified employment figures exist for Atiku's public tenure, and national job outcomes in 1999-2007 cannot be attributed to the Vice President. His private businesses, including Intels and the American University of Nigeria, employ people, but no audited headcount was found.\n\nHis job-creation proposals have repeatedly centred on a US$10 billion fund. In July 2022 he proposed an Economic Stimulus Fund of about US$10 billion within his first 100 days to support MSMEs, agriculture and manufacturing. During that campaign he said refinery sales would finance it. On 29 August 2026, as the ADC candidate, he announced a US$10 billion financing programme for startups and young entrepreneurs, aiming to move youth 'from unemployment to productivity, and from palliatives to prosperity'. The 2026 announcement did not state the funding source, delivery institution, eligibility rules or expected number of jobs. It also did not say whether this is the same instrument as the 2022 fund.\n\nHis acceptance speech promised to remove bottlenecks to investment and provide incentives. In the August 2026 security interview he linked youth unemployment to crime. A US$10 billion commitment is large compared with federal revenue in dollar terms, and its feasibility depends on exchange rates, borrowing limits and whether privatisation proceeds are still the intended source. None of these questions has been answered in the material found.",
+      "strengths": [
+        "Specific headline amount repeated across two campaigns",
+        "Targets MSMEs and young founders"
+      ],
+      "limitations": [
+        "No funding source, delivery mechanism or job target published for 2027",
+        "No public-office employment record"
+      ],
+      "unknowns": [
+        "Delivery vehicle (Bank of Industry, a new fund, commercial banks)",
+        "Expected jobs per dollar and evaluation plan"
+      ],
+      "sourceIds": [
+        "s35",
+        "s36",
+        "s12",
+        "s40"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "finance": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "His tenure overlapped with the 2005 Paris Club debt exit, which the finance ministry led. Earlier platforms set fiscal rules, but the 2027 subsidy and fund pledges come without cost estimates.",
+      "analysis": "During Atiku's vice presidency Nigeria reached the October 2005 Paris Club agreement. About US$18 billion of roughly US$30 billion owed to Paris Club creditors was cancelled, and Nigeria paid US$12.4 billion to clear the rest. The negotiation was led by President Obasanjo and the finance ministry, and the sources found do not document a personal role for Atiku. Privatisation proceeds were the fiscal channel more directly under his council. BusinessDay reported more than N500 billion realised from transactions in 2005 and 2006 alone. No reconciled account of total proceeds and their use, attributable to the NCP era, was found.\n\nHis 2018 plan proposed fiscal rules: recurrent spending capped at 45% of the budget, 25% for education and 15% for health, and appropriating the premium between official and parallel exchange rates. For 2027 he has criticised external borrowing of about US$30 billion under the current government and said debt policy 'will change', without a published borrowing rule.\n\nTwo 2027 pledges would add spending: the refining-linked fuel subsidy and a US$10 billion startup fund. In September 2026 the APC campaign council asked him to publish the subsidy's projected cost, ceiling, funding source and fraud safeguards. No answer with figures was found. Without costing, the fiscal effect of his 2027 programme cannot be estimated.",
+      "strengths": [
+        "Has previously proposed explicit fiscal rules",
+        "Critique of borrowing is consistent with earlier platforms"
+      ],
+      "limitations": [
+        "Major 2027 spending pledges are uncosted",
+        "No reconciled record of privatisation proceeds attributable to his council"
+      ],
+      "unknowns": [
+        "2027 deficit and borrowing targets",
+        "Revenue measures to fund the subsidy and startup fund"
+      ],
+      "metrics": [
+        {
+          "label": "Paris Club debt cancelled",
+          "value": "about US$18 billion of about US$30 billion",
+          "period": "October 2005",
+          "note": "Led by the finance ministry and presidency; not attributed to the Vice President",
+          "sourceIds": [
+            "s32"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s32",
+        "s29",
+        "s33",
+        "s12",
+        "s38",
+        "s37",
+        "s36"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "leadership": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "An eight-year Vice President who chaired the privatisation council, later broke with President Obasanjo, and in 2025-2026 helped assemble an opposition coalition whose leadership is now in court.",
+      "analysis": "The leadership evidence comes from three periods. As Vice President (1999-2007) Atiku chaired the National Council on Privatisation, a body that took binding decisions on asset sales, and his allies describe him as head of the economic team in that period. A Vice President acts by delegation, however, and the President retained final authority. His relationship with Obasanjo broke down when, by Al Jazeera's account, he helped block Obasanjo's attempt to amend the constitution for a third term. The government-created PTDF panel and his disqualification by INEC followed. Obasanjo's later expressions of regret over backing him are cited by opponents such as FCT Minister Nyesom Wike.\n\nThe second period is party management. He has changed platforms several times, most recently leaving the PDP in July 2025 and joining the ADC coalition in November 2025. In 2026 he won a contested direct primary. Rotimi Amaechi, the runner-up, first rejected the result and was then named his running mate, a reconciliation some party members, such as Kenneth Okonkwo, opposed.\n\nThe third is the current legal crisis. The November 2026 judgment arose from a dispute over the David Mark-led national leadership, not over Atiku personally. Its outcome will show whether the coalition can secure its ticket on appeal. There is no record of him leading a cabinet as head of government.",
+      "strengths": [
+        "Long experience at the top of federal government",
+        "Demonstrated coalition-building and reconciliation after the primary"
+      ],
+      "limitations": [
+        "Has never been head of government",
+        "Repeated party switches and a fractured relationship with his former principal",
+        "Current ticket depends on the outcome of party leadership litigation"
+      ],
+      "unknowns": [
+        "Likely cabinet composition and economic team",
+        "Independent assessments of his NCP chairmanship"
+      ],
+      "sourceIds": [
+        "s4",
+        "s27",
+        "s28",
+        "s10",
+        "s11",
+        "s13",
+        "s15",
+        "s17"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "integrity": {
+      "evidence": "strong",
+      "basis": "record",
+      "summary": "Several domestic and foreign inquiries have examined matters linked to him or his former wife: PTDF, the Jefferson case, a 2010 US Senate report, Siemens and a 2026 Mambilla arbitration. He has not been convicted of any offence in any of them and denies wrongdoing. An EFCC probe was reported reopened in October 2026.",
+      "analysis": "PTDF (2006-2007). An EFCC special audit and an administrative panel chaired by Attorney-General Bayo Ojo said he improperly approved the placement of US$20 million in Petroleum Technology Development Fund money at Trans International Bank. The government filed an 18-count charge at the Code of Conduct Tribunal in September 2006. The courts held that it could not proceed against a sitting Vice President. A Senate ad hoc committee reported procedural lapses but no direct evidence of personal enrichment. INEC disqualified him in 2007, and the Supreme Court ruled on 16 April 2007 that INEC lacked that power. He called the reports a politically motivated effort to stop his candidacy. In October 2026 Vanguard reported that the EFCC had reopened the matter after a petition. No charge had been reported.\n\nUnited States. Former Congressman William Jefferson was convicted in 2009. Trial evidence showed he discussed paying Atiku US$100,000 over an iGate venture. Atiku was not charged. A 2010 US Senate Permanent Subcommittee report said his then-wife Jennifer Douglas helped bring more than US$40 million in suspect funds into the US from 2000 to 2008. That included payments Siemens told the subcommittee it made to her account. Neither he nor Douglas has faced US criminal charges. In 2019 he visited the US under a reported temporary waiver.\n\nMambilla (2026). An ICC arbitral tribunal called a 2003 US$500,000 payment to Douglas a 'significant red flag'. It also found no evidence he used his office to help the contractor. Atiku's position is that 'suspect' funds are not findings and that no court has found him guilty.",
+      "strengths": [
+        "No conviction or adverse court judgment against him personally in any matter found",
+        "He has issued detailed public responses to the allegations"
+      ],
+      "limitations": [
+        "Multiple official inquiries in two countries raised concerns about funds linked to his household",
+        "A domestic investigation was reported reopened in 2026",
+        "No public asset declaration found"
+      ],
+      "unknowns": [
+        "Outcome of the reopened EFCC inquiry",
+        "Code of Conduct Bureau asset declarations from 1999-2007"
+      ],
+      "sourceIds": [
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s4",
+        "s5",
+        "s24",
+        "s25"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "experience": {
+      "evidence": "strong",
+      "basis": "record",
+      "summary": "Twenty years in customs, eight years as Vice President, a long business career and five presidential campaigns, but no service as a president, governor or legislator.",
+      "analysis": "Atiku's résumé combines three tracks. In the civil service, he joined the Customs and Excise Department in 1969 and retired as Deputy Director in 1989, with management and drug-enforcement training abroad. In business, he co-founded the logistics company Intels (originally Nicotes), which grew into a major oil and gas services firm, and he chaired several companies before 1999. He says he fully divested from Intels in a phased sale ending in 2020. He also founded ABTI Academy and the American University of Nigeria.\n\nIn government, he served as Vice President from 1999 to 2007. That role gave him a seat at the centre of federal decision-making, chairmanship of the privatisation council and exposure to fiscal and economic coordination. Executive authority rested with the President, so the role is not equivalent to running the government. He has not served as president, governor, minister or legislator.\n\nHe has also contested the presidency repeatedly: the Action Congress candidate in 2007 (third), the PDP candidate in 2019 (second with about 11.3 million votes) and the PDP candidate in 2023 (second with about 7 million votes). He is now the disputed ADC nominee for 2027. This gives him long campaign and coalition experience. At 80 he would be among the oldest candidates to take office in Nigeria, a factor voters may weigh but one this file does not score.",
+      "strengths": [
+        "Eight years as Vice President including chairing the NCP",
+        "Long private-sector and civil-service careers"
+      ],
+      "limitations": [
+        "No experience as head of an executive government",
+        "Most VP-era decisions were collective or presidential and are hard to attribute"
+      ],
+      "unknowns": [
+        "Independent evaluation of his business management record"
+      ],
+      "sourceIds": [
+        "s1",
+        "s26",
+        "s3",
+        "s4",
+        "s7",
+        "s8",
+        "s12"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "The 2027 vision is an 'affordability' and production agenda: cheaper fuel, a youth enterprise fund, security recruitment, free basic and secondary schooling, primary healthcare and restructuring. A full costed manifesto was not found.",
+      "analysis": "Atiku has published detailed policy documents for past elections. 'Let's Get Nigeria Working Again' (2018) was described as running to 180 pages. 'My Covenant with Nigerians' (2022) was a 74-page update organised around unity, security, the economy, education and a restructured federation. Both set some numeric targets: GDP, power output, budget shares and infrastructure ratios.\n\nFor 2027 the platform has so far been set out in speeches and statements, not a single document. Its main themes are: making Nigeria 'affordable again' through a refining-linked fuel subsidy; a US$10 billion startup fund; recruiting and equipping security personnel; ending insecurity within a year; free and compulsory primary and secondary education; primary healthcare investment; reduced external borrowing; constitutional restructuring that devolves resources to states; and re-engaging the Sahel states that left ECOWAS. The party's own blueprint adds a production-driven economy, food security as national security and electoral independence from the executive. In his acceptance speech he promised 'clear national plans with set targets and timelines' to follow.\n\nThe main tension is between the market-oriented 2019 and 2023 platforms and the 2027 subsidy pledge. The other open question is feasibility: the larger promises have no published costing, and restructuring requires constitutional amendment. Feasibility will remain hard to assess until a full costed manifesto appears.",
+      "strengths": [
+        "Track record of publishing detailed policy documents",
+        "Platform covers most national policy areas"
+      ],
+      "limitations": [
+        "2027 commitments are largely uncosted",
+        "Internal tension between deregulation history and subsidy pledge"
+      ],
+      "unknowns": [
+        "Full ADC 2027 manifesto",
+        "Sequencing and first-100-days plan"
+      ],
+      "sourceIds": [
+        "s33",
+        "s34",
+        "s12",
+        "s14",
+        "s36",
+        "s37",
+        "s40"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Favours diplomacy over force in the Sahel: he opposed ECOWAS military action in Niger in 2023 and now proposes to bring Niger, Mali and Burkina Faso back into ECOWAS and revive ECOMOG. His own US access has been limited by legacy investigations.",
+      "analysis": "As Vice President, Atiku represented Nigeria abroad at times. Foreign policy in 1999-2007 was directed by President Obasanjo, and no specific diplomatic initiative attributable to Atiku was documented in the sources found.\n\nHis positions since 2023 are clearer. After the July 2023 coup in Niger he warned that ECOWAS 'should not travel the road of military hostilities', calling for diplomatic engagement and sustained dialogue. In an August 2026 interview he said he would seek to bring Niger, Burkina Faso and Mali back into ECOWAS. He argued that Nigeria's ties with Niger should not be broken by its military government, and proposed reviving the ECOWAS Monitoring Group (ECOMOG) to strengthen regional counter-terrorism cooperation. He partly blamed the bloc's split on the stance taken while President Tinubu chaired ECOWAS. No written foreign-policy framework, trade strategy or approach to major partners was found.\n\nHis relationship with the United States carries a specific constraint. Reuters, as reported by ThisDay, said his January 2019 visit to Washington was possible only through a temporary waiver of a travel ban linked to older bribery inquiries, sought with help from lobbyists. Officials did not publicly describe the basis for the restriction. Neither he nor his former wife has faced US charges. Whether he could travel freely to the US as president is not established in public sources.",
+      "strengths": [
+        "Consistent preference for regional diplomacy",
+        "Specific proposal on ECOWAS reintegration and ECOMOG"
+      ],
+      "limitations": [
+        "No documented foreign-policy record from the vice presidency",
+        "Reported US travel restrictions could complicate relations"
+      ],
+      "unknowns": [
+        "Trade, investment and AfCFTA positions",
+        "Current US visa status"
+      ],
+      "sourceIds": [
+        "s41",
+        "s40",
+        "s24"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "humanImpact": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Household-level effects of his VP-era decisions are not documented. His 2027 pitch targets cost of living through cheaper fuel and youth funds, with distributional effects not yet analysed.",
+      "analysis": "Measuring how Atiku's past decisions affected households is difficult. The privatisation programme he chaired changed ownership of companies that employed many workers. The BusinessDay series noted pension shortfalls at NITEL and NICON before sale, but no study was found that traces job losses, pension settlements or service prices back to specific NCP decisions. Opponents argue that many privatised assets stopped working, while his office points to companies that still operate. Neither side has offered household-level evidence.\n\nHis 2027 campaign is framed around affordability. The ADC presents the fuel plan as relief for households facing petrol prices after the 2023 subsidy removal. Party statements cite a goal of about N600 per litre, and the campaign calls it a temporary, audited support for local refining. Supporters say it would lower transport and food costs. Critics, including the APC campaign council, ask who would receive the support, how diversion would be prevented and what it would cost. They also note that he called the old subsidy regime fraudulent in 2022. A subsidy paid to refiners helps households only if lower costs reach the pump, which the proposal does not yet explain.\n\nOther pledges, including free secondary schooling, primary healthcare spending and the youth fund, could matter to low-income families, but no targeting or poverty-impact analysis has been published.",
+      "strengths": [
+        "Places cost of living and youth unemployment at the centre of the platform"
+      ],
+      "limitations": [
+        "No household-level evidence on the effects of VP-era privatisation",
+        "Subsidy's pass-through to consumers is unexplained"
+      ],
+      "unknowns": [
+        "Targeting of social spending",
+        "Independent estimate of the subsidy's distributional effects"
+      ],
+      "sourceIds": [
+        "s29",
+        "s27",
+        "s37",
+        "s38",
+        "s39",
+        "s12"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "promises": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "As an aspirant he has no delivery record in the office sought. His 2027 promises are clear on direction but mostly lack costs, mechanisms and legislative pathways, and some revise earlier positions.",
+      "analysis": "Atiku has never held the presidency, so there is no promise-delivery record to track. This category instead assesses how specific his commitments are and whether they are consistent over time.\n\nMore specific commitments: a US$10 billion startup and entrepreneur financing programme; free and compulsory primary and secondary education; recruitment and equipment for the armed forces and police; ending insecurity within one year; returning Niger, Mali and Burkina Faso to ECOWAS and reviving ECOMOG; and a fuel affordability plan that his camp says is capped, independently audited and has exit conditions.\n\nLess specific commitments: removing investment bottlenecks, empowering states through restructuring, primary healthcare investment, changing debt policy, and addressing the energy crisis. None carries numeric targets in the 2026 sources found.\n\nConsistency is mixed. Restructuring, decentralised security, private-sector-led growth and a roughly US$10 billion enterprise fund appear across 2019, 2023 and 2027. The petrol subsidy pledge reverses his 2022-2023 position that subsidies were unsustainable. Earlier commitments to sell the refineries and most of NNPC have not been restated for 2027 in the sources found, though in April 2026 his office still cited his past advocacy for NNPC privatisation.\n\nSeveral promises depend on others: restructuring and state policing need constitutional amendment, and education and health delivery depend on states. The campaign has said fuller plans with targets and timelines will be published.",
+      "strengths": [
+        "Several promises are concrete enough to track",
+        "Long-standing consistency on restructuring and private investment"
+      ],
+      "limitations": [
+        "Most 2027 promises lack costing and timelines",
+        "Subsidy pledge reverses an earlier stated position"
+      ],
+      "unknowns": [
+        "Whether refinery and NNPC privatisation remain policy for 2027"
+      ],
+      "sourceIds": [
+        "s36",
+        "s12",
+        "s40",
+        "s37",
+        "s38",
+        "s34",
+        "s27",
+        "s33"
+      ],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    {
+      "id": "rec1",
+      "title": "Vice President of Nigeria",
+      "kind": "decision",
+      "label": "FACT",
+      "period": "1999-2007",
+      "office": "Vice President",
+      "description": "Served two terms as Vice President to Olusegun Obasanjo. Executive authority rested with the President; the Vice President acted on delegated responsibilities.",
+      "categories": [
+        "experience",
+        "leadership"
+      ],
+      "sourceIds": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "rec2",
+      "title": "Chaired the National Council on Privatisation",
+      "kind": "policy",
+      "label": "RECORD",
+      "period": "1999-2007",
+      "office": "Vice President",
+      "description": "Chaired the NCP, which oversaw the Bureau of Public Enterprises. BusinessDay counted 81 enterprises privatised between 1999 and March 2007 and more than N500 billion realised from 2005-2006 transactions.",
+      "categories": [
+        "economy",
+        "finance",
+        "leadership"
+      ],
+      "sourceIds": [
+        "s29",
+        "s27",
+        "s4"
+      ]
+    },
+    {
+      "id": "rec3",
+      "title": "Contested outcomes of privatised assets",
+      "kind": "unresolved",
+      "label": "DISPUTED",
+      "period": "1999-2007; debated 2026",
+      "office": "Vice President",
+      "description": "President Tinubu (April 2026) and Minister Wike (October 2026) questioned the results of VP-era privatisations. Atiku's office cited Oando, Conoil, Ardova, Indorama Eleme, Benue Cement and Transcorp Hilton as successes. No independent comprehensive evaluation was found.",
+      "categories": [
+        "economy",
+        "infrastructure",
+        "humanImpact"
+      ],
+      "sourceIds": [
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "id": "rec4",
+      "title": "Port concessions savings",
+      "kind": "outcome",
+      "label": "RECORD",
+      "period": "2005-2009",
+      "office": "Vice President (NCP chair)",
+      "description": "BusinessDay reported that port concessions concluded under the privatisation programme saved more than N23 billion a year through reduced surcharges and delays. This is a press estimate, not an audited figure.",
+      "categories": [
+        "infrastructure",
+        "economy"
+      ],
+      "sourceIds": [
+        "s29"
+      ]
+    },
+    {
+      "id": "rec5",
+      "title": "Statutory role in the 2005 power-sector reform",
+      "kind": "policy",
+      "label": "FACT",
+      "period": "1999-2005",
+      "office": "Vice President (NCP chair)",
+      "description": "The Electric Power Sector Reform Act 2005 gave the NCP functions in transferring NEPA's assets to successor companies. Privatisation of those companies was completed in 2013, after his tenure.",
+      "status": "completed",
+      "categories": [
+        "power"
+      ],
+      "sourceIds": [
+        "s30"
+      ]
+    },
+    {
+      "id": "rec6",
+      "title": "Paris Club debt exit during his tenure",
+      "kind": "outcome",
+      "label": "FACT",
+      "period": "2005-2006",
+      "office": "Vice President",
+      "description": "About US$18 billion of roughly US$30 billion Paris Club debt was cancelled in October 2005. The negotiation was led by the presidency and finance ministry; no personal role for the Vice President is documented in the sources.",
+      "categories": [
+        "finance"
+      ],
+      "sourceIds": [
+        "s32"
+      ]
+    },
+    {
+      "id": "rec7",
+      "title": "Opposed third-term amendment; rift with Obasanjo",
+      "kind": "decision",
+      "label": "RECORD",
+      "period": "2006",
+      "office": "Vice President",
+      "description": "Al Jazeera reported that he helped block Obasanjo's attempt to amend the constitution for a third term, causing a rift with the President and the ruling party.",
+      "categories": [
+        "leadership"
+      ],
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "rec8",
+      "title": "PTDF audit, panel report and Code of Conduct charge",
+      "kind": "controversy",
+      "label": "DISPUTED",
+      "period": "2006-2007; reopened 2026",
+      "office": "Vice President",
+      "description": "An EFCC special audit and the Bayo Ojo panel said he improperly approved placement of US$20 million in PTDF funds. An 18-count CCT charge filed in September 2006 could not proceed against a sitting Vice President. The Senate ad hoc committee found no direct evidence of personal enrichment. He called the reports politically motivated. Vanguard reported in October 2026 that the EFCC had reopened the matter after a petition; no charge reported.",
+      "legalStatus": "investigation",
+      "categories": [
+        "integrity"
+      ],
+      "sourceIds": [
+        "s20",
+        "s23",
+        "s21"
+      ]
+    },
+    {
+      "id": "rec9",
+      "title": "INEC disqualification overturned by Supreme Court",
+      "kind": "controversy",
+      "label": "FACT",
+      "period": "April 2007",
+      "description": "INEC excluded him from the 2007 ballot on the basis of the government panel's indictment. On 16 April 2007 the Supreme Court ruled that INEC had no power to disqualify him, and he was restored to the ballot.",
+      "legalStatus": "overturned",
+      "categories": [
+        "integrity"
+      ],
+      "sourceIds": [
+        "s5",
+        "s4"
+      ]
+    },
+    {
+      "id": "rec10",
+      "title": "Named in the William Jefferson bribery case",
+      "kind": "controversy",
+      "label": "FACT",
+      "period": "2005-2009",
+      "description": "US prosecutors' evidence showed former Congressman Jefferson discussed paying Atiku US$100,000 over an iGate venture; US$90,000 was found in Jefferson's freezer. Jefferson was convicted in 2009 and released in 2017. Atiku was investigated in 2005 but was never charged and denies wrongdoing.",
+      "legalStatus": "allegation",
+      "categories": [
+        "integrity",
+        "foreign"
+      ],
+      "sourceIds": [
+        "s20",
+        "s24",
+        "s21",
+        "s4"
+      ]
+    },
+    {
+      "id": "rec11",
+      "title": "US Senate subcommittee report on Jennifer Douglas transfers",
+      "kind": "controversy",
+      "label": "FACT",
+      "period": "2000-2008; report February 2010",
+      "description": "The Permanent Subcommittee on Investigations reported that his then-wife Jennifer Douglas helped bring more than US$40 million in suspect funds into the US, including about US$25 million into over 30 accounts and payments Siemens said it sent to her account. No US charges were filed against either; Atiku says suspect funds are not proven stolen funds.",
+      "legalStatus": "allegation",
+      "categories": [
+        "integrity",
+        "foreign"
+      ],
+      "sourceIds": [
+        "s25",
+        "s20",
+        "s24",
+        "s21"
+      ]
+    },
+    {
+      "id": "rec12",
+      "title": "Siemens SEC complaint references",
+      "kind": "controversy",
+      "label": "FACT",
+      "period": "2001-2002; complaint 2008",
+      "description": "A 2008 SEC complaint against Siemens alleged about US$2.8 million routed through a Maryland account in Jennifer Douglas's name and watches bought for officials referred to as 'V.P.'. Siemens settled; Nigeria's charges against Siemens were withdrawn after a 2010 settlement. Atiku says he was never charged, tried or convicted.",
+      "legalStatus": "allegation",
+      "categories": [
+        "integrity"
+      ],
+      "sourceIds": [
+        "s20",
+        "s21"
+      ]
+    },
+    {
+      "id": "rec13",
+      "title": "Mambilla arbitration observation on 2003 payment",
+      "kind": "controversy",
+      "label": "FACT",
+      "period": "2003 payment; award 17 September 2026",
+      "description": "An ICC arbitral tribunal called a US$500,000 payment to Jennifer Douglas from the Sunrise Power promoter a 'significant red flag' but found no evidence on the record that Atiku used his office to help Sunrise. Atiku says the award neither indicts nor convicts him and he was not a party.",
+      "legalStatus": "denied",
+      "categories": [
+        "integrity",
+        "power"
+      ],
+      "sourceIds": [
+        "s20",
+        "s22",
+        "s21"
+      ]
+    },
+    {
+      "id": "rec14",
+      "title": "Co-founded Intels; divested 2018-2020",
+      "kind": "decision",
+      "label": "FACT",
+      "period": "1980s-2020",
+      "description": "Co-founded the logistics company Intels and says he sold his stake to parent Orlean Invest in a phased sale completed in 2020, made public in January 2021. He denied benefiting from the 2023 reinstatement of an Intels contract with the Nigerian Ports Authority.",
+      "legalStatus": "denied",
+      "categories": [
+        "experience",
+        "integrity"
+      ],
+      "sourceIds": [
+        "s26"
+      ]
+    },
+    {
+      "id": "rec15",
+      "title": "Founded the American University of Nigeria",
+      "kind": "project",
+      "label": "FACT",
+      "period": "2002-2007",
+      "description": "Established ABTI Academy (2002); the university was licensed in 2003, admitted its first 124 students in 2005/2006 and was renamed AUN in 2007. This is a private undertaking, not a public project.",
+      "status": "completed",
+      "categories": [
+        "education",
+        "experience"
+      ],
+      "sourceIds": [
+        "s3",
+        "s2"
+      ]
+    },
+    {
+      "id": "rec16",
+      "title": "2023 election petition dismissed",
+      "kind": "outcome",
+      "label": "FACT",
+      "period": "March-October 2023",
+      "description": "His challenge to the 2023 presidential result was dismissed by the Supreme Court on 26 October 2023.",
+      "legalStatus": "judgment",
+      "categories": [
+        "leadership"
+      ],
+      "sourceIds": [
+        "s9",
+        "s8"
+      ]
+    },
+    {
+      "id": "rec17",
+      "title": "Won ADC primary; named Amaechi running mate",
+      "kind": "outcome",
+      "label": "FACT",
+      "period": "May-June 2026",
+      "description": "Declared winner of the ADC presidential primary in May 2026 (1,846,370 votes per the party). Runner-up Rotimi Amaechi initially rejected the result, then was named running mate on 15 June 2026.",
+      "categories": [
+        "leadership"
+      ],
+      "sourceIds": [
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "id": "rec18",
+      "title": "Nomination voided by Federal High Court; appeal pending",
+      "kind": "unresolved",
+      "label": "FACT",
+      "period": "November 2026",
+      "description": "On 5 November 2026 Justice Peter Lifu of the Federal High Court, Abuja, in a suit by former ADC deputy national chairman Nafiu Bala Gombe, set aside the David Mark-led ADC leadership and decisions taken under it, including Atiku's nomination. The ADC filed a notice of appeal and stay application on 6 November and a 17-ground appeal was reported on 18 November. As of 19 November INEC had not delisted him, citing pending processes.",
+      "legalStatus": "appeal",
+      "categories": [
+        "leadership",
+        "integrity"
+      ],
+      "sourceIds": [
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "id": "rec19",
+      "title": "Customs career",
+      "kind": "achievement",
+      "label": "FACT",
+      "period": "1969-1989",
+      "description": "Rose from entry level to Deputy Director in the Nigeria Customs Service over about 20 years.",
+      "categories": [
+        "experience"
+      ],
+      "sourceIds": [
+        "s1"
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "id": "pl1",
+      "title": "Fuel Affordability Plan (refining-linked subsidy)",
+      "label": "PROMISE",
+      "category": "economy",
+      "outcome": "Lower petrol prices; party statements cite about N600 per litre.",
+      "method": "Targeted support for crude supplied to domestic refineries rather than import subsidy; described as capped and independently audited.",
+      "timeline": "Not stated; exit conditions said to be built in",
+      "funding": "Not disclosed",
+      "assumptions": "Domestic refining capacity is sufficient and savings pass to the pump.",
+      "risks": "Fiscal cost, diversion and smuggling; legal fit with the Petroleum Industry Act.",
+      "tradeoffs": "Reverses 2022-2023 support for subsidy removal; competes with other spending.",
+      "feasibility": "Cannot be assessed until cost, cap and legal framework are published.",
+      "sourceIds": [
+        "s37",
+        "s38",
+        "s39"
+      ]
+    },
+    {
+      "id": "pl2",
+      "title": "US$10 billion startup and entrepreneur fund",
+      "label": "PROMISE",
+      "category": "jobs",
+      "outcome": "Move youth from unemployment to enterprise.",
+      "method": "Financing programme for young founders and business owners; details unpublished.",
+      "funding": "Not stated for 2027; in 2022 he said refinery sales would fund a similar US$10bn fund.",
+      "risks": "Fiscal and exchange-rate exposure; loan recovery; political allocation.",
+      "feasibility": "Unclear without a funding source and delivery vehicle.",
+      "sourceIds": [
+        "s36",
+        "s35"
+      ]
+    },
+    {
+      "id": "pl3",
+      "title": "End insecurity within one year",
+      "label": "PROMISE",
+      "category": "security",
+      "outcome": "End insecurity within 12 months of taking office.",
+      "method": "Recruit additional security personnel, equip them, improve welfare and intelligence sharing; youth enterprise funding.",
+      "timeline": "12 months",
+      "risks": "Timeline unsupported by published operational plan; outcomes depend on states and regional factors.",
+      "sourceIds": [
+        "s40",
+        "s12"
+      ]
+    },
+    {
+      "id": "pl4",
+      "title": "Decentralised, intelligence-led security architecture",
+      "label": "PROPOSAL",
+      "category": "security",
+      "outcome": "More effective policing and counter-insurgency.",
+      "method": "Intelligence-led operations, inter-agency coordination, decentralised security structures.",
+      "dependencies": "Constitutional amendment if state or local police are created.",
+      "sourceIds": [
+        "s14",
+        "s34"
+      ]
+    },
+    {
+      "id": "pl5",
+      "title": "Free and compulsory primary and secondary education",
+      "label": "PROMISE",
+      "category": "education",
+      "outcome": "Universal free schooling through secondary level, with improved staffing, facilities and teacher welfare.",
+      "funding": "Not stated",
+      "dependencies": "State governments run most secondary schools; UBEC transfers.",
+      "sourceIds": [
+        "s12"
+      ]
+    },
+    {
+      "id": "pl6",
+      "title": "Primary healthcare and centres of excellence",
+      "label": "PROMISE",
+      "category": "healthcare",
+      "outcome": "Prevention-focused health system with equipped and staffed centres of excellence.",
+      "method": "Large investment in primary healthcare; incentives for private world-class facilities.",
+      "funding": "Not stated",
+      "sourceIds": [
+        "s12"
+      ]
+    },
+    {
+      "id": "pl7",
+      "title": "Restructuring and devolution to states",
+      "label": "PROMISE",
+      "category": "vision",
+      "outcome": "Devolve resources and responsibilities to states; minimum welfare standards.",
+      "dependencies": "Constitutional amendment by the National Assembly and state assemblies.",
+      "sourceIds": [
+        "s12",
+        "s34"
+      ]
+    },
+    {
+      "id": "pl8",
+      "title": "Change debt and borrowing policy",
+      "label": "PROMISE",
+      "category": "finance",
+      "outcome": "Reduce reliance on external borrowing.",
+      "method": "Not specified.",
+      "sourceIds": [
+        "s12"
+      ]
+    },
+    {
+      "id": "pl9",
+      "title": "Return Sahel states to ECOWAS and revive ECOMOG",
+      "label": "PROMISE",
+      "category": "foreign",
+      "outcome": "Niger, Mali and Burkina Faso rejoin ECOWAS; stronger regional counter-terror cooperation.",
+      "method": "Diplomatic engagement; revive ECOMOG with member states such as Côte d'Ivoire, Sierra Leone and Liberia.",
+      "dependencies": "Consent of Sahel juntas and other ECOWAS states.",
+      "sourceIds": [
+        "s40",
+        "s41"
+      ]
+    },
+    {
+      "id": "pl10",
+      "title": "Address the energy crisis to enable industrialisation",
+      "label": "PROPOSAL",
+      "category": "power",
+      "outcome": "Reliable electricity as a basis for industry.",
+      "target": "No 2027 target; the 2019 plan targeted up to 20,000MW by 2025.",
+      "sourceIds": [
+        "s12",
+        "s33"
+      ]
+    },
+    {
+      "id": "pl11",
+      "title": "Privatise state refineries (2019 and 2023 platforms)",
+      "label": "PROPOSAL",
+      "category": "economy",
+      "outcome": "Private operation of the four state refineries; proceeds to an education and health fund (2019).",
+      "assumptions": "Not restated as a 2027 commitment in the sources found.",
+      "sourceIds": [
+        "s33",
+        "s27"
+      ]
+    },
+    {
+      "id": "pl12",
+      "title": "Fiscal rules from the 2019 plan",
+      "label": "PROPOSAL",
+      "category": "finance",
+      "outcome": "Recurrent spending at or below 45% of budget; 25% to education and 15% to health.",
+      "assumptions": "2019 commitment; not confirmed for 2027.",
+      "sourceIds": [
+        "s33"
+      ]
+    },
+    {
+      "id": "pl13",
+      "title": "National plans with targets and timelines",
+      "label": "PROMISE",
+      "category": "promises",
+      "outcome": "Publish plans with set targets and timelines.",
+      "timeline": "Promised 'in the coming weeks and months' from May 2026; not found as of November 2026.",
+      "sourceIds": [
+        "s12"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "questionId": "r1",
+      "answer": "Partly. He names problems clearly (cost of living, insecurity, energy, youth unemployment, over-centralisation), but the 2027 statements rarely quantify them or diagnose causes beyond criticising the current government.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s12",
+        "s14"
+      ]
+    },
+    {
+      "questionId": "r2",
+      "answer": "Partly. Some pledges are specific (US$10bn fund, free secondary education, ECOWAS reintegration, one-year security deadline). Others, including the subsidy design, debt policy and power, lack operational detail.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s36",
+        "s12",
+        "s40",
+        "s37"
+      ]
+    },
+    {
+      "questionId": "r3",
+      "answer": "Limited. No evidence base or pilot results have been published for the 2027 subsidy or startup fund. Earlier market-oriented proposals drew on privatisation experience, but the evidence on those outcomes is contested.",
+      "assessment": "no",
+      "sourceIds": [
+        "s38",
+        "s27"
+      ]
+    },
+    {
+      "questionId": "r4",
+      "answer": "Unknown. The largest commitments (refining subsidy, US$10bn fund, free secondary schooling, security recruitment) have no published cost or funding source, and the APC campaign's request for subsidy costing has not been answered with figures in the sources found.",
+      "assessment": "unknown",
+      "sourceIds": [
+        "s38",
+        "s36",
+        "s12"
+      ]
+    },
+    {
+      "questionId": "r5",
+      "answer": "Mostly not stated. The one explicit deadline, ending insecurity within a year, is not supported by a published plan.",
+      "assessment": "no",
+      "sourceIds": [
+        "s40"
+      ]
+    },
+    {
+      "questionId": "r6",
+      "answer": "Partly. A president controls federal security, fiscal proposals and foreign policy. Free secondary education, primary healthcare and policing changes depend heavily on states, and the subsidy needs appropriation by the National Assembly.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s12",
+        "s38"
+      ]
+    },
+    {
+      "questionId": "r7",
+      "answer": "Yes. Restructuring and decentralised policing need constitutional amendment, and the subsidy, fund and education pledges need appropriations. A possible Petroleum Industry Act amendment has also been raised.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s38",
+        "s12",
+        "s34"
+      ]
+    },
+    {
+      "questionId": "r8",
+      "answer": "Partly. His camp says the subsidy would be capped, audited and have exit conditions, acknowledging fiscal risk, but no trade-offs or risk analysis have been published for other pledges.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s37"
+      ]
+    },
+    {
+      "questionId": "r9",
+      "answer": "Partly. Rotimi Amaechi is the running mate, and the campaign is staffed by known aides and coalition figures. No economic team or cabinet plan has been announced.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s13",
+        "s12"
+      ]
+    },
+    {
+      "questionId": "r10",
+      "answer": "Partly. He chaired a national privatisation programme and built private enterprises including AUN and Intels, but has never run a government. The NCP outcomes are disputed, and he has no record of delivering subsidy or mass-education programmes.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s29",
+        "s27",
+        "s3",
+        "s26"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Atiku Abubakar: Visit and Biography",
+      "url": "https://www.international.ucla.edu/africa/event/1323",
+      "publisher": "UCLA African Studies Center",
+      "type": "reference",
+      "published": "2004",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "education"
+      ],
+      "claim": "Born 25 November 1946 in Jada; Diploma in Law from ABU; customs 1969-1989, retired Deputy Director; chairman of seven companies before VP.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s2",
+      "title": "President Ensign Congratulates H.E. Atiku Abubakar on Academic Milestone",
+      "url": "https://aun.edu.ng/index.php/news-events/news/president-ensign-congratulates-he-atiku-abubakar-on-academic-milestone",
+      "publisher": "American University of Nigeria",
+      "type": "official",
+      "published": "2021-11-15",
+      "accessed": "2026-11-28",
+      "categories": [
+        "education",
+        "experience"
+      ],
+      "claim": "Atiku earned a Master's in International Relations from Anglia Ruskin University; identified as AUN Founder.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s3",
+      "title": "AUN History",
+      "url": "https://www.aun.edu.ng/index.php/about/overview/history",
+      "publisher": "American University of Nigeria",
+      "type": "official",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": [
+        "education",
+        "experience"
+      ],
+      "claim": "ABTI Academy 2002; licensed as ABTI University 2003; first 124 students 2005/2006; renamed AUN 2007; founded by Atiku Abubakar.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s4",
+      "title": "Profile: Atiku Abubakar",
+      "url": "https://www.aljazeera.com/news/2007/4/18/profile-atiku-abubakar",
+      "publisher": "Al Jazeera",
+      "type": "news",
+      "published": "2007-04-18",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "leadership",
+        "integrity"
+      ],
+      "claim": "Oversaw privatisation of dozens of state firms as VP; helped block Obasanjo's third-term bid; investigated in 2005; Supreme Court overturned INEC disqualification; AC candidate.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s5",
+      "title": "Nigerian VP 'able to stand in poll'",
+      "url": "https://www.aljazeera.com/news/2007/4/16/nigerian-vp-able-to-stand-in-poll",
+      "publisher": "Al Jazeera",
+      "type": "news",
+      "published": "2007-04-16",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "Supreme Court ruled Atiku should not have been barred from the April 2007 presidential election.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s6",
+      "title": "2007 Nigerian general election",
+      "url": "https://www.wikipedia.org/wiki/2007_Nigeria_general_election",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Atiku (AC) placed third in the 2007 presidential election with about 7.5% of the vote; used only as a pointer pending INEC records.",
+      "verification": "UNVERIFIED",
+      "quality": "low"
+    },
+    {
+      "id": "s7",
+      "title": "Breaking: INEC officially declares President Buhari winner of 2019 election",
+      "url": "https://www.legit.ng/1224428-breaking-inec-officially-declares-president-buhari-winner-2019-election.html",
+      "publisher": "Legit.ng",
+      "type": "news",
+      "published": "2019-02-27",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Buhari 15,191,847 votes; Atiku (PDP) 11,262,978.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s8",
+      "title": "INEC declares Bola Tinubu winner of 2023 presidential election",
+      "url": "https://guardian.ng/news/inec-declares-bola-tinubu-winner-of-2023-presidential-election/",
+      "publisher": "The Guardian Nigeria",
+      "type": "news",
+      "published": "2023-03-01",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Tinubu 8,794,726; Atiku 6,984,520; Obi 6,101,533.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s9",
+      "title": "Nigeria's Supreme Court upholds Tinubu's election victory",
+      "url": "https://apnews.com/article/ad610050879e5a0178bcb52934c56054",
+      "publisher": "Associated Press",
+      "type": "news",
+      "published": "2023-10-26",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Supreme Court dismissed Atiku's appeal against the 2023 result on 26 October 2023 (URL from existing profile page; not reopened in this pass).",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s10",
+      "title": "Breaking: Atiku Resigns from PDP",
+      "url": "https://www.thisdaylive.com/2025/07/16/breaking-atiku-resigns-from-pdp",
+      "publisher": "ThisDay",
+      "type": "news",
+      "published": "2025-07-16",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Atiku resigned from the PDP by letter dated 14 July 2025.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s11",
+      "title": "Atiku Officially Joins ADC",
+      "url": "https://www.channelstv.com/2025/11/24/atiku-officially-joins-adc/",
+      "publisher": "Channels Television",
+      "type": "news",
+      "published": "2025-11-24",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Atiku formally joined the ADC in November 2025 (URL from existing profile page; site blocked automated fetch).",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s12",
+      "title": "Full Text of Atiku's Speech After Emerging ADC Presidential Candidate for 2027 Election",
+      "url": "https://www.legit.ng/politics/1711961-full-text-atikus-speech-emerging-adc-presidential-candidate-2027-election/",
+      "publisher": "Legit.ng",
+      "type": "candidate-statement",
+      "published": "2026-05-28",
+      "accessed": "2026-11-28",
+      "categories": [
+        "vision",
+        "security",
+        "education",
+        "healthcare",
+        "power",
+        "jobs",
+        "finance",
+        "promises"
+      ],
+      "claim": "Pledges: security recruitment and equipment; free and compulsory primary and secondary education; primary healthcare investment; investment incentives; empower states; change debt policy; plans with targets and timelines to follow.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s13",
+      "title": "2027: ADC names Amaechi as Atiku's running mate",
+      "url": "https://www.premiumtimesng.com/news/headlines/887865-2027-adc-names-amaechi-as-atikus-running-mate.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2026-06-15",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "ADC named Amaechi running mate; party said Atiku won the primary with 1,846,370 votes to Amaechi's 504,117.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s14",
+      "title": "Atiku Outlines Economic, Security Blueprint As ADC Screening Panel Clears Him For 2027 Race",
+      "url": "https://www.arise.tv/atiku-outlines-economic-security-blueprint-as-adc-screening-panel-clears-him-for-2027-race/",
+      "publisher": "Arise News",
+      "type": "news",
+      "published": "2026-05-20",
+      "accessed": "2026-11-28",
+      "categories": [
+        "security",
+        "economy",
+        "vision"
+      ],
+      "claim": "Economic rescue blueprint and security agenda: intelligence-led operations, inter-agency coordination, decentralised security structures.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s15",
+      "title": "Nigerian court nullifies Atiku Abubakar's presidential candidacy",
+      "url": "https://www.africanews.com/2026/11/05/nigerian-court-nullifies-atiku-abubakars-presidential-candidacy/",
+      "publisher": "Africanews",
+      "type": "news",
+      "published": "2026-11-05",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Federal High Court overturned the David Mark-led ADC leadership, striking down Atiku's nomination; ADC to appeal; APC denied involvement.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s16",
+      "title": "Nigerian court voids candidacy of opposition ADC's Atiku for 2027 election",
+      "url": "https://www.reuters.com/world/africa/nigerian-court-voids-candidacy-opposition-adcs-atiku-2027-election-2026-11-05/",
+      "publisher": "Reuters",
+      "type": "news",
+      "published": "2026-11-05",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Court voided Atiku's ADC nomination (URL from existing profile page; content corroborated by syndicated copies in search results).",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s17",
+      "title": "ADC appeals annulment of Atiku's presidential ticket, urges INEC to wait",
+      "url": "https://www.premiumtimesng.com/news/top-news/923361-adc-appeals-annulment-of-atikus-presidential-ticket-urges-inec-to-wait.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2026-11-07",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Justice Peter Lifu's judgment in a suit by Nafiu Bala Gombe; ADC filed appeal and stay application on 6 November; filing does not by itself suspend the judgment.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s18",
+      "title": "ADC Files 17-Ground Appeal Against INEC Over Nullification of Atiku's Candidacy",
+      "url": "https://www.channelstv.com/2026/11/18/2027-adc-files-17-ground-appeal-against-inec-over-nullification-of-atikus-candidacy/",
+      "publisher": "Channels Television",
+      "type": "news",
+      "published": "2026-11-18",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "ADC filed a 17-ground appeal (URL from existing profile page; site blocked automated fetch).",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s19",
+      "title": "'Appeal, Stay Of Execution Pending' - INEC Explains Why Atiku Remains Listed As ADC Presidential Candidate Despite Court Ruling",
+      "url": "https://thenigerialawyer.com/appeal-stay-of-execution-pending-inec-explains-why-atiku-remains-listed-as-adc-presidential-candidate-despite-court-ruling/",
+      "publisher": "TheNigeriaLawyer",
+      "type": "news",
+      "published": "2026-11-19",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Unnamed INEC source linked Atiku's continued listing to the pending appeal and stay; INEC to state its position in due course.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s20",
+      "title": "Special Report: Inside five international corruption cases involving Atiku, ex-wife",
+      "url": "https://premiumtimesng.com/news/headlines/911791-special-report-inside-five-international-corruption-cases-involving-atiku-ex-wife.html",
+      "publisher": "Premium Times",
+      "type": "investigative",
+      "published": "2026-09-23",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity",
+        "education",
+        "power"
+      ],
+      "claim": "Details of PTDF, US Senate PSI, Siemens SEC, Jefferson and Mambilla ICC matters, including legal outcomes and Senate committee finding of no direct evidence of personal enrichment.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s21",
+      "title": "Atiku Speaks On Premium Times Report On International Corruption Cases Involving Him, Ex-Wife",
+      "url": "https://allafrica.com/stories/202609290489.html",
+      "publisher": "Premium Times via AllAfrica",
+      "type": "candidate-statement",
+      "published": "2026-09-29",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "Atiku's right of reply: never found guilty by any court or independent committee; suspect funds are not stolen funds; Jefferson's conviction is not his.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s22",
+      "title": "Atiku denies corruption verdict but fails to address ICC tribunal's concerns over $500,000 payment",
+      "url": "https://www.premiumtimesng.com/business/business-news/910757-atiku-denies-corruption-verdict-but-fails-to-address-icc-tribunals-concerns-over-500000-payment.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2026-09-19",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "Tribunal called the payment a significant red flag but found no evidence Atiku used his office to help Sunrise; Atiku says the award does not indict him.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s23",
+      "title": "EFCC reopens Atiku case over 2006 corruption report",
+      "url": "https://www.vanguardngr.com/2026/10/efcc-reopens-atiku-case-over-2006-corruption-report/",
+      "publisher": "Vanguard",
+      "type": "news",
+      "published": "2026-10-14",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "EFCC reopened investigation after a petition by Ehiozuwa Johnson Agbonayinma; no charges reported; EFCC did not comment.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s24",
+      "title": "Atiku's U.S. visit was Temporary Reprieve from Graft Ban",
+      "url": "https://www.thisdaylive.com/2019/02/04/atikus-u-s-visit-was-temporary-reprieve-from-graft-ban",
+      "publisher": "ThisDay (Reuters report)",
+      "type": "news",
+      "published": "2019-02-04",
+      "accessed": "2026-11-28",
+      "categories": [
+        "foreign",
+        "integrity"
+      ],
+      "claim": "January 2019 US visit enabled by temporary waiver; neither Atiku nor his wife faced US charges; he denies wrongdoing; Senate investigators said at least US$1.7 million were Siemens bribes.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s25",
+      "title": "Investigations Subcommittee Holds Hearing on Keeping Foreign Corruption Out of the United States: Four Case Histories",
+      "url": "https://www.hsgac.senate.gov/?p=107661",
+      "publisher": "US Senate Committee on Homeland Security and Governmental Affairs",
+      "type": "legislative",
+      "published": "2010-02-04",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "PSI hearing and report, including the case history on Jennifer Douglas and more than US$40 million in suspect funds (page seen in search results; not fully opened).",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s26",
+      "title": "Atiku clears air on $100 million Intels sale, says he is no longer a shareholder",
+      "url": "https://nairametrics.com/2023/12/03/atiku-clears-air-on-100-million-intels-sale-says-he-is-no-longer-a-shareholder/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2023-12-03",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "integrity"
+      ],
+      "claim": "Atiku co-founded Intels; sold interest to Orlean Invest in a phased sale from 2018 to 2020, made public January 2021; denies benefiting from contract reinstatement.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s27",
+      "title": "Atiku, Tinubu Debate FG's Privatisation Policy",
+      "url": "https://www.thisdaylive.com/2026/04/18/atiku-tinubu-debate-fgs-privatisation-policy/",
+      "publisher": "ThisDay",
+      "type": "news",
+      "published": "2026-04-18",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "infrastructure",
+        "leadership"
+      ],
+      "claim": "Atiku chaired the NCP; Tinubu questioned privatised steel assets; Atiku's office cited Oando, Conoil, Ardova, Indorama Eleme, Benue Cement and Transcorp Hilton as successes and noted his past push to privatise NNPC and refineries.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s28",
+      "title": "Wike questions Atiku's privatisation record, cites Obasanjo's past criticism",
+      "url": "https://www.arise.tv/wike-questions-atikus-privatisation-record-cites-obasanjos-past-criticism/",
+      "publisher": "Arise News",
+      "type": "news",
+      "published": "2026-10-30",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership",
+        "infrastructure"
+      ],
+      "claim": "Wike said Atiku was in charge of privatisation as VP and cited Obasanjo's reported regret over backing him.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s29",
+      "title": "Derailed purpose (1)",
+      "url": "https://businessday.ng/?p=4966",
+      "publisher": "BusinessDay",
+      "type": "news",
+      "published": "2009-07-19",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "finance",
+        "infrastructure",
+        "humanImpact"
+      ],
+      "claim": "81 enterprises privatised between 1999 and March 2007; over N500 billion realised in 2005-2006; port concessions save over N23 billion a year; recurring controversies.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s30",
+      "title": "Electric Power Sector Reform Act 2005",
+      "url": "https://www.nbet.com.ng/pdf/EPSRA2005.pdf",
+      "publisher": "Nigerian Bulk Electricity Trading Plc (copy of the Act)",
+      "type": "official",
+      "published": "2005",
+      "accessed": "2026-11-28",
+      "categories": [
+        "power"
+      ],
+      "claim": "Act restructured NEPA into PHCN, created NERC and assigned the National Council on Privatisation functions in vesting NEPA's assets.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s32",
+      "title": "Paris Club agrees on a comprehensive treatment of Nigeria's debt",
+      "url": "https://clubdeparis.org/en/node/56",
+      "publisher": "Paris Club",
+      "type": "official",
+      "published": "2005-10-20",
+      "accessed": "2026-11-28",
+      "categories": [
+        "finance"
+      ],
+      "claim": "Debt cancellation estimated at US$18 billion, about 60% of around US$30 billion owed; Nigeria to pay US$12.4 billion.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s33",
+      "title": "Atiku Abubakar: How I will get the Nigerian economy working again",
+      "url": "https://www.aljazeera.com/indepth/opinion/atiku-abubakar-nigerian-economy-working-190123105212682.html",
+      "publisher": "Al Jazeera (op-ed by the candidate)",
+      "type": "candidate-statement",
+      "published": "2019-01-23",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "power",
+        "finance",
+        "education",
+        "healthcare",
+        "infrastructure",
+        "vision"
+      ],
+      "claim": "2019 plan: 180-page document; up to 20,000MW by 2025; privatise all four refineries; infrastructure stock 50% of GDP by 2025; recurrent spending at or below 45%, 25% education, 15% health; MSME funding.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s34",
+      "title": "What Atiku's 5-point agenda means for Nigeria",
+      "url": "https://businessday.ng/politics/article/what-atikus-5-point-agenda-means-for-nigeria/",
+      "publisher": "BusinessDay",
+      "type": "news",
+      "published": "2022-05-30",
+      "accessed": "2026-11-28",
+      "categories": [
+        "vision",
+        "economy",
+        "security",
+        "promises"
+      ],
+      "claim": "2023 agenda: restore GDP to pre-2015 level, end interventionist exchange-rate management, break monopolies in refining, rail and transmission, decentralise security, restore birth registration, true federalism.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s35",
+      "title": "Atiku proposes $10 billion Economic Stimulus Fund to support agriculture, manufacturing and MSMEs",
+      "url": "https://nairametrics.com/2022/07/27/atiku-proposes-10-billion-economic-stimulus-fund-to-support-agriculture-manufacturing-and-msmes",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2022-07-27",
+      "accessed": "2026-11-28",
+      "categories": [
+        "jobs"
+      ],
+      "claim": "2022 proposal of a roughly US$10 billion Economic Stimulus Fund within the first 100 days (seen in search results).",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s36",
+      "title": "Atiku Vows $10bn Startup Fund for Nigerian Youths, 'From Unemployment to Productivity'",
+      "url": "https://www.legit.ng/politics/1727968-2027-election-atiku-vows-10-billion-startup-fund-nigerian-youths/",
+      "publisher": "Legit.ng",
+      "type": "news",
+      "published": "2026-08-29",
+      "accessed": "2026-11-28",
+      "categories": [
+        "jobs",
+        "vision",
+        "promises"
+      ],
+      "claim": "US$10 billion financing programme for startups and young entrepreneurs if elected; no funding source or mechanism stated.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s37",
+      "title": "Atiku Gives More Update on Plan to Restore Subsidy",
+      "url": "https://www.legit.ng/politics/1727200-atiku-update-plan-restore-subsidy/",
+      "publisher": "Legit.ng",
+      "type": "news",
+      "published": "2026-08-25",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "humanImpact",
+        "promises"
+      ],
+      "claim": "Camp describes a targeted, capped, independently audited intervention in domestic refining with exit conditions; no cost, cap or price stated.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s38",
+      "title": "2027: Explain your fuel subsidy plan, APC-PCC tells Atiku",
+      "url": "https://www.premiumtimesng.com/news/top-news/911159-2027-explain-your-fuel-subsidy-plan-apc-pcc-tells-atiku.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2026-09-21",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "finance",
+        "humanImpact"
+      ],
+      "claim": "APC campaign asked for cost, ceiling, funding, safeguards and legal framework; recalled Atiku's 2022 description of subsidy as fraudulent and his 'I will restore it!' statement.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s39",
+      "title": "Atiku, Subsidy And The Facts Kunle Ajayi Left Out",
+      "url": "https://saharareporters.com/2026/09/23/atiku-subsidy-and-facts-kunle-ajayi-left-out-paul-ibe",
+      "publisher": "Sahara Reporters (opinion by Atiku aide Paul Ibe)",
+      "type": "candidate-statement",
+      "published": "2026-09-23",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "humanImpact"
+      ],
+      "claim": "Aide describes a production subsidy for crude supplied to domestic refineries, not a return to import subsidy.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    },
+    {
+      "id": "s40",
+      "title": "Breaking: Atiku Announces How and When He Will End Insecurity if Elected President",
+      "url": "https://www.legit.ng/politics/1727732-breaking-atiku-announces-how-insecurity-elected-president/",
+      "publisher": "Legit.ng",
+      "type": "news",
+      "published": "2026-08-28",
+      "accessed": "2026-11-28",
+      "categories": [
+        "security",
+        "foreign",
+        "jobs",
+        "promises"
+      ],
+      "claim": "Pledge to end insecurity within one year; recruit and equip personnel; revive ECOMOG; bring Niger, Burkina Faso and Mali back into ECOWAS.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s41",
+      "title": "Niger: Atiku cautions against military engagement, advocates dialogue",
+      "url": "https://leadership.ng/niger-atiku-cautions-against-military-engagement-advocates-dialogue/",
+      "publisher": "Leadership",
+      "type": "news",
+      "published": "2023-08-04",
+      "accessed": "2026-11-28",
+      "categories": [
+        "foreign"
+      ],
+      "claim": "Atiku opposed ECOWAS military action in Niger and urged diplomatic engagement.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    }
+  ],
+  "gaps": [
+    "Obtain the full ADC 2027 manifesto (if published) and update vision, promises and costing assessments.",
+    "Track the Court of Appeal outcome and INEC's formal position on the 5 November 2026 Federal High Court judgment (suit number reported inconsistently as FHC/ABJ/CS/1619/2025 and FHC/ABJ/CS/1819/2025).",
+    "Track the status of the EFCC inquiry reported reopened in October 2026.",
+    "Read the primary 2010 US Senate PSI report and the 2008 SEC Siemens complaint directly to confirm figures.",
+    "Source INEC primary records for the 2007 result and replace the Wikipedia pointer.",
+    "Find primary sources for the 1993 SDP primary, the 1998 Adamawa governorship election and party moves in 2009-2017 (PDP, APC, PDP).",
+    "Find an independent evaluation (BPE, Senate 2011 ad hoc committee report, academic work) of privatisations concluded under the NCP in 1999-2007.",
+    "Obtain the full texts of the 2019 and 2023 policy documents to verify job, power and police-recruitment targets.",
+    "Check Code of Conduct Bureau asset declarations and any public asset disclosure.",
+    "Verify education credentials listed on the profile page that were not confirmed here (Kano School of Hygiene diploma).",
+    "Confirm whether Atiku has personally committed to a single term; reports found were second-hand."
+  ]
+}

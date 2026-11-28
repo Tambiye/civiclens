@@ -2,16 +2,27 @@
   "name": "civiclens",
   "version": "0.1.0",
   "private": true,
+  "browserslist": [
+    "chrome >= 80",
+    "safari >= 14",
+    "ios_saf >= 14",
+    "defaults"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --import ./scripts/register-alias.mjs --test \"tests/**/*.test.ts\"",
+    "research:validate": "node scripts/research/validate.mjs",
+    "research:index": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/research/build-index.mjs",
+    "research:check": "npm run research:validate && npm run research:index"
   },
   "dependencies": {
-    "next": "16.4.2",
-    "react": "19.3.0",
-    "react-dom": "19.3.0",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "react-icons": "^5.7.0"
   },
   "devDependencies": {

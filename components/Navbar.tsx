@@ -19,8 +19,21 @@ const navLinks = [
   { label: "About", href: "/about" },
 ];
 
+/**
+ * Active-link state comes from the URL. Under Cache Components, the pathname
+ * of a dynamic route (e.g. /compare/[matchup]) is unknown while prerendering,
+ * so the layout wraps <Navbar> in Suspense and shows <NavbarFallback> (the
+ * same bar, without an active link) until it resolves.
+ */
 export default function Navbar() {
-  const pathname = usePathname();
+  return <NavbarView pathname={usePathname()} />;
+}
+
+export function NavbarFallback() {
+  return <NavbarView pathname={null} />;
+}
+
+function NavbarView({ pathname }: { pathname: string | null }) {
 
   const [isOpen, setIsOpen] = useState(false);
   const [showBg, setShowBg] = useState(false);
@@ -40,7 +53,7 @@ export default function Navbar() {
         return pathname === "/";
       }
 
-      return pathname === href || pathname.startsWith(`${href}/`);
+      return !!pathname && (pathname === href || pathname.startsWith(`${href}/`));
     },
     [pathname]
   );

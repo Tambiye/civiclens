@@ -1,0 +1,811 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "daniel-daberechukwu-nwanyanwu",
+  "name": "Daniel Daberechukwu Nwanyanwu",
+  "researchVersion": 1,
+  "status": "INSUFFICIENT_DATA",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Daniel Daberechukwu Nwanyanwu",
+    "commonName": "Dan Nwanyanwu",
+    "born": "1959",
+    "stateOfOrigin": "Imo (Amuzu-Amaimo, Ikeduru LGA)",
+    "party": "Zenith Labour Party (ZLP)",
+    "partyHistory": [
+      {
+        "party": "Party for Social Democracy / Labour Party (LP)",
+        "period": "2004 – February 2015",
+        "sourceIds": [
+          "s6",
+          "s7",
+          "s8"
+        ]
+      },
+      {
+        "party": "Zenith Labour Party (ZLP)",
+        "period": "after 2015 – present (National Chairman; join date not found)",
+        "sourceIds": [
+          "s4",
+          "s5",
+          "s6"
+        ]
+      }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": false,
+    "education": [
+      {
+        "credential": "First School Leaving Certificate",
+        "institution": "St James Primary School, Amuzu",
+        "sourceIds": [
+          "s1",
+          "s6"
+        ]
+      },
+      {
+        "credential": "WAEC",
+        "institution": "Oraifite Boys' High School, Anambra State",
+        "sourceIds": [
+          "s1",
+          "s6"
+        ]
+      },
+      {
+        "credential": "Studies in Labour Management Relations",
+        "institution": "Howard University School of Business",
+        "sourceIds": [
+          "s6"
+        ]
+      },
+      {
+        "credential": "LLB (as declared to INEC; reported 1998)",
+        "sourceIds": [
+          "s1",
+          "s8"
+        ]
+      },
+      {
+        "credential": "LLM (as declared to INEC; reported University of Lagos)",
+        "sourceIds": [
+          "s1",
+          "s8"
+        ]
+      }
+    ],
+    "professional": [
+      "Lawyer",
+      "Former banker (Union Bank, 1979–1993)",
+      "Trade unionist (NUBIFIE national president from 1989)"
+    ]
+  },
+  "career": [
+    {
+      "period": "1979 – 1993",
+      "title": "Union Bank staff",
+      "description": "Worked at Union Bank while rising through the bank workers' union.",
+      "kind": "professional",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "period": "1989 – (end date not found)",
+      "title": "National President, NUBIFIE",
+      "description": "National president of the National Union of Banks, Insurance and Financial Institutions Employees; member of the NLC National Executive Council.",
+      "kind": "activism",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "period": "2004 – 2014",
+      "title": "National Chairman, Party for Social Democracy / Labour Party",
+      "description": "Led the NLC-backed party for about ten years, then chaired its Board of Trustees.",
+      "kind": "party",
+      "sourceIds": [
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "period": "2012",
+      "title": "Officer of the Order of the Federal Republic (OFR)",
+      "description": "National honour conferred in September 2012.",
+      "kind": "other",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "period": "February 2015",
+      "title": "Left the Labour Party",
+      "description": "Resigned as BoT chairman and withdrew membership, citing disagreements over the party's direction and 2015 nominations.",
+      "kind": "party",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "period": "Dates not found",
+      "title": "Pro-Chancellor, Adekunle Ajasin University",
+      "description": "Chairman of the Governing Council of the Ondo State university.",
+      "kind": "appointment",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "period": "To present (start date not found)",
+      "title": "National Chairman, Zenith Labour Party",
+      "description": "Reported as ZLP National Chairman in 2023, December 2025 and May 2026.",
+      "kind": "party",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "period": "30 May 2026",
+      "title": "ZLP consensus presidential candidate",
+      "description": "Emerged at the party's national convention in Abuja.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "elections": [
+    {
+      "year": "2023",
+      "office": "President of Nigeria",
+      "party": "ZLP",
+      "result": "Lost; 77,665 votes of 24,025,940 valid votes (INEC declared results as reported)",
+      "sourceIds": [
+        "s9",
+        "s6"
+      ]
+    },
+    {
+      "year": "2027",
+      "office": "President of Nigeria",
+      "party": "ZLP",
+      "result": "Pending (election scheduled for 16 January 2027)",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He lists industrialisation, ease of doing business and SME support as aims, without measures or costings.",
+      "analysis": "Leadership's May 2026 report lists industrialisation, easier business conditions and targeted support for small and medium enterprises among his pledges. In 2023 he pledged to reduce oil dependence within one year. No positions on the exchange rate, subsidy, inflation, tax or trade were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4",
+        "s6"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Specific economic measures and costings",
+        "Positions on exchange rate, subsidy, inflation and tax",
+        "ZLP manifesto text"
+      ]
+    },
+    "security": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "He promises to equip and direct security agencies against insurgents, prosecute their enablers, adopt modern technology and send an executive bill for state and community policing.",
+      "analysis": "Security is one of the three priorities Nwanyanwu named in his May 2026 acceptance speech, alongside unity and corruption. According to NAN and Premium Times, he would immediately equip and direct security agencies to 'smoke out' insurgents nationwide, prosecute arrested suspects quickly, and also prosecute collaborators, enablers and facilitators. He would acquire and develop modern technology for security, and he would send an executive bill to the National Assembly to establish state and community policing. Leadership adds more funding for security agencies and better welfare for personnel.\n\nThe state-policing bill is the most concrete institutional proposal. Because policing is federal under the 1999 Constitution, such a change would need a constitutional amendment passed by the National Assembly and approved by state assemblies. Proposing an executive bill acknowledges that route but cannot guarantee its outcome. The rhetoric of eliminating insurgents 'without mercy' is not paired with any statement on human-rights safeguards. No costs, timelines or reforms of command structures were stated. He has no record of overseeing security institutions; at the 2014 National Conference he was a Labour Party delegate, but no record of his security positions there was reviewed.",
+      "strengths": [
+        "Names a legal instrument (executive bill) for its central reform"
+      ],
+      "limitations": [
+        "No costs or timelines",
+        "No stated human-rights safeguards"
+      ],
+      "unknowns": [
+        "Design of the proposed state and community police",
+        "Funding plan"
+      ],
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No education proposals were found.",
+      "analysis": "Neither the 2026 acceptance-speech reports nor the 2023 profile reviewed contain education policy.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Education policy proposals"
+      ]
+    },
+    "healthcare": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No healthcare proposals were found.",
+      "analysis": "No statement on health funding, insurance or hospitals was found in the sources reviewed.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Healthcare policy proposals"
+      ]
+    },
+    "infrastructure": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Only a general pledge to modernise power infrastructure was found.",
+      "analysis": "Leadership mentions modernising power infrastructure. No proposals on roads, rail, ports, housing or digital infrastructure were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Infrastructure priorities and financing"
+      ]
+    },
+    "power": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He proposes more private-sector participation and renewable investment in power, without targets.",
+      "analysis": "Leadership reports pledges of greater private participation, more renewable-energy investment and modernised infrastructure to address shortages. No capacity targets, tariff or regulatory positions were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Power-sector targets, tariff and regulatory positions"
+      ]
+    },
+    "jobs": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He names SMEs as job creators and youth empowerment as a priority, without targets.",
+      "analysis": "Leadership lists SME growth and youth empowerment, and NAN quotes a pledge to 'restore youths' confidence'. No jobs targets or programmes were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s3",
+        "s4"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Jobs targets and programmes"
+      ]
+    },
+    "finance": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He promises greater transparency in public financial management, with no fiscal targets.",
+      "analysis": "Leadership reports a pledge of greater transparency in public financial management and stronger anti-graft institutions. No positions on debt, borrowing or revenue were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Positions on borrowing, debt and revenue"
+      ]
+    },
+    "leadership": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "He has led national organisations for decades (a bank workers' union, the Labour Party for about ten years and the ZLP), but has not led a government institution.",
+      "analysis": "Nwanyanwu's leadership record is in trade unions and political parties. Daily Trust's 2023 profile says he rose through the National Union of Banks, Insurance and Financial Institutions Employees to become its national president in 1989, which made him a member of the Nigeria Labour Congress's National Executive Council. He then chaired the Labour Party, which emerged from the NLC-backed Party for Social Democracy, for about ten years. During that period the party won the Ondo governorship with Olusegun Mimiko, a point reported by Wikipedia and not independently confirmed here. He handed over in 2014 and became chairman of the Board of Trustees. In February 2015 he resigned that post and left the party, saying his advice to reposition it was rejected and objecting to how candidates for the 2015 elections were nominated.\n\nHe later became National Chairman of the Zenith Labour Party, which he still led in December 2025 and May 2026. He was its presidential candidate in 2023 and again in 2027. He thus combines the roles of party chairman and candidate, as some other small-party candidates do. He also served as Pro-Chancellor and Chairman of the Governing Council of Adekunle Ajasin University; the dates and his record there were not found.",
+      "strengths": [
+        "Long record of leading national membership organisations"
+      ],
+      "limitations": [
+        "No government management record",
+        "Record as university council chair undocumented"
+      ],
+      "unknowns": [
+        "Dates and outcomes of his pro-chancellorship",
+        "ZLP's internal governance record"
+      ],
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "integrity": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No court case, investigation or allegation against him was found; this reflects limited coverage, not a confirmed clean record. He campaigns on investigating unexplained wealth.",
+      "analysis": "No integrity matters were found in the sources reviewed. His 2015 exit from the Labour Party cited concerns about the integrity of candidate nomination. No asset declaration was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s2",
+        "s7"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Asset declaration",
+        "Code of Conduct Bureau records",
+        "Search of court records"
+      ]
+    },
+    "experience": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "No elected public office. Decades in banking, trade unionism and party leadership; a lawyer; Labour Party chairman for about ten years; ZLP presidential candidate in 2023 with 77,665 votes.",
+      "analysis": "Nwanyanwu has not held elected or ministerial office, so his experience is in organised labour, law and party politics. INEC lists his age as 66 and his qualifications as FSLC, WAEC, LLB and LLM. Daily Trust reports that he was born in 1959 in Amuzu-Amaimo, Ikeduru LGA, Imo State. He attended St James Primary School, Amuzu, and Oraifite Boys' High School in Anambra State, and studied labour-management relations at Howard University's School of Business. He worked at Union Bank from 1979 to 1993. Wikipedia, used here only as a pointer, adds NIPSS membership (1992), a law degree (1998), call to the Bar (2000) and an LLM from the University of Lagos; these are consistent with the LLB and LLM on INEC's list.\n\nHe chaired the Labour Party for about a decade, left it in February 2015, and later chaired the ZLP. He was the ZLP's 2023 presidential candidate. INEC's declared results, as reported by Nairametrics, gave him 77,665 of 24,025,940 valid votes, about 0.3 per cent. He was made an Officer of the Order of the Federal Republic in 2012 and served as Pro-Chancellor of Adekunle Ajasin University. His running mate for 2027 is Hassan Khalid, aged 37.",
+      "strengths": [
+        "Long institutional experience in unions and party leadership",
+        "Legal training",
+        "Has contested a presidential election before"
+      ],
+      "limitations": [
+        "No executive or legislative office",
+        "Small electoral base in 2023"
+      ],
+      "unknowns": [
+        "Dates of his law practice and university council service"
+      ],
+      "sourceIds": [
+        "s1",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "He frames his candidacy around national unity as an 'emergency', citizens' rights, security and anti-corruption, continuing themes from his 2023 run.",
+      "analysis": "Nwanyanwu's 2027 vision puts national unity first. In his May 2026 acceptance speech he said his government would treat unity as a national emergency because ethnic and religious divisions and mismanaged diversity have weakened the country. He promised inclusive government, restored citizens' rights and regional 'building blocks', and said he aims to make Nigeria a hub for economic and social prosperity. The themes continue from his 2023 campaign. Daily Trust then reported pledges to guarantee fundamental rights, avoid rule by decree, build trust across ethnic lines, give traditional and religious leaders roles in nation-building, and reduce oil dependence within one year.\n\nThe vision is consistent across both campaigns, which allows comparison over time. It is mostly framed in principles rather than policies, however. 'Building blocks' and the role of traditional rulers are not defined. The 2023 one-year target for reducing oil dependence was not repeated in the 2026 reports reviewed, and no costed programme accompanies the unity agenda. His public commentary as party chairman, such as advising former President Jonathan not to run in 2027, shows engagement with national politics but adds no policy content.",
+      "strengths": [
+        "Consistent themes across two campaigns"
+      ],
+      "limitations": [
+        "Principles rather than defined policies",
+        "No manifesto found"
+      ],
+      "unknowns": [
+        "Meaning of regional 'building blocks'",
+        "ZLP 2027 manifesto"
+      ],
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s5",
+        "s6"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No foreign-policy statements were found.",
+      "analysis": "Leadership mentions attracting investment as an economic aim, but no positions on ECOWAS, trade or security cooperation were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Foreign-policy and regional positions"
+      ]
+    },
+    "humanImpact": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "No social-protection proposals were found beyond restoring citizens' rights and youth confidence.",
+      "analysis": "His pledges concern rights, unity and youth confidence; no welfare, poverty-reduction or social-protection programmes were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s2",
+        "s3"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Social-protection and poverty-reduction proposals"
+      ]
+    },
+    "promises": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "His 2027 promises are a state and community policing bill, prosecution of insurgents' enablers, investigation of unexplained wealth, and general economic and power-sector aims; none is costed or time-bound.",
+      "analysis": "The commitments reported from Nwanyanwu's May 2026 acceptance speech and the party's endorsement are mostly declaratory. The most specific is a promise to send an executive bill to the National Assembly to create state and community policing. Others include equipping security agencies, prosecuting insurgents together with their collaborators, enablers and facilitators, investigating and sanctioning individuals and groups with unexplained wealth, and treating national unity as an emergency. On the economy and power, Leadership reports aims of industrialisation, ease of doing business, SME support, private participation and renewable investment.\n\nNone of these promises carries a target, timeline or cost. Several depend on bodies outside the presidency. State policing needs a constitutional amendment that also requires state assemblies' approval. Prosecutions depend on the courts and on prosecutorial independence. An unexplained-wealth regime would need legal backing, which may require new legislation. Because he ran in 2023 on similar themes, a reviewer could compare the two platforms, but no 2023 manifesto was retrieved. The commitments are listed under plans.",
+      "strengths": [
+        "The central institutional reform is tied to a stated legislative route"
+      ],
+      "limitations": [
+        "No targets, timelines or costs",
+        "Heavy dependence on legislature, states and courts"
+      ],
+      "unknowns": [
+        "ZLP 2027 manifesto",
+        "Draft of the proposed policing bill"
+      ],
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    {
+      "id": "rec1",
+      "title": "2023 presidential result",
+      "kind": "outcome",
+      "label": "FACT",
+      "period": "February 2023",
+      "description": "Received 77,665 votes as ZLP candidate in the 2023 presidential election.",
+      "categories": [
+        "experience"
+      ],
+      "sourceIds": [
+        "s9"
+      ]
+    },
+    {
+      "id": "rec2",
+      "title": "Exit from the Labour Party over nomination concerns",
+      "kind": "decision",
+      "label": "FACT",
+      "period": "February 2015",
+      "description": "Resigned as LP BoT chairman and left the party, citing rejected advice and concerns about how 2015 candidates were nominated.",
+      "categories": [
+        "leadership",
+        "integrity"
+      ],
+      "sourceIds": [
+        "s7"
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "id": "pl1",
+      "title": "Executive bill for state and community policing",
+      "label": "PROMISE",
+      "category": "security",
+      "outcome": "State and community police forces.",
+      "method": "Executive bill to the National Assembly.",
+      "dependencies": "Constitutional amendment requiring National Assembly and state assembly approval.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "pl2",
+      "title": "Equip agencies and prosecute insurgents and enablers",
+      "label": "PROMISE",
+      "category": "security",
+      "outcome": "Defeat of insurgency; prosecution of suspects and collaborators.",
+      "method": "Equip and direct security agencies; acquire modern security technology; swift prosecution.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "id": "pl3",
+      "title": "Investigate unexplained wealth",
+      "label": "PROMISE",
+      "category": "integrity",
+      "outcome": "Individuals and groups with unexplained wealth investigated and sanctioned.",
+      "dependencies": "Legal framework and courts.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "pl4",
+      "title": "National unity as an emergency",
+      "label": "PROMISE",
+      "category": "vision",
+      "outcome": "Inclusive government, restored citizens' rights, regional 'building blocks'.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "pl5",
+      "title": "Private participation and renewables in power",
+      "label": "PROPOSAL",
+      "category": "power",
+      "outcome": "Reduced electricity shortages.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "pl6",
+      "title": "Industrialisation and SME support",
+      "label": "PROPOSAL",
+      "category": "economy",
+      "outcome": "Industrial growth and jobs via SMEs and easier business conditions.",
+      "sourceIds": [
+        "s4"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "questionId": "r1",
+      "answer": "He names disunity, insecurity and corruption as the main problems, without data.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "questionId": "r2",
+      "answer": "Only the policing bill is a specific instrument; other pledges are general.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "questionId": "r3",
+      "answer": "No evidence base cited.",
+      "assessment": "no",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "questionId": "r4",
+      "answer": "No costings.",
+      "assessment": "no",
+      "sourceIds": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "questionId": "r5",
+      "answer": "No timelines.",
+      "assessment": "no",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "questionId": "r6",
+      "answer": "State policing and prosecutions depend on the legislature, states and courts.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "questionId": "r7",
+      "answer": "Yes; he proposes an executive bill, and state policing needs constitutional amendment.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "questionId": "r8",
+      "answer": "No risks or trade-offs disclosed.",
+      "assessment": "no",
+      "sourceIds": []
+    },
+    {
+      "questionId": "r9",
+      "answer": "No policy or transition team identified beyond the party structure he chairs.",
+      "assessment": "unknown",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "questionId": "r10",
+      "answer": "No government execution record; long record of leading a union and parties.",
+      "assessment": "unknown",
+      "sourceIds": [
+        "s6"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Presidential and National Assembly Elections for Jan, 2027 – Presidential: Final List of Candidates",
+      "url": "https://www.inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf",
+      "publisher": "Independent National Electoral Commission (INEC)",
+      "type": "electoral",
+      "published": "2026-10",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Lists NWANYANWU DANIEL DABERECHUKWU as the ZLP presidential candidate, age 66, male, qualifications FSLC, WAEC, LLB, LLM; running mate HASSAN KHALID, age 37, male, FSLC, SSCE, PGD.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s2",
+      "title": "2027: ZLP gets presidential candidate",
+      "url": "https://www.premiumtimesng.com/news/more-news/884057-2027-zlp-gets-presidential-candidate.html",
+      "publisher": "Premium Times (NAN)",
+      "type": "news",
+      "published": "2026-05-31",
+      "accessed": "2026-11-28",
+      "categories": [
+        "security",
+        "vision",
+        "integrity",
+        "promises"
+      ],
+      "claim": "Nwanyanwu became ZLP consensus candidate at the Abuja convention; pledged national unity as an 'emergency', to equip security agencies, prosecute insurgents and their enablers, send an executive bill for state and community policing, and investigate unexplained wealth.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s3",
+      "title": "2027: I'll prioritise national unity, tackle corruption, insecurity – ZLP presidential candidate",
+      "url": "https://nannews.ng/pledge/",
+      "publisher": "News Agency of Nigeria (NAN)",
+      "type": "news",
+      "published": "2026-05-30",
+      "accessed": "2026-11-28",
+      "categories": [
+        "security",
+        "vision",
+        "promises"
+      ],
+      "claim": "Same acceptance-speech pledges, including acquiring modern technology to address insecurity and restoring youth confidence.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s4",
+      "title": "ZLP endorses Dan Nwanyanwu as consensus presidential candidate",
+      "url": "https://leadership.ng/zlp-endorses-dan-nwanyanwu-as-consensus-presidential-candidate/",
+      "publisher": "Leadership",
+      "type": "news",
+      "published": "2026-05-31",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "power",
+        "jobs",
+        "security",
+        "finance",
+        "leadership"
+      ],
+      "claim": "Identifies him as ZLP National Chairman; lists pledges on industrialisation, ease of doing business, SME support, private participation and renewables in power, security funding and welfare, and stronger anti-graft institutions.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s5",
+      "title": "ZLP national chair Nwanyanwu warns Jonathan against 2027 presidential bid",
+      "url": "https://leadership.ng/zlp-national-chair-nwanyanwu-warns-jonathan-against-2027-presidential-bid/",
+      "publisher": "Leadership",
+      "type": "news",
+      "published": "2025-12-05",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "As ZLP National Chairman, he advised former President Jonathan not to contest in 2027.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s6",
+      "title": "Nwanyanwu: An all-rounder eyeing presidency",
+      "url": "https://dailytrust.com/nwanyanwu-an-all-rounder-eyeing-presidency/",
+      "publisher": "Daily Trust",
+      "type": "news",
+      "published": "2023-01-21",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "leadership",
+        "vision"
+      ],
+      "claim": "Born 1959 in Amuzu-Amaimo, Ikeduru LGA, Imo State; Union Bank 1979–1993; national president of NUBIFIE from 1989 (NLC NEC member); Labour Party national chairman for about ten years; ZLP national chairman and 2023 presidential candidate (June 2022 convention); Pro-Chancellor of Adekunle Ajasin University; OFR (2012); 2023 pledges included reducing oil dependence within a year.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s7",
+      "title": "Nwanyanwu dumps Labour Party",
+      "url": "https://dailytrust.com/nwanyanwu-dumps-labour-party/",
+      "publisher": "Daily Trust",
+      "type": "news",
+      "published": "2015-02-17",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "leadership"
+      ],
+      "claim": "He resigned as LP Board of Trustees chairman and left the party by letter of 13 February 2015, citing rejected advice and concerns about the 2015 candidate-nomination process.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s8",
+      "title": "Dan Nwanyanwu",
+      "url": "https://en.wikipedia.org/wiki/Dan_Nwanyanwu",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Used only as a pointer: reports PSD/LP chairmanship from 2004, re-election in December 2009, stepping down in October 2014, NIPSS (mni, 1992), law degree 1998, call to the Bar 2000, LLM (University of Lagos), and delegate to the 2014 National Conference.",
+      "verification": "UNVERIFIED",
+      "quality": "low",
+      "summary": "Not used as the sole source for any important claim; items found only here are marked as such."
+    },
+    {
+      "id": "s9",
+      "title": "INEC declares Tinubu winner of the 2023 presidential election",
+      "url": "https://nairametrics.com/2023/03/01/inec-declares-tinubu-winner-of-the-2023-presidential-election/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2023-03-01",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Reports INEC's final 2023 presidential results: ZLP (Nwanyanwu Daberechukwu) 77,665 votes; total valid votes 24,025,940.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    }
+  ],
+  "gaps": [
+    "Obtain primary sources for education (law degree, call to the Bar, LLM) instead of Wikipedia.",
+    "Find dates of his ZLP membership and chairmanship and of his Adekunle Ajasin University pro-chancellorship.",
+    "Obtain the ZLP 2023 and 2027 manifestos to compare commitments.",
+    "Retrieve INEC's official 2023 results document directly (the profile page cites the INEC 2023 General Election report, not fetched here).",
+    "Search court and CCB records for any integrity matters."
+  ]
+}

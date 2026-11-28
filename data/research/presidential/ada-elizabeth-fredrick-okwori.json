@@ -1,0 +1,815 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "ada-elizabeth-fredrick-okwori",
+  "name": "Ada Elizabeth Fredrick Okwori",
+  "researchVersion": 1,
+  "status": "INSUFFICIENT_DATA",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Ada Elizabeth Fredrick Okwori",
+    "commonName": "Ada Fredrick (also spelled Frederick); Ada Okwori",
+    "born": null,
+    "stateOfOrigin": "Benue (reported: Adoka; Idoma)",
+    "party": "National Democratic Party (NDP)",
+    "partyHistory": [
+      {
+        "party": "Peoples Democratic Party (PDP)",
+        "period": "c. 2014 – c. 2024 (dates not established)",
+        "sourceIds": [
+          "s8"
+        ]
+      },
+      {
+        "party": "National Democratic Party (NDP)",
+        "period": "2025 – present (founder; National Chairman by court order)",
+        "sourceIds": [
+          "s2",
+          "s8"
+        ]
+      }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": false,
+    "education": [
+      {
+        "credential": "First School Leaving Certificate (as declared to INEC)",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "credential": "Senior Secondary School Certificate (as declared to INEC)",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "credential": "Higher National Diploma in Accountancy (as declared to INEC; institution not found)",
+        "sourceIds": [
+          "s1"
+        ]
+      }
+    ],
+    "professional": [
+      "Grassroots political organiser (Ward2Ward)",
+      "Founder and National Chairman, National Democratic Party"
+    ]
+  },
+  "career": [
+    {
+      "period": "2014",
+      "title": "National Coordinator, Ward2Ward",
+      "description": "Ward-level mobilisation group; in October 2014 she described it as campaigning for President Jonathan's 2015 re-election.",
+      "kind": "activism",
+      "sourceIds": [
+        "s8",
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "period": "April 2024",
+      "title": "PDP National Women Leader bid (reported)",
+      "description": "A youth group backed her interest in the post; no vote on it was found.",
+      "kind": "party",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "period": "September 2025 – March 2026",
+      "title": "NDP registration and litigation",
+      "description": "INEC shortlisted the NDP association, then declined registration in December 2025. She and three other promoters sued, and the Federal High Court, Abuja, ordered registration on 16 February 2026. The party was registered in March 2026.",
+      "kind": "party",
+      "sourceIds": [
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "period": "2026 – present",
+      "title": "National Chairman, NDP (by court order)",
+      "description": "Listed on INEC's party page.",
+      "kind": "party",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "period": "29 May – 1 June 2026",
+      "title": "NDP presidential candidate (consensus)",
+      "description": "Declared after primaries on 29 May; unveiled 1 June, after INEC's 30 May deadline.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s8"
+      ]
+    },
+    {
+      "period": "2026",
+      "title": "On INEC final list of presidential candidates",
+      "description": "Running mate Chukwuemeka Uchenna Anthony.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s1"
+      ]
+    }
+  ],
+  "elections": [
+    {
+      "year": "2027",
+      "office": "President of Nigeria",
+      "party": "NDP",
+      "result": "Pending (election scheduled for 16 January 2027)",
+      "sourceIds": [
+        "s1"
+      ]
+    }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "She proposes SME credit and tax holidays, farming clusters and local processing of raw materials; none is costed.",
+      "analysis": "Okwori's economic proposals come from two sources: the party spokesperson at her June 2026 unveiling and her own September 2026 Blueprint interview. The spokesperson described a 'deliberate' shift towards processing natural resources at home and exporting finished goods instead of raw materials, together with basic infrastructure to support growth. In the interview she described an 'NDP Prosperity Plan': low-interest loans, three-year tax holidays and digital market access for small businesses; mechanised farming clusters with storage and guaranteed buyers for farmers; and decentralised solar and gas power for states and industrial hubs.\n\nThe proposals name instruments but give no estimate of cost, of revenue forgone through tax holidays, or of who would provide the low-interest credit (the CBN, development banks or commercial lenders). Value-addition policies have been attempted under earlier administrations, and their results depended on power supply, foreign-exchange access and port efficiency. Most of those conditions sit outside presidential control, and the sources reviewed do not discuss them. No positions were found on the exchange rate, fuel subsidy, inflation or tariffs, which dominate current federal economic decisions. The proposals are therefore assessable only as stated intentions.",
+      "strengths": [
+        "Names specific instruments (credit, tax holidays, farming clusters)"
+      ],
+      "limitations": [
+        "No costing or financing plan",
+        "No positions on exchange rate, subsidy, inflation or trade policy"
+      ],
+      "unknowns": [
+        "Who funds concessional SME credit",
+        "Revenue impact of tax holidays"
+      ],
+      "sourceIds": [
+        "s4",
+        "s7"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "security": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Her 'Safe Nigeria Agenda' lists community policing, surveillance technology, welfare for personnel and youth programmes, without detail on funding or legal changes.",
+      "analysis": "In her Blueprint interview Okwori outlined an 'NDP Safe Nigeria Agenda' made up of community policing, intelligence and technology such as drones, support for local security structures, better welfare for security personnel, and jobs and skills programmes for young people at risk of recruitment into crime. The party's June 2026 unveiling statement did not address security.\n\nSeveral of these elements interact with the constitution: the Nigeria Police Force is federal, so any community or state-level policing structure with coercive powers would likely require constitutional amendment through the National Assembly and state assemblies, which she does not address. Drone surveillance and welfare improvements carry recurring costs that are not estimated. She does not say how the plan would relate to the military's internal-security deployments or to existing state security outfits. She has no record of overseeing security agencies, so the category rests on proposals only. As with all candidates, actual outcomes would depend on state governments, community cooperation and regional conditions as well as federal choices.",
+      "strengths": [
+        "Combines enforcement with prevention (youth programmes)"
+      ],
+      "limitations": [
+        "No funding estimate",
+        "Constitutional route for community policing not addressed",
+        "No targets or timeline"
+      ],
+      "unknowns": [
+        "Command and legal structure of the proposed community policing",
+        "Cost of technology and welfare commitments"
+      ],
+      "sourceIds": [
+        "s7"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "She proposes allocating 15% of the national budget to education, upgrading 5,000 public schools in a first term and setting up vocational centres in every LGA.",
+      "analysis": "Education is one of the few areas where Okwori has stated numerical targets. Her 'Future Minds Initiative', described in the Blueprint interview, includes better pay, training and housing for teachers; vocational centres in every local government area; free coding and technical training; 15 per cent of the national budget for education; and upgrades to 5,000 public schools in the first term. The June 2026 unveiling statement also referred broadly to quality education and human-capital investment.\n\nThe targets are measurable, which allows later checking, but the interview gives no costing, no comparison with the current federal allocation, and no account of how a federal government would upgrade schools that states and local governments mostly own and run. Basic education is largely a state and local responsibility, with federal support through UBEC transfers that require state counterpart funds. A higher federal education share would require either new revenue or cuts elsewhere, and it would need National Assembly approval through appropriation. None of these trade-offs is discussed in the sources.",
+      "strengths": [
+        "Measurable targets (15% budget share, 5,000 schools, vocational centre per LGA)"
+      ],
+      "limitations": [
+        "No costing or funding source",
+        "Federal–state division of responsibility not addressed"
+      ],
+      "unknowns": [
+        "Baseline federal education share she is comparing against",
+        "Selection criteria for the 5,000 schools"
+      ],
+      "sourceIds": [
+        "s4",
+        "s7"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "healthcare": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Only a general commitment to 'accessible, affordable healthcare for all' was found.",
+      "analysis": "The party spokesperson listed accessible and affordable healthcare among her priorities at the June 2026 unveiling. No proposals on health insurance, financing, primary healthcare or tertiary hospitals were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Specific health policy proposals",
+        "Position on national health insurance and primary healthcare funding"
+      ]
+    },
+    "infrastructure": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Only a general reference to 'basic infrastructure that supports economic growth and jobs' was found.",
+      "analysis": "No named projects, sector priorities (roads, rail, ports, housing) or financing approaches were found beyond the spokesperson's general statement.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Infrastructure priorities and financing model"
+      ]
+    },
+    "power": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "She proposes decentralised solar and gas power for states and industrial hubs, without further detail.",
+      "analysis": "The Blueprint interview mentions decentralised solar and gas power for states and industrial hubs as part of the Prosperity Plan. No capacity targets, costs, or positions on the national grid, tariffs or distribution companies were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s7"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Capacity targets and timeline",
+        "Position on grid, tariffs and DisCos",
+        "Financing approach"
+      ]
+    },
+    "jobs": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "She has stated a target of 10 million jobs in four years tied to small-business support, without a method for counting or reaching it.",
+      "analysis": "The 10 million jobs target appears in the Blueprint interview as an outcome of SME credit, tax holidays and digital market access, alongside youth innovation hubs in every state. The interview gives no baseline, sector breakdown or measurement method.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s7"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Baseline and measurement method for the jobs target",
+        "Sector breakdown and cost per job"
+      ]
+    },
+    "finance": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "She proposes eliminating waste, an open budget portal and project tracking, but has no stated position on debt or revenue.",
+      "analysis": "The party spokesperson spoke of eliminating waste and leakages across government; Okwori's interview adds an open budget portal, project tracking and quarterly published results. No position was found on borrowing, debt service, revenue mobilisation or how tax holidays would be offset.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4",
+        "s7"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Positions on borrowing and debt",
+        "Revenue plan and fiscal offsets for proposed tax holidays"
+      ]
+    },
+    "leadership": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "She founded the NDP and chairs it by court order; she proposes performance contracts and term limits, but has no public-office record.",
+      "analysis": "Okwori led the NDP's registration effort, including a successful suit against INEC, and is its National Chairman by court order. She also became its presidential candidate, so she holds the party's top organisational and electoral roles at once. Her proposals include performance contracts for office holders with quarterly published results, town-hall consultations and a binding party code of conduct. No record of running a public institution was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s2",
+        "s7",
+        "s8"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Evidence of how she has run teams or budgets",
+        "Composition of her campaign and policy team"
+      ]
+    },
+    "integrity": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No court case, investigation or allegation against her was found; this reflects limited coverage, not a confirmed clean record.",
+      "analysis": "The only court matter found is the NDP registration suit, in which she was a plaintiff and won. OurNigeria reports no case against her. No asset declaration was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s8"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Asset declaration",
+        "Code of Conduct Bureau records",
+        "Any audit of NDP finances"
+      ]
+    },
+    "experience": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "No public office held. Her record consists of grassroots mobilisation, PDP-era activism, and founding and litigating the NDP into registration.",
+      "analysis": "Okwori has not held elected or appointed public office. INEC lists her qualifications as FSLC, SSCE and an HND in Accountancy; no institution or occupation was found. OurNigeria and the Advocate report that she is Idoma, from Adoka in Benue State, and founded Ward2Ward, a ward-level mobilisation group. As its national coordinator in October 2014 she campaigned for President Goodluck Jonathan's 2015 re-election. She was an earlier PDP member, and in April 2024 a youth group backed her for PDP National Women Leader, though no vote on that post was found.\n\nHer most documented achievement is organisational and legal. After INEC declined to register the NDP in December 2025, she and three other promoters sued, and the Federal High Court, Abuja, ordered registration on 16 February 2026 (suit FHC/ABJ/CS/2796/2025, as reported). INEC's party page lists her as National Chairman by court order. The party named her its consensus candidate after primaries on 29 May 2026 but announced this on 1 June, after INEC's 30 May deadline, which BusinessDay reported raised eligibility questions. She nonetheless appears on INEC's final list, with Chukwuemeka Uchenna Anthony as her running mate.",
+      "strengths": [
+        "Built and registered a national party through litigation",
+        "Long record of grassroots mobilisation"
+      ],
+      "limitations": [
+        "No public-office or large-budget management record",
+        "Education institutions and occupation not documented"
+      ],
+      "unknowns": [
+        "Ward2Ward's scale and current status",
+        "Her professional work outside politics"
+      ],
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s5",
+        "s6",
+        "s8",
+        "s9"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "She presents the NDP as an inclusive, accountability-focused alternative built on 'true federalism', local value addition and women's and youth participation.",
+      "analysis": "Okwori's stated vision combines governance reform with economic and social inclusion. At the June 2026 unveiling, the party spokesperson described an 'inclusive administration' that would bring women and youth into decision-making, 'true federalism' with fairness and accountability across the three tiers of government, and an end to waste and leakages. In her own words she framed her candidacy around the need for women in national leadership: 'I will not fail you; I will not fail my country'.\n\nIn the September Blueprint interview she described the NDP's founding principles as integrity, accountability, service, inclusion and nation-building. She proposed screening candidates on 'capacity and character rather than money', a minimum of 40 per cent women in party executives and candidate lists, a 35 per cent youth quota in party structures, and a Women's Leadership Fund. Some of these are commitments about how she runs her party, not government policy, and can be checked against the NDP's own lists. 'True federalism' is not defined in the sources, so its implications for revenue sharing, policing or resource control are unknown. A full manifesto was promised in June 2026 but was not found.",
+      "strengths": [
+        "Stated principles are paired with some checkable party commitments (40% women, 35% youth quota)"
+      ],
+      "limitations": [
+        "'True federalism' undefined",
+        "Full manifesto not found"
+      ],
+      "unknowns": [
+        "Meaning of 'true federalism' in policy terms",
+        "Whether NDP candidate lists meet the 40% women target"
+      ],
+      "sourceIds": [
+        "s4",
+        "s7"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No foreign-policy statements were found.",
+      "analysis": "No positions on ECOWAS, trade agreements, the diaspora or security cooperation were found. The value-addition and export proposal touches trade but is framed domestically.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Foreign-policy and regional positions"
+      ]
+    },
+    "humanImpact": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "She proposes social support for the elderly and retirees and inclusion of women and youth; no programme detail was found.",
+      "analysis": "The party spokesperson listed social support for the elderly and retirees. Her interview adds youth innovation hubs and a Women's Leadership Fund. No eligibility rules, scale or costs were given, and no record of past welfare programmes she ran was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s4",
+        "s7"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Design and cost of the elderly and retiree support",
+        "Scale and funding of the Women's Leadership Fund"
+      ]
+    },
+    "promises": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Her commitments include several measurable targets (10 million jobs, 15% of the budget to education, 5,000 schools), but none is costed or scheduled beyond 'four years' or 'first term'.",
+      "analysis": "Across the June 2026 unveiling and the September 2026 interview, Okwori's campaign made more quantified commitments than most lesser-known candidates: 10 million jobs in four years, a 15 per cent budget share for education, 5,000 upgraded public schools in a first term, vocational centres in every LGA, a youth innovation hub in every state, and a 40 per cent women's representation floor in the party. Other commitments are qualitative, such as decentralised power, community policing, an open budget portal and mandatory asset declarations.\n\nThe quantified targets make later accountability possible, but none is accompanied by a cost estimate, a funding source, a sequencing plan or a discussion of trade-offs. For example, the tax holidays and higher education spending pull the budget in opposite directions without any stated offset. Several promises, including budget shares and asset-declaration rules, need National Assembly action. The NDP promised a full manifesto 'soon' in June 2026, and none was found by late November 2026, so these commitments come only from press statements and one interview. They are listed individually under plans.",
+      "strengths": [
+        "Several targets are measurable"
+      ],
+      "limitations": [
+        "No costings or funding sources",
+        "Commitments come from press statements, not a published manifesto"
+      ],
+      "unknowns": [
+        "Whether a manifesto has been published",
+        "Costing of the commitments as a package"
+      ],
+      "sourceIds": [
+        "s4",
+        "s7"
+      ],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    {
+      "id": "rec1",
+      "title": "Won suit compelling INEC to register the NDP",
+      "kind": "achievement",
+      "label": "FACT",
+      "period": "December 2025 – February 2026",
+      "description": "As lead plaintiff with three other promoters (suit FHC/ABJ/CS/2796/2025, as reported), she obtained a Federal High Court order directing INEC to register the NDP. INEC's party page records her chairmanship 'by court order'. This is a party-building outcome, not a record in public office.",
+      "categories": [
+        "experience"
+      ],
+      "sourceIds": [
+        "s3",
+        "s8",
+        "s2"
+      ]
+    },
+    {
+      "id": "rec2",
+      "title": "Candidate announced after INEC primary deadline",
+      "kind": "controversy",
+      "label": "FACT",
+      "period": "June 2026",
+      "description": "The NDP announced her nomination on 1 June 2026, two days after the 30 May deadline, prompting eligibility questions. She nonetheless appears on INEC's final list.",
+      "legalStatus": "closed",
+      "categories": [
+        "experience"
+      ],
+      "sourceIds": [
+        "s5",
+        "s1"
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "id": "pl1",
+      "title": "NDP Prosperity Plan: SME credit, tax holidays, 10 million jobs",
+      "label": "PROMISE",
+      "category": "jobs",
+      "outcome": "10 million jobs in four years.",
+      "method": "Low-interest loans, three-year tax holidays and digital market access for small businesses.",
+      "target": "10 million jobs",
+      "timeline": "Four years",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "pl2",
+      "title": "Mechanised farming clusters",
+      "label": "PROPOSAL",
+      "category": "economy",
+      "outcome": "Higher farm output and income.",
+      "method": "Mechanised clusters, storage and guaranteed buyers for farmers.",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "pl3",
+      "title": "Local processing of natural resources",
+      "label": "PROPOSAL",
+      "category": "economy",
+      "outcome": "Export of finished goods instead of raw materials.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "pl4",
+      "title": "Decentralised solar and gas power",
+      "label": "PROPOSAL",
+      "category": "power",
+      "outcome": "Power supply for states and industrial hubs.",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "pl5",
+      "title": "NDP Safe Nigeria Agenda",
+      "label": "PROPOSAL",
+      "category": "security",
+      "outcome": "Reduced insecurity.",
+      "method": "Community policing, intelligence and drones, support for local security structures, personnel welfare, youth jobs and skills.",
+      "dependencies": "Community policing with coercive powers likely requires constitutional amendment.",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "pl6",
+      "title": "Future Minds Initiative",
+      "label": "PROMISE",
+      "category": "education",
+      "outcome": "Improved public education and skills.",
+      "method": "Teacher pay, training and housing; vocational centres in every LGA; free coding and technical training.",
+      "target": "15% of national budget to education; 5,000 public schools upgraded",
+      "timeline": "First term (schools)",
+      "dependencies": "National Assembly appropriation; state ownership of most schools.",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "pl7",
+      "title": "Performance contracts and open budget portal",
+      "label": "PROPOSAL",
+      "category": "leadership",
+      "outcome": "Accountable office holders and transparent spending.",
+      "method": "Performance contracts with quarterly published results; open budget portal; project tracking; mandatory asset declarations; town halls.",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "pl8",
+      "title": "Women and youth representation",
+      "label": "PROMISE",
+      "category": "vision",
+      "outcome": "Greater women and youth participation.",
+      "target": "At least 40% women in party executives and candidate lists; 35% youth quota in party structures",
+      "method": "Women's Leadership Fund; youth innovation hubs in every state.",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "pl9",
+      "title": "Accessible, affordable healthcare and support for the elderly",
+      "label": "PROMISE",
+      "category": "healthcare",
+      "outcome": "Accessible, affordable healthcare; social support for elderly people and retirees.",
+      "sourceIds": [
+        "s4"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "questionId": "r1",
+      "answer": "Problems are named (unemployment, insecurity, waste) but not analysed with data.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s4",
+        "s7"
+      ]
+    },
+    {
+      "questionId": "r2",
+      "answer": "Several instruments and targets are specified (tax holidays, 5,000 schools, 15% budget share), though many items remain general.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "questionId": "r3",
+      "answer": "No evidence or prior studies were cited for the approaches.",
+      "assessment": "no",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "questionId": "r4",
+      "answer": "No costings were given; tax holidays and higher spending are not reconciled.",
+      "assessment": "no",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "questionId": "r5",
+      "answer": "Only broad horizons ('four years', 'first term') were given.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "questionId": "r6",
+      "answer": "Some items depend on states (schools) or constitutional change (community policing).",
+      "assessment": "partly",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "questionId": "r7",
+      "answer": "Budget shares, tax holidays and policing changes would require National Assembly action; she does not address this.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "questionId": "r8",
+      "answer": "No risks or trade-offs disclosed.",
+      "assessment": "no",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "questionId": "r9",
+      "answer": "No policy or transition team identified.",
+      "assessment": "unknown",
+      "sourceIds": []
+    },
+    {
+      "questionId": "r10",
+      "answer": "No public-office record; her organisational record is party building and a successful registration suit.",
+      "assessment": "unknown",
+      "sourceIds": [
+        "s8"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Presidential and National Assembly Elections for Jan, 2027 – Presidential: Final List of Candidates",
+      "url": "https://www.inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf",
+      "publisher": "Independent National Electoral Commission (INEC)",
+      "type": "electoral",
+      "published": "2026-10",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Lists OKWORI ADA ELIZABETH FREDRICK as the NDP presidential candidate, age 48, female, qualifications FSLC, SSCE, HND Accountancy; running mate CHUKWUEMEKA UCHENNA ANTHONY, age 48, male, FSLC, SSCE, LLB.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s2",
+      "title": "National Democratic Party – party profile",
+      "url": "https://www.inecnigeria.org/parties/national-democratic-party",
+      "publisher": "Independent National Electoral Commission (INEC)",
+      "type": "official",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "leadership"
+      ],
+      "claim": "INEC lists Hon. Ada Elizabeth Fredrick Okwori as NDP National Chairman, marked '(By Court Order)'.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s3",
+      "title": "Nigeria: Court Orders INEC to Register NDP As New Party",
+      "url": "https://allafrica.com/stories/202602190599.html",
+      "publisher": "AllAfrica",
+      "type": "news",
+      "published": "2026-02-19",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "A Federal High Court ordered INEC to register the National Democratic Party.",
+      "verification": "UNVERIFIED",
+      "quality": "medium",
+      "summary": "Seen in search results; details (Justice Mohammed Umar, suit FHC/ABJ/CS/2796/2025, judgment of 16 February 2026) are corroborated by OurNigeria's profile but the judgment itself was not reviewed."
+    },
+    {
+      "id": "s4",
+      "title": "2027: NDP unveils female presidential candidate, vows electoral victory",
+      "url": "https://www.premiumtimesng.com/news/top-news/884426-2027-ndp-unveils-female-presidential-candidate-vows-electoral-victory.html",
+      "publisher": "Premium Times (NAN)",
+      "type": "news",
+      "published": "2026-06-01",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "healthcare",
+        "education",
+        "humanImpact",
+        "vision",
+        "experience",
+        "finance"
+      ],
+      "claim": "NDP unveiled Ada Fredrick as candidate by consensus affirmation; described her as founder of the Ward2Ward group and the party's first national chairman; the party spokesperson listed value-added processing of natural resources, accessible healthcare, quality education, support for the elderly, inclusion of women and youth, eliminating waste and 'true federalism'.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s5",
+      "title": "Confusion as NDP announces presidential candidate two days after INEC deadline",
+      "url": "https://businessday.ng/news/article/confusion-as-ndp-announces-presidential-candidate-two-days-after-inec-deadline/",
+      "publisher": "BusinessDay",
+      "type": "news",
+      "published": "2026-06-02",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "The NDP announced its candidate on 1 June 2026, after INEC's 23 April–30 May window for primaries, raising questions about eligibility; a case on INEC's power to impose timelines was pending on appeal.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s6",
+      "title": "Presidential primary: Ada Fredrick emerges NDP presidential flag bearer for 2027 amidst INEC deadline expiration",
+      "url": "https://advocate.ng/presidential-primary-ada-fredrick-emerges-ndp-presidential-flag-bearer-for-2027-amidst-inec-deadline-expiration/",
+      "publisher": "Advocate",
+      "type": "news",
+      "published": "2026-06-02",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Reports she hails from Adoka in Benue State and founded the Ward2Ward support group before establishing the NDP.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s7",
+      "title": "2027: NDP will give Nigerians credible alternative – Founder Ada Okwori",
+      "url": "https://blueprint.ng/?p=842844",
+      "publisher": "Blueprint",
+      "type": "candidate-statement",
+      "published": "2026-09-08",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "security",
+        "education",
+        "jobs",
+        "power",
+        "leadership",
+        "finance",
+        "humanImpact",
+        "vision",
+        "promises"
+      ],
+      "claim": "Interview setting out an NDP Prosperity Plan (SME loans, three-year tax holidays, 10 million jobs in four years, farming clusters, decentralised solar and gas), a Safe Nigeria Agenda, a Future Minds Initiative (15% of budget for education, 5,000 school upgrades), performance contracts, an open budget portal and a 40% women's representation target.",
+      "verification": "UNVERIFIED",
+      "quality": "medium",
+      "summary": "Candidate's own statements in a Q&A interview."
+    },
+    {
+      "id": "s8",
+      "title": "Okwori Ada Elizabeth Frederick – candidate profile",
+      "url": "https://ournigeria.ng/officials/okwori-ada-elizabeth-frederick",
+      "publisher": "OurNigeria",
+      "type": "reference",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "integrity"
+      ],
+      "claim": "Timeline: Ward2Ward national coordinator (2014 Jonathan campaign), earlier PDP membership, April 2024 youth-group backing for PDP National Women Leader, NDP shortlisted September 2025, refused December 2025, suit filed 29 December 2025, judgment 16 February 2026, registration March 2026, consensus candidate 29 May 2026; no court case against her found.",
+      "verification": "UNVERIFIED",
+      "quality": "medium",
+      "summary": "Aggregator profile; underlying source links not visible in the fetched text."
+    },
+    {
+      "id": "s9",
+      "title": "2027: Men have failed Nigeria – presidential candidate",
+      "url": "https://premiumtimesng.com/gender/917043-2027-men-have-failed-nigeria-presidential-candidate.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2026-10-14",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Okwori and Esther Okereke are the only two women among the 18 presidential candidates cleared by INEC.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    }
+  ],
+  "gaps": [
+    "Obtain the NDP manifesto (promised June 2026) if published.",
+    "Obtain the Federal High Court judgment in FHC/ABJ/CS/2796/2025 and confirm that no appeal reversed it.",
+    "Find her INEC Form EC9 for education institutions, occupation and date of birth.",
+    "Verify Ward2Ward history and the 2014 Blueprint interview cited by OurNigeria.",
+    "Confirm whether the eligibility question over the late nomination was ever litigated.",
+    "The profile page's Punch and TheCable sources could not be fetched (access blocked) and were not re-used here."
+  ]
+}

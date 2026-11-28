@@ -1,0 +1,472 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "sunday-adenuga",
+  "name": "Sunday Adenuga",
+  "researchVersion": 1,
+  "status": "INSUFFICIENT_DATA",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Sunday Oluwafemi Adenuga",
+    "commonName": "Sonny Adenuga",
+    "born": null,
+    "stateOfOrigin": "Ogun State (reported)",
+    "party": "Boot Party (BP) - 'Because Of Our Tomorrow'",
+    "partyHistory": [
+      {
+        "party": "Boot Party (BP)",
+        "period": "2016 (founding organisers) - present; National Chairman since at least January 2020",
+        "sourceIds": ["s4", "s3"]
+      }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": false,
+    "education": [
+      {
+        "credential": "FSLC, SSCE, Masters (as filed with INEC; institution and subject not stated)",
+        "sourceIds": ["s1"]
+      },
+      {
+        "credential": "Master's in Project Management (reported; not independently verified)",
+        "institution": "Northumbria University, United Kingdom",
+        "sourceIds": ["s3", "s4", "s5"]
+      },
+      {
+        "credential": "Diploma and degrees in mathematics, statistics and project management (campaign/database claim; Civic Hive lists Northwestern Oklahoma State University and Pace University; not verified and inconsistent with other profiles)",
+        "sourceIds": ["s6"]
+      },
+      {
+        "credential": "CISA, CRISC (ISACA) and PMP (Project Management Institute) certifications (reported; not verified)",
+        "sourceIds": ["s4", "s5"]
+      }
+    ],
+    "professional": [
+      "IT governance, risk and security professional (reported)",
+      "Reported roles: IT security and control at Ford Motor Company; IT risk and data-protection manager at Opel Vauxhall Finance; independent consultant (undated, party-sourced)"
+    ]
+  },
+  "career": [
+    {
+      "period": "Undated",
+      "title": "IT risk and security roles in the UK and Europe",
+      "description": "Profiles report more than two decades in IT governance, risk and security, including Ford Motor Company and Opel Vauxhall Finance, and consultancy on World Bank and African Development Bank projects. No dates or employer confirmation were found; Vero Record describes the CV as told mostly by the party.",
+      "kind": "professional",
+      "sourceIds": ["s4", "s5"]
+    },
+    {
+      "period": "2016-2019",
+      "title": "Co-founder of the Boot Party",
+      "description": "Reported among the founders who began organising in 2016; INEC registered the party in 2019 after a court case.",
+      "kind": "party",
+      "sourceIds": ["s4", "s3"]
+    },
+    {
+      "period": "By January 2020 - present",
+      "title": "National Chairman, Boot Party",
+      "description": "Listed as chairman in INEC's register of political parties according to Vero Record and OurNigeria.",
+      "kind": "party",
+      "sourceIds": ["s4", "s5"]
+    },
+    {
+      "period": "2022-2023",
+      "title": "Boot Party presidential candidate, 2023",
+      "description": "Contested the 25 February 2023 presidential election, polling 16,156 votes.",
+      "kind": "candidacy",
+      "sourceIds": ["s8", "s4", "s3"]
+    },
+    {
+      "period": "29 May 2026",
+      "title": "Returned unopposed at Boot Party presidential primary",
+      "description": "Reported as returned unopposed through the party's e-voting app.",
+      "kind": "candidacy",
+      "sourceIds": ["s4", "s3", "s5"]
+    },
+    {
+      "period": "September 2026",
+      "title": "Listed on INEC's final list of presidential candidates",
+      "description": "INEC lists ADENUGA SUNDAY, 52, male, as BP candidate with MUSTAPHA USMAN TURAKI, 40, as running mate.",
+      "kind": "candidacy",
+      "sourceIds": ["s1", "s2"]
+    }
+  ],
+  "elections": [
+    {
+      "year": "2023",
+      "office": "President of Nigeria",
+      "party": "Boot Party (BP)",
+      "result": "Lost; 16,156 votes (about 0.07% of valid votes) per INEC-declared results. Bola Tinubu (APC) was declared winner.",
+      "sourceIds": ["s8", "s4", "s3"]
+    },
+    {
+      "year": "2027",
+      "office": "President of Nigeria",
+      "party": "Boot Party (BP)",
+      "result": "Pending; election scheduled for January 2027.",
+      "sourceIds": ["s1"]
+    }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No candidate-specific economic plan was found.",
+      "analysis": "Premium Times describes a 'One Working Nigeria' agenda focused on technology, transparency and institutional reform, but no economic policy detail was found in sources reviewed.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Economic policy positions"],
+      "sourceIds": ["s3"],
+      "verification": "AI_DRAFT",
+      "missing": ["2027 manifesto economic chapter", "Positions on inflation, exchange rate, subsidies and tax"]
+    },
+    "security": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No security plan was found.",
+      "analysis": "The party's platform is described as including zero tolerance for violence; no candidate security plan was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": ["s5"],
+      "verification": "AI_DRAFT",
+      "missing": ["Security policy statements"]
+    },
+    "education": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No education statements were found.",
+      "analysis": "No education-related statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Education policy statements"]
+    },
+    "healthcare": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No healthcare statements were found.",
+      "analysis": "No health-related statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Health policy statements"]
+    },
+    "infrastructure": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No infrastructure statements were found.",
+      "analysis": "No infrastructure proposals by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Infrastructure proposals"]
+    },
+    "power": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No power-sector statements were found.",
+      "analysis": "No electricity-sector statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Power-sector policy statements"]
+    },
+    "jobs": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No employment plan was found.",
+      "analysis": "No job-creation proposals by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Employment and MSME proposals"]
+    },
+    "finance": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Transparency and anti-corruption are party themes; no public-finance plan was found.",
+      "analysis": "The Boot Party describes its platform as centred on zero tolerance for corruption; Premium Times reports a focus on transparency. No positions on budgets, debt or revenue were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": ["s5", "s3"],
+      "verification": "AI_DRAFT",
+      "missing": ["Positions on borrowing, debt, revenue and budget transparency"]
+    },
+    "leadership": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "He has led a small registered party as National Chairman since at least 2020 and was its 2023 presidential candidate. No government leadership record exists.",
+      "analysis": "Adenuga's documented leadership is within the Boot Party. He is reported as one of its founders, who began organising in 2016; INEC registered the party in 2019 after litigation, and he has been listed as National Chairman since at least January 2020 (OurNigeria; Vero Record citing INEC's party register). He was the party's 2023 presidential candidate and is again its candidate for 2027, having been returned unopposed at a 29 May 2026 primary reportedly conducted through an e-voting app.\n\nIn a February 2023 interview he said the party holds direct primaries 'because we want transparency', that it is self-funded through member dues, and that it would not be absorbed into alliances with older parties (Kola King/Substack, credited to Cyril Mbah). In April 2025 he and the party, with the Rivers chapter chairperson, filed suit at the Federal High Court, Yenagoa, challenging the emergency-rule proclamation in Rivers State; OurNigeria reports the case as pending without a known outcome. These show an active party leader willing to use litigation and public commentary.\n\nThe combination of party chairman and repeat presidential candidate means intra-party competition for the ticket appears limited; an unopposed primary is not unusual for small parties but limits evidence about the party's internal contestability. The party's electoral reach has been small: 16,156 votes in 2023. He has not led a government agency or managed public resources, so his capacity to direct a federal administration cannot be assessed from a record.",
+      "strengths": [
+        "Sustained party leadership since at least 2020",
+        "Publicly stated commitment to direct primaries"
+      ],
+      "limitations": [
+        "No public-sector leadership record",
+        "Holds both party chairmanship and candidacy; ticket not contested in 2026"
+      ],
+      "unknowns": ["Campaign team", "Party membership size and finances"],
+      "sourceIds": ["s4", "s5", "s7", "s8"],
+      "verification": "AI_DRAFT"
+    },
+    "integrity": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No investigations, charges or adverse court findings involving Adenuga were found. Education claims vary across profiles and are unverified.",
+      "analysis": "No allegations against him were found. The April 2025 Rivers emergency-rule suit is one he brought as a plaintiff, not a case against him. Profiles disagree on where he studied (Northumbria University in most; Northwestern Oklahoma State University and Pace University on Civic Hive), and Vero Record notes that his degree, certifications and employment history have not been checked against any registry. OurNigeria reports no public asset disclosure. A Vero Record headline referred to a UK company register listing the BOOT candidate as British; that report was not reviewed and no finding on nationality was established.",
+      "strengths": [],
+      "limitations": ["Credentials unverified and inconsistent across sources"],
+      "unknowns": ["Nationality question raised in a Vero Record headline", "Asset declaration"],
+      "sourceIds": ["s4", "s5", "s6"],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Verification of the master's degree and ISACA/PMI certifications",
+        "Content of Vero Record's 1 October 2026 report on a UK company register entry",
+        "Asset and interest declarations",
+        "Court and EFCC/ICPC record checks"
+      ]
+    },
+    "experience": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "A technology-risk professional and party chairman who ran for president in 2023; no elected, appointed or executive public office.",
+      "analysis": "INEC's final list records Adenuga Sunday as 52, male, with filed qualifications of FSLC, SSCE and 'Masters'. Profiles state that the master's is in project management from Northumbria University in the UK and list CISA, CRISC and PMP certifications (OurNigeria; Premium Times). Reported employment includes IT security and control at Ford Motor Company, IT risk and data-protection management at Opel Vauxhall Finance, and independent consultancy in Nigeria, Africa and Europe including on World Bank and African Development Bank projects. None of these entries is dated, and Vero Record characterises the CV as resting on a promotional profile rather than primary documents.\n\nHis political experience consists of co-founding and chairing the Boot Party and contesting the 2023 presidential election, in which he received 16,156 votes. OurNigeria lists policy papers he authored on low voter turnout (2021), money in elections (2022) and election timing and electronic result transmission (2025); these were not reviewed. He has never held public office. Experience in IT governance and risk management is relevant to digitisation and institutional controls, themes his campaign emphasises, but it is not experience of running a government, managing a national budget or commanding security agencies. The private-sector record, if verified, would be the main basis for judging his managerial capacity.",
+      "strengths": [
+        "Reported professional background in risk, governance and data protection",
+        "Prior national campaign (2023)"
+      ],
+      "limitations": [
+        "No public office",
+        "Career and education entries undated and unverified"
+      ],
+      "unknowns": ["Dates and seniority of employment roles", "Where he has lived and worked since 2007"],
+      "sourceIds": ["s1", "s3", "s4", "s5", "s8"],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "His 'One Working Nigeria' agenda is described as focused on technology, transparency and institutional reform; no manifesto text was reviewed.",
+      "analysis": "Premium Times names the 'One Working Nigeria' (OWN) agenda. The party's platform is self-described as zero tolerance for corruption and violence and merit-based leadership (Vero Record). OurNigeria reports a 2026 'Trust Before Ticket Framework' address. In 2023 he argued for young, creative and enterprising leaders and against vote trading. No 2027 manifesto document was located; an INEC-hosted Boot Party manifesto from an earlier cycle appeared in search results but could not be retrieved.",
+      "strengths": [],
+      "limitations": ["Manifesto not reviewed"],
+      "unknowns": ["Content of the OWN agenda"],
+      "sourceIds": ["s3", "s5", "s4", "s7"],
+      "verification": "AI_DRAFT",
+      "missing": ["Boot Party 2027 manifesto or OWN agenda document", "Policy-specific interviews"]
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No foreign-policy statements were found.",
+      "analysis": "No foreign-policy statements by the candidate were located.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Foreign and regional policy statements"]
+    },
+    "humanImpact": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No governing record exists to assess household impact.",
+      "analysis": "He has held no public office whose policies could be assessed for effects on households.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": ["Social-protection proposals"]
+    },
+    "promises": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "No specific, measurable campaign commitments were found.",
+      "analysis": "Reported commitments are thematic (technology, transparency, institutional reform, anti-corruption). None carries a target, timeline or cost in sources reviewed.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": ["s3", "s5"],
+      "verification": "AI_DRAFT",
+      "missing": ["Specific, measurable commitments"]
+    }
+  },
+  "record": [
+    {
+      "id": "rec1",
+      "title": "Co-plaintiff in suit challenging Rivers State emergency rule",
+      "kind": "decision",
+      "label": "FACT",
+      "period": "Filed 9 April 2025",
+      "description": "BOOT Party & Ors v President Bola Tinubu & Ors at the Federal High Court, Yenagoa, sought to void the Rivers emergency proclamation and the Sole Administrator appointment and claimed N20 billion in damages. Reported as pending with no known outcome. Filing a suit is not evidence of wrongdoing by any party.",
+      "legalStatus": "allegation",
+      "categories": ["leadership"],
+      "sourceIds": ["s4"]
+    }
+  ],
+  "plans": [
+    {
+      "id": "pl1",
+      "title": "'One Working Nigeria' agenda",
+      "label": "PROPOSAL",
+      "category": "vision",
+      "outcome": "Technology-driven, transparent government and institutional reform (no detail published in sources reviewed)",
+      "sourceIds": ["s3"]
+    }
+  ],
+  "test": [
+    { "questionId": "r1", "answer": "No specific problem statements were found beyond themes such as corruption and transactional politics.", "assessment": "unknown", "sourceIds": ["s7"] },
+    { "questionId": "r2", "answer": "No specific solutions were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r3", "answer": "No evidence base was cited.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r4", "answer": "No costing was found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r5", "answer": "No timelines were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r6", "answer": "Cannot be assessed without specific proposals.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r7", "answer": "Cannot be assessed without specific proposals.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r8", "answer": "No risks or trade-offs were disclosed.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r9", "answer": "Running mate Mustapha Usman Turaki is known; no wider team was identified.", "assessment": "unknown", "sourceIds": ["s1"] },
+    { "questionId": "r10", "answer": "Reported private-sector risk and project-management roles are unverified; no public-sector execution record.", "assessment": "unknown", "sourceIds": ["s4", "s5"] }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Presidential and National Assembly Elections for Jan, 2027 - Presidential: Final List of Candidates",
+      "url": "https://inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf",
+      "publisher": "Independent National Electoral Commission (INEC)",
+      "type": "electoral",
+      "published": "2026-10",
+      "accessed": "2026-11-28",
+      "categories": ["experience"],
+      "claim": "BP candidate ADENUGA SUNDAY, 52, male, qualifications FSLC SSCE Masters; running mate MUSTAPHA USMAN TURAKI, 40, male, FSLC NABTEB DIPLOMA.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s2",
+      "title": "Full List: INEC Publishes Credentials of 19 Presidential Candidates for 2027 Elections",
+      "url": "https://www.legit.ng/nigeria/1722781-inec-publishes-credentials-19-presidential-candidates-2027-elections/",
+      "publisher": "Legit.ng",
+      "type": "news",
+      "published": "2026-08-03",
+      "accessed": "2026-11-28",
+      "categories": [],
+      "claim": "Lists Adenuga Sunday (Boot Party) with running mate Mustapha Usman Turaki.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s3",
+      "title": "Nigeria: Profiles - the Men, Women Seeking to Be Nigeria's President in 2027",
+      "url": "https://allafrica.com/stories/202610260089.html",
+      "publisher": "Premium Times (via AllAfrica)",
+      "type": "news",
+      "published": "2026-10-25",
+      "accessed": "2026-11-28",
+      "categories": ["experience", "vision", "economy", "promises"],
+      "claim": "Age 52, Ogun State; Northumbria master's; party since 2016, chairman since 2020; unopposed 2027 primary; 'One Working Nigeria' agenda; 16,156 votes in 2023.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s4",
+      "title": "Adenuga Sunday - Candidate Background and Public Record",
+      "url": "https://ournigeria.ng/officials/adenuga-sunday",
+      "publisher": "OurNigeria",
+      "type": "reference",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": ["experience", "leadership", "integrity", "vision"],
+      "claim": "Career entries (Ford, Opel Vauxhall Finance, consultancy), CISA/CRISC/PMP, party chairmanship, 2023 result, 29 May 2026 e-voting primary, April 2025 Rivers emergency suit, policy papers; flags gaps including no asset disclosure.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s5",
+      "title": "BOOT Party's Sunday Adenuga: A Technocrat CV, Told Mostly by the Party Itself",
+      "url": "https://verorecord.com/story/boot-party-s-sunday-adenuga-a-technocrat-cv-told-mostly-by-t",
+      "publisher": "Vero Record",
+      "type": "investigative",
+      "published": "2026-09-26",
+      "accessed": "2026-11-28",
+      "categories": ["experience", "integrity", "leadership", "vision"],
+      "claim": "INEC lists him as BP chairman and candidate; degree, certifications and employment unverified; platform self-described as zero tolerance for corruption and violence and merit-based leadership.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s6",
+      "title": "Adenuga Sunday Oluwafemi",
+      "url": "https://elections.civichive.org/candidates/adenuga-sunday-oluwafemi/",
+      "publisher": "Civic Hive (BudgIT)",
+      "type": "reference",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": ["integrity"],
+      "claim": "Lists alma mater as Northwestern Oklahoma State University / Pace University; age 48 (apparently not updated); Ogun State; risk and control professional.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    },
+    {
+      "id": "s7",
+      "title": "Government of national unity not feasible now - Boot Party chairman",
+      "url": "https://kolaking.substack.com/p/government-of-national-unity-not",
+      "publisher": "Kola King (Substack), report credited to Cyril Mbah",
+      "type": "candidate-statement",
+      "published": "2023-02-22",
+      "accessed": "2026-11-28",
+      "categories": ["leadership", "vision"],
+      "claim": "Adenuga said the party holds direct primaries for transparency, is self-funded, and would not be absorbed by older parties; called politics transactional.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    },
+    {
+      "id": "s8",
+      "title": "INEC declares Tinubu winner of the 2023 presidential election",
+      "url": "https://nairametrics.com/2023/03/01/inec-declares-tinubu-winner-of-the-2023-presidential-election/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2023-03-01",
+      "accessed": "2026-11-28",
+      "categories": ["experience"],
+      "claim": "INEC-declared totals list Boot Party (BP), Adenuga Oluwafemi, 16,156 votes (seen in search results).",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s9",
+      "title": "2027 election: Here are all the 18 presidential candidates",
+      "url": "https://www.pulse.ng/story/nigeria-2027-presidential-candidates-list-2026101909505684714",
+      "publisher": "Pulse Nigeria",
+      "type": "news",
+      "published": "2026-10-19",
+      "accessed": "2026-11-28",
+      "categories": [],
+      "claim": "Notes his policy proposals and record need independent verification.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    }
+  ],
+  "gaps": [
+    "Verify the master's degree (Northumbria vs. Northwestern Oklahoma State/Pace claims) and ISACA/PMI certifications",
+    "Read Vero Record's 1 October 2026 report on a UK company register entry and establish any nationality question from primary records",
+    "Confirm employment history with dates (Ford, Opel Vauxhall Finance, consultancy)",
+    "Obtain the Boot Party 2027 manifesto / 'One Working Nigeria' document",
+    "Track BOOT Party & Ors v Tinubu & Ors (FHC Yenagoa, filed 9 April 2025)",
+    "Confirm 2023 result from INEC's official declaration document (16,156 votes)",
+    "Disambiguation: not Mike Adenuga (Globacom) and not Engr. Adekunle Adenuga, reported as the Boot Party's 2027 Ogun governorship candidate; a December 2022 Daily Trust profile reportedly confused him with a federal auditor"
+  ]
+}

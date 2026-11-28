@@ -1,0 +1,769 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "peter-ada-agada",
+  "name": "Peter Ada Agada",
+  "researchVersion": 1,
+  "status": "INSUFFICIENT_DATA",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Peter Ada Agada",
+    "commonName": "Peter Agada",
+    "born": null,
+    "stateOfOrigin": "Benue (reported)",
+    "party": "Young Progressives Party (YPP)",
+    "partyHistory": [
+      {
+        "party": "Labour Party (LP)",
+        "period": "until June 2026 (start date not found)",
+        "sourceIds": [
+          "s2",
+          "s4"
+        ]
+      },
+      {
+        "party": "Young Progressives Party (YPP)",
+        "period": "June 2026 – present",
+        "sourceIds": [
+          "s4",
+          "s6"
+        ]
+      }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": false,
+    "education": [
+      {
+        "credential": "WAEC (as declared to INEC)",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "credential": "BSc (as declared to INEC; institution not found)",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "credential": "MBA (as declared to INEC; institution not found)",
+        "sourceIds": [
+          "s1"
+        ]
+      }
+    ],
+    "professional": [
+      "Architect and entrepreneur (press description); project manager (self-described)",
+      "Former Director of Finance, Obidient Movement"
+    ]
+  },
+  "career": [
+    {
+      "period": "Before 2026 (dates not found)",
+      "title": "Director of Finance, Obidient Movement",
+      "description": "Reported by Daily Trust; he said he had over 500 support groups under him.",
+      "kind": "activism",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "period": "May 2026",
+      "title": "Labour Party presidential aspirant",
+      "description": "Screened by the LP committee, then barred from the primary by NWC letter on 28 May 2026 under a zoning decision; he disputes the exclusion.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "period": "June 2026",
+      "title": "Joined the Young Progressives Party",
+      "description": "Left the LP after his exclusion.",
+      "kind": "party",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "period": "21 August 2026",
+      "title": "YPP presidential candidate (substitution)",
+      "description": "Named after Anita Zugwai-Chukwu withdrew; running mate Patience Ndidi-Key.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "period": "2026",
+      "title": "On INEC final list of presidential candidates",
+      "description": "Running mate listed as Key Patience Ndidi.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s1"
+      ]
+    }
+  ],
+  "elections": [
+    {
+      "year": "2026",
+      "office": "Labour Party presidential primary",
+      "party": "LP",
+      "result": "Excluded before the primary (NWC letter, 28 May 2026)",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "year": "2027",
+      "office": "President of Nigeria",
+      "party": "YPP",
+      "result": "Pending (election scheduled for 16 January 2027)",
+      "sourceIds": [
+        "s1"
+      ]
+    }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "He proposes a ward-based development fund, targeted rather than universal fuel subsidy, and a smaller, cheaper government; the scale of the ward fund is large and unfunded in the sources.",
+      "analysis": "Agada's economic platform has three parts. First, 'ward capitalism', which treats Nigeria's wards as the main units for enterprise support, infrastructure and production. Its concrete form is a Ward Intervention Programme of N40 million a month for each of the country's 8,809 wards. Second, a fuel-subsidy position: he rejects a return to the blanket petrol subsidy removed in May 2023. He proposes instead a card-based subsidy targeted at vulnerable people and commercial transport operators, preceded by a census to identify them. Third, fiscal restraint: he argues that 'government must cost less' and that borrowing should be justified by purpose, conditions, currency and expected returns.\n\nN40m a month for each of 8,809 wards is about N352.4bn a month, or roughly N4.23 trillion a year (researcher's arithmetic). No funding source, phasing or comparison with current revenue was given, so the plan's affordability cannot be judged from the sources. A targeted subsidy needs reliable identity and transport-operator data and would need appropriation; the census he describes is a prerequisite with its own cost and time. His critiques of the current government's cost-of-living measures are opinions, and some of the figures he cites were not verified. Macroeconomic outcomes also depend on the CBN, oil prices and the legislature.",
+      "strengths": [
+        "Specific mechanisms (ward fund amount, targeted subsidy design)",
+        "Engages directly with the subsidy question"
+      ],
+      "limitations": [
+        "Ward fund implies a very large annual outlay with no stated financing",
+        "No positions on exchange rate or inflation targeting"
+      ],
+      "unknowns": [
+        "How the ward fund would be financed",
+        "Administrative design of the targeted subsidy"
+      ],
+      "sourceIds": [
+        "s5",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "security": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "He proposes a dedicated military communications and surveillance network and border and highway alert beacons; costs and timelines are not given.",
+      "analysis": "Agada's security proposals are mostly technological. In an October 2026 interview with Sahara Reporters he proposed a dedicated military communications network to reduce reliance on commercial GSM networks, together with intelligence, surveillance and reconnaissance capability and surveillance beacons on borders and highways that would send alerts to nearby security units. He said he had earlier developed a military communications system that was approved by the Chief of Defence Staff and the Minister of Defence but not built because the government changed. No documentary evidence of that approval was found, so it is treated as his own claim. At his YPP nomination in August 2026 he pledged to reduce insecurity 'to the barest minimum'.\n\nThe proposals target a recognised operational gap, communications and early warning, but they come with no estimate of cost, procurement method, timeline or the agencies responsible. They do not address policing, the justice system, or the social drivers of conflict. Large defence-technology procurements require National Assembly appropriation and carry procurement and integration risks that the proposal does not discuss. Outcomes would also depend on states, communities and regional conditions.",
+      "strengths": [
+        "Specific operational focus (communications, early warning)"
+      ],
+      "limitations": [
+        "No cost, timeline or procurement plan",
+        "Claimed prior approval of his system is undocumented"
+      ],
+      "unknowns": [
+        "Evidence of the earlier military communications proposal",
+        "Position on police reform and state policing"
+      ],
+      "sourceIds": [
+        "s6",
+        "s7"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Education is mentioned only as a possible use of ward funds and of savings from cheaper government.",
+      "analysis": "He lists schools among uses of ward intervention funds and says savings from lower administrative costs could fund education. No education policy was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s5",
+        "s7"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Education policy (funding, curriculum, tertiary, UBEC)"
+      ]
+    },
+    "healthcare": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Healthcare is mentioned only as a possible use of ward funds and of administrative savings.",
+      "analysis": "He lists hospitals among uses of ward intervention funds. No health financing, insurance or workforce policy was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s5",
+        "s7"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Health policy proposals"
+      ]
+    },
+    "infrastructure": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "His infrastructure approach rests on ward-level funds spent through direct labour ('Labour-Direct') rather than contractors, with GPS-based public monitoring.",
+      "analysis": "Agada describes himself as a project manager and 'project architect' and frames governance as 'developing projects'. Leadership calls him an architect and entrepreneur. His infrastructure model has three parts. Ward intervention funds would pay for local schools, hospitals and small-business facilities. A 'Labour-Direct' method would engage people directly to carry out projects instead of using conventional contracting. A GPS-driven system would let citizens monitor government projects remotely and help choose, implement and monitor projects in their communities.\n\nDirect labour can reduce contractor margins and the risk of abandoned contracts, but it moves management, quality-control and procurement responsibility into government. It would also need to fit the Public Procurement Act, which the sources do not mention. Ward-level spending by the federal government would overlap with state and local-government responsibilities and with constituency projects. The GPS monitoring idea is specific and testable, but its cost and the institution that would run it are not stated. No information was found on large national assets such as roads, rail, ports or power transmission. His claims about past project experience were not independently documented.",
+      "strengths": [
+        "Explicit transparency mechanism (GPS monitoring, citizen participation)",
+        "Concrete delivery model"
+      ],
+      "limitations": [
+        "Fit with procurement law and state/local responsibilities not addressed",
+        "No national-scale infrastructure priorities"
+      ],
+      "unknowns": [
+        "Evidence of projects he has managed",
+        "Who operates the monitoring system"
+      ],
+      "sourceIds": [
+        "s5",
+        "s7"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "power": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He has pledged to decentralise electricity generation and distribution, without detail.",
+      "analysis": "At his YPP nomination he promised to decentralise power generation and distribution to improve supply. No targets, financing or regulatory proposals were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s6"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Power-sector targets and regulatory approach"
+      ]
+    },
+    "jobs": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Job creation is implied by his ward funds and Labour-Direct model, but he gives no targets.",
+      "analysis": "Labour-Direct implies direct employment on public projects, and he cites unemployment as a reason for running. No jobs estimates or programmes were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s5",
+        "s7"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Job-creation targets and measurement"
+      ]
+    },
+    "finance": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He argues for scrutiny of borrowing and lower administrative costs; no numbers were given.",
+      "analysis": "He says borrowing is not wrong in itself but must be justified by purpose, conditions, currency and returns, and that cutting administrative costs would free money for development. No debt targets, revenue measures or financing plan for the ward fund were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s5"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Financing plan for the ward fund",
+        "Debt and revenue targets"
+      ]
+    },
+    "leadership": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He proposes managing government 'like a project site' with public monitoring; he has no public-office record. He previously led finance for a support movement.",
+      "analysis": "Daily Trust reports he was Director of Finance of the Obidient Movement and said he had 'over 500 support groups' under him. He proposes citizen participation in choosing and monitoring projects. No record of running a public institution was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s2",
+        "s7"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Evidence of organisations or projects he has led",
+        "Policy or transition team"
+      ]
+    },
+    "integrity": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No court case, investigation or allegation against him was found; this reflects limited coverage, not a confirmed clean record. He has alleged that the LP took about N300m from him before disqualifying him.",
+      "analysis": "The money dispute with the Labour Party is his claim against the party, not an allegation against him. His supporters said he paid about N300m in fees and costs, and he has demanded a refund. No asset declaration was found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s3",
+        "s4"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Asset declaration",
+        "Any court filings arising from the LP refund dispute"
+      ]
+    },
+    "experience": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "No public office held. He is a Benue-born architect and entrepreneur by press description, a former Obidient Movement finance director, and a former LP presidential aspirant.",
+      "analysis": "Agada has not held elected or appointed public office. INEC lists his age as 54 and his qualifications as WAEC, BSc and MBA, without institutions. Daily Trust reports that he is from Benue State and previously served as Director of Finance of the Obidient Movement, the support network for Peter Obi's 2023 campaign. Leadership describes him as an architect and entrepreneur, and THISDAY styles him 'Arc.'. He describes himself as a project manager who has handled major projects, including importing hundreds of containers of goods for one project. No project names, clients or company records were found.\n\nHis 2027 candidacy has moved between parties. He sought the Labour Party ticket, was screened in May 2026, and was then barred by the LP NWC by letter on 28 May 2026 under a zoning decision that restricted the ticket to the South. He disputes this and attributes it to his Middle Belt origin. He then joined the YPP and was named its presidential candidate on 21 August 2026, after the earlier nominee, Anita Zugwai-Chukwu, withdrew. He appears on INEC's final list with Patience Ndidi Key as running mate. His organisational experience is in campaign finance and mobilisation, not public administration.",
+      "strengths": [
+        "Campaign finance and mobilisation experience",
+        "Professional background in projects (self-described)"
+      ],
+      "limitations": [
+        "No public-office record",
+        "Professional record not independently documented"
+      ],
+      "unknowns": [
+        "Institutions for BSc and MBA",
+        "Companies and projects he has managed"
+      ],
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "He frames his candidacy around 'ward capitalism', production, dignity of labour and a government that 'costs less'.",
+      "analysis": "Agada's stated vision is grassroots-centred development. In August 2026 he told Leadership his agenda rests on production, inclusion, institutional reform and grassroots development. He called the approach 'ward capitalism', with wards as the base units of economic activity, and said he remains committed to 'dignity of labour, economic inclusion and social justice' after leaving the Labour Party. He rejects 'coalition for coalition's sake', saying any alliance should rest on a shared programme for education, healthcare, production and youth employment. He has also said he will stay in the YPP and keep building it if he loses in 2027.\n\nHis stated motivations are unemployment, insecurity, poverty and low youth participation in politics, and he calls for more participation by young people, women and professionals. The vision is internally consistent: ward funds, direct labour and citizen monitoring all push spending and oversight towards local communities. It is not set out in a published manifesto. Its central fiscal assumption, a nationwide ward fund paid for partly by a leaner government, is not supported in the sources by any costing.",
+      "strengths": [
+        "Coherent organising idea linking economy, infrastructure and accountability"
+      ],
+      "limitations": [
+        "No published manifesto",
+        "Central fiscal assumption uncosted"
+      ],
+      "unknowns": [
+        "Full manifesto",
+        "Priorities beyond the ward model (foreign policy, health, education detail)"
+      ],
+      "sourceIds": [
+        "s5",
+        "s7",
+        "s9"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No foreign-policy statements were found.",
+      "analysis": "No positions on ECOWAS, trade, diaspora or international security cooperation were found.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Foreign-policy and regional positions"
+      ]
+    },
+    "humanImpact": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "His targeted fuel subsidy is aimed at vulnerable people and transport users; no detail on eligibility or size was given.",
+      "analysis": "The targeted, card-based subsidy he proposes would prioritise vulnerable Nigerians and commercial transport operators. He gave no estimate of beneficiaries, benefit size or delivery mechanism beyond a prior census.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": [],
+      "sourceIds": [
+        "s8"
+      ],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Eligibility rules, benefit size and cost of the targeted subsidy"
+      ]
+    },
+    "promises": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "His core promise is a N40m-a-month fund for every ward, delivered through direct labour and GPS monitoring, which he says could reach all Nigerians within 60 days; it is uncosted.",
+      "analysis": "Agada's promises are unusually concrete in mechanism but not in financing. The central commitment is the Ward Intervention Programme: N40 million a month for each of 8,809 wards, administered by 'competent teams' and executed through 'Labour-Direct' rather than contractors. In an October 2026 Arise interview he said this ward-to-ward strategy could reach all Nigerians within 60 days. Other commitments include a targeted card-based fuel subsidy, a dedicated military communications and surveillance network, decentralised electricity, a cheaper administration and stricter scrutiny of borrowing.\n\nThe 60-day claim is the main measurable timeline, and it is ambitious for a programme that needs a delivery structure in every ward. Each commitment that spends money would require appropriation by the National Assembly. A ward-level federal programme would also need coordination with states and local governments. The fiscal arithmetic, roughly N4.23 trillion a year for the ward fund alone, is not addressed in the sources. No risks, trade-offs or phasing were disclosed. The commitments come from interviews, not a published manifesto, and are listed under plans.",
+      "strengths": [
+        "Mechanisms and amounts are stated"
+      ],
+      "limitations": [
+        "Financing and phasing not addressed",
+        "60-day reach claim not supported by an implementation plan"
+      ],
+      "unknowns": [
+        "Published manifesto",
+        "Costed fiscal framework"
+      ],
+      "sourceIds": [
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    {
+      "id": "rec1",
+      "title": "Exclusion from LP presidential primary and refund dispute",
+      "kind": "controversy",
+      "label": "DISPUTED",
+      "period": "May – June 2026",
+      "description": "The LP NWC barred him under a zoning decision; he and his supporters say zoning was not in the party constitution or stated when he bought the form, that he paid about N300m in fees and costs, and he has demanded a refund. No LP response was included in the reports reviewed. The allegation is his, against the party.",
+      "legalStatus": "allegation",
+      "categories": [
+        "experience"
+      ],
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "id": "pl1",
+      "title": "Ward Intervention Programme",
+      "label": "PROMISE",
+      "category": "economy",
+      "outcome": "Local infrastructure and enterprise in every ward.",
+      "method": "N40m monthly per ward, administered by competent teams.",
+      "target": "8,809 wards",
+      "timeline": "He said the strategy could reach all Nigerians within 60 days",
+      "funding": "Not stated. N40m a month for each of 8,809 wards is about N352.4bn a month, or roughly N4.23 trillion a year (researcher's arithmetic).",
+      "sourceIds": [
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "id": "pl2",
+      "title": "Labour-Direct project delivery",
+      "label": "PROPOSAL",
+      "category": "infrastructure",
+      "outcome": "Projects executed by directly engaged labour instead of contractors.",
+      "dependencies": "Public Procurement Act; state and local responsibilities.",
+      "sourceIds": [
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "id": "pl3",
+      "title": "GPS-based citizen project monitoring",
+      "label": "PROPOSAL",
+      "category": "leadership",
+      "outcome": "Citizens can monitor and help select government projects.",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "pl4",
+      "title": "Targeted card-based fuel subsidy",
+      "label": "PROPOSAL",
+      "category": "economy",
+      "outcome": "Subsidy limited to vulnerable Nigerians and commercial transport operators.",
+      "method": "Census of beneficiaries and vehicles, then card-based distribution.",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "id": "pl5",
+      "title": "Military communications and surveillance network",
+      "label": "PROPOSAL",
+      "category": "security",
+      "outcome": "Secure military communications and early warning on borders and highways.",
+      "method": "Dedicated ISR network; surveillance beacons alerting nearby units.",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "pl6",
+      "title": "Decentralised electricity",
+      "label": "PROMISE",
+      "category": "power",
+      "outcome": "More stable power supply.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "pl7",
+      "title": "Cheaper government and scrutinised borrowing",
+      "label": "PROPOSAL",
+      "category": "finance",
+      "outcome": "Lower administrative costs; borrowing justified by purpose and returns.",
+      "sourceIds": [
+        "s5"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "questionId": "r1",
+      "answer": "He names unemployment, insecurity, poverty and subsidy costs as problems; diagnosis is brief.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s5",
+        "s8"
+      ]
+    },
+    {
+      "questionId": "r2",
+      "answer": "Key mechanisms are specified (N40m per ward, Labour-Direct, card-based subsidy, ISR network).",
+      "assessment": "partly",
+      "sourceIds": [
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "questionId": "r3",
+      "answer": "No evidence or pilots were cited for the ward model or direct labour.",
+      "assessment": "no",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "questionId": "r4",
+      "answer": "The ward fund implies about N4.23 trillion a year with no stated financing.",
+      "assessment": "no",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "questionId": "r5",
+      "answer": "The 60-day reach claim is not supported by an implementation plan.",
+      "assessment": "no",
+      "sourceIds": [
+        "s9"
+      ]
+    },
+    {
+      "questionId": "r6",
+      "answer": "Ward-level federal spending overlaps state and local responsibilities.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "questionId": "r7",
+      "answer": "Spending programmes and subsidy would require National Assembly appropriation.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "questionId": "r8",
+      "answer": "No risks or trade-offs disclosed.",
+      "assessment": "no",
+      "sourceIds": []
+    },
+    {
+      "questionId": "r9",
+      "answer": "No policy or transition team identified.",
+      "assessment": "unknown",
+      "sourceIds": []
+    },
+    {
+      "questionId": "r10",
+      "answer": "No public-office record; claimed project experience is undocumented.",
+      "assessment": "unknown",
+      "sourceIds": [
+        "s7"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Presidential and National Assembly Elections for Jan, 2027 – Presidential: Final List of Candidates",
+      "url": "https://www.inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf",
+      "publisher": "Independent National Electoral Commission (INEC)",
+      "type": "electoral",
+      "published": "2026-10",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Lists AGADA PETER ADA as the YPP presidential candidate, age 54, male, qualifications WAEC, BSc and MBA; running mate KEY PATIENCE NDIDI, age 52, female, WAEC, BSc and MBA.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s2",
+      "title": "2027: LP screens Agada, Nwigwe for presidential race",
+      "url": "https://dailytrust.com/2027-lp-screens-agada-nwigwe-for-presidential-race/",
+      "publisher": "Daily Trust",
+      "type": "news",
+      "published": "2026-05-23",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Agada, from Benue State and formerly Director of Finance of the Obidient Movement, was screened for the LP presidential ticket by a committee chaired by Nenadi Usman; he said he had 'over 500 support groups' under him and that zoning has no constitutional basis.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s3",
+      "title": "Zoning crisis in LP as stakeholders, presidential campaign council reject disqualification of Agada",
+      "url": "https://www.thisdaylive.com/2026/05/30/zoning-crisis-in-lp-as-stakeholders-presidential-campaign-council-reject-disqualification-of-agada/",
+      "publisher": "THISDAY",
+      "type": "news",
+      "published": "2026-05-30",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "The LP NWC barred Agada from the presidential primary by letter on 28 May 2026, citing a zoning resolution; supporters said he paid about N300m in fees and costs and that zoning was not stated when he bought the form.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s4",
+      "title": "Labour Party denied me presidential ticket because I'm from Middle Belt – Agada",
+      "url": "https://leadership.ng/labour-party-denied-me-presidential-ticket-because-im-from-middle-belt-agada/",
+      "publisher": "Leadership",
+      "type": "news",
+      "published": "2026-06-09",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Agada said he was screened and cleared on 20 May 2026, then excluded under zoning; he said he funded the LP convention in Umuahia, demanded a refund and might sue with his TMN Movement.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s5",
+      "title": "2027: Agada rejects ideology-free coalition, insists on YPP ticket",
+      "url": "https://leadership.ng/2027-agada-rejects-ideology-free-coalition-insists-on-ypp-ticket/",
+      "publisher": "Leadership",
+      "type": "news",
+      "published": "2026-08-20",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "finance",
+        "vision",
+        "experience"
+      ],
+      "claim": "Describes Agada as an architect and entrepreneur promoting a 'LabourDirect' model; he proposes 'ward capitalism', scrutiny of borrowing and a cheaper government ('Government must cost less so that development can receive more').",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s6",
+      "title": "Presidential race: YPP picks Agada, Ndidi-Key",
+      "url": "https://nannews.ng/race-7/",
+      "publisher": "News Agency of Nigeria (NAN)",
+      "type": "news",
+      "published": "2026-08-21",
+      "accessed": "2026-11-28",
+      "categories": [
+        "security",
+        "power",
+        "experience"
+      ],
+      "claim": "YPP named Agada and Patience Ndidi-Key as candidates after Anita Zugwai-Chukwu voluntarily withdrew; Agada pledged to reduce insecurity 'to the barest minimum' and decentralise electricity generation and distribution.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s7",
+      "title": "If elected president, I will manage Nigeria like a project site – YPP presidential candidate Peter Agada",
+      "url": "https://saharareporters.com/2026/10/07/if-elected-president-i-will-manage-nigeria-project-site-ypp-presidential-candidate-peter",
+      "publisher": "Sahara Reporters",
+      "type": "candidate-statement",
+      "published": "2026-10-07",
+      "accessed": "2026-11-28",
+      "categories": [
+        "infrastructure",
+        "economy",
+        "security",
+        "leadership",
+        "promises",
+        "experience"
+      ],
+      "claim": "Ward Intervention Programme of N40m monthly per ward across 8,809 wards; 'Labour-Direct' execution instead of contracting; GPS-based citizen project monitoring; a dedicated military communications and surveillance (ISR) network with border and highway beacons.",
+      "verification": "UNVERIFIED",
+      "quality": "medium",
+      "summary": "Candidate's own statements."
+    },
+    {
+      "id": "s8",
+      "title": "Peter Agada: We'll target vulnerable Nigerians with fuel subsidy, not everyone",
+      "url": "https://www.arise.tv/peter-agada-well-target-vulnerable-nigerians-with-fuel-subsidy-not-everyone/",
+      "publisher": "Arise News",
+      "type": "candidate-statement",
+      "published": "2026-10-21",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "humanImpact"
+      ],
+      "claim": "He rejects restoring the pre-2023 petrol subsidy and proposes a targeted card-based subsidy for vulnerable people and commercial transport operators, preceded by a census.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s9",
+      "title": "YPP candidate Agada: Tinubu's 90-day cost-of-living plan is mind games",
+      "url": "https://www.arise.tv/ypp-candidate-agada-tinubus-90-day-cost-of-living-plan-is-mind-games/",
+      "publisher": "Arise News",
+      "type": "candidate-statement",
+      "published": "2026-10-25",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "promises"
+      ],
+      "claim": "He called the federal 90-day cost-of-living plan a campaign strategy and said his Labour-Direct ward-to-ward strategy could reach all Nigerians within 60 days.",
+      "verification": "UNVERIFIED",
+      "quality": "medium",
+      "summary": "Contains claims about government revenue use made by the candidate and not verified."
+    }
+  ],
+  "gaps": [
+    "Verify his professional record (architecture registration, companies, projects) and degree institutions.",
+    "Confirm the YPP substitution primary vote count (reported elsewhere as 71 of 83 votes; source URL not retained in this pass).",
+    "Confirm the date he joined the YPP (the profile page cites a Punch report of 8 June 2026 that could not be fetched).",
+    "Obtain any YPP manifesto or costed plan for the Ward Intervention Programme.",
+    "Check whether he filed suit against the LP over the refund.",
+    "Seek documentation of the military communications proposal he says was approved earlier."
+  ]
+}

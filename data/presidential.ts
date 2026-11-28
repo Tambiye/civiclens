@@ -153,3 +153,9 @@ export const presidentialCandidates = [
     image: "/images/candidates/nwanyanwu.jpg",
   },
 ] as const;
+
+/** The sitting President, who is also a candidate in the dataset above. */
+export const incumbentPresident = {
+  slug: "bola-ahmed-tinubu",
+  inOfficeSince: "2023-05-29",
+} as const;

@@ -1,0 +1,407 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "sandy-ojang-onor",
+  "name": "Sandy Ojang Onor",
+  "researchVersion": 1,
+  "status": "RESEARCHED",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Sandy Ojang Onor",
+    "commonName": "Sandy Onor",
+    "born": "1966-02-14",
+    "stateOfOrigin": "Cross River",
+    "party": "Peoples Democratic Party (PDP)",
+    "partyHistory": [
+      { "party": "Peoples Democratic Party (PDP)", "period": "c. 1999–present", "sourceIds": ["o8", "o9"] }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": true,
+    "education": [
+      { "credential": "First School Leaving Certificate", "institution": "St. Francis Primary School, Obubra", "year": "1975", "sourceIds": ["o9"] },
+      { "credential": "West African School Certificate", "institution": "St. Brendan's College, Iyamoyong, Obubra", "year": "1981", "sourceIds": ["o9"] },
+      { "credential": "BA (Hons) History", "institution": "University of Calabar", "year": "1987", "sourceIds": ["o8", "o9"] },
+      { "credential": "MA History", "institution": "University of Calabar", "sourceIds": ["o9"] },
+      { "credential": "PhD History", "institution": "University of Calabar", "year": "1993", "sourceIds": ["o8", "o9"] }
+    ],
+    "professional": [
+      "Historian; Professor of History, University of Calabar (from October 2019, per THISDAY profile)",
+      "Author of works on Ejagham history"
+    ]
+  },
+  "career": [
+    { "period": "1987–1999", "title": "Graduate Assistant to Senior Lecturer, University of Calabar", "description": "Joined the History department as Graduate Assistant in 1987; Senior Lecturer by 1997; left in 1999 for local government.", "kind": "professional", "sourceIds": ["o9"] },
+    { "period": "1999–2002", "title": "Executive Chairman, Etung Local Government Council", "description": "Elected local government chairman (an executive office). Also served as Deputy National President and later acting National President of ALGON (dates not given). BusinessDay describes him as a two-term chairman; THISDAY and Premium Times give 1999–2002.", "kind": "political-office", "sourceIds": ["o5", "o8", "o9"] },
+    { "period": "Not confirmed (profile page says 2004–2008)", "title": "Chairman, Cross River State Local Government Service Commission", "description": "Appointment confirmed by THISDAY and BusinessDay; dates not confirmed.", "kind": "appointment", "sourceIds": ["o5", "o9"] },
+    { "period": "2010–2013", "title": "Commissioner for Agriculture, then Environment, Cross River State", "description": "State commissioner in the Liyel Imoke administration; THISDAY gives 2010–2013 for both portfolios without splitting dates.", "kind": "appointment", "sourceIds": ["o8", "o9"] },
+    { "period": "2016–present", "title": "Associate Professor, then Professor of History, University of Calabar", "description": "Returned to UNICAL in 2016; elevated to Professor in October 2019 per THISDAY.", "kind": "professional", "sourceIds": ["o9"] },
+    { "period": "2019–2023", "title": "Senator, Cross River Central", "description": "PDP senator in the 9th Senate; Vice/Deputy Chairman of the Senate Committee on Tertiary Institutions and TETFund; sponsored motions on the Calabar–Itu highway and Boki killings and the Advanced Healthcare Development Fund Bill.", "kind": "political-office", "sourceIds": ["o8", "o14", "o15", "o16", "o17"] },
+    { "period": "2023", "title": "PDP governorship candidate, Cross River", "description": "Lost to Bassey Otu (APC), 179,636 to 258,619; petitions failed at the tribunal, Court of Appeal and Supreme Court.", "kind": "candidacy", "sourceIds": ["o8", "o18", "o19"] },
+    { "period": "May 2026–present", "title": "PDP presidential candidate for 2027", "description": "Declared on 2 May 2026; affirmed as sole-aspirant consensus candidate of the Abdulrahman Mohammed-led (Wike-backed) PDP on 26 May 2026; published by INEC with Babangida Umar as running mate. A rival Turaki-led faction nominated Goodluck Jonathan, who is not on INEC's list.", "kind": "candidacy", "sourceIds": ["o3", "o4", "o6", "o7", "o8"] }
+  ],
+  "elections": [
+    { "year": "1999", "office": "Chairman, Etung Local Government", "party": "PDP", "result": "Won (vote figures not found)", "sourceIds": ["o9"] },
+    { "year": "2019", "office": "Senator, Cross River Central", "party": "PDP", "result": "Won (vote figures not found in this pass)", "sourceIds": ["o8", "o21"] },
+    { "year": "2023", "office": "Governor, Cross River State", "party": "PDP", "result": "Lost; 179,636 votes to Bassey Otu's 258,619; petition dismissed and appeals failed", "sourceIds": ["o18", "o19", "o8"] },
+    { "year": "2027", "office": "President", "party": "PDP", "result": "Candidate; election scheduled for 16 January 2027", "sourceIds": ["o2", "o6", "o8"] }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Supports the 2023 fuel-subsidy removal but criticises how the freed funds are used; argues fiscal benefits must reach the grassroots through properly funded local governments. No economic plan has been published.",
+      "analysis": "Onor has held office at local, state and federal level, but none of those roles involved national macroeconomic policy, and no 2027 economic programme was found. His clearest economic position, given at his PDP screening in May 2026 and reported by BusinessDay, is that President Tinubu was right to remove the petrol subsidy, which he called a 'bastion of corruption', but that the resources released have not been used well by sub-national governments ('downliners'). He promises grassroots accountability so that citizens feel the benefit of fiscal reforms, and he links poverty reduction to discipline and accountability in leadership. At his nomination he said Nigeria's human and material resources, well managed, could restore it as 'the giant of Africa'.\n\nThis position differs from several opposition candidates who propose restoring subsidies, and it implies continuity on fuel pricing, but he has not said what he would do on inflation, the exchange rate, tax or trade. As state Commissioner for Agriculture (2010–2013) he had some sectoral economic responsibility, but no documented outcomes from that tenure were found. As a senator he served on education rather than economic committees. Economic outcomes would also depend on oil prices, the CBN, the legislature and states.",
+      "strengths": [
+        "Clear stated position on fuel subsidy",
+        "Focus on whether fiscal gains reach local level"
+      ],
+      "limitations": [
+        "No published economic programme",
+        "No documented outcomes from his agriculture portfolio"
+      ],
+      "unknowns": [
+        "Macroeconomic, tax and exchange-rate policy",
+        "Whether a PDP 2027 manifesto exists"
+      ],
+      "sourceIds": ["o3", "o5", "o9"],
+      "verification": "AI_DRAFT"
+    },
+    "security": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Ties insecurity to rural poverty and youth disengagement; proposes well-funded local governments and vigilantes as frontline security. As senator he sponsored a motion on killings in Boki LGA.",
+      "analysis": "Onor's security thinking, as reported in May 2026, starts from local government. He links insecurity to grassroots poverty and the lack of meaningful engagement with young men, and argues that properly funding local governments is a primary security strategy; under his presidency, he said, well-funded local institutions and vigilantes would eliminate threats before they grow. He praised the federal government for securing a Supreme Court ruling on local-government financial autonomy but said many states divert those funds. At his nomination he promised to tackle insecurity and poverty, especially at the grassroots.\n\nHis legislative record includes a December 2019 motion on repeated killings in Boki LGA, attributed to cult activity, militancy, boundary disputes and kidnapping, after which the Senate urged the Inspector-General of Police to improve security and asked the Cross River government to take over the Boki oil palm estates and delineate boundaries. No outcome of that motion was found. He has not set out positions on the military, police reform, state police or the major conflict theatres, and no costing was found. Reliance on vigilantes raises human-rights and accountability questions that he has not addressed. Security outcomes are shared with states, communities and agencies.",
+      "strengths": [
+        "Specific causal argument linking local governance to security",
+        "Legislative attention to a constituency security crisis"
+      ],
+      "limitations": [
+        "No national security plan",
+        "Vigilante oversight not addressed"
+      ],
+      "unknowns": [
+        "Position on state police and military strategy"
+      ],
+      "sourceIds": ["o3", "o5", "o17"],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "Career academic (Professor of History at UNICAL) and Vice/Deputy Chairman of the Senate Committee on Tertiary Institutions and TETFund; no 2027 education plan found.",
+      "analysis": "Education is the area where Onor's record is most relevant. He spent about 12 years as a lecturer at the University of Calabar (1987–1999), returned in 2016 and was made Professor of History in October 2019, according to a THISDAY profile; he has authored books on Ejagham history. In the 9th Senate he was Vice-Chairman (some sources say Deputy Chairman) of the Committee on Tertiary Institutions and TETFund. In April 2021 he chaired a public hearing on bills to upgrade Yaba College of Technology and Ilaro Polytechnic into federal universities of technology, arguing this would widen access, and in July 2021 he presented the committee report that led the Senate to upgrade the Maritime Academy in Oron into a university.\n\nThese are committee roles on bills sponsored by others; no education bill he authored was found, and whether the upgrades he supported improved access or quality was not assessed. The broader trend of converting polytechnics into universities has been debated over funding and the loss of technical training, and his position on those trade-offs is not recorded. No 2027 education plan, funding target or position on student loans or university strikes was found.",
+      "strengths": [
+        "Long academic career",
+        "Relevant Senate committee experience"
+      ],
+      "limitations": [
+        "No authored education legislation found",
+        "No 2027 education plan"
+      ],
+      "unknowns": [
+        "Positions on ASUU disputes, student loans and basic education"
+      ],
+      "sourceIds": ["o9", "o14", "o15"],
+      "verification": "AI_DRAFT"
+    },
+    "healthcare": {
+      "evidence": "insufficient",
+      "basis": "record",
+      "summary": "Reported sponsor of the Advanced Healthcare Development Fund Bill in the 9th Senate; no health plan for 2027 found.",
+      "analysis": "Premium Times' October 2026 profile says Onor sponsored the Advanced Healthcare Development Fund Bill in the 9th Senate, and an Order Paper item seen in search results described it as one of four bills he sponsored and as passed by the Senate. The bill's content, final status and whether it became law were not confirmed; the Order Paper page could not be opened. No 2027 health proposals were found.",
+      "strengths": [],
+      "limitations": [
+        "Bill content and status unconfirmed"
+      ],
+      "unknowns": [
+        "Whether the bill was assented to"
+      ],
+      "missing": [
+        "Text and legislative history of the Advanced Healthcare Development Fund Bill",
+        "Any 2027 health policy",
+        "Record from his tenure as Cross River commissioner relevant to health or environment"
+      ],
+      "sourceIds": ["o8", "o22"],
+      "verification": "AI_DRAFT"
+    },
+    "infrastructure": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "As senator, moved a motion urging completion and dualisation of the Calabar–Itu federal highway; as 2023 governorship candidate promised to make Ikom a commercial hub. No 2027 infrastructure plan found.",
+      "analysis": "Onor's infrastructure record consists of advocacy rather than delivery. In December 2019 he sponsored a Senate motion that led the Senate to urge the executive to direct Julius Berger to resume and complete rehabilitation of the Calabar–Itu federal highway, which it called a matter of economic emergency, and to fund its dualisation; the Senate also observed a minute's silence for people who died on the Calabar–Oron water route. Senate resolutions are not binding on the executive, and progress on that road after the motion was not traced in this research.\n\nDuring his 2023 governorship campaign he promised to restore Ikom as Cross River's commercial hub and to fix decaying infrastructure, but those were state-level pledges and he lost that election. No information was found on infrastructure delivered during his chairmanship of Etung Local Government (1999–2002), which would be the only period in which he directly controlled capital spending. No constituency-project records were found for his Senate term. For the presidency he has not published proposals on roads, rail, ports or housing, so his federal infrastructure priorities cannot be assessed beyond his stated emphasis on rural development.",
+      "strengths": [
+        "Used legislative tools on a major regional road"
+      ],
+      "limitations": [
+        "No delivery record found",
+        "No national infrastructure proposals"
+      ],
+      "unknowns": [
+        "Constituency projects 2019–2023",
+        "Etung LGA capital projects 1999–2002"
+      ],
+      "sourceIds": ["o16", "o20", "o8"],
+      "verification": "AI_DRAFT"
+    },
+    "power": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No record or proposals on electricity were found.",
+      "analysis": "No statements, legislation, motions or plans by Onor on power generation, transmission, tariffs or the Electricity Act were found in this research. His committee work in the Senate was on tertiary education, and his executive roles were in local government and state agriculture and environment portfolios.",
+      "strengths": [],
+      "limitations": [
+        "No information"
+      ],
+      "unknowns": [
+        "Entire power-sector position"
+      ],
+      "missing": [
+        "Any electricity policy statement or plan",
+        "Senate votes on power-sector legislation (e.g. Electricity Act 2023)"
+      ],
+      "sourceIds": [],
+      "verification": "AI_DRAFT"
+    },
+    "jobs": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Has named unemployment and rural development as priorities, without specific measures.",
+      "analysis": "Premium Times' profile lists employment and rural development among his campaign priorities, and he has linked youth disengagement to insecurity. No job-creation targets, programmes or investment policies were found. No employment outcomes from his tenure as Etung LGA chairman or as state Commissioner for Agriculture were found.",
+      "strengths": [],
+      "limitations": [
+        "No specific proposals"
+      ],
+      "unknowns": [
+        "Employment strategy"
+      ],
+      "missing": [
+        "Any job-creation plan or target",
+        "Outcomes of agriculture programmes during his commissionership (2010–2013)"
+      ],
+      "sourceIds": ["o5", "o8"],
+      "verification": "AI_DRAFT"
+    },
+    "finance": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Supports local-government financial autonomy and criticises state diversion of LG funds; no fiscal plan found.",
+      "analysis": "Onor has said local governments should be properly funded and that many states divert funds meant for them, praising the federal Supreme Court case on LG autonomy. He has said fiscal-reform gains should be accounted for at grassroots level. No positions on federal revenue, borrowing, debt service or budget transparency were found, nor any audit findings relating to the offices he held. No asset declaration was found.",
+      "strengths": [],
+      "limitations": [
+        "No fiscal framework"
+      ],
+      "unknowns": [
+        "Debt and revenue policy"
+      ],
+      "missing": [
+        "Federal fiscal plan",
+        "Audit or budget records from Etung LGA (1999–2002) and his commissionerships",
+        "Asset declaration"
+      ],
+      "sourceIds": ["o5"],
+      "verification": "AI_DRAFT"
+    },
+    "leadership": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "Has led a local government, ALGON (as acting national president), a state service commission and two state ministries, and was styled 'Orator of the Senate'. Documented outcomes of those roles are scarce.",
+      "analysis": "Onor has held public roles at several levels: elected chairman of Etung Local Government (1999–2002); Deputy National President and later acting National President of the Association of Local Governments of Nigeria; Chairman of the Cross River Local Government Service Commission; state Commissioner for Agriculture and for Environment (2010–2013); and senator (2019–2023). He has also run PDP campaign organisations in Cross River, including as state coordinator of the 2003 Obasanjo/Atiku campaign. He cites this experience 'across all three tiers' as his main qualification.\n\nThe evidence is mostly of positions held rather than results achieved; no evaluations, budgets or outcomes from these roles were found. His political coalition-building is mixed: he won a Senate seat in 2019 but lost the 2023 governorship by about 79,000 votes, and his presidential candidacy comes from one side of a split PDP, backed by FCT Minister Nyesom Wike, who supports President Tinubu's re-election; Onor has said 'Wike is a leader of the party, but he is not the party.' A rival faction backed Goodluck Jonathan. How he would manage a cabinet and a divided party at federal level cannot be judged from the available record.",
+      "strengths": [
+        "Experience at local, state and federal levels",
+        "Led a national association of local governments"
+      ],
+      "limitations": [
+        "Few documented outcomes",
+        "Candidacy rests on one faction of a divided party"
+      ],
+      "unknowns": [
+        "Performance as LGA chairman and commissioner",
+        "Prospective delivery team"
+      ],
+      "sourceIds": ["o3", "o4", "o5", "o8", "o9"],
+      "verification": "AI_DRAFT"
+    },
+    "integrity": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "No criminal charges, investigations or audit findings against Onor were found. Court matters found relate to elections he contested. His nomination comes from the INEC-recognised PDP faction amid a party split.",
+      "analysis": "This research found no criminal charge, anti-corruption investigation, court judgment or adverse audit finding against Onor, but a dedicated integrity search could not be completed because the web search budget ran out, so this is not proof that none exist, and records from his local-government and commissioner tenures were not reviewed. The court matters found arise from elections. After the March 2023 Cross River governorship election, he and the PDP petitioned against Bassey Otu's victory; the tribunal ruled against them on 26 September 2023, the Court of Appeal dismissed the appeal in November 2023 and the Supreme Court upheld Otu's election in January 2024. Pursuing an election petition is a lawful remedy and not an integrity finding.\n\nThe 2027 nomination is politically contested rather than legally tainted on the evidence found. He was the sole aspirant and consensus candidate of the Abdulrahman Mohammed-led PDP, which INEC recognised after a Supreme Court judgment nullifying a rival convention; a Federal High Court dismissed the Turaki faction's recognition suit in July 2026 and an appeal court upheld that, per press reports. INEC published Onor and not Jonathan. No asset declaration was found.",
+      "strengths": [
+        "No adverse findings located",
+        "Nomination submitted through the INEC-recognised party leadership"
+      ],
+      "limitations": [
+        "Dedicated integrity search not completed",
+        "No asset declaration found"
+      ],
+      "unknowns": [
+        "Audit records for Etung LGA and the ministries he led",
+        "Whether the Turaki faction has further pending appeals"
+      ],
+      "sourceIds": ["o6", "o7", "o13", "o18", "o19"],
+      "verification": "AI_DRAFT"
+    },
+    "experience": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "Academic historian with executive experience as an elected LGA chairman, state appointments, and one Senate term.",
+      "analysis": "Onor's career combines academia and multi-level public office. He holds BA, MA and PhD degrees in History from the University of Calabar (PhD 1993) and is a Professor of History there. He was elected Executive Chairman of Etung Local Government in 1999, which under this site's definition counts as elected executive experience, and later chaired the state Local Government Service Commission, was acting national president of ALGON, and served as Cross River Commissioner for Agriculture and then Environment between 2010 and 2013. He represented Cross River at the 2005 National Political Reform Conference. From 2019 to 2023 he was senator for Cross River Central, where he was vice-chairman of the tertiary institutions and TETFund committee.\n\nNone of these roles involved managing a budget on the scale of a federal ministry, and the record available is mainly a list of positions; outcomes from his executive roles were not found. Some dates in the existing profile (2004–2008 for the service commission; separate 2010–2011 and 2012–2013 commissioner terms) could not be confirmed. Compared with the presidency's responsibilities, his experience is relevant to local governance and federal legislation, and his 2023 defeat for governor means he has not held state-level executive office.",
+      "strengths": [
+        "Elected executive office at local level",
+        "Legislative and state cabinet experience"
+      ],
+      "limitations": [
+        "No large-budget executive role",
+        "Outcomes of roles undocumented"
+      ],
+      "unknowns": [
+        "Exact dates of service-commission and commissioner roles"
+      ],
+      "sourceIds": ["o5", "o8", "o9", "o14"],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Promises 'competence, accountability and restoration', an issue-based pan-Nigerian campaign, and a grassroots focus on poverty and insecurity; no manifesto found.",
+      "analysis": "Onor describes his candidacy in broad terms. At his declaration on 2 May 2026 he promised people-centred governance and 'exponential greatness'; at his nomination on 26 May he pledged to fly the PDP flag 'with energy, with courage, with competence and with intellectual depth', to run an issue-based, grassroots campaign with a pan-Nigerian outlook, and to return Nigeria to the stature expected at independence. He identifies poor leadership as the country's main problem and stresses discipline, accountability and probity. His distinctive policy idea is to make well-funded, accountable local governments the engine of both poverty reduction and security, and he has said opposition should not mean blanket condemnation, crediting the incumbent on subsidy removal and LG autonomy.\n\nNo written manifesto or policy document for his 2027 campaign was found as of late November 2026, less than two months before the 16 January 2027 election. That makes his programme hard to assess beyond these themes. His relationship with the party's main backer, Nyesom Wike, who supports President Tinubu's re-election, raises questions about the campaign's direction that he has addressed only by saying Wike 'is not the party'.",
+      "strengths": [
+        "Coherent local-government-centred theme",
+        "Willingness to acknowledge incumbent policies he agrees with"
+      ],
+      "limitations": [
+        "No manifesto found",
+        "Themes largely general"
+      ],
+      "unknowns": [
+        "Detailed policy programme"
+      ],
+      "sourceIds": ["o3", "o4", "o5"],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No foreign-policy statements or record found.",
+      "analysis": "No statements by Onor on foreign policy, ECOWAS, trade or international partnerships were found. His Senate committee assignment was in education, and no foreign-affairs committee role, motion or delegation was identified.",
+      "strengths": [],
+      "limitations": [
+        "No information"
+      ],
+      "unknowns": [
+        "Entire foreign-policy position"
+      ],
+      "missing": [
+        "Any foreign-policy statement",
+        "Senate committee memberships beyond TETFund/tertiary institutions"
+      ],
+      "sourceIds": [],
+      "verification": "AI_DRAFT"
+    },
+    "humanImpact": {
+      "evidence": "insufficient",
+      "basis": "mixed",
+      "summary": "Says the poor 'have suffered for too long' and prioritises rural poverty; no documented effects of his past decisions on households were found.",
+      "analysis": "Onor has said poor Nigerians 'have suffered for too long' and should not be taken for granted, and he prioritises rural development and grassroots poverty. His support for subsidy removal, alongside a demand that the savings reach local communities, has direct household implications, but he has not described compensating measures. No documented household-level effects of his LGA chairmanship, commissionerships or Senate work were found.",
+      "strengths": [],
+      "limitations": [
+        "No evidence of impact"
+      ],
+      "unknowns": [
+        "Social-protection plans"
+      ],
+      "missing": [
+        "Evidence of outcomes from Etung LGA and state ministries",
+        "Constituency project outcomes 2019–2023",
+        "Any social-protection proposal"
+      ],
+      "sourceIds": ["o3", "o5"],
+      "verification": "AI_DRAFT"
+    },
+    "promises": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Promises are general (tackle poverty and insecurity at the grassroots, fund local governments, accountable leadership); none is quantified or dated.",
+      "analysis": "As an aspirant, Onor's promises are judged on specificity, and they are currently general. The commitments found are to run an issue-based, grassroots campaign; to tackle insecurity and poverty, especially in rural areas; to ensure local governments are properly funded and accountable so that fiscal reforms reach citizens; to use funded local institutions and vigilantes to pre-empt security threats; and to lead with courage, competence, discipline and probity. Premium Times summarises his priorities as local-government autonomy, rural development, employment and security.\n\nNone of these carries a target, timeline, cost or delivery mechanism, and no manifesto was located, so they cannot be tracked in a measurable way. Strengthening local governments depends substantially on states and on enforcement of the Supreme Court's LG autonomy ruling, which a president influences mainly through federal transfers and the Attorney-General. His 2023 governorship promises (making Ikom a commercial hub, repairing infrastructure) were not tested because he lost. As a senator he made no programme promises that can be checked, though his motions on the Calabar–Itu highway and Boki killings show the issues he raised for his constituency.",
+      "strengths": [
+        "Consistent focus on local government"
+      ],
+      "limitations": [
+        "No measurable commitments",
+        "No manifesto found"
+      ],
+      "unknowns": [
+        "Whether a manifesto will be published before the election"
+      ],
+      "sourceIds": ["o3", "o5", "o8", "o20"],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    { "id": "rec1", "title": "Chairman, Etung Local Government", "kind": "decision", "label": "RECORD", "period": "1999–2002", "office": "LGA Chairman", "description": "Served as elected executive chairman; no documented projects or budget outcomes found.", "categories": ["experience", "leadership"], "sourceIds": ["o8", "o9"] },
+    { "id": "rec2", "title": "Cross River Commissioner for Agriculture and Environment", "kind": "decision", "label": "RECORD", "period": "2010–2013", "office": "State Commissioner", "description": "Served in both portfolios under Governor Liyel Imoke; no documented outcomes found.", "categories": ["experience", "economy"], "sourceIds": ["o8", "o9"] },
+    { "id": "rec3", "title": "Motion on Boki LGA killings", "kind": "decision", "label": "RECORD", "period": "December 2019", "office": "Senator", "description": "Sponsored motion; Senate urged the IGP to improve security and the Cross River government to take over Boki oil palm estates and delineate boundaries. Outcome not traced.", "categories": ["security"], "sourceIds": ["o17"] },
+    { "id": "rec4", "title": "Motion on Calabar–Itu federal highway", "kind": "decision", "label": "RECORD", "period": "December 2019", "office": "Senator", "description": "Sponsored motion; Senate urged the executive to have Julius Berger resume and complete rehabilitation and to fund dualisation. Outcome not traced.", "status": "proposed", "categories": ["infrastructure"], "sourceIds": ["o16"] },
+    { "id": "rec5", "title": "Tertiary education committee work", "kind": "decision", "label": "RECORD", "period": "2021", "office": "Senator (Vice-Chairman, Committee on Tertiary Institutions and TETFund)", "description": "Chaired April 2021 hearing on upgrading Yaba College of Technology and Ilaro Polytechnic; presented July 2021 committee report on upgrading the Maritime Academy, Oron, to a university, which the Senate passed.", "categories": ["education"], "sourceIds": ["o14", "o15"] },
+    { "id": "rec6", "title": "Advanced Healthcare Development Fund Bill", "kind": "policy", "label": "UNVERIFIED", "period": "2020", "office": "Senator", "description": "Reported as sponsored by Onor and passed by the Senate; final status and content not confirmed.", "categories": ["healthcare"], "sourceIds": ["o8", "o22"] },
+    { "id": "rec7", "title": "2023 governorship election petition", "kind": "outcome", "label": "FACT", "period": "2023–2024", "description": "Petition against Bassey Otu's election failed at the tribunal (26 September 2023), Court of Appeal (November 2023) and Supreme Court (January 2024).", "legalStatus": "closed", "categories": ["integrity"], "sourceIds": ["o8", "o18", "o19"] },
+    { "id": "rec8", "title": "PDP factional dispute over 2027 nomination", "kind": "controversy", "label": "FACT", "period": "2026", "description": "Turaki-led faction nominated Goodluck Jonathan; courts dismissed its recognition suit (July 2026) and INEC published Onor. Political dispute, not an integrity allegation against Onor.", "legalStatus": "judgment", "categories": ["leadership", "integrity"], "sourceIds": ["o6", "o7", "o12", "o13"] }
+  ],
+  "plans": [
+    { "id": "pl1", "title": "Fund local governments as a security and anti-poverty strategy", "label": "PROPOSAL", "category": "security", "outcome": "Well-funded, accountable local institutions and vigilantes pre-empt security threats and reduce grassroots poverty", "dependencies": "States' compliance with LG autonomy ruling", "risks": "Vigilante oversight and rights safeguards not addressed", "sourceIds": ["o5"] },
+    { "id": "pl2", "title": "Grassroots accountability for subsidy-removal savings", "label": "PROMISE", "category": "economy", "outcome": "Ensure citizens feel benefits of fiscal reforms, keeping subsidy removal", "sourceIds": ["o5"] },
+    { "id": "pl3", "title": "Tackle poverty and insecurity, prioritising rural development", "label": "PROMISE", "category": "promises", "outcome": "Reduce poverty and insecurity, especially in rural areas; employment and LG autonomy as priorities", "sourceIds": ["o3", "o8"] }
+  ],
+  "test": [
+    { "questionId": "r1", "answer": "Partly. Poor leadership, grassroots poverty and youth disengagement are named as root problems, but without data or detailed diagnosis.", "assessment": "partly", "sourceIds": ["o3", "o5"] },
+    { "questionId": "r2", "answer": "No. Proposals are general themes; no specific programmes or targets were found.", "assessment": "no", "sourceIds": ["o3", "o5"] },
+    { "questionId": "r3", "answer": "Unknown. No evidence was cited for the local-government-led security approach.", "assessment": "unknown", "sourceIds": ["o5"] },
+    { "questionId": "r4", "answer": "Unknown. No costings found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r5", "answer": "Unknown. No timelines found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r6", "answer": "Partly. A president can influence LG funding through federal transfers, but LG administration is a state matter.", "assessment": "partly", "sourceIds": ["o5"] },
+    { "questionId": "r7", "answer": "Unknown. Not enough detail to determine; LG reforms would likely need legislation or constitutional change.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r8", "answer": "No. Risks such as vigilante abuses or subsidy-removal hardship were not discussed.", "assessment": "no", "sourceIds": ["o5"] },
+    { "questionId": "r9", "answer": "Partly. Running mate Babangida Umar and party chairman Abdulrahman Mohammed are known; no delivery team identified.", "assessment": "partly", "sourceIds": ["o4", "o6"] },
+    { "questionId": "r10", "answer": "Partly. He has held executive office (Etung LGA chairman, state commissioner), but no documented outcomes from those roles were found.", "assessment": "partly", "sourceIds": ["o8", "o9"] }
+  ],
+  "sources": [
+    { "id": "o1", "title": "Final List of Presidential and National Assembly Candidates (PDF)", "url": "https://inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf", "publisher": "Independent National Electoral Commission", "type": "electoral", "published": "2026-10", "accessed": "2026-11-28", "categories": ["experience"], "claim": "INEC final list (opened but not machine-readable in this pass).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "o2", "title": "INEC releases final list of 18 presidential candidates for 2027 elections", "url": "https://nairametrics.com/2026/09/12/inec-releases-final-list-of-18-presidential-candidates-for-2027-elections/", "publisher": "Nairametrics", "type": "news", "published": "2026-09-12", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Final list released 12 September 2026; election 16 January 2027 (article names only 10 of 18 candidates and does not name Onor).", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "o3", "title": "2027: Wike-backed PDP affirms ex-senator Onor as consensus presidential candidate", "url": "https://www.premiumtimesng.com/news/top-news/883079-2027-wike-backed-pdp-affirms-ex-senator-onor-as-consensus-presidential-candidate.html", "publisher": "Premium Times", "type": "news", "published": "2026-05-26", "accessed": "2026-11-28", "categories": ["vision", "economy", "security", "promises"], "claim": "Sole aspirant affirmed by consensus; Ortom-led committee; Onor's acceptance quotes and pledges.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "o4", "title": "PDP 2027: Senator Onor launches presidential bid, pledges revival", "url": "https://von.gov.ng/pdp-2027-senator-onor-launches-presidential-bid-pledges-revival/", "publisher": "Voice of Nigeria", "type": "news", "published": "2026-05-02", "accessed": "2026-11-28", "categories": ["vision", "leadership"], "claim": "Declaration at PDP headquarters; 'Wike is a leader of the party, but he is not the party'.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "o5", "title": "I am qualified to takeover as Nigeria's next president, says Onor as PDP screens presidential aspirant", "url": "https://businessday.ng/news/article/i-am-qualified-to-takeover-as-nigerias-next-president-says-onor-as-pdp-screens-presidential-aspirant/", "publisher": "BusinessDay", "type": "news", "published": "2026-05-14", "accessed": "2026-11-28", "categories": ["economy", "security", "finance", "leadership", "experience"], "claim": "Praised subsidy removal; LG funding and vigilantes as security strategy; experience across three tiers; 'two-term' LG chairman.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "o6", "title": "2027: Wike-backed PDP reacts as INEC publishes Onor as presidential candidate to challenge Tinubu", "url": "https://www.legit.ng/politics/1722908-2027-election-wike-backed-pdp-reacts-inec-publishes-onor-presidential-candidate/", "publisher": "Legit.ng", "type": "news", "published": "2026-08-03", "accessed": "2026-11-28", "categories": ["integrity", "leadership"], "claim": "INEC published Onor with running mate Alhaji Babangida Umar; Turaki faction submitted Jonathan manually.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "o7", "title": "INEC Releases Final Candidates' List for 2027, Jonathan, Nwoko, Goje Not Included", "url": "https://www.thisdaylive.com/2026/08/03/inec-releases-final-candidates-of-list-for-2027-jonathan-nwoko-goje-not-included/", "publisher": "THISDAY", "type": "news", "published": "2026-08-03", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Jonathan not on INEC's list (seen in search results).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "o8", "title": "Profiles: The men, women seeking to be Nigeria's president in 2027", "url": "https://allafrica.com/stories/202610260089.html", "publisher": "Premium Times via AllAfrica", "type": "news", "published": "2026-10-25", "accessed": "2026-11-28", "categories": ["experience", "healthcare", "jobs", "promises"], "claim": "Born 14 Feb 1966; UNICAL PhD 1993; Etung LGA 1999–2002; commissioner; senator 2019–2023, TETFund committee deputy chair, sponsored Advanced Healthcare Development Fund Bill; lost 2023 governorship, SC upheld Otu Jan 2024; running mate Babangida Umaru; priorities.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "o9", "title": "Sandy Ojang Onor: Making His Mark as Scholar, Politician and Orator of the 9th Senate", "url": "https://www.thisdaylive.com/2026/02/13/sandy-ojang-onor-making-his-mark-as-scholar-politician-and-orator-of-the-9th-senate/", "publisher": "THISDAY", "type": "news", "published": "2026-02-13", "accessed": "2026-11-28", "categories": ["experience", "education", "leadership"], "claim": "Detailed biography: schooling, UNICAL career and professorship (Oct 2019), Etung LGA, ALGON, LG Service Commission, commissioner 2010–2013, 'Orator of the Senate'. Promotional in tone.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "o10", "title": "PDP announces Sandy Onor as consensus presidential candidate for 2027", "url": "https://www.channelstv.com/2026/05/26/pdp-announces-sandy-onor-as-consensus-presidential-candidate-for-2027/", "publisher": "Channels Television", "type": "news", "published": "2026-05-26", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Consensus announcement (page returned 403; from existing profile).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "o11", "title": "Wike-backed PDP declares Sandy Onor consensus presidential candidate", "url": "https://www.thecable.ng/wike-backed-pdp-declares-sandy-onor-consensus-presidential-candidate/", "publisher": "TheCable", "type": "news", "published": "2026-05-26", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Consensus declaration (page returned 403; from existing profile).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "o12", "title": "PDP faction ratifies Jonathan as presidential candidate as police barricade convention venue", "url": "https://www.premiumtimesng.com/news/headlines/883887-pdp-faction-ratifies-jonathan-as-presidential-candidate-as-police-barricade-convention-venue.html", "publisher": "Premium Times", "type": "news", "published": "2026-05", "accessed": "2026-11-28", "categories": ["leadership"], "claim": "Turaki-led faction ratified Jonathan (from existing profile; not opened).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "o13", "title": "2027: Court Dashes Turaki-led PDP Hope, Dismisses Recognition Suit", "url": "https://www.thisdaylive.com/2026/07/18/2027-court-dashes-turaki-led-pdp-hope-dismisses-recognition-suit/", "publisher": "THISDAY", "type": "news", "published": "2026-07-18", "accessed": "2026-11-28", "categories": ["integrity", "leadership"], "claim": "Federal High Court dismissed suit to compel INEC to recognise the Turaki faction (seen in search results).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "o14", "title": "Senate commits to addressing rot in education sector", "url": "https://nationaldailyng.com/?p=141859", "publisher": "National Daily", "type": "news", "published": "2021-04-22", "accessed": "2026-11-28", "categories": ["education", "experience"], "claim": "Onor, Vice-Chairman of the TETFund committee, chaired hearing on upgrading Yaba and Ilaro institutions.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "o15", "title": "Senate upgrades Maritime Academy to varsity", "url": "https://dailytrust.com/?p=963810", "publisher": "Daily Trust", "type": "news", "published": "2021-07-08", "accessed": "2026-11-28", "categories": ["education"], "claim": "Onor presented the committee report on behalf of chairman Babba Kaita.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "o16", "title": "Senate urges executive to rehabilitate Calabar-Itu highway", "url": "https://theeagleonline.com.ng/senate-urges-executive-to-rehabilitate-calabar-itu-highway/", "publisher": "The Eagle Online", "type": "news", "published": "2019-12-18", "accessed": "2026-11-28", "categories": ["infrastructure"], "claim": "Motion by Onor; Senate urged resumption by Julius Berger and funding for dualisation.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "o17", "title": "Senate condemns Boki killings", "url": "https://pmnewsnigeria.com/2019/12/04/senate-condemns-boki-killings/", "publisher": "PM News", "type": "news", "published": "2019-12-04", "accessed": "2026-11-28", "categories": ["security"], "claim": "Motion by Onor on Boki killings and resulting Senate resolutions.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "o18", "title": "Cross River tribunal dismisses PDP, Sandy Onor's petition against Governor Otu's election", "url": "https://saharareporters.com/2023/09/26/cross-river-tribunal-dismisses-pdp-sandy-onors-petition-against-governor-otus-election", "publisher": "Sahara Reporters", "type": "news", "published": "2023-09-26", "accessed": "2026-11-28", "categories": ["integrity", "experience"], "claim": "INEC result Otu 258,619, Onor 179,636; tribunal ruled against petition.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "o19", "title": "Court of Appeal reaffirms Governor Otu's victory", "url": "https://thenigerialawyer.com/court-of-appeal-reaffirms-governor-otus-victory/", "publisher": "The Nigeria Lawyer", "type": "news", "published": "2023-11", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Court of Appeal dismissed Onor's appeal (seen in search results).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "o20", "title": "PDP guber candidate Sandy Onor vows to transform Ikom into Cross River's commercial hub if elected", "url": "https://gazettengr.com/pdp-guber-candidate-sandy-onor-vows-to-transform-ikom-into-cross-rivers-commercial-hub-if-elected/", "publisher": "The Gazette", "type": "news", "published": "2023-01-21", "accessed": "2026-11-28", "categories": ["infrastructure", "promises"], "claim": "2023 governorship pledges on Ikom and infrastructure.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "o21", "title": "Onor Sandy Ojang – 2019 Senate Elections", "url": "https://ngelections.com/candidate/onor-sandy-ojang-2019/", "publisher": "Nigeria Elections (ngelections.com)", "type": "reference", "published": null, "accessed": "2026-11-28", "categories": ["experience"], "claim": "Marked as winner of 2019 Cross River Central Senate race (no vote figures on page).", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "o22", "title": "Order Paper item on Senator Onor's bills", "url": "https://orderpaper.ng/?p=4674", "publisher": "OrderPaper Nigeria", "type": "investigative", "published": null, "accessed": "2026-11-28", "categories": ["healthcare"], "claim": "Search snippet: Onor sponsored four bills, including the Advanced Healthcare Development Fund (Establishment) Bill 2020, passed by the Senate. Page returned 404 when opened.", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "o23", "title": "Senator Onor Declares Interest in Cross River Governorship", "url": "https://thisdaylive.com/index.php/2021/12/15/senator-onor-declares-interest-in-cross-river-governorship", "publisher": "THISDAY", "type": "news", "published": "2021-12-15", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Declared governorship ambition in December 2021 (seen in search results).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "o24", "title": "Sandy Ojang Onor", "url": "https://en.wikipedia.org/wiki/Sandy_Ojang_Onor", "publisher": "Wikipedia", "type": "reference", "published": null, "accessed": "2026-11-28", "categories": ["experience"], "claim": "Used only to locate sources; lists Senate term 11 June 2019 – 11 June 2023.", "verification": "UNVERIFIED", "quality": "low" }
+  ],
+  "gaps": [
+    "Obtain 2019 Cross River Central Senate vote totals from INEC.",
+    "Confirm content and final status of the Advanced Healthcare Development Fund Bill and list all bills/motions sponsored 2019–2023 (NASS records, OrderPaper scorecards).",
+    "Find records of his Etung LGA chairmanship (1999–2002), including whether he served one or two terms, and outcomes from his agriculture and environment commissionerships.",
+    "Confirm dates of LG Service Commission chairmanship and the split of commissioner terms claimed in the existing profile.",
+    "Locate any 2027 PDP or Onor manifesto/policy document.",
+    "Run a dedicated integrity search (EFCC/ICPC, audits, asset declaration); the web search budget ran out before this was done.",
+    "Resolve running-mate name order (Umaru Babangida vs Babangida Umar) from a readable INEC list.",
+    "Check whether the Turaki faction has a pending Supreme Court appeal on recognition."
+  ]
+}

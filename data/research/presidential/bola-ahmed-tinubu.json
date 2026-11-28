@@ -1,0 +1,2760 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "bola-ahmed-tinubu",
+  "name": "Bola Ahmed Tinubu",
+  "researchVersion": 1,
+  "status": "RESEARCHED",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Bola Ahmed Adekunle Tinubu",
+    "commonName": "Bola Ahmed Tinubu",
+    "born": "1952-03-29",
+    "stateOfOrigin": "Lagos",
+    "party": "All Progressives Congress (APC)",
+    "partyHistory": [
+      {
+        "party": "Social Democratic Party (SDP)",
+        "period": "1992-1993",
+        "sourceIds": [
+          "s40",
+          "s41"
+        ]
+      },
+      {
+        "party": "Alliance for Democracy (AD)",
+        "period": "1998-2006",
+        "sourceIds": [
+          "s40",
+          "s41"
+        ]
+      },
+      {
+        "party": "Action Congress / Action Congress of Nigeria (AC/ACN)",
+        "period": "2006-2013",
+        "sourceIds": [
+          "s40",
+          "s41"
+        ]
+      },
+      {
+        "party": "All Progressives Congress (APC)",
+        "period": "2013-present",
+        "sourceIds": [
+          "s1",
+          "s40"
+        ]
+      }
+    ],
+    "currentOffice": "President of the Federal Republic of Nigeria",
+    "isIncumbent": true,
+    "incumbentOffice": "president",
+    "hasExecutiveExperience": true,
+    "education": [
+      {
+        "credential": "B.Sc. Business Administration (with honours; major in accounting, per the university registrar)",
+        "institution": "Chicago State University, USA",
+        "year": "1979",
+        "sourceIds": [
+          "s4"
+        ]
+      }
+    ],
+    "professional": [
+      "Accountant; former Treasurer at Mobil Oil Producing Nigeria (per official State House biography)",
+      "Earlier accounting roles in the United States (Arthur Andersen, Deloitte Haskins & Sells, GTE Services Corporation) are listed in reference sources but were not confirmed from a primary source in this research pass"
+    ]
+  },
+  "career": [
+    {
+      "period": "1977-1979",
+      "title": "Student, Chicago State University",
+      "description": "Attended Chicago State University from August 1977 to June 1979; the registrar confirmed a B.Sc. in Business Administration awarded with honours on 22 June 1979.",
+      "kind": "other",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "period": "1980s",
+      "title": "Corporate accountant, Mobil Oil Producing Nigeria",
+      "description": "Worked in Mobil Oil Producing Nigeria, rising to Treasurer according to the State House biography. Exact years are not stated in the official profile.",
+      "kind": "professional",
+      "sourceIds": [
+        "s1",
+        "s40"
+      ]
+    },
+    {
+      "period": "1992-1993",
+      "title": "Senator, Lagos West (SDP)",
+      "description": "Elected to the Senate on the Social Democratic Party platform during the Third Republic transition; the Senate was dissolved after the annulment of the June 1993 election and the November 1993 military takeover.",
+      "kind": "political-office",
+      "sourceIds": [
+        "s40",
+        "s41"
+      ]
+    },
+    {
+      "period": "1994-1998",
+      "title": "Pro-democracy activist (NADECO) and exile",
+      "description": "Associated with the National Democratic Coalition (NADECO) campaign for the restoration of the annulled 12 June 1993 result; spent the Abacha years largely in exile and returned after 1998. Accounts differ on whether he was a founding member or mainly a financier.",
+      "kind": "activism",
+      "sourceIds": [
+        "s40",
+        "s41"
+      ]
+    },
+    {
+      "period": "1999-2007",
+      "title": "Governor of Lagos State (two terms, AD)",
+      "description": "Elected in 1999 and re-elected in 2003 on the Alliance for Democracy platform. Tenure included a dispute with the Obasanjo federal government over the creation of 37 additional local council areas, decided by the Supreme Court in December 2004.",
+      "kind": "political-office",
+      "sourceIds": [
+        "s1",
+        "s39",
+        "s38"
+      ]
+    },
+    {
+      "period": "2006-2013",
+      "title": "National leader, Action Congress / ACN",
+      "description": "Led the Action Congress (later Action Congress of Nigeria), the main south-western opposition party, which won several south-west governorships in the late 2000s and early 2010s.",
+      "kind": "party",
+      "sourceIds": [
+        "s40",
+        "s41"
+      ]
+    },
+    {
+      "period": "2013-2023",
+      "title": "Co-founder and national leader, All Progressives Congress",
+      "description": "The ACN merged with the CPC, ANPP and a faction of APGA to form the APC in 2013; the APC won the 2015 and 2019 presidential elections with Muhammadu Buhari as candidate. The State House biography describes him as one of the architects of Nigeria's two-dominant-party system.",
+      "kind": "party",
+      "sourceIds": [
+        "s1",
+        "s40"
+      ]
+    },
+    {
+      "period": "2022-2023",
+      "title": "APC presidential candidate, 2023",
+      "description": "Won the APC primary in 2022 and the February 2023 general election; INEC declared him winner on 1 March 2023 and the Supreme Court affirmed the result on 26 October 2023.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s21",
+        "s2",
+        "s23"
+      ]
+    },
+    {
+      "period": "2023-present",
+      "title": "President of the Federal Republic of Nigeria",
+      "description": "Sworn in on 29 May 2023 as Nigeria's 16th head of state; announced the end of the petrol subsidy in his inaugural address.",
+      "kind": "political-office",
+      "sourceIds": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "period": "2023-2025",
+      "title": "Chairman, ECOWAS Authority of Heads of State and Government",
+      "description": "Chosen as ECOWAS chair in July 2023, weeks before the coup in Niger; reported to have been re-elected for a second one-year term in July 2024.",
+      "kind": "appointment",
+      "sourceIds": [
+        "s31"
+      ]
+    },
+    {
+      "period": "2025-2027",
+      "title": "APC presidential candidate, 2027",
+      "description": "Endorsed by APC organs as sole candidate in May 2025; won the party's direct primary in May 2026 against a single challenger, Stanley Osifo.",
+      "kind": "candidacy",
+      "sourceIds": [
+        "s36",
+        "s37"
+      ]
+    }
+  ],
+  "elections": [
+    {
+      "year": "1992",
+      "office": "Senator, Lagos West",
+      "party": "SDP",
+      "result": "Won",
+      "sourceIds": [
+        "s40",
+        "s41"
+      ]
+    },
+    {
+      "year": "1999",
+      "office": "Governor, Lagos State",
+      "party": "AD",
+      "result": "Won",
+      "sourceIds": [
+        "s40",
+        "s1"
+      ]
+    },
+    {
+      "year": "2003",
+      "office": "Governor, Lagos State",
+      "party": "AD",
+      "result": "Won (re-elected)",
+      "sourceIds": [
+        "s40",
+        "s1"
+      ]
+    },
+    {
+      "year": "2023",
+      "office": "President of Nigeria",
+      "party": "APC",
+      "result": "Won with 8,794,726 votes (Atiku Abubakar, PDP: 6,984,520; Peter Obi, LP: 6,101,533). Result upheld by the Presidential Election Petition Court (6 September 2023) and the Supreme Court (26 October 2023).",
+      "sourceIds": [
+        "s21",
+        "s2",
+        "s23"
+      ]
+    },
+    {
+      "year": "2026",
+      "office": "APC presidential primary (for 2027 election)",
+      "party": "APC",
+      "result": "Won direct primary held on or about 23 May 2026 against sole challenger Stanley Osifo; no national vote total located.",
+      "sourceIds": [
+        "s37"
+      ]
+    }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "strong",
+      "basis": "mixed",
+      "summary": "His administration ended the petrol subsidy and, with the CBN, unified the exchange rate in 2023; inflation peaked at 34.80% in December 2024 and was 14.06% in October 2026 on the rebased series, while growth reached 4.43% in Q2 2026.",
+      "analysis": "On 29 May 2023 Tinubu announced in his inaugural address that the petrol subsidy was gone. Within days NNPC raised pump prices from about N189 to as much as N557 a litre, and by mid-July 2023 prices hit N617, a record at the time (RECORD). On 14 June 2023 the Central Bank of Nigeria, a legally independent institution, collapsed its multiple exchange-rate windows into one market-determined rate. The naira fell from about N471 to N664 per dollar on the first day (RECORD). Both moves were in his 2022 manifesto, which pledged to phase out the subsidy and 'optimise' the exchange-rate regime (FACT).\n\nThe short-term result was a surge in prices. Headline inflation reached 34.80% in December 2024, its highest level in nearly three decades. The NBS then rebased the CPI to a 2024 price base, and the January 2025 rate on the new series was 24.48%, so the two series cannot be compared directly (FACT). The rebased rate had fallen for five consecutive months to 14.06% in October 2026, but food inflation was still 19.13% (FACT). Real GDP grew 4.43% year on year in Q2 2026 on the rebased GDP series, against annual growth of about 3.4% in 2024. Before the election he had pledged double-digit growth (ANALYSIS). By November 2026 gross reserves were about $54.9 billion, against roughly $45.6 billion in January 2026, and the CBN cut its policy rate from 26.5% to 23% in September 2026 (FACT).\n\nContext: the subsidy and exchange-rate distortions were inherited. The government says the subsidy cost about N4 trillion in 2022. Oil prices, CBN decisions and the Dangote refinery's ramp-up also shaped the outcomes, and the refinery set petrol gantry prices of about N1,300 a litre in November 2026 (ANALYSIS).",
+      "strengths": [
+        "Ended a petrol subsidy that consumed trillions of naira yearly and unified the exchange rate, both long recommended by the IMF/World Bank and pledged in the 2022 manifesto",
+        "Rebased inflation down for several consecutive months to 14.06% (October 2026); reserves near seven-year-plus highs; Q2 2026 growth of 4.43%",
+        "Policy-rate cuts in 2026 signal a shift from emergency tightening"
+      ],
+      "limitations": [
+        "Inflation peaked at 34.80% (December 2024, old series) and food inflation remained 19.13% in October 2026",
+        "Pre-election double-digit growth pledge not met; annual growth around 3-4%",
+        "Statistical breaks (CPI and GDP rebasing) make before/after comparisons difficult and contested"
+      ],
+      "unknowns": [
+        "Whether subsidy savings are fully recorded in the federation account; some reports indicated subsidy-like payments continued in 2023",
+        "Durability of disinflation given the November 2026 reserves dip and petrol price increase"
+      ],
+      "metrics": [
+        {
+          "label": "Headline inflation (rebased series)",
+          "value": "14.06%",
+          "period": "October 2026",
+          "sourceIds": [
+            "s6"
+          ]
+        },
+        {
+          "label": "Headline inflation (old series, peak)",
+          "value": "34.80%",
+          "period": "December 2024",
+          "sourceIds": [
+            "s8"
+          ]
+        },
+        {
+          "label": "Real GDP growth",
+          "value": "4.43% y/y",
+          "period": "Q2 2026",
+          "note": "Rebased series at 2019 prices",
+          "sourceIds": [
+            "s9"
+          ]
+        },
+        {
+          "label": "Gross external reserves",
+          "value": "about $54.87bn",
+          "period": "12 November 2026",
+          "sourceIds": [
+            "s10"
+          ]
+        },
+        {
+          "label": "Monetary Policy Rate",
+          "value": "23%",
+          "period": "From September 2026",
+          "sourceIds": [
+            "s11"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s5",
+        "s42",
+        "s7",
+        "s8",
+        "s7b",
+        "s6",
+        "s9",
+        "s10",
+        "s11",
+        "s43",
+        "s44",
+        "s45",
+        "s70",
+        "s71",
+        "s72"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "security": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "Kidnapping and banditry remained severe through his tenure: NBS estimated 2.2 million kidnapping incidents and about N2.2 trillion in ransom for May 2023-April 2024, and he declared a national security emergency in November 2025.",
+      "analysis": "As commander-in-chief, Tinubu controls the federal police and armed forces. Outcomes still depend on state governments, community actors and regional conflicts. The most comprehensive official data point is the NBS Crime Experience and Security Perception Survey. It covers May 2023 to April 2024, his first year, and estimates 2,235,954 kidnapping incidents and about N2.23 trillion paid in ransom, N1.2 trillion of it in the North-West (FACT). No comparable earlier survey exists, so the figure cannot show whether insecurity rose or fell under him.\n\nIn November 2025 a series of mass abductions included 24 schoolgirls in Kebbi, 38 worshippers in Kwara and more than 300 pupils and staff from a Catholic school in Niger State. On 26 November 2025 Tinubu declared a nationwide security emergency. He ordered the police to recruit 20,000 more officers, which he said would bring recent recruitment to 50,000, directed the DSS to deploy forest guards, and asked the National Assembly to review laws so that states can establish police forces (RECORD). Security analysts quoted by AP argued that recruitment alone does not address the problem (ANALYSIS).\n\nHe replaced the service chiefs in October 2025. After Defence Minister Badaru Abubakar resigned in December 2025, he appointed the former Chief of Defence Staff, Christopher Musa, as defence minister (RECORD). On 25 December 2025 US forces struck militant targets in Sokoto State, and Nigeria said it had requested and coordinated the strikes. This followed US threats of unilateral action in November 2025 (RECORD). Amnesty International reported that security forces killed at least 24 people during the August 2024 #EndBadGovernance protests (FACT).",
+      "strengths": [
+        "Ordered large-scale police and military recruitment and publicly backed constitutional change for state policing",
+        "Turned a US threat of unilateral action into a coordinated, government-requested operation (December 2025)"
+      ],
+      "limitations": [
+        "Official survey shows millions of kidnapping incidents and trillions of naira in ransom during his first year",
+        "Mass school abductions recurred in late 2025, prompting an emergency declaration",
+        "Amnesty documented at least 24 protest deaths and about 1,200 arrests in August 2024 with no accountability a year later"
+      ],
+      "unknowns": [
+        "Whether a follow-up NBS crime survey shows any trend",
+        "Status of state-police constitutional amendment",
+        "Independent casualty data for the December 2025 strikes"
+      ],
+      "metrics": [
+        {
+          "label": "Kidnapping incidents (NBS survey)",
+          "value": "2,235,954",
+          "period": "May 2023-April 2024",
+          "sourceIds": [
+            "s16"
+          ]
+        },
+        {
+          "label": "Estimated ransom paid",
+          "value": "about N2.23 trillion",
+          "period": "May 2023-April 2024",
+          "sourceIds": [
+            "s16"
+          ]
+        },
+        {
+          "label": "Protest deaths reported by Amnesty",
+          "value": "at least 24",
+          "period": "August 2024",
+          "sourceIds": [
+            "s17"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s16",
+        "s14",
+        "s15",
+        "s18",
+        "s19",
+        "s20",
+        "s17",
+        "s30"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "moderate",
+      "basis": "mixed",
+      "summary": "His signature education measure is the student loan scheme (NELFUND), re-enacted in April 2024; by October 2026 it had disbursed about N372.6 billion, mostly as institutional fees and upkeep.",
+      "analysis": "Tinubu signed the first Students Loans (Access to Higher Education) Act in June 2023. It ran into design problems over governance, eligibility, application and repayment, and he proposed amendments in March 2024. He then signed a repeal-and-re-enactment law on 3 April 2024, which established the Nigerian Education Loan Fund (NELFUND) as the managing body (RECORD). The scheme pays tuition directly to institutions and gives students an upkeep allowance.\n\nNELFUND's reported figures show steady growth. Cumulative disbursements reached N206.3 billion to 1.16 million beneficiaries by March 2026 and N242.4 billion to about 1.39 million students by mid-April 2026. By early October 2026 they totalled N372.62 billion (FACT, as reported by the fund). Some recipients complained about delayed upkeep payments in mid-2026, and critics argue that loans do not address underfunding of public universities (ANALYSIS). No independent audit of NELFUND disbursements or repayment arrangements was found.\n\nBasic education is mainly a state responsibility, funded through UBEC transfers, and no specific federal outcome data on enrolment or learning attributable to this administration was found in this research pass. The 2027-2031 APC manifesto promises to halve the number of out-of-school children, recruit 20,000 additional teachers and extend NELFUND to more institutions, but gives no funding figures (PROMISE). Teaching quality and university strikes were not researched in depth and remain gaps.",
+      "strengths": [
+        "Created a functioning federal student-loan institution with hundreds of billions of naira disbursed",
+        "Corrected the first Act's design flaws within a year"
+      ],
+      "limitations": [
+        "Disbursement data come mainly from NELFUND itself; no independent audit found",
+        "Reports of delayed upkeep payments in 2026",
+        "No outcome data on enrolment, learning or completion attributable to federal policy"
+      ],
+      "unknowns": [
+        "Repayment design and long-run fiscal cost of NELFUND",
+        "Federal education budget share across 2024-2026",
+        "Out-of-school-children trends under the administration"
+      ],
+      "metrics": [
+        {
+          "label": "NELFUND cumulative disbursement",
+          "value": "N372.62 billion",
+          "period": "As of early October 2026",
+          "sourceIds": [
+            "s13"
+          ]
+        },
+        {
+          "label": "NELFUND beneficiaries",
+          "value": "about 1.39 million",
+          "period": "As of 15 April 2026",
+          "sourceIds": [
+            "s12"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s12",
+        "s13",
+        "s46",
+        "s35"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "healthcare": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "His government added about $200 million (roughly N300 billion) to the 2025 health budget after US health aid was frozen; insurance coverage and out-of-pocket spending remain weak.",
+      "analysis": "Health is shared between the federal government (tertiary hospitals, national insurance, disease programmes) and states (primary care). The largest documented federal health decision of this term came in February 2025. After the US froze foreign aid, the National Assembly approved an extra N300 billion, about $200 million, in the 2025 budget to cover gaps in HIV, tuberculosis, malaria and polio programmes (RECORD). Nigeria Health Watch noted that US health spending in Nigeria was about $600 million in 2023 and $464 million in 2024, so the replacement did not match the previous scale (ANALYSIS).\n\nA December 2025 review by Premium Times described primary-healthcare reforms during 2025. It reported that the national health insurance scheme covered an estimated 10-12% of the population and that out-of-pocket spending was still about 71% of total health expenditure (FACT). The same review noted that the proposed 2026 health allocation of N2.48 trillion was below 6% of the budget, well short of the Abuja Declaration benchmark of 15% (FACT).\n\nThe APC's 2027-2031 manifesto sets targets that implicitly confirm current gaps. It aims to raise functional primary health centres from 53% to 90% by 2031, increase insurance enrolment from over 23 million people to 40% of Nigerians, and cut out-of-pocket spending below 50% (PROMISE). This research did not verify health-worker migration figures, hospital outcomes or immunisation trends, so the category's evidence is limited.",
+      "strengths": [
+        "Rapid domestic budget response to the 2025 US aid freeze",
+        "Manifesto sets measurable 2031 health targets"
+      ],
+      "limitations": [
+        "Health allocation below 6% of the proposed 2026 budget",
+        "Out-of-pocket spending about 71% of health expenditure; insurance coverage about 10-12%",
+        "Domestic replacement funding smaller than prior US support"
+      ],
+      "unknowns": [
+        "Release (not just appropriation) of the additional N300 billion",
+        "Health workforce and emigration data for 2023-2026",
+        "Maternal and child health outcome trends"
+      ],
+      "metrics": [
+        {
+          "label": "Additional 2025 health appropriation after US aid freeze",
+          "value": "N300 billion (about $200m)",
+          "period": "February 2025",
+          "sourceIds": [
+            "s33"
+          ]
+        },
+        {
+          "label": "Out-of-pocket share of health expenditure",
+          "value": "about 71%",
+          "period": "2025",
+          "sourceIds": [
+            "s32"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s32",
+        "s33",
+        "s35"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "infrastructure": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "The Lagos-Calabar Coastal Highway (about 700-750 km) is his flagship road; a 30 km stretch of Section 1 was commissioned in May 2025, with the rest under construction amid disputes over cost and procurement.",
+      "analysis": "The Lagos-Calabar Coastal Highway is a new project begun under this administration. It is planned at roughly 700-750 km across nine coastal states and is financed under an engineering-procurement-construction-plus-financing model with Hitech Construction (RECORD). Tinubu commissioned the first completed 30 km of Section 1, from Ahmadu Bello Way to Eleko in Lagos, in May 2025. In December 2025 the government temporarily opened the completed stretch to holiday traffic. The rest of the 47.474 km Section 1 was then at the sand-filling stage and expected by the end of Q2 2026 (RECORD). This research could not confirm whether full Section 1 completion or a May 2026 inauguration took place. Later reports put Section 2 (Ogun) at about 60% and Sections 3A and 3B (Akwa Ibom and Cross River) at about 20%, so the project is partially completed rather than finished (FACT).\n\nThe cost is disputed. Works Minister David Umahi has cited about N4 billion per kilometre. A Federal Ministry of Information release cites N1,067,887,381,148.61, which an investigative analysis treats as the Section 1 sum, or roughly N22.5 billion per kilometre over 47.474 km (DISPUTED). Opposition figures alleged the contract was awarded without competitive bidding. The civic group Tracka filed a Freedom of Information request in February 2026 for funding details and reported no response (FACT). Other federal road projects (Sokoto-Badagry, Trans-Saharan sections) were not assessed in detail here. Rail and port projects were largely inherited and are not credited to this administration without origin data.",
+      "strengths": [
+        "Flagship coastal highway has moved from announcement to a commissioned 30 km stretch and active construction on multiple sections"
+      ],
+      "limitations": [
+        "Repeated slippage of completion targets (January 2026, then Q2/May 2026)",
+        "Per-kilometre cost and procurement method contested; FOI request reportedly unanswered",
+        "Most of the 700+ km corridor remains far from completion"
+      ],
+      "unknowns": [
+        "Audited total cost and financing terms of the EPC+F arrangement",
+        "Whether Section 1 was fully completed in 2026",
+        "Status of other federal road and rail projects started since 2023"
+      ],
+      "metrics": [
+        {
+          "label": "Coastal highway length commissioned",
+          "value": "30 km",
+          "period": "May 2025",
+          "sourceIds": [
+            "s25"
+          ]
+        },
+        {
+          "label": "Section 1 total length",
+          "value": "47.474 km",
+          "sourceIds": [
+            "s24"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s28"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "power": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "He signed the Electricity Act 2023 letting states regulate their own markets and his government raised Band A tariffs to N225/kWh in April 2024; generation peaked near 6,000 MW in 2025 while the grid continued to collapse repeatedly.",
+      "analysis": "In June 2023 Tinubu signed the Electricity Act 2023, which repealed the 2005 Electric Power Sector Reform Act. Building on a 2023 constitutional amendment, it allows states to make laws for, license and regulate electricity markets within their borders, with NERC regulating until a state sets up its own regulator (RECORD). The bill had passed the National Assembly in 2022, under his predecessor, so the reform's origin is shared.\n\nOn 3 April 2024 NERC raised the tariff for Band A customers, who are supposed to receive at least 20 hours of supply a day, from about N66 to N225 per kWh, and later trimmed it to about N206.80. The government presented this as a cut to an electricity subsidy that NERC projected at over N1 trillion for 2024, alongside unpaid debts to generation and gas companies (RECORD). Other bands were not changed at the time.\n\nOn outcomes, the Ministry of Power announced a record available generation of 6,003 MW in early March 2025, while the grid operator reported transmitted peaks of about 5,500-5,800 MW. Days later the grid collapsed, and further collapses occurred in September 2025, in December 2025 after a gas pipeline was vandalised, and in January 2026 (FACT). Generation therefore remains far below demand, and the 2027-2031 manifesto targets about 10,000 MW by 2031 (PROMISE). Grid reliability depends on gas supply, transmission investment and distribution-company finances, which a president influences but does not fully control (ANALYSIS).",
+      "strengths": [
+        "Decentralising law signed early in the term, enabling state electricity markets",
+        "Tariff reform reduced the fiscal burden of electricity subsidies for the top band"
+      ],
+      "limitations": [
+        "Repeated national grid collapses in 2025 and 2026",
+        "Peak generation around 5,500-6,000 MW, far short of national demand",
+        "Band A tariff more than tripled in one step"
+      ],
+      "unknowns": [
+        "Total electricity subsidy arrears and debt owed to GenCos as of 2026",
+        "Number of states that have taken over market regulation",
+        "Metering progress"
+      ],
+      "metrics": [
+        {
+          "label": "Band A tariff",
+          "value": "N66 to N225 per kWh",
+          "period": "April 2024",
+          "sourceIds": [
+            "s48"
+          ]
+        },
+        {
+          "label": "Record available generation (ministry claim)",
+          "value": "6,003 MW",
+          "period": "March 2025",
+          "sourceIds": [
+            "s49"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s47",
+        "s48",
+        "s49",
+        "s50"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "jobs": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Official unemployment is low under the ILO-based NBS method (4.3% in Q2 2024) but informality is above 90%; he raised the national minimum wage to N70,000 in July 2024.",
+      "analysis": "Measuring job outcomes in Nigeria is difficult. In 2023 the NBS adopted the ILO-aligned labour-force methodology, which counts anyone who worked at least one hour in the reference week as employed. The headline unemployment rate fell from 33.3% under the old method (Q4 2020) to single digits, so the two series cannot be compared (FACT). Under the new method, unemployment was 5.3% in Q1 2024 and 4.3% in Q2 2024. Informal employment accounted for roughly 92-93% of employment, and the Nigeria Labour Congress publicly rejected the low figures (FACT). No more recent NBS quarterly labour release was found in this research, which limits assessment of 2025-2026.\n\nOn 29 July 2024, after negotiations with organised labour, Tinubu signed the National Minimum Wage (Amendment) Act. It raised the minimum wage from N30,000, set in 2019, to N70,000 for public and private employers and provides for reviews every three years (RECORD). Labour had initially demanded N494,000. Given inflation above 30% in 2024, the real value of the increase was quickly eroded (ANALYSIS).\n\nThe administration points to growth in services, the oil sector and refining as job drivers. The 2027-2031 APC manifesto promises to halve youth unemployment by 2031, create one million export-linked youth jobs by 2030 and train two million people in skills, without disclosed costings (PROMISE). Direct federal job-creation programme results were not verified in this pass.",
+      "strengths": [
+        "Minimum wage more than doubled in nominal terms via legislation with a three-year review clause",
+        "Manifesto sets numeric youth-employment targets"
+      ],
+      "limitations": [
+        "Headline unemployment figures disputed by labour and mask >90% informality",
+        "No recent NBS labour-force release located for 2025-2026",
+        "Real value of the N70,000 wage eroded by high inflation"
+      ],
+      "unknowns": [
+        "Labour market data after Q2 2024",
+        "Compliance with the N70,000 minimum wage by states and private employers",
+        "Outcomes of federal youth-employment schemes"
+      ],
+      "metrics": [
+        {
+          "label": "Unemployment rate (NBS, ILO method)",
+          "value": "4.3%",
+          "period": "Q2 2024",
+          "sourceIds": [
+            "s51"
+          ]
+        },
+        {
+          "label": "National minimum wage",
+          "value": "N70,000 per month (from N30,000)",
+          "period": "July 2024",
+          "sourceIds": [
+            "s29"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s51",
+        "s29",
+        "s35"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "finance": {
+      "evidence": "strong",
+      "basis": "record",
+      "summary": "Total public debt rose to N166.79 trillion by June 2026 (partly from naira devaluation and securitised CBN overdrafts); he signed four tax reform laws in June 2025 and a record N68.32 trillion 2026 budget.",
+      "analysis": "Debt figures should be read alongside the exchange rate. The Debt Management Office (DMO) reported total public debt of N159.28 trillion at end-2025, N159.35 trillion at end-March 2026 and N166.79 trillion (about $120.9 billion) at end-June 2026, of which N75.20 trillion was external (FACT). A large part of the naira increase since 2023 comes from revaluing external debt after devaluation. Another part comes from the N22.7 trillion of CBN Ways and Means overdrafts that the outgoing Buhari government had the Senate approve for securitisation in May 2023, which moved onto the public-debt books after Tinubu took office (FACT). He inherited the overdraft. Later borrowing, including further securitisation in late 2023, is his administration's decision (ANALYSIS).\n\nOn 26 June 2025 he signed four tax laws: the Nigeria Tax Act, the Nigeria Tax Administration Act, the Nigeria Revenue Service (Establishment) Act, which replaced FIRS, and the Joint Revenue Board (Establishment) Act. They consolidate many tax statutes and took effect on 1 January 2026. Proposed changes to VAT sharing that northern governors opposed were dropped before passage (RECORD). Nigeria exited the FATF 'grey list' in October 2025 after completing a 19-point action plan, a process also driven by the CBN and NFIU (FACT).\n\nThe 2026 Appropriation Act, signed in April 2026, totals N68.32 trillion. It includes about N15.8 trillion for debt service and was increased from the N58.18 trillion bill partly by rolling over unexecuted 2025 capital spending. Analysts reported deficit estimates ranging from 4.3% to 6.4% of GDP (DISPUTED). Overlapping budget years and capital rollovers have reduced budget transparency (ANALYSIS).",
+      "strengths": [
+        "Most comprehensive tax-law consolidation in decades, enacted with legislative support",
+        "FATF grey-list exit in October 2025",
+        "Ended reliance on new CBN overdraft financing by securitising it"
+      ],
+      "limitations": [
+        "Public debt up to N166.79 trillion (June 2026) with debt service about N15.8 trillion in the 2026 budget",
+        "Overlapping budget cycles and repeated capital-budget extensions",
+        "Deficit figures inconsistent across official and independent sources"
+      ],
+      "unknowns": [
+        "Audited budget execution rates for 2024 and 2025 capital budgets",
+        "Actual subsidy savings and their allocation",
+        "Revenue yield of the 2026 tax laws"
+      ],
+      "metrics": [
+        {
+          "label": "Total public debt (DMO)",
+          "value": "N166.79 trillion (about $120.93bn)",
+          "period": "30 June 2026",
+          "sourceIds": [
+            "s22"
+          ]
+        },
+        {
+          "label": "2026 Appropriation Act",
+          "value": "N68.32 trillion",
+          "period": "Signed April 2026",
+          "sourceIds": [
+            "s34"
+          ]
+        },
+        {
+          "label": "Ways and Means securitised before handover",
+          "value": "N22.7 trillion",
+          "period": "May 2023",
+          "sourceIds": [
+            "s43"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s22",
+        "s43",
+        "s3",
+        "s34",
+        "s52"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "leadership": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "He has pushed through contested reforms and kept a broad APC coalition, but drew criticism for a record 48-member cabinet and for suspending Rivers State's elected officials under emergency rule in 2025.",
+      "analysis": "Tinubu's governing style shows two things: he takes politically costly economic decisions early, and he relies on coalition management. He announced the subsidy removal on his first day, and the National Assembly passed the electricity, student-loan, minimum-wage and tax laws within his first two years, which indicates effective legislative management (ANALYSIS). In 2025 several opposition governors and legislators joined the APC, and in May 2025 party organs endorsed him as sole candidate. Critics argue the absence of a contested primary weakens internal party democracy (FACT/ANALYSIS).\n\nIn August 2023 he appointed 48 ministers, the largest cabinet of the Fourth Republic, despite pledges to cut governance costs. He argued that merging ministries would undermine performance, though in 2024 he announced moves to implement parts of the Oronsaye report on rationalising agencies (RECORD).\n\nThe most contested exercise of executive power came on 18 March 2025. He declared a six-month emergency in Rivers State, suspended Governor Siminalayi Fubara, his deputy and the state assembly, and appointed Vice Admiral Ibok-Ete Ibas (rtd) as sole administrator. The emergency ended on 17 September 2025 (RECORD). On 15 December 2025 the Supreme Court struck out the PDP states' challenge by a 6-1 majority, holding that the suit was incompetent. Reports differ on what the justices said about the power to suspend elected officials (DISPUTED). Other key decisions included replacing the service chiefs in October 2025 and backing the federal lawsuit that produced the July 2024 Supreme Court ruling on local-government financial autonomy.",
+      "strengths": [
+        "Secured passage of major reform legislation in the first two years",
+        "Initiated the suit that produced the 2024 local-government autonomy judgment",
+        "Willing to replace security leadership after deteriorating outcomes"
+      ],
+      "limitations": [
+        "Record 48-minister cabinet contrasted with cost-cutting pledges",
+        "Suspension of an elected governor and assembly in Rivers State criticised as constitutionally questionable",
+        "Local-government autonomy judgment reported as not fully enforced a year later"
+      ],
+      "unknowns": [
+        "Independent assessment of ministerial performance under the announced scorecards",
+        "Full reasoning of the December 2025 Rivers judgment"
+      ],
+      "sourceIds": [
+        "s53",
+        "s54",
+        "s55",
+        "s56",
+        "s57",
+        "s36",
+        "s19"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "integrity": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "Documented matters include a 1993 US civil forfeiture of $460,000 (no criminal charge on record), a Chicago State University certificate dispute in which courts did not find against him, and an ongoing US FOIA case over FBI/DEA records.",
+      "analysis": "Three matters dominate the public record. Each is reported here at its exact legal stage.\n\nFirst, in 1993 the US government brought a civil forfeiture action in the Northern District of Illinois against funds in bank accounts linked to Tinubu, alleging connections to heroin-trafficking proceeds. The case settled, with $460,000 forfeited. A civil forfeiture is an action against property, not a person. AFP Fact Check reported that the authentic court documents do not show he was indicted or convicted (FACT). His camp, through Festus Keyamo in 2022, said the forfeited sum was interest-related rather than drug proceeds (denied). In April 2025 a US District Court in Washington ordered the FBI and DEA to drop their 'neither confirm nor deny' responses to a FOIA request for records about him. Litigation over redactions continued in 2026, and in October 2026 the court refused a discovery request against Tinubu and a lobbying firm (RECORD; no finding of wrongdoing against him).\n\nSecond, Chicago State University confirmed in 2022 that he attended from 1977 to 1979 and graduated with a B.Sc. in 1979. In an October 2023 US court-ordered deposition, the registrar said the diploma certificate he submitted to INEC was not issued by the university, while still confirming that he graduated (FACT). The Supreme Court declined to admit this as fresh evidence and on 26 October 2023 affirmed his election, dismissing the forgery claim (judgment).\n\nThird, earlier controversies about his age and identity documents circulated but did not produce court findings in the sources reviewed. A purported INEC probe announced in 2022 was a fabricated press release, according to AFP. No asset declaration for 2023 has been published.",
+      "strengths": [
+        "No criminal conviction or indictment on the public record",
+        "Courts up to the Supreme Court rejected the eligibility/certificate challenge"
+      ],
+      "limitations": [
+        "1993 forfeiture of $460,000 is a documented court outcome, though civil",
+        "University registrar testified the INEC-submitted diploma certificate was not issued by CSU; the discrepancy was not resolved on its merits",
+        "Public asset-declaration contents not disclosed"
+      ],
+      "unknowns": [
+        "Contents of FBI/DEA records still subject to FOIA litigation",
+        "Code of Conduct Bureau asset declaration details for 2023"
+      ],
+      "sourceIds": [
+        "s38b",
+        "s58",
+        "s59",
+        "s60",
+        "s4",
+        "s61",
+        "s62",
+        "s2"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "experience": {
+      "evidence": "strong",
+      "basis": "record",
+      "summary": "He brings eight years as Lagos governor, a brief Senate stint, a corporate accounting career and, since May 2023, three-and-a-half years as president.",
+      "analysis": "Tinubu's executive experience is extensive. He was Governor of Lagos State from 1999 to 2007, Nigeria's commercial centre and largest sub-national economy, and he has been President since 29 May 2023 (FACT). Before politics he trained as an accountant in the United States and worked at Mobil Oil Producing Nigeria, rising to Treasurer according to his official biography (FACT). His legislative experience consists of about a year in the Senate in 1992-93, before the military dissolved it.\n\nAs governor his best-documented record is revenue. CBN-based figures cited by fact-checkers show Lagos internally generated revenue rose from about N14.6 billion in 1999, roughly N1.2 billion a month, to N83.02 billion in 2007, an increase of about 469% (FACT). Fact-checkers found that his frequent claim of starting from N600 million a month overstates the low base (DISPUTED). His tenure also included a confrontation with the Obasanjo federal government over the creation of 37 new local council areas. In December 2004 the Supreme Court held that the federal government could not withhold allocations to the 20 constitutionally recognised councils, and that the new councils were inchoate until the National Assembly acted (judgment).\n\nAs president he has had the longest period of direct national executive responsibility of any 2027 candidate. That record, covered in the other categories, is the most relevant evidence for voters (ANALYSIS). Age and health questions were raised during the 2023 campaign. The Presidency has not published a medical report, so this remains unverified.",
+      "strengths": [
+        "Two-term governor of Nigeria's largest sub-national economy and sitting president",
+        "Documented IGR growth in Lagos during his governorship",
+        "Private-sector financial management background"
+      ],
+      "limitations": [
+        "Lagos IGR baseline claims overstated per fact-checkers",
+        "Short legislative experience",
+        "Local-government creation dispute ended with court ruling the new councils inchoate"
+      ],
+      "unknowns": [
+        "Independent audit of Lagos finances 1999-2007, including debt",
+        "Exact years of private-sector roles"
+      ],
+      "metrics": [
+        {
+          "label": "Lagos IGR",
+          "value": "N14.6bn (1999) to N83.02bn (2007)",
+          "period": "1999-2007",
+          "sourceIds": [
+            "s39"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s1",
+        "s39",
+        "s38",
+        "s40",
+        "s41"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "The APC's 109-page 2027-2031 manifesto ('From Reform to Prosperity' / Renewed Hope 2.0) sets numeric targets including 6% growth by 2031, 10,000 MW, 200,000 homes and 50,000 police recruits, but no published costings.",
+      "analysis": "Reporting on 10 November 2026 describes the APC manifesto for a second Tinubu term, titled From Reform to Prosperity Agenda 2027-2031 and also called Renewed Hope Agenda 2.0. Coverage says it regroups the 2023 eight-point agenda into four pillars with at least 35 commitments (FACT). It is more specific than the 2022 document, which contained few numeric targets.\n\nThe headline targets reported are as follows. Economy and jobs: 6% annual growth by 2031, half the current youth unemployment, credit access for half of economically active adults, and one million export-linked youth jobs by 2030. Housing and welfare: 200,000 affordable homes through a Tinubu Mass Social Housing Scheme, social housing of 200 units in each of the 774 LGAs, an FMBN loan ceiling raised from N50 million to N85 million, and social protection for 20 million verified beneficiaries by 2030. Power: generation of about 10,000 MW by 2031. Security: 50,000 new police officers to reach a police-to-citizen ratio of 1:400, 28,000 more military personnel, four new army divisions and 30,150 Civil Defence recruits. Health: 90% functional primary health centres and out-of-pocket spending below 50%. Education: 20,000 teachers and half the number of out-of-school children (PROMISE). His government also cites a long-standing goal of a $1 trillion economy by 2030.\n\nAnalysis: many targets extend measures already under way, such as recruitment, NELFUND and the tax laws, so delivery capacity can partly be judged from the first term. However, the reporting found no budgets, financing sources or phased timelines for most targets. Several depend on states, the National Assembly or private developers (ANALYSIS). Tinubu has signalled that the fuel subsidy will not return.",
+      "strengths": [
+        "Numeric, time-bound targets across most sectors",
+        "Builds on first-term institutions (NELFUND, tax laws, security recruitment)"
+      ],
+      "limitations": [
+        "No published costings or funding plans for major targets",
+        "Several targets depend on states or the private sector",
+        "Original manifesto text not reviewed directly in this pass"
+      ],
+      "unknowns": [
+        "Full manifesto document and any accompanying fiscal framework",
+        "How targets reconcile with debt-service pressure"
+      ],
+      "sourceIds": [
+        "s63",
+        "s64",
+        "s1"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "As ECOWAS chair (2023-2025) he led the response to Niger's coup, after which Niger, Mali and Burkina Faso left ECOWAS in January 2025; in 2025 he managed a crisis with the US over religious-freedom claims.",
+      "analysis": "Tinubu became chair of the ECOWAS Authority of Heads of State in July 2023. On 26 July 2023 soldiers in Niger overthrew President Mohamed Bazoum. Under his chairmanship ECOWAS imposed sanctions, including border and financial measures, threatened possible military intervention, and sent mediators led by former head of state Abdulsalami Abubakar. ECOWAS rejected the junta's proposed three-year transition (RECORD). The intervention did not happen. In January 2024 Niger, Mali and Burkina Faso announced their withdrawal, and it took effect on 29 January 2025 after the treaty's one-year notice period, with a transition window to July 2025. They now operate as the Alliance of Sahel States (FACT). Regional coups and the Sahel exit had several causes, including the juntas' grievances against France and ECOWAS sanctions policy that predated him. The evidence does not allow full attribution to his chairmanship (ANALYSIS).\n\nIn late 2025 the US redesignated Nigeria a 'country of particular concern' for religious freedom, and President Trump said he had ordered the Pentagon to prepare possible military action over alleged killings of Christians. Tinubu's government rejected the characterisation and said any operation required bilateral agreement (RECORD). On 25 December 2025 US forces struck militant targets in Sokoto State. Nigeria's foreign minister said Tinubu approved the strikes and that they were conducted at Nigeria's request (RECORD).\n\nOn economic diplomacy, the FATF grey-list exit in October 2025 and the reserves build-up are cited by the government as signs of renewed investor confidence (FACT/ANALYSIS). Foreign direct investment data were not verified in this pass.",
+      "strengths": [
+        "Converted a US threat of unilateral action into a coordinated operation",
+        "FATF grey-list exit supports financial-sector relations"
+      ],
+      "limitations": [
+        "ECOWAS lost three members during and after his chairmanship; Niger's coup was not reversed",
+        "US religious-freedom designation and threats strained bilateral relations"
+      ],
+      "unknowns": [
+        "FDI inflow trends 2023-2026",
+        "Outcomes of any trade or security agreements signed with the US after 2025"
+      ],
+      "sourceIds": [
+        "s31",
+        "s65",
+        "s30",
+        "s20",
+        "s3"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "humanImpact": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "The World Bank estimated 139 million Nigerians (61%) were poor in 2025, up from 129 million in 2024; cash transfers of N25,000 per tranche had reached about 9.2 million households by March 2026.",
+      "analysis": "The 2023 reforms' biggest short-term household effect was higher prices. Petrol roughly tripled within weeks of the subsidy removal and later rose above N1,000 a litre. Inflation peaked at 34.80% in December 2024 on the old CPI series, with food inflation even higher (FACT). The World Bank's October 2025 Nigeria Development Update estimated that 139 million Nigerians, about 61%, lived below its poverty measure in 2025. That compared with 129 million in 2024 and about 81 million (40%) in 2019, and the Bank projected 62% (141 million) for 2026. It said many households had yet to feel the gains from macroeconomic reform (FACT). Poverty began rising before 2023, under COVID-era shocks and the earlier subsidy and FX distortions, so not all of the increase is attributable to his policies (ANALYSIS).\n\nTo cushion the impact, the government revived a cash-transfer programme, financed in part by an $800 million World Bank loan. It pays N25,000 per tranche, up to three tranches, to households on the National Social Register of about 19.7 million households. The finance minister said 8.5 million households had received at least one payment by September 2025. A March 2026 government figure put it at 9,178,837 households, and about N330 billion was spent on safety-net programmes in January-September 2025 (FACT). The minimum wage rose to N70,000 in 2024.\n\nThe August 2024 #EndBadGovernance protests, in which Amnesty International reported at least 24 deaths and about 1,200 arrests, were driven by cost-of-living grievances (FACT). Disinflation through 2026 has eased pressure, but food inflation remained 19.13% in October 2026.",
+      "strengths": [
+        "Cash transfers reached over nine million households (government figure, March 2026)",
+        "Minimum wage increase and NELFUND loans target specific groups"
+      ],
+      "limitations": [
+        "World Bank estimates poverty rose to about 61% in 2025",
+        "Transfer of N25,000 per tranche small relative to price increases; payment rollout slow",
+        "Protest deaths in 2024 without documented accountability"
+      ],
+      "unknowns": [
+        "Updated poverty estimates for 2026 reflecting disinflation",
+        "Number of households that received all three tranches"
+      ],
+      "metrics": [
+        {
+          "label": "People in poverty (World Bank estimate)",
+          "value": "139 million (about 61%)",
+          "period": "2025",
+          "sourceIds": [
+            "s66"
+          ]
+        },
+        {
+          "label": "Households paid at least one cash-transfer tranche",
+          "value": "8.5 million (Sept 2025); 9,178,837 (March 2026, government figure)",
+          "period": "2025-2026",
+          "sourceIds": [
+            "s67"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s66",
+        "s67",
+        "s17",
+        "s5",
+        "s6",
+        "s8",
+        "s45"
+      ],
+      "verification": "AI_DRAFT"
+    },
+    "promises": {
+      "evidence": "moderate",
+      "basis": "mixed",
+      "summary": "Core 2022 pledges on subsidy removal, FX reform, tax reform and student loans were implemented; the double-digit growth pledge and cost-of-governance commitments were not met.",
+      "analysis": "The 2022 APC manifesto, an 80-page 'Renewed Hope' action plan unveiled on 21 October 2022, contained few numeric targets (FACT). Its clearest commitments can still be tracked.\n\nImplemented: the petrol subsidy was ended, although government figures and reporting suggest subsidy-like costs continued into late 2023. The exchange-rate regime was unified with the CBN in June 2023. Tax laws were consolidated and a new revenue service created in 2025. A student-loan scheme was launched and has disbursed over N370 billion. New security structures, including forest guards, were announced (RECORD).\n\nNot met or contested: before the election he told business audiences his government would achieve double-digit GDP growth. Annual growth was about 3.4% in 2024 according to the NBS, and growth in 2026 has been in the 4% range quarterly (FACT). He pledged to reduce the cost of governance, then appointed a record 48-minister cabinet (FACT). Power supply remains unreliable despite the 2023 Act, and inflation exceeded 30% for an extended period before declining (FACT).\n\nAdvoKC Foundation's 'BAT-O-METER' tracks his presidential promises, assessing 24 promises in its two-year edition and 53 in its third-year edition. Its detailed scores were not reviewed here, and it is a civil-society assessment rather than an official one (UNVERIFIED). For the 2027 campaign the APC has published more specific numeric targets (see vision). Delivery on the 2023-2027 term can serve as a partial test of their credibility. On balance, the evidence shows strong follow-through on structural policy pledges and weaker delivery on welfare and outcome pledges (ANALYSIS).",
+      "strengths": [
+        "Delivered most structural reform pledges (subsidy, FX, tax, student loans)",
+        "2027 manifesto adds measurable targets that can be tracked"
+      ],
+      "limitations": [
+        "Double-digit growth pledge not met",
+        "Cost-of-governance pledge contradicted by record cabinet size",
+        "Welfare outcomes (poverty, food prices) worsened before improving"
+      ],
+      "unknowns": [
+        "Systematic, independent promise-by-promise scorecard for 2023-2026",
+        "Page-level text of the 2022 manifesto targets"
+      ],
+      "sourceIds": [
+        "s68",
+        "s69",
+        "s70",
+        "s5",
+        "s42",
+        "s3",
+        "s13",
+        "s53",
+        "s72"
+      ],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    {
+      "id": "r-subsidy",
+      "title": "Removal of the petrol subsidy",
+      "kind": "decision",
+      "label": "RECORD",
+      "period": "May 2023",
+      "office": "President",
+      "description": "Announced in the 29 May 2023 inaugural address. Pump prices rose from about N189 to as much as N557 within days and reached N617 by mid-July 2023. The policy was pledged in the 2022 manifesto; the subsidy itself was inherited. Reporting indicated the government still spent about N3.6 trillion on subsidy-related costs in 2023.",
+      "categories": [
+        "economy",
+        "humanImpact",
+        "promises"
+      ],
+      "sourceIds": [
+        "s5",
+        "s42",
+        "s7b",
+        "s72",
+        "s68"
+      ]
+    },
+    {
+      "id": "r-fx",
+      "title": "Exchange-rate unification",
+      "kind": "policy",
+      "label": "RECORD",
+      "period": "June 2023",
+      "office": "President / CBN",
+      "description": "On 14 June 2023 the CBN collapsed all FX windows into a single market-reflective rate; the naira fell from about N471 to N664 per dollar on the first day. The CBN is legally independent, but the policy aligned with the administration's stated agenda.",
+      "categories": [
+        "economy",
+        "finance"
+      ],
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "r-electricity-act",
+      "title": "Electricity Act 2023 signed",
+      "kind": "policy",
+      "label": "RECORD",
+      "period": "June 2023",
+      "office": "President",
+      "description": "Repealed the 2005 power-sector reform law and empowered states to regulate their own electricity markets. The bill passed the National Assembly under the previous administration.",
+      "categories": [
+        "power"
+      ],
+      "sourceIds": [
+        "s47"
+      ]
+    },
+    {
+      "id": "r-band-a",
+      "title": "Band A electricity tariff increase",
+      "kind": "decision",
+      "label": "RECORD",
+      "period": "April 2024",
+      "office": "President / NERC",
+      "description": "NERC raised the Band A tariff from about N66 to N225 per kWh to reduce an electricity subsidy projected above N1 trillion for 2024; later adjusted to about N206.80.",
+      "categories": [
+        "power",
+        "humanImpact"
+      ],
+      "sourceIds": [
+        "s48"
+      ]
+    },
+    {
+      "id": "r-student-loans",
+      "title": "Student loans scheme (NELFUND)",
+      "kind": "project",
+      "label": "RECORD",
+      "period": "2023-2026",
+      "office": "President",
+      "description": "Student Loans Act signed June 2023, repealed and re-enacted 3 April 2024. NELFUND reported N372.62 billion disbursed by early October 2026 and about 1.39 million beneficiaries by April 2026.",
+      "status": "partially-completed",
+      "categories": [
+        "education",
+        "promises"
+      ],
+      "sourceIds": [
+        "s46",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "id": "r-min-wage",
+      "title": "National minimum wage raised to N70,000",
+      "kind": "policy",
+      "label": "RECORD",
+      "period": "July 2024",
+      "office": "President",
+      "description": "Signed 29 July 2024 after negotiations with labour; raised from N30,000 (2019) with a three-year review clause.",
+      "categories": [
+        "jobs",
+        "humanImpact"
+      ],
+      "sourceIds": [
+        "s29"
+      ]
+    },
+    {
+      "id": "r-tax-laws",
+      "title": "Four tax reform laws",
+      "kind": "policy",
+      "label": "RECORD",
+      "period": "June 2025",
+      "office": "President",
+      "description": "Signed 26 June 2025: Nigeria Tax Act, Nigeria Tax Administration Act, Nigeria Revenue Service (Establishment) Act and Joint Revenue Board (Establishment) Act; effective 1 January 2026.",
+      "categories": [
+        "finance",
+        "economy"
+      ],
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "r-coastal-highway",
+      "title": "Lagos-Calabar Coastal Highway",
+      "kind": "project",
+      "label": "RECORD",
+      "period": "2024-present",
+      "office": "President",
+      "description": "New project begun under this administration (EPC+F with Hitech). 30 km of Section 1 commissioned May 2025; completed stretch temporarily opened December 2025; remainder of 47.474 km Section 1 targeted for Q2 2026 (completion not confirmed). Cost per kilometre disputed.",
+      "status": "partially-completed",
+      "categories": [
+        "infrastructure",
+        "finance"
+      ],
+      "sourceIds": [
+        "s24",
+        "s25",
+        "s26",
+        "s27"
+      ]
+    },
+    {
+      "id": "r-coastal-transparency",
+      "title": "Coastal highway cost and procurement transparency",
+      "kind": "unresolved",
+      "label": "DISPUTED",
+      "period": "2024-2026",
+      "description": "Opposition alleged non-competitive award; official per-km figure (about N4 billion) conflicts with analyses of the Section 1 sum (about N22.5 billion/km). Tracka's February 2026 FOI request for funding details was reported unanswered.",
+      "categories": [
+        "infrastructure",
+        "integrity",
+        "finance"
+      ],
+      "sourceIds": [
+        "s26",
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "id": "r-rivers-emergency",
+      "title": "State of emergency in Rivers State",
+      "kind": "controversy",
+      "label": "RECORD",
+      "period": "March-September 2025",
+      "office": "President",
+      "description": "Suspended the elected governor, deputy and assembly for six months and appointed a sole administrator. The Supreme Court struck out the PDP states' suit (6-1) on 15 December 2025; reports differ on its comments on the suspension power.",
+      "legalStatus": "judgment",
+      "categories": [
+        "leadership"
+      ],
+      "sourceIds": [
+        "s55",
+        "s56"
+      ]
+    },
+    {
+      "id": "r-security-emergency",
+      "title": "National security emergency and mass recruitment",
+      "kind": "decision",
+      "label": "RECORD",
+      "period": "November 2025",
+      "office": "President",
+      "description": "Declared after mass abductions in Kebbi, Kwara and Niger states; ordered 20,000 additional police recruits and deployment of forest guards; urged legal changes for state police.",
+      "categories": [
+        "security"
+      ],
+      "sourceIds": [
+        "s14",
+        "s15"
+      ]
+    },
+    {
+      "id": "r-kidnap-survey",
+      "title": "NBS: 2.2 million kidnapping incidents in first year",
+      "kind": "outcome",
+      "label": "FACT",
+      "period": "May 2023-April 2024",
+      "description": "NBS Crime Experience and Security Perception Survey estimated 2,235,954 kidnapping incidents and about N2.23 trillion in ransom.",
+      "categories": [
+        "security",
+        "humanImpact"
+      ],
+      "sourceIds": [
+        "s16"
+      ]
+    },
+    {
+      "id": "r-protests",
+      "title": "#EndBadGovernance protest crackdown",
+      "kind": "controversy",
+      "label": "RECORD",
+      "period": "August 2024",
+      "description": "Amnesty International reported security forces killed at least 24 protesters and arrested about 1,200; the police leadership disputed the use of excessive force. No independent federal investigation outcome was found.",
+      "legalStatus": "allegation",
+      "categories": [
+        "security",
+        "humanImpact",
+        "integrity"
+      ],
+      "sourceIds": [
+        "s17"
+      ]
+    },
+    {
+      "id": "r-cabinet",
+      "title": "48-member federal cabinet",
+      "kind": "decision",
+      "label": "RECORD",
+      "period": "August 2023",
+      "office": "President",
+      "description": "Largest cabinet of the Fourth Republic (Buhari had 42), criticised as inconsistent with cost-of-governance pledges.",
+      "categories": [
+        "leadership",
+        "finance",
+        "promises"
+      ],
+      "sourceIds": [
+        "s53"
+      ]
+    },
+    {
+      "id": "r-lg-autonomy",
+      "title": "Supreme Court judgment on local-government financial autonomy",
+      "kind": "achievement",
+      "label": "RECORD",
+      "period": "July 2024",
+      "office": "President / Attorney-General",
+      "description": "Federal suit against the 36 states resulted in a 11 July 2024 ruling that LG allocations be paid directly to elected councils; implementation reported as incomplete a year later.",
+      "categories": [
+        "leadership"
+      ],
+      "sourceIds": [
+        "s57"
+      ]
+    },
+    {
+      "id": "r-fatf",
+      "title": "Exit from FATF grey list",
+      "kind": "outcome",
+      "label": "FACT",
+      "period": "October 2025",
+      "description": "Nigeria removed from FATF increased-monitoring list after completing a 19-point AML/CFT action plan (listed February 2023).",
+      "categories": [
+        "finance",
+        "foreign"
+      ],
+      "sourceIds": [
+        "s52"
+      ]
+    },
+    {
+      "id": "r-ecowas",
+      "title": "ECOWAS chairmanship and Niger coup response",
+      "kind": "decision",
+      "label": "RECORD",
+      "period": "2023-2025",
+      "office": "ECOWAS Chair",
+      "description": "Led sanctions and mediation after the July 2023 Niger coup; Niger, Mali and Burkina Faso's withdrawal from ECOWAS took effect 29 January 2025.",
+      "categories": [
+        "foreign"
+      ],
+      "sourceIds": [
+        "s31",
+        "s65"
+      ]
+    },
+    {
+      "id": "r-us-strikes",
+      "title": "US-coordinated strikes in Sokoto",
+      "kind": "decision",
+      "label": "RECORD",
+      "period": "December 2025",
+      "office": "President",
+      "description": "Foreign minister said Tinubu approved US strikes on militant targets in Sokoto State on 25 December 2025, following US threats of unilateral action in November 2025.",
+      "categories": [
+        "foreign",
+        "security"
+      ],
+      "sourceIds": [
+        "s30",
+        "s20"
+      ]
+    },
+    {
+      "id": "r-us-forfeiture",
+      "title": "1993 US civil forfeiture ($460,000)",
+      "kind": "controversy",
+      "label": "FACT",
+      "period": "1993",
+      "description": "Civil in-rem forfeiture in the Northern District of Illinois settled with $460,000 forfeited from accounts linked to Tinubu. AFP found no indictment or conviction; his camp says the sum was not drug proceeds. Related FOIA litigation over FBI/DEA records continued in 2026.",
+      "legalStatus": "closed",
+      "categories": [
+        "integrity"
+      ],
+      "sourceIds": [
+        "s38b",
+        "s58",
+        "s59",
+        "s60"
+      ]
+    },
+    {
+      "id": "r-csu-certificate",
+      "title": "Chicago State University certificate dispute",
+      "kind": "controversy",
+      "label": "FACT",
+      "period": "2022-2023",
+      "description": "CSU confirmed a 1979 B.Sc.; its registrar later testified the diploma certificate submitted to INEC was not issued by CSU. The Supreme Court refused to admit the deposition as fresh evidence and on 26 October 2023 affirmed his election.",
+      "legalStatus": "judgment",
+      "categories": [
+        "integrity"
+      ],
+      "sourceIds": [
+        "s4",
+        "s61",
+        "s62",
+        "s2"
+      ]
+    },
+    {
+      "id": "r-lagos-lg-dispute",
+      "title": "Lagos local council creation dispute",
+      "kind": "controversy",
+      "label": "RECORD",
+      "period": "2003-2004",
+      "office": "Governor of Lagos State",
+      "description": "Lagos created 37 additional councils; the federal government withheld allocations. The Supreme Court (10 December 2004) held allocations to the 20 constitutional councils could not be withheld, and the new councils were inchoate pending National Assembly action.",
+      "legalStatus": "judgment",
+      "categories": [
+        "experience",
+        "leadership"
+      ],
+      "sourceIds": [
+        "s38"
+      ]
+    },
+    {
+      "id": "r-lagos-igr",
+      "title": "Lagos IGR growth 1999-2007",
+      "kind": "outcome",
+      "label": "FACT",
+      "period": "1999-2007",
+      "office": "Governor of Lagos State",
+      "description": "Lagos IGR rose from about N14.6 billion (1999) to N83.02 billion (2007); fact-checkers found his N600 million-a-month baseline claim understates the 1999 level.",
+      "categories": [
+        "experience",
+        "finance"
+      ],
+      "sourceIds": [
+        "s39"
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "id": "pl-growth",
+      "title": "6% annual growth by 2031",
+      "label": "PROMISE",
+      "category": "economy",
+      "outcome": "Raise real GDP growth to 6% a year by 2031 and keep inflation on a sustained downward path",
+      "method": "Continuation of subsidy-free fuel pricing, FX and tax reforms; industrial hubs in each geopolitical zone",
+      "target": "6% annual growth",
+      "timeline": "By 2031",
+      "funding": "Not specified in reporting",
+      "risks": "Oil-price shocks, debt-service burden, insecurity affecting agriculture",
+      "feasibility": "Growth was 4.43% in Q2 2026; reaching 6% requires sustained acceleration (ANALYSIS)",
+      "sourceIds": [
+        "s63",
+        "s64"
+      ]
+    },
+    {
+      "id": "pl-police",
+      "title": "50,000 new police officers and 28,000 military recruits",
+      "label": "PROMISE",
+      "category": "security",
+      "outcome": "Police-to-citizen ratio of 1:400; four new army divisions (Makurdi, Ilorin, Jalingo, Benin City); 30,150 Civil Defence recruits for static guard duties",
+      "method": "Recruitment, training and deployment; border e-surveillance; forest guards and agro-rangers",
+      "target": "50,000 police; 28,000 military; 30,150 NSCDC",
+      "funding": "Not specified",
+      "dependencies": "Annual appropriations; National Assembly for any state-police amendment",
+      "sourceIds": [
+        "s63",
+        "s64"
+      ]
+    },
+    {
+      "id": "pl-housing",
+      "title": "200,000 affordable homes",
+      "label": "PROMISE",
+      "category": "humanImpact",
+      "outcome": "Affordable homes via the Tinubu Mass Social Housing Scheme; 200 units in each of 774 LGAs; FMBN loan ceiling raised to N85 million; NHF contributors from 6 million to 10 million by 2028",
+      "target": "200,000 homes; 154,800 LGA social-housing units",
+      "funding": "Mortgage finance, NHF/FMBN, private developers; amounts not disclosed",
+      "sourceIds": [
+        "s63"
+      ]
+    },
+    {
+      "id": "pl-power",
+      "title": "10,000 MW generation by 2031",
+      "label": "PROMISE",
+      "category": "power",
+      "outcome": "Scale generation toward 10,000 MW, extend metering toward full coverage, strengthen gas-to-power",
+      "target": "10,000 MW",
+      "timeline": "By 2031",
+      "feasibility": "Peak generation was about 5,500-6,000 MW in 2025 with frequent grid collapses (ANALYSIS)",
+      "sourceIds": [
+        "s63",
+        "s64"
+      ]
+    },
+    {
+      "id": "pl-health",
+      "title": "Primary healthcare and insurance targets",
+      "label": "PROMISE",
+      "category": "healthcare",
+      "outcome": "Functional PHCs from 53% to 90% by 2031; insurance to 40% of Nigerians; out-of-pocket spending below 50%; emergency maternal care in all 774 LGAs; 50% local production of essential medicines by 2031",
+      "timeline": "2031 for several targets",
+      "funding": "Not specified",
+      "sourceIds": [
+        "s63",
+        "s64"
+      ]
+    },
+    {
+      "id": "pl-education",
+      "title": "Teachers, out-of-school children and NELFUND expansion",
+      "label": "PROMISE",
+      "category": "education",
+      "outcome": "Recruit 20,000 teachers; halve out-of-school children; extend NELFUND to more institutions; digital literacy for 30 million people",
+      "dependencies": "States run basic education",
+      "sourceIds": [
+        "s63",
+        "s64"
+      ]
+    },
+    {
+      "id": "pl-jobs",
+      "title": "Halve youth unemployment; 1 million export-linked jobs",
+      "label": "PROMISE",
+      "category": "jobs",
+      "outcome": "Halve youth unemployment by 2031; 1 million export-linked youth jobs by 2030; skills training for 2 million",
+      "funding": "Not specified",
+      "sourceIds": [
+        "s63"
+      ]
+    },
+    {
+      "id": "pl-social",
+      "title": "Social protection for 20 million beneficiaries",
+      "label": "PROMISE",
+      "category": "humanImpact",
+      "outcome": "Expand social protection to 20 million verified beneficiaries by 2030; halve post-harvest food losses",
+      "timeline": "By 2030",
+      "sourceIds": [
+        "s63"
+      ]
+    },
+    {
+      "id": "pl-governance",
+      "title": "Delivery dashboards and court digitalisation",
+      "label": "PROMISE",
+      "category": "promises",
+      "outcome": "Public dashboards for targets, costs and timelines; nationwide court digitalisation by 2029; 35% women in cabinet and MDAs; published LG allocations",
+      "sourceIds": [
+        "s63"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "questionId": "p1",
+      "answer": "A costly petrol subsidy (about N4 trillion in 2022 per government figures), multiple exchange rates, N22.7 trillion in CBN Ways and Means overdrafts securitised just before handover, inflation above 20%, FATF grey-listing (February 2023), widespread kidnapping and banditry, and poverty already around 40% in 2019 by World Bank estimates.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s43",
+        "s71",
+        "s52",
+        "s66"
+      ]
+    },
+    {
+      "questionId": "p2",
+      "answer": "The 2022 manifesto pledged to phase out the subsidy, optimise the exchange-rate regime, reform security structures and create jobs; he also told business audiences he would achieve double-digit GDP growth. Few numeric targets were set.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s68",
+        "s70"
+      ]
+    },
+    {
+      "questionId": "p3",
+      "answer": "Subsidy removal, FX unification (with the CBN), Electricity Act 2023, student loans/NELFUND, N70,000 minimum wage, four tax laws (2025), cash transfers, Lagos-Calabar highway (partially built), security emergency and recruitment, LG-autonomy litigation, FATF exit.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s5",
+        "s7",
+        "s47",
+        "s46",
+        "s29",
+        "s3",
+        "s67",
+        "s25",
+        "s14",
+        "s57",
+        "s52"
+      ]
+    },
+    {
+      "questionId": "p4",
+      "answer": "Inflation peaked at 34.80% (December 2024) and fell to 14.06% on the rebased series by October 2026; growth reached 4.43% (Q2 2026); reserves rose to about $55 billion; public debt rose to N166.79 trillion; World Bank-estimated poverty rose to about 61% (2025).",
+      "assessment": "yes",
+      "sourceIds": [
+        "s8",
+        "s6",
+        "s9",
+        "s10",
+        "s22",
+        "s66"
+      ]
+    },
+    {
+      "questionId": "p5",
+      "answer": "Fiscal costs include debt service of about N15.8 trillion in the 2026 budget and debt of N166.79 trillion; household costs include tripled petrol prices, a period of 30%+ inflation and a rise in poverty. The coastal highway's full cost is disputed.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s34",
+        "s22",
+        "s42",
+        "s66",
+        "s27"
+      ]
+    },
+    {
+      "questionId": "p6",
+      "answer": "Macro-stabilisation indicators improved by 2026 (disinflation, reserves, growth, rate cuts); FATF exit; tax-law consolidation; student loans reached over a million students; cash transfers reached over nine million households.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s6",
+        "s10",
+        "s11",
+        "s52",
+        "s3",
+        "s12",
+        "s67"
+      ]
+    },
+    {
+      "questionId": "p7",
+      "answer": "Double-digit growth pledge unmet; poverty rose; grid collapses continued; mass kidnappings persisted into late 2025; cost-of-governance pledge contradicted by a 48-minister cabinet; coastal highway deadlines slipped.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s70",
+        "s66",
+        "s50",
+        "s14",
+        "s53",
+        "s24"
+      ]
+    },
+    {
+      "questionId": "p8",
+      "answer": "Global oil prices, CBN monetary decisions (legally independent), inherited subsidy and FX distortions and Ways and Means debt, Sahel coups, the 2025 US aid freeze, state-level control over primary education and health, and gas-pipeline vandalism affecting power.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s43",
+        "s71",
+        "s65",
+        "s33",
+        "s49"
+      ]
+    },
+    {
+      "questionId": "p9",
+      "answer": "Insecurity, food inflation (19.13% in October 2026), grid reliability, completion and cost transparency of the coastal highway, LG-autonomy enforcement, FOIA litigation over US records, and debt sustainability.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s6",
+        "s50",
+        "s28",
+        "s57",
+        "s60",
+        "s22"
+      ]
+    },
+    {
+      "questionId": "p10",
+      "answer": "Responses included cash transfers, a minimum-wage increase, a security emergency with mass recruitment, replacement of service chiefs and the defence minister, extra health funding after the US aid freeze, and negotiation that turned US military threats into coordinated strikes. Protest-related accountability was not documented.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s67",
+        "s29",
+        "s14",
+        "s18",
+        "s19",
+        "s33",
+        "s30",
+        "s17"
+      ]
+    },
+    {
+      "questionId": "r1",
+      "answer": "The 2027-2031 manifesto defines problems with baselines in several areas (e.g., 53% functional PHCs, 71% out-of-pocket health spending, 23 million insured, 6 million NHF contributors).",
+      "assessment": "yes",
+      "sourceIds": [
+        "s63",
+        "s64"
+      ]
+    },
+    {
+      "questionId": "r2",
+      "answer": "Many targets are numeric (6% growth by 2031, 10,000 MW, 200,000 homes, 50,000 police), but mechanisms are described only at a high level in available reporting.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s63",
+        "s64"
+      ]
+    },
+    {
+      "questionId": "r3",
+      "answer": "Some approaches extend first-term measures with observable results (NELFUND, recruitment, tax reform); evidence for housing and power targets is weaker given past delivery.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s13",
+        "s14",
+        "s50"
+      ]
+    },
+    {
+      "questionId": "r4",
+      "answer": "No costings were found in reporting on the manifesto; debt service already takes a large share of revenue (about N15.8 trillion in the 2026 budget).",
+      "assessment": "unknown",
+      "sourceIds": [
+        "s63",
+        "s34"
+      ]
+    },
+    {
+      "questionId": "r5",
+      "answer": "Most targets are set for 2028-2031, within a second term; the 10,000 MW and 6% growth targets would require faster progress than achieved so far.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s63",
+        "s9",
+        "s49"
+      ]
+    },
+    {
+      "questionId": "r6",
+      "answer": "As president he controls federal security agencies, federal budgets and agencies; health, basic education, housing land and some policing changes depend on states or constitutional amendment.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s14",
+        "s57"
+      ]
+    },
+    {
+      "questionId": "r7",
+      "answer": "Yes: appropriations for recruitment, housing and power, and constitutional amendment for state police, require National Assembly (and for amendments, state assembly) approval. The APC has held majorities in both chambers during his term.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s14",
+        "s34"
+      ]
+    },
+    {
+      "questionId": "r8",
+      "answer": "Reporting on the manifesto does not show disclosed risks or trade-offs; the government has stated subsidy removal will not be reversed.",
+      "assessment": "no",
+      "sourceIds": [
+        "s63",
+        "s64"
+      ]
+    },
+    {
+      "questionId": "r9",
+      "answer": "The implementing team is the incumbent cabinet and agencies (NELFUND, NRS, FMBN, security services); their track record is observable but no named delivery structure for the new targets was found.",
+      "assessment": "partly",
+      "sourceIds": [
+        "s13",
+        "s3",
+        "s53"
+      ]
+    },
+    {
+      "questionId": "r10",
+      "answer": "Yes: eight years as Lagos governor and over three years as president with documented execution of major reforms, alongside missed outcome targets.",
+      "assessment": "yes",
+      "sourceIds": [
+        "s39",
+        "s3",
+        "s5",
+        "s70"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Bola Ahmed Tinubu (official biography)",
+      "url": "https://statehouse.gov.ng/team/bola-ahmed-tinubu/",
+      "publisher": "State House, Nigeria",
+      "type": "official",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "vision"
+      ],
+      "claim": "Former Mobil Oil Producing Nigeria Treasurer; Lagos governor 1999-2007; APC national leader; 16th President from 29 May 2023; $1 trillion GDP target by 2030.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s2",
+      "title": "Nigeria's Supreme Court upholds Tinubu's election victory",
+      "url": "https://apnews.com/article/ad610050879e5a0178bcb52934c56054",
+      "publisher": "Associated Press",
+      "type": "news",
+      "published": "2023-10-26",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity",
+        "experience"
+      ],
+      "claim": "Supreme Court dismissed Atiku and Obi appeals and upheld Tinubu's election on 26 October 2023, including challenges over academic records.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s3",
+      "title": "Tinubu signs Nigeria's tax reform bills into law",
+      "url": "https://www.premiumtimesng.com/news/top-news/803455-tinubu-signs-nigerias-tax-reform-bills-into-law.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2025-06-26",
+      "accessed": "2026-11-28",
+      "categories": [
+        "finance",
+        "economy"
+      ],
+      "claim": "Four tax reform bills signed 26 June 2025, creating the Nigeria Revenue Service and consolidating tax law, effective 1 January 2026.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s4",
+      "title": "Chicago University replies ICIR on Tinubu's controversial certificate",
+      "url": "https://www.icirnigeria.org/chicago-university-replies-icir-on-tinubus-controversial-certificate/",
+      "publisher": "The ICIR",
+      "type": "investigative",
+      "published": "2022-06-27",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity",
+        "experience"
+      ],
+      "claim": "CSU registrar confirmed attendance August 1977-June 1979 and a B.Sc. in Business Administration with honours awarded 22 June 1979, accounting major.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s5",
+      "title": "Nigeria's economic crisis puts fuel subsidies removal under scrutiny",
+      "url": "https://www.ft.com/content/29752a06-adea-4175-b278-22e0632c375a",
+      "publisher": "Financial Times",
+      "type": "news",
+      "published": "2024",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "humanImpact"
+      ],
+      "claim": "Subsidy removal from May 2023 drove debate over fuel prices, inflation and protection of vulnerable households.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s42",
+      "title": "Nigeria to triple petrol prices after president says subsidy to end",
+      "url": "https://www.cnbcafrica.com/2023/nigeria-to-triple-petrol-prices-after-president-says-subsidy-to-end",
+      "publisher": "CNBC Africa (Reuters)",
+      "type": "news",
+      "published": "2023-05-31",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "humanImpact",
+        "finance",
+        "promises"
+      ],
+      "claim": "NNPC proposed raising petrol prices to as much as N557 per litre from N189 after Tinubu's inaugural announcement.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s7b",
+      "title": "Nigerian petrol prices reach record high after subsidy removal",
+      "url": "https://www.aljazeera.com/amp/news/2023/7/18/nigerian-petrol-prices-reach-record-high-after-subsidy-removal",
+      "publisher": "Al Jazeera",
+      "type": "news",
+      "published": "2023-07-18",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "humanImpact"
+      ],
+      "claim": "Petrol prices rose to N617 per litre by mid-July 2023, a record at the time; Tinubu had opposed the 2012 subsidy removal attempt.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s7",
+      "title": "Official: CBN announces unification of all exchange rate windows",
+      "url": "https://nairametrics.com/2023/06/14/official-cbn-announces-unification-of-all-exchange-rate-windows/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2023-06-14",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "finance"
+      ],
+      "claim": "CBN unified exchange-rate windows on 14 June 2023; naira closed about N664/$ at the I&E window from N471.67.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s6",
+      "title": "Nigeria's inflation rate dropped to 14.06% in October – NBS",
+      "url": "https://gazettengr.com/nigerias-inflation-rate-dropped-to-14-06-in-october-nbs/",
+      "publisher": "Peoples Gazette",
+      "type": "news",
+      "published": "2026-11-16",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "humanImpact"
+      ],
+      "claim": "Headline inflation 14.06% in October 2026 (from 14.63% in September); food inflation 19.13%; core 10.78%.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s8",
+      "title": "Nigeria's headline inflation quickens in December",
+      "url": "https://techcabal.com/2025/01/15/nigeria-headline-inflation-quickens-in-december/",
+      "publisher": "TechCabal",
+      "type": "news",
+      "published": "2025-01-15",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "humanImpact"
+      ],
+      "claim": "Headline inflation reached 34.80% in December 2024.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s9",
+      "title": "Nigeria's GDP grows by 4.43% in Q2 2026",
+      "url": "https://nairametrics.com/2026/08/31/nigerias-gdp-grows-by-4-43-in-q2-2026/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2026-08-31",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy"
+      ],
+      "claim": "NBS reported real GDP growth of 4.43% y/y in Q2 2026 on rebased estimates.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s10",
+      "title": "Nigeria's foreign reserves lose $391 million in 16 days, biggest drop in six months",
+      "url": "https://nairametrics.com/2026/11/16/nigerias-foreign-reserves-lose-391-million-in-16-days-biggest-drop-in-six-months/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2026-11-16",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy"
+      ],
+      "claim": "Gross reserves about $54.87 billion on 12 November 2026, up from $45.57 billion on 2 January 2026.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s11",
+      "title": "CBN cuts MPR to 23% from 26.5% as MPC revises policy",
+      "url": "https://www.arise.tv/cbn-cuts-mpr-to-23-from-26-5-as-mpc-revises-policy/",
+      "publisher": "Arise News",
+      "type": "news",
+      "published": "2026-09-22",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy"
+      ],
+      "claim": "CBN cut the Monetary Policy Rate by 350 basis points to 23% in September 2026.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s12",
+      "title": "NELFUND loan disbursement hits N242.4bn with 1.38m beneficiaries",
+      "url": "https://www.thisdaylive.com/2026/04/20/nelfund-loan-disbursement-hits-n242-4bn-with-1-38m-beneficiaries/",
+      "publisher": "ThisDay",
+      "type": "news",
+      "published": "2026-04-20",
+      "accessed": "2026-11-28",
+      "categories": [
+        "education"
+      ],
+      "claim": "NELFUND disbursed N242.4 billion to about 1.39 million students as of 15 April 2026.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s13",
+      "title": "NELFUND student loan disbursements hit N372.62 billion",
+      "url": "https://nairametrics.com/2026/10/04/nelfund-student-loan-disbursements-hit-n372-62-billion/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2026-10-04",
+      "accessed": "2026-11-28",
+      "categories": [
+        "education",
+        "promises"
+      ],
+      "claim": "Cumulative NELFUND disbursements reached N372.62 billion by early October 2026.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s14",
+      "title": "President Tinubu declares a security emergency, orders Army, Police to recruit more personnel",
+      "url": "https://statehouse.gov.ng/president-tinubu-declares-a-security-emergency-orders-army-police-to-recruit-more-personnel/",
+      "publisher": "State House, Nigeria",
+      "type": "official",
+      "published": "2025-11-26",
+      "accessed": "2026-11-28",
+      "categories": [
+        "security"
+      ],
+      "claim": "National security emergency declared; 20,000 additional police recruits; forest guards; call for laws enabling state police.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s15",
+      "title": "Nigeria's president declares emergency and beefs up forces following abductions",
+      "url": "https://www.pbs.org/newshour/world/nigerias-president-declares-emergency-and-beefs-up-forces-following-abductions",
+      "publisher": "PBS NewsHour (AP)",
+      "type": "news",
+      "published": "2025-11-27",
+      "accessed": "2026-11-28",
+      "categories": [
+        "security"
+      ],
+      "claim": "Emergency followed abductions of Kebbi schoolgirls, Kwara worshippers and 315 pupils and staff in Niger State; analysts said recruitment alone was insufficient.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s16",
+      "title": "Nigerians pay N2.2tr ransom in 51.9m crime cases, resort to self-help",
+      "url": "https://guardian.ng/news/nigerians-pay-n2-2tr-ransom-in-51-9m-crime-cases-resort-to-self-help/",
+      "publisher": "The Guardian (Nigeria)",
+      "type": "news",
+      "published": "2024-12-18",
+      "accessed": "2026-11-28",
+      "categories": [
+        "security",
+        "humanImpact"
+      ],
+      "claim": "NBS survey: 2,235,954 kidnapping incidents and about N2.2 trillion ransom, May 2023-April 2024.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s17",
+      "title": "Nigeria: Police used excessive force to violently quash #EndBadGovernance protests",
+      "url": "https://www.amnesty.org/en/latest/news/2024/11/nigeria-police-used-excessive-force-to-violently-quash-endbadgovernance-protests/",
+      "publisher": "Amnesty International",
+      "type": "investigative",
+      "published": "2024-11-28",
+      "accessed": "2026-11-28",
+      "categories": [
+        "security",
+        "humanImpact"
+      ],
+      "claim": "At least 24 protesters killed and about 1,200 arrested during August 2024 protests.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s18",
+      "title": "Nigeria's Tinubu replaces service chiefs in major military shake-up",
+      "url": "https://www.myjoyonline.com/nigerias-tinubu-replaces-service-chiefs-in-major-military-shake-up/",
+      "publisher": "MyJoyOnline",
+      "type": "news",
+      "published": "2025-10-24",
+      "accessed": "2026-11-28",
+      "categories": [
+        "security",
+        "leadership"
+      ],
+      "claim": "Tinubu replaced the service chiefs in October 2025.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s19",
+      "title": "Tinubu nominates Christopher Musa as defence minister",
+      "url": "https://www.pulse.ng/story/tinubu-nominates-christopher-musa-as-defence-minister-2025120215421641768",
+      "publisher": "Pulse Nigeria",
+      "type": "news",
+      "published": "2025-12-02",
+      "accessed": "2026-11-28",
+      "categories": [
+        "security",
+        "leadership"
+      ],
+      "claim": "After Badaru Abubakar's resignation, Tinubu nominated former CDS Christopher Musa as defence minister.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s20",
+      "title": "Trump threatens Nigeria; Christian persecution claims",
+      "url": "https://www.npr.org/2025/11/01/g-s1-96215/trump-nigeria-christian-persecution-claims",
+      "publisher": "NPR",
+      "type": "news",
+      "published": "2025-11-01",
+      "accessed": "2026-11-28",
+      "categories": [
+        "foreign",
+        "security"
+      ],
+      "claim": "US redesignated Nigeria a country of particular concern and Trump said he ordered planning for possible military action; Tinubu rejected the religious-intolerance characterisation.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s30",
+      "title": "FG confirms US strikes on terrorist targets in Nigeria, attributes action to structured security cooperation",
+      "url": "https://www.thisdaylive.com/2025/12/26/us-strikes-hit-terrorists-camps-in-sokoto",
+      "publisher": "ThisDay",
+      "type": "news",
+      "published": "2025-12-26",
+      "accessed": "2026-11-28",
+      "categories": [
+        "foreign",
+        "security"
+      ],
+      "claim": "Federal government confirmed US strikes on militant targets in Sokoto on 25 December 2025 as coordinated security cooperation.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s31",
+      "title": "Nigerian President Tinubu chosen as new West Africa bloc chief",
+      "url": "https://www.thestar.com.my/news/world/2023/07/10/nigerian-president-tinubu-chosen-as-new-west-africa-bloc-chief",
+      "publisher": "The Star (Reuters)",
+      "type": "news",
+      "published": "2023-07-10",
+      "accessed": "2026-11-28",
+      "categories": [
+        "foreign"
+      ],
+      "claim": "ECOWAS chose Tinubu as chairman in July 2023 amid coups and insecurity.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s65",
+      "title": "Military governments lead West African trio out of ECOWAS regional bloc",
+      "url": "https://www.aljazeera.com/amp/news/2025/1/29/military-governments-lead-west-african-trio-out-of-ecowas-regional-bloc",
+      "publisher": "Al Jazeera",
+      "type": "news",
+      "published": "2025-01-29",
+      "accessed": "2026-11-28",
+      "categories": [
+        "foreign"
+      ],
+      "claim": "Niger, Mali and Burkina Faso's ECOWAS withdrawal took effect 29 January 2025 after a one-year notice.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s52",
+      "title": "CBN press release on Nigeria's removal from the FATF grey list",
+      "url": "https://www.cbn.gov.ng/Out/2025/CCD/CBN%20Press%20Release%20FATF%20%20241025%20.pdf",
+      "publisher": "Central Bank of Nigeria",
+      "type": "official",
+      "published": "2025-10-24",
+      "accessed": "2026-11-28",
+      "categories": [
+        "finance",
+        "foreign"
+      ],
+      "claim": "Nigeria removed from FATF list of jurisdictions under increased monitoring in October 2025.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s66",
+      "title": "World Bank: Many Nigerians yet to benefit from reform gains — 139m people living in poverty",
+      "url": "https://www.thecable.ng/world-bank-many-nigerians-yet-to-benefit-from-reform-gains-139m-people-living-in-poverty",
+      "publisher": "TheCable",
+      "type": "news",
+      "published": "2025-10-08",
+      "accessed": "2026-11-28",
+      "categories": [
+        "humanImpact",
+        "economy"
+      ],
+      "claim": "World Bank estimated 139 million Nigerians (about 61%) poor in 2025, up from 129 million in 2024 and 81 million (40%) in 2019; 141 million projected in 2026.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s67",
+      "title": "Wale Edun: FG has disbursed N330bn to 8.5m poor households",
+      "url": "https://www.thecable.ng/wale-edun-fg-has-disbursed-n330bn-to-8-5m-poor-households",
+      "publisher": "TheCable",
+      "type": "news",
+      "published": "2025-09",
+      "accessed": "2026-11-28",
+      "categories": [
+        "humanImpact"
+      ],
+      "claim": "8.5 million households received at least one N25,000 tranche; about N330 billion spent on safety-net programmes; later government figure of 9,178,837 households (March 2026) reported separately.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s22",
+      "title": "Nigeria's public debt rises to N166.79 trillion in Q2 2026",
+      "url": "https://nairametrics.com/2026/09/26/nigerias-public-debt-rises-to-n166-79-trillion-in-q2-2026/",
+      "publisher": "Nairametrics (DMO data)",
+      "type": "statistics",
+      "published": "2026-09-26",
+      "accessed": "2026-11-28",
+      "categories": [
+        "finance"
+      ],
+      "claim": "DMO: total public debt N166.79 trillion (about $120.93bn) at 30 June 2026; N91.59tn domestic, N75.20tn external; N159.35tn at end-March 2026.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s43",
+      "title": "Securitisation of the N22.7trn naira Ways and Means",
+      "url": "https://nairametrics.com/2023/05/09/securitisation-of-the-22-7trn-naira-ways-and-means/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2023-05-09",
+      "accessed": "2026-11-28",
+      "categories": [
+        "finance",
+        "economy"
+      ],
+      "claim": "Outgoing administration sought securitisation of N22.7 trillion in CBN Ways and Means advances in May 2023.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s34",
+      "title": "Tinubu signs N68 trillion 2026 budget into law",
+      "url": "https://www.premiumtimesng.com/news/top-news/872577-tinubu-signs-n68-trillion-2026-budget-into-law.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2026-04-17",
+      "accessed": "2026-11-28",
+      "categories": [
+        "finance"
+      ],
+      "claim": "2026 Appropriation Act of N68.32 trillion signed April 2026, including about N15.8 trillion debt service; 2025 capital implementation extended.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s44",
+      "title": "Fuel subsidy would have cost Nigeria N52trn in 2026 – Zacch Adedeji",
+      "url": "https://nairametrics.com/2026/04/15/fuel-subsidy-would-have-cost-nigeria-n52trn-in-2026-zacch-adedeji/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2026-04-15",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy"
+      ],
+      "claim": "NRS chairman claimed the subsidy would have cost N52 trillion in 2026 had it continued (government claim, contested by critics).",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s45",
+      "title": "Dangote raises petrol price, depot owners react, announce new rates",
+      "url": "https://www.legit.ng/business-economy/energy/1739427-dangote-reverses-increases-petrol-price-marketers-react-announce-rates/",
+      "publisher": "Legit.ng",
+      "type": "news",
+      "published": "2026-11-03",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "humanImpact"
+      ],
+      "claim": "Dangote refinery raised petrol gantry price to N1,300 per litre from N1,215 in early November 2026.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    },
+    {
+      "id": "s46",
+      "title": "In Detail: The Student Loan (Access to Higher Education) Act, 2024",
+      "url": "https://statehouse.gov.ng/in-detail-the-student-loan-access-to-higher-education-act-2024/",
+      "publisher": "State House, Nigeria",
+      "type": "official",
+      "published": "2024-04",
+      "accessed": "2026-11-28",
+      "categories": [
+        "education"
+      ],
+      "claim": "2024 Act repealed and re-enacted the 2023 student loans law and established NELFUND.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s29",
+      "title": "President Tinubu signs N70,000 new minimum wage into law",
+      "url": "https://nairametrics.com/2024/07/29/president-tinubu-signs-n70000-new-minimum-wage-into-law/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2024-07-29",
+      "accessed": "2026-11-28",
+      "categories": [
+        "jobs",
+        "humanImpact"
+      ],
+      "claim": "N70,000 minimum wage signed 29 July 2024, replacing N30,000, with three-year review.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s24",
+      "title": "FG temporarily opens completed stretch of Lagos-Calabar Coastal Highway to traffic",
+      "url": "https://fmino.gov.ng/fg-temporarily-opens-completed-stretch-of-lagos-calabar-coastal-highway-to-traffic/",
+      "publisher": "Federal Ministry of Information and National Orientation",
+      "type": "official",
+      "published": "2025-12-12",
+      "accessed": "2026-11-28",
+      "categories": [
+        "infrastructure"
+      ],
+      "claim": "30 km of Section I Phase 1 opened; remaining 17.474 km of 47.474 km expected by end of Q2 2026; EPC+F model; cost figure N1,067,887,381,148.61 cited.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s25",
+      "title": "Tinubu commissions 30km Section 1 of Lagos-Calabar Coastal Highway from Ahmadu Bello Way to Eleko",
+      "url": "https://nairametrics.com/2025/05/31/tinubu-commissions-30km-section-1-of-lagos-calabar-coastal-highway-from-ahmadu-bello-way-to-eleko/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2025-05-31",
+      "accessed": "2026-11-28",
+      "categories": [
+        "infrastructure"
+      ],
+      "claim": "Tinubu commissioned the first 30 km of Section 1 in May 2025.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s26",
+      "title": "Lagos-Calabar coastal highway: Umahi replies Atiku",
+      "url": "https://www.premiumtimesng.com/news/top-news/685379-lagos-calabar-coastal-highway-umahi-replies-atiku-says-project-to-gulp-n15trn.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2024-04",
+      "accessed": "2026-11-28",
+      "categories": [
+        "infrastructure",
+        "integrity"
+      ],
+      "claim": "Dispute between Atiku Abubakar and Works Minister Umahi over the cost per kilometre and award of the coastal highway contract.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s27",
+      "title": "'Justice cannot be delayed forever': Inside Nigeria's N15.6 trillion coastal highway",
+      "url": "https://saharareporters.com/2026/10/14/justice-cannot-be-delayed-forever-inside-nigerias-n156-trillion-coastal-highway",
+      "publisher": "Sahara Reporters",
+      "type": "investigative",
+      "published": "2026-10-14",
+      "accessed": "2026-11-28",
+      "categories": [
+        "infrastructure",
+        "finance"
+      ],
+      "claim": "Analysis divides the N1.067 trillion Section 1 sum by 47.474 km to derive about N22.5 billion per km, contrasting with the official N4 billion figure.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    },
+    {
+      "id": "s28",
+      "title": "Lagos-Calabar: Tracka demands cost of funding for coastal highway",
+      "url": "https://guardian.ng/news/nigeria/national/lagos-calabar-tracka-demands-cost-of-funding-for-coastal-highway/",
+      "publisher": "The Guardian (Nigeria)",
+      "type": "news",
+      "published": "2026",
+      "accessed": "2026-11-28",
+      "categories": [
+        "infrastructure"
+      ],
+      "claim": "BudgIT's Tracka filed an FOI request in February 2026 for funding details of the coastal highway and reported no response.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s47",
+      "title": "President Bola Tinubu signs Electricity Act 2023 into law",
+      "url": "https://nairametrics.com/2023/06/09/president-bola-tinubu-signs-electricity-act-2023-into-law/",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2023-06-09",
+      "accessed": "2026-11-28",
+      "categories": [
+        "power"
+      ],
+      "claim": "Electricity Act 2023 signed, repealing the 2005 Act and enabling states to regulate electricity markets.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s48",
+      "title": "Electricity subsidy: FG raises tariffs for top priority customers by 230.8%, N225/kwh",
+      "url": "https://www.thisdaylive.com/2024/04/04/electricity-subsidy-fg-raises-tariffs-for-top-priority-customers-by-230-8-n225-kwh/",
+      "publisher": "ThisDay",
+      "type": "news",
+      "published": "2024-04-04",
+      "accessed": "2026-11-28",
+      "categories": [
+        "power"
+      ],
+      "claim": "Band A tariff raised to N225/kWh in April 2024 to cut electricity subsidy.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s49",
+      "title": "Days after 6,000MW celebration, national grid crashes to 1,400MW",
+      "url": "https://guardian.ng/?p=2551769",
+      "publisher": "The Guardian (Nigeria)",
+      "type": "news",
+      "published": "2025-03",
+      "accessed": "2026-11-28",
+      "categories": [
+        "power"
+      ],
+      "claim": "Grid collapsed days after the ministry announced a record 6,003 MW available generation in March 2025.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s50",
+      "title": "Nigeria in blackout as national power grid collapses first time in 2026",
+      "url": "https://www.thisdaylive.com/2026/01/23/nigeria-in-blackout-as-national-power-grid-collapses-first-time-in-2026",
+      "publisher": "ThisDay",
+      "type": "news",
+      "published": "2026-01-23",
+      "accessed": "2026-11-28",
+      "categories": [
+        "power"
+      ],
+      "claim": "National grid collapsed in January 2026, continuing a pattern of collapses through 2025.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s51",
+      "title": "Nigeria's unemployment rate drops to 4.3% in Q2 2024, down from 5.3% in Q1 – NBS",
+      "url": "https://nairametrics.com/2024/11/25/nigerias-unemployment-rate-drops-to-4-3-in-q2-2024-down-from-5-3-in-q1-nbs",
+      "publisher": "Nairametrics",
+      "type": "news",
+      "published": "2024-11-25",
+      "accessed": "2026-11-28",
+      "categories": [
+        "jobs"
+      ],
+      "claim": "NBS unemployment 4.3% in Q2 2024 (5.3% Q1 2024) under the revised methodology.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s53",
+      "title": "Tinubu's record cabinet in 24 years ignores costs",
+      "url": "https://businessday.ng/politics/article/tinubus-record-cabinet-in-24-years-ignores-costs/",
+      "publisher": "BusinessDay",
+      "type": "news",
+      "published": "2023-08",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership",
+        "finance",
+        "promises"
+      ],
+      "claim": "48-minister cabinet is the largest in the Fourth Republic and criticised on cost grounds.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s54",
+      "title": "Tinubu's bold moves to implement Oronsaye's report",
+      "url": "https://www.thisdaylive.com/2024/03/03/tinubus-bold-moves-to-implement-oronsanyes-report/",
+      "publisher": "ThisDay",
+      "type": "news",
+      "published": "2024-03-03",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Administration moved in 2024 to implement parts of the Oronsaye report on agency rationalisation.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s55",
+      "title": "Despite outrage, FG says Fubara saved from impeachment, Ibas sworn in",
+      "url": "https://www.thisdaylive.com/2025/03/20/despite-outrage-fg-says-fubara-saved-from-impeachment-ibas-sworn-in/",
+      "publisher": "ThisDay",
+      "type": "news",
+      "published": "2025-03-20",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Emergency rule in Rivers State; Vice Admiral Ibok-Ete Ibas (rtd) sworn in as sole administrator.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s56",
+      "title": "Rivers emergency rule: Supreme Court strikes out PDP states' suit, backs Tinubu",
+      "url": "https://www.premiumtimesng.com/news/headlines/843243-rivers-emergency-rule-supreme-court-strikes-out-pdp-states-suit-backs-tinubu.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2025-12-15",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Supreme Court struck out (6-1) the PDP-governed states' suit against the Rivers emergency declaration.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s57",
+      "title": "President Tinubu welcomes Supreme Court judgement affirming constitutional rights of local government",
+      "url": "https://statehouse.gov.ng/president-tinubu-welcomes-supreme-court-judgement-affirming-constitutional-rights-of-local-government/",
+      "publisher": "State House, Nigeria",
+      "type": "official",
+      "published": "2024-07-11",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Supreme Court ruled on 11 July 2024, in a federal suit against the states, that LG allocations be paid directly to councils.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s36",
+      "title": "APC endorses Tinubu as sole candidate for 2027 presidential election",
+      "url": "https://www.channelstv.com/2025/05/22/apc-endorses-tinubu-as-sole-candidate-for-2027-presidential-election",
+      "publisher": "Channels Television",
+      "type": "news",
+      "published": "2025-05-22",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "APC national summit endorsed Tinubu as sole 2027 presidential candidate in May 2025.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s37",
+      "title": "Nigeria: APC members' support for me, a challenge to do more for Nigeria - Tinubu",
+      "url": "https://allafrica.com/stories/202605250054.html",
+      "publisher": "ThisDay via allAfrica",
+      "type": "news",
+      "published": "2026-05-24",
+      "accessed": "2026-11-28",
+      "categories": [
+        "leadership"
+      ],
+      "claim": "Tinubu won the APC direct presidential primary against sole challenger Stanley Osifo with landslide state results.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s38b",
+      "title": "Hoax press release falsely claims Nigerian electoral body will probe ruling party candidate",
+      "url": "https://factcheck.afp.com/doc.afp.com.32NP3DU",
+      "publisher": "AFP Fact Check",
+      "type": "investigative",
+      "published": "2022-11-18",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "Authentic court documents on the 1993 US forfeiture case do not show Tinubu was indicted or convicted; a purported INEC probe release was fabricated.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s58",
+      "title": "10 accounts linked to Tinubu in US, $460,000 deducted as tax – Keyamo",
+      "url": "https://www.channelstv.com/2022/11/09/10-accounts-linked-to-tinubu-in-us-460000-deducted-as-tax-keyamo/",
+      "publisher": "Channels Television",
+      "type": "news",
+      "published": "2022-11-09",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "Tinubu's campaign spokesperson said the $460,000 forfeited was tax/interest-related, not drug proceeds (denial).",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s59",
+      "title": "US court orders FBI, DEA to release records on investigation of Tinubu",
+      "url": "https://www.thecable.ng/us-court-orders-fbi-dea-to-release-records-on-investigation-of-tinubu",
+      "publisher": "TheCable",
+      "type": "news",
+      "published": "2025-04-13",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "US District Court ordered FBI and DEA to lift Glomar responses and process FOIA requests for records on Tinubu.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s60",
+      "title": "FOIA: US court refuses discovery request against Tinubu, DCI Group",
+      "url": "https://www.thisdaylive.com/2026/10/31/foia-us-court-refuses-discovery-request-against-tinubu-dci-group/",
+      "publisher": "ThisDay",
+      "type": "news",
+      "published": "2026-10-31",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "In October 2026 the court refused a discovery request against Tinubu and DCI Group; FOIA litigation not finally resolved.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s61",
+      "title": "CSU: Tinubu our graduate, but we didn't issue diploma he submitted to INEC",
+      "url": "https://www.thisdaylive.com/2023/10/05/csu-tinubu-our-graduate-but-we-didnt-issue-diploma-he-submitted-to-inec/",
+      "publisher": "ThisDay",
+      "type": "news",
+      "published": "2023-10-05",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "CSU registrar's deposition: Tinubu graduated but the diploma certificate submitted to INEC was not issued by CSU.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s62",
+      "title": "There are conflicting letters from Chicago State University on Tinubu's certificate – Supreme Court",
+      "url": "https://dailytrust.com/breaking-there-are-conflicting-letters-from-chicago-state-university-on-tinubus-certificate-supreme-court",
+      "publisher": "Daily Trust",
+      "type": "news",
+      "published": "2023-10-23",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity"
+      ],
+      "claim": "Supreme Court justices noted conflicting CSU letters; Atiku had to prove forgery beyond reasonable doubt; fresh evidence was not admitted.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s21",
+      "title": "INEC declares Tinubu winner of the 2023 presidential election",
+      "url": "https://nairametrics.com/2023/03/01/inec-declares-tinubu-winner-of-the-2023-presidential-election/",
+      "publisher": "Nairametrics",
+      "type": "electoral",
+      "published": "2023-03-01",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "INEC declared Tinubu winner with 8,794,726 votes; Atiku 6,984,520; Obi 6,101,533.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s23",
+      "title": "Supreme Court dismisses Atiku, Obi's appeals, affirms Tinubu as president",
+      "url": "https://www.channelstv.com/2023/10/26/supreme-court-dismisses-atiku-obis-appeals-affirms-tinubu-as-president",
+      "publisher": "Channels Television",
+      "type": "news",
+      "published": "2023-10-26",
+      "accessed": "2026-11-28",
+      "categories": [
+        "integrity",
+        "experience"
+      ],
+      "claim": "Seven-member Supreme Court panel unanimously affirmed the September 2023 tribunal judgment upholding Tinubu's election.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s38",
+      "title": "A-G Lagos State v A-G Federation (Supreme Court, 10 December 2004)",
+      "url": "https://nigerialii.org/akn/ng/judgment/ngsc/2004/16/eng@2004-12-10",
+      "publisher": "NigeriaLII",
+      "type": "court",
+      "published": "2004-12-10",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "leadership"
+      ],
+      "claim": "Supreme Court ruled on Lagos's creation of new councils and the federal withholding of local government allocations.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s39",
+      "title": "Fact check: How true are claims by Tinubu, Shettima about size of Lagos economy?",
+      "url": "https://factcheck.thecable.ng/fact-check-how-true-are-claims-by-tinubu-shettima-about-size-of-lagos-economy-2",
+      "publisher": "TheCable Fact Check",
+      "type": "investigative",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience",
+        "finance"
+      ],
+      "claim": "CBN data show Lagos IGR of N14.6bn in 1999 (about N1.2bn monthly) and N83.02bn in 2007; the N600m monthly baseline claim is inaccurate.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s40",
+      "title": "Bola Tinubu",
+      "url": "https://en.wikipedia.org/wiki/Bola_Tinubu",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "published": null,
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Biographical timeline: birth date, Senate 1992-93 (SDP), NADECO exile, AD governorship 1999-2007, ACN and APC. Used only alongside other sources.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    },
+    {
+      "id": "s41",
+      "title": "Bola Tinubu's path to power: a timeline of his political journey",
+      "url": "https://www.legit.ng/politics/1536549-tinubus-path-power-a-timeline-political-journey",
+      "publisher": "Legit.ng",
+      "type": "news",
+      "published": "2023-05",
+      "accessed": "2026-11-28",
+      "categories": [
+        "experience"
+      ],
+      "claim": "Timeline of Senate election (1992), NADECO role and exile, Lagos governorship, party leadership.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    },
+    {
+      "id": "s32",
+      "title": "PHC reforms, disease outbreaks, other events that shaped Nigeria's health sector in 2025",
+      "url": "https://www.premiumtimesng.com/news/headlines/846647-phc-reforms-disease-outbreaks-other-events-that-shaped-nigerias-health-sector-in-2025.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2025-12-31",
+      "accessed": "2026-11-28",
+      "categories": [
+        "healthcare"
+      ],
+      "claim": "Insurance coverage about 10-12%; out-of-pocket spending about 71%; proposed 2026 health allocation N2.48 trillion, under 6% of budget.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s33",
+      "title": "Nigerian Senate increases country's health budget to address US aid freeze",
+      "url": "https://www.premiumtimesng.com/news/headlines/774198-nigerian-senate-increases-countrys-health-budget-to-address-us-aid-freeze.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2025-02",
+      "accessed": "2026-11-28",
+      "categories": [
+        "healthcare"
+      ],
+      "claim": "Additional N300 billion (about $200m) added to the 2025 health budget for HIV, TB, malaria and polio after the US aid freeze.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s35",
+      "title": "What Tinubu's 2027-2031 manifesto promises on jobs, housing, security and the economy",
+      "url": "https://www.arise.tv/what-tinubus-2027-2031-manifesto-promises-on-jobs-housing-security-and-the-economy/",
+      "publisher": "Arise News",
+      "type": "news",
+      "published": "2026-11-10",
+      "accessed": "2026-11-28",
+      "categories": [
+        "education",
+        "healthcare",
+        "jobs"
+      ],
+      "claim": "Manifesto targets on education (20,000 teachers), health (90% functional PHCs) and jobs (halve youth unemployment).",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s63",
+      "title": "What Tinubu's 2027-2031 manifesto promises (From Reform to Prosperity Agenda)",
+      "url": "https://www.arise.tv/what-tinubus-2027-2031-manifesto-promises-on-jobs-housing-security-and-the-economy/",
+      "publisher": "Arise News",
+      "type": "manifesto",
+      "published": "2026-11-10",
+      "accessed": "2026-11-28",
+      "categories": [
+        "vision",
+        "promises"
+      ],
+      "claim": "Detailed list of 2027-2031 APC manifesto targets across economy, housing, power, security, health, education and governance; no costings reported.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s64",
+      "title": "APC unveils Tinubu's 2027 manifesto with targets for security, housing and power",
+      "url": "https://www.legit.ng/politics/1740512-tinubus-apc-2027-manifesto-promises-50000-police-officers-28000-military-recruits/",
+      "publisher": "Legit.ng",
+      "type": "manifesto",
+      "published": "2026-11-10",
+      "accessed": "2026-11-28",
+      "categories": [
+        "vision",
+        "security"
+      ],
+      "claim": "Manifesto promises 50,000 police, 28,000 military recruits, 6% growth by 2031, 10,000 MW and health targets.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    },
+    {
+      "id": "s68",
+      "title": "Tinubu unveils manifesto, vows to end petrol subsidy, FX crisis",
+      "url": "https://www.arise.tv/tinubu-unveils-manifesto-vows-to-end-petrol-subsidy-fx-crisis/",
+      "publisher": "Arise News",
+      "type": "manifesto",
+      "published": "2022-10-22",
+      "accessed": "2026-11-28",
+      "categories": [
+        "promises",
+        "economy"
+      ],
+      "claim": "2022 80-page manifesto pledged to phase out the fuel subsidy and optimise the exchange-rate regime; few numeric targets.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s69",
+      "title": "ADVOKC Foundation declares 2-year assessment of Tinubu administration",
+      "url": "https://thesun.ng/advokc-foundation-declares-2-year-assessment-of-tinubu-administration/",
+      "publisher": "The Sun (Nigeria)",
+      "type": "news",
+      "published": "2025",
+      "accessed": "2026-11-28",
+      "categories": [
+        "promises"
+      ],
+      "claim": "AdvoKC Foundation's BAT-O-METER assessed selected presidential promises at the two-year mark.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    },
+    {
+      "id": "s70",
+      "title": "Verifying Tinubu's claims on Nigeria's economic progress in Democracy Day address",
+      "url": "https://dubawa.org/verifying-tinubus-claims-on-nigerias-economic-progress-in-democracy-day-address/",
+      "publisher": "Dubawa",
+      "type": "investigative",
+      "published": "2025-06",
+      "accessed": "2026-11-28",
+      "categories": [
+        "promises",
+        "economy"
+      ],
+      "claim": "NBS confirmed 2024 GDP growth of 3.4%; fact-check of presidential economic claims against the double-digit growth pledge context.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s71",
+      "title": "N4tr spent on subsidy payment in 2022 – FG",
+      "url": "https://thesun.ng/n4tr-spent-on-subsidy-payment-in-2022-fg/",
+      "publisher": "The Sun (Nigeria)",
+      "type": "news",
+      "published": "2023",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "finance"
+      ],
+      "claim": "Federal government said about N4 trillion (about 20% of the 2022 budget) was spent on petrol subsidy in 2022.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s72",
+      "title": "Despite Tinubu's pronouncement, Nigerian govt spent N3.6 trillion on subsidy in 2023",
+      "url": "https://allafrica.com/stories/202406060191.html",
+      "publisher": "Premium Times via allAfrica",
+      "type": "news",
+      "published": "2024-06-06",
+      "accessed": "2026-11-28",
+      "categories": [
+        "economy",
+        "finance",
+        "promises"
+      ],
+      "claim": "Government report indicated about N3.6 trillion spent on subsidy-related costs in 2023 despite the May 2023 announcement.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    }
+  ],
+  "gaps": [
+    "Obtain the full text of the 2027-2031 APC manifesto (From Reform to Prosperity / Renewed Hope 2.0) and any costing annex; current plan entries rely on press summaries.",
+    "Locate NBS labour-force data after Q2 2024 and any 2025-2026 crime survey to assess jobs and security trends.",
+    "Confirm whether Section 1 of the Lagos-Calabar Coastal Highway was fully completed/inaugurated in 2026 and obtain audited contract sums per section.",
+    "Retrieve Budget Office budget-implementation reports (2023-2025) and Auditor-General findings for federal accounts.",
+    "Verify the education claims on the existing profile page (Nigerian Law School 'Barrister at Law' and a University of Lagos master's degree); no supporting source was found in this pass.",
+    "Read the full Supreme Court judgment (15 December 2025) on the Rivers emergency to settle conflicting reports on the suspension power.",
+    "Obtain the 1993 Northern District of Illinois forfeiture docket (primary court record) rather than relying on secondary reporting.",
+    "Check status of FOIA litigation (Greenspan v. FBI/DEA) after October 2026.",
+    "Collect primary NBS/CBN releases for inflation, GDP and reserves instead of news intermediaries.",
+    "Review the AdvoKC BAT-O-METER third-year report for promise-level scores.",
+    "Confirm 2023 Renewed Hope document page reference for the double-digit growth target."
+  ]
+}

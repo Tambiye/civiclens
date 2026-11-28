@@ -1,0 +1,462 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "oluseyi-abiodun-makinde",
+  "name": "Oluseyi Abiodun Makinde",
+  "researchVersion": 1,
+  "status": "RESEARCHED",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Oluseyi Abiodun Makinde",
+    "commonName": "Seyi Makinde",
+    "born": "1967-12-25",
+    "stateOfOrigin": "Oyo",
+    "party": "Allied Peoples Movement (APM)",
+    "partyHistory": [
+      { "party": "Peoples Democratic Party (PDP)", "period": "elected governor on the PDP platform in 2019 and 2023; still described as a PDP governor in May 2026", "sourceIds": ["s2", "s31", "s32"] },
+      { "party": "Allied Peoples Movement (APM)", "period": "2026 to date (presidential candidate under a PDP-APM memorandum of understanding)", "sourceIds": ["s2", "s3"] }
+    ],
+    "currentOffice": "Governor of Oyo State",
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": true,
+    "education": [
+      { "credential": "B.Sc. (Hons) Electrical Engineering", "institution": "University of Lagos", "year": "1990", "sourceIds": ["s34"] }
+    ],
+    "professional": [
+      "Electrical engineer",
+      "Founder of Makon Engineering and Technical Services (1997), later Makon Group (oil and gas, power); resigned in 2018 according to a 2024 speaker profile"
+    ]
+  },
+  "career": [
+    { "period": "c. 1990-1997", "title": "Oil and gas engineering", "description": "Worked for about five years with international oil and gas companies after graduating. Sources differ on whether his Shell experience was an industrial attachment or post-graduation employment.", "kind": "professional", "sourceIds": ["s34"] },
+    { "period": "1997-2018", "title": "Founder, Makon Engineering and Technical Services / Makon Group", "description": "Founded an engineering services company that grew into a group working in oil and gas and power generation and distribution. A 2024 profile says he resigned in 2018 to contest the governorship.", "kind": "professional", "sourceIds": ["s34"] },
+    { "period": "2019-present", "title": "Governor of Oyo State", "description": "Elected in March 2019 on the PDP platform and re-elected in March 2023. The second term ends in May 2027.", "kind": "political-office", "sourceIds": ["s31", "s32", "s2"] },
+    { "period": "May 2026", "title": "Presidential declaration and APM nomination", "description": "Declared for the presidency on 14 May 2026 at a joint PDP-APM rally in Ibadan after signing a PDP-APM memorandum of understanding; received the APM certificate of return after the party's Ibadan primary (reported 30 May 2026).", "kind": "candidacy", "sourceIds": ["s2", "s3"] },
+    { "period": "August 2026", "title": "Running mate named", "description": "Named Lawal Musa Daura, a former Director-General of the State Security Service, as running mate. Daura had left the ADC four days earlier.", "kind": "candidacy", "sourceIds": ["s4"] },
+    { "period": "November 2026", "title": "Manifesto launch", "description": "Unveiled 'The Reset Agenda', a four-pillar programme (economy, security, education, socio-political reset) with three years of principal commitments and a fourth year of consolidation.", "kind": "candidacy", "sourceIds": ["s5", "s6"] }
+  ],
+  "elections": [
+    { "year": "2019", "office": "Governor of Oyo State", "party": "PDP", "result": "Won: 515,621 votes to 357,982 for Adebayo Adelabu (APC), per INEC as reported by Channels; the tribunal later upheld the result.", "sourceIds": ["s31"] },
+    { "year": "2023", "office": "Governor of Oyo State", "party": "PDP", "result": "Re-elected: 563,756 votes to 256,685 for Teslim Folarin (APC), declared 19 March 2023.", "sourceIds": ["s32"] },
+    { "year": "2026", "office": "APM presidential primary", "party": "APM", "result": "Nominated; all state chapters and the FCT chapter endorsed him. No vote count was reported.", "sourceIds": ["s3"] },
+    { "year": "2027", "office": "President of Nigeria", "party": "APM", "result": "Listed as the APM candidate on INEC's final list. The election is pending.", "sourceIds": ["s1"] }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "moderate",
+      "basis": "mixed",
+      "summary": "As governor he grew Oyo's own revenue, but the state still relies mostly on federal transfers and recorded high food inflation. His presidential economic plan is detailed on refineries, fuel pricing and fiscal targets, but its costs are not stated.",
+      "analysis": "As governor, Makinde controls only state-level levers: taxes and levies, agriculture programmes, investment promotion and state spending. Inflation, the exchange rate, fuel pricing and federal taxes belong to the CBN and the federal government. FIRS reported that Oyo's internally generated revenue rose to ₦65.28 billion in 2024 from ₦52.74 billion in 2023, after ₦62.24 billion in 2022 (FACT). The FIRS chairman put cumulative growth since 2019 at 145.5 per cent. Even so, a Premium Times analysis of his manifesto notes that federal allocations still made up 86.7 per cent of Oyo's 2024 recurrent revenue, and that Oyo recorded 34.41 per cent year-on-year food inflation in March 2025 (FACT). That was the period of national fuel-subsidy removal and naira devaluation, which pushed prices up in every state.\n\nFor the presidency, he proposes independent refinery assessments within six months and a decision on each refinery within 12 months. He also proposes a Domestic Energy Value Credit that would pay households a share of crude value without fixing pump prices, preserved CBN independence with a published inflation target, and no preferential FX windows (PROMISE). His plan names Oyo's Fasola agribusiness hub as a model. ANALYSIS: the plan sets targets and deadlines, but the press coverage reviewed gives no cost estimate for the energy credit and no financing for priority road corridors beyond redirecting existing spending.",
+      "strengths": [
+        "Documented IGR growth over his tenure, reported by the federal tax authority",
+        "Manifesto commits to measurable fiscal and refinery milestones with deadlines"
+      ],
+      "limitations": [
+        "Oyo remained heavily dependent on federal allocations",
+        "State food inflation was high in 2025, though driven largely by national factors",
+        "Cost of the proposed Domestic Energy Value Credit is not published in the sources reviewed"
+      ],
+      "unknowns": [
+        "Full manifesto costing",
+        "Independent data on Oyo GDP or poverty change during his tenure"
+      ],
+      "metrics": [
+        { "label": "Oyo IGR", "value": "₦65.28bn", "period": "2024", "note": "Up 23.78% on 2023 (₦52.74bn)", "sourceIds": ["s8"] },
+        { "label": "Federal allocations share of recurrent revenue", "value": "86.7%", "period": "2024", "sourceIds": ["s6"] },
+        { "label": "Oyo food inflation (y/y)", "value": "34.41%", "period": "March 2025", "sourceIds": ["s6"] }
+      ],
+      "sourceIds": ["s6", "s8", "s33", "s5"],
+      "verification": "AI_DRAFT"
+    },
+    "security": {
+      "evidence": "moderate",
+      "basis": "mixed",
+      "summary": "He governed through serious insecurity, including the May 2026 mass school abduction in Oriire, using Amotekun and coordination with federal forces. He proposes phased state police within three years.",
+      "analysis": "Nigeria's police and armed forces are federal, so a governor's security role is limited to funding, coordination and the state-backed Western Nigeria Security Network (Amotekun). In May 2026, gunmen attacked schools in Oriire Local Government Area. Makinde said 39 pupils and seven teachers were abducted and one teacher was killed, though another report gave a lower count (DISPUTED). The Defence Headquarters attributed the attack to a Boko Haram faction. At the end of May, the captives had not been released. Makinde said he was holding twice-daily security meetings, that nearly 200 Amotekun operatives had died since the corps was formed, and that he was willing to negotiate (RECORD/FACT). The sources reviewed do not report the outcome of the abduction.\n\nFor the presidency, he chose a former SSS Director-General as running mate, explicitly for security reasons. His manifesto sets out a phased state police plan: a legal framework in year one, training and oversight in year two, and compliant services by the end of year three. It adds lead-agency rules for threats, community recovery plans, and investigations into police extortion and extrajudicial killings (PROMISE). ANALYSIS: state police require a constitutional amendment, so the timeline depends on the National Assembly and state assemblies. No independent statistics on Oyo crime trends over his tenure were found.",
+      "strengths": [
+        "Specific, phased state-police timeline",
+        "Manifesto includes human-rights accountability commitments"
+      ],
+      "limitations": [
+        "Mass school abduction occurred in his state in 2026 and its outcome is not documented in sources reviewed",
+        "Amotekun capacity constraints acknowledged by the governor himself"
+      ],
+      "unknowns": [
+        "Oyo kidnapping and homicide trend data 2019-2026",
+        "Outcome of the Oriire abduction",
+        "Amotekun budget and arms status"
+      ],
+      "sourceIds": ["s23", "s4", "s5"],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "moderate",
+      "basis": "mixed",
+      "summary": "He abolished secondary-school fees in 2019 and approved teacher recruitment, but public schools faced teacher shortages. He proposes national foundational-learning targets.",
+      "analysis": "On taking office on 29 May 2019, Makinde scrapped the ₦3,000 levy paid by Oyo secondary-school students, fulfilling a campaign promise (RECORD). Other levies followed. Critics noted that external examination fees such as WAEC and NECO were not covered, and the government replied that it had never promised to pay them. The resulting rise in public-school enrolment worsened teacher shortages. Abolishing fees also removed the money schools had used to pay PTA-hired teachers. The governor approved recruitment, which his website describes as 7,000 teachers. A commentary one year in reported that post-primary recruitment was paused during COVID-19 and that primary-school gaps remained (UNVERIFIED as to final numbers). The World Bank provided a ₦3.5 billion grant to renovate 105 public primary schools under its Better Education Service Delivery for All programme. That project is co-designed and co-funded by external partners and cannot be credited wholly to the state.\n\nFederal education policy covers universities, student loans and UBEC transfers. His manifesto proposes a National Foundational Learning Guarantee: at least 50 per cent of Primary Three pupils meeting literacy standards and 65 per cent meeting numeracy standards within three years, and a 25 per cent cut in the gap between the best- and worst-performing states (PROMISE). ANALYSIS: primary schooling is run mainly by states and local governments, so a federal guarantee would depend on state cooperation and reliable learning data.",
+      "strengths": [
+        "Fee abolition delivered on day one as promised",
+        "Quantified national learning targets"
+      ],
+      "limitations": [
+        "Teacher shortages followed the enrolment increase",
+        "No independent learning-outcome data for Oyo found"
+      ],
+      "unknowns": [
+        "Number of teachers actually recruited 2019-2026",
+        "Oyo WAEC/NECO pass-rate trends",
+        "Cost of the foundational learning guarantee"
+      ],
+      "sourceIds": ["s17", "s18", "s19", "s20", "s5"],
+      "verification": "AI_DRAFT"
+    },
+    "healthcare": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Oyo pursued a one-functional-PHC-per-ward policy linked to federal Basic Health Care Provision Fund money. Critics say other clinics were neglected. He proposes a national essential primary-care guarantee.",
+      "analysis": "State governments run primary and secondary health facilities. Oyo has more than 760 primary health centres. Through a one-facility-per-ward policy, 351 of them, one in each ward, receive money from the federal Basic Health Care Provision Fund (BHCPF) (FACT, per TheCable's reporting). TheCable's field reporting describes improved maternal care at some funded facilities. A Leadership report argues the policy concentrates resources in the selected centres and leaves other rural clinics behind, which could harm rural residents (ANALYSIS by the outlet). The available figures on how many centres were renovated come from government statements or state-linked outlets, and they differ from one another, so this research does not treat any single completion figure as verified. BHCPF is a federal statutory fund. Improvements at funded PHCs therefore reflect shared federal-state financing and are not solely a state achievement.\n\nAs a presidential plan, his manifesto proposes an essential primary-care guarantee specifying the services, medicines, staff and referral arrangements a participating facility must provide. It also proposes expanded health insurance for poor and vulnerable people, focused on maternal care, immunisation and preventable disease (PROMISE). ANALYSIS: the plan follows the Oyo ward model, but the coverage reviewed gives no cost, staffing target or timeline.",
+      "strengths": [
+        "Clear primary-care focus consistent with his state record",
+        "Use of national BHCPF channel"
+      ],
+      "limitations": [
+        "Completion figures for PHC upgrades are government-sourced and inconsistent",
+        "Critics report neglect of non-selected facilities"
+      ],
+      "unknowns": [
+        "Oyo health budget share and release rates",
+        "Health-insurance enrolment figures verified independently",
+        "Maternal mortality trend in Oyo"
+      ],
+      "sourceIds": ["s21", "s22", "s5"],
+      "verification": "AI_DRAFT"
+    },
+    "infrastructure": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "The Ibadan Circular Road, conceived in 2002, was re-awarded under Makinde. Bridges on the first wing were reported largely complete in 2023, but the road was still unfinished and a land-acquisition dispute led to a corridor reduction in 2025.",
+      "analysis": "The Ibadan Circular Road is a multi-administration project. It was envisioned under Governor Lam Adesina in 2002 and surveyed under Rashidi Ladoja in 2005. Abiola Ajimobi revived it in 2017 as a build-operate-transfer PPP with the ENL Consortium, which had completed about 5.5 per cent when Makinde halted the work in October 2019 (RECORD). Litigation followed. Makinde's government awarded completion of the 110 km ring for ₦138.2 billion; the APC opposition criticised that cost. In March 2022, Craneburg Construction was engaged on the 32.2 km east wing. In July 2023 the contractor's engineer reported four of six bridges complete and two at 90 per cent. He said the deadline covered bridges and interchanges, not the road itself, and flooding was a problem. Status: partially-completed, with no independently verified overall completion figure found.\n\nIn November 2025, after protests by corridor residents, the government reduced land acquisition from 500 m to 150 m in developed areas. The 500 m width still applies in undeveloped areas. Officials denied allocating corridor land to private developers and said compensation would be paid in appropriate cases. They added that much of the land had been compensated under Ladoja, and that Ajimobi, not Makinde, had widened the corridor (RECORD; DISPUTED by residents). ANALYSIS: the project shows long-cycle state infrastructure where credit and delay are shared across administrations.",
+      "strengths": [
+        "Revived a long-stalled ring-road project with visible bridge works",
+        "Responded to resident protests by narrowing the corridor"
+      ],
+      "limitations": [
+        "Overall road not complete after seven years",
+        "Land-acquisition dispute and contested compensation",
+        "Contract cost criticised by opposition"
+      ],
+      "unknowns": [
+        "Current verified completion percentage of the full 110 km",
+        "Total paid to contractors to date",
+        "Outcome of ENL litigation"
+      ],
+      "sourceIds": ["s15", "s16"],
+      "verification": "AI_DRAFT"
+    },
+    "power": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Oyo was among the first states to take over regulation of its electricity market under the Electricity Act 2023. As of 2026 the market was still in transition. He proposes a coordinated national-state electricity market.",
+      "analysis": "The Electricity Act 2023 lets states regulate their own intrastate electricity markets. Oyo passed its State Electricity Regulatory Commission law in 2024. In August 2024, NERC transferred regulatory oversight of Oyo's market to the state regulator (RECORD/FACT). NERC's order directed the Ibadan Electricity Distribution Company (IBEDC) to set up a subsidiary within 60 days to take over its Oyo franchise and obtain a licence from the state regulator. It also made tariffs approved by the state commission the exclusive end-user tariffs in Oyo. In February 2026, NERC hosted the Oyo commission to coordinate the transition. Oyo officials have reported investor interest. This research found no evidence that the IBEDC subsidiary has been licensed, no published state tariff schedule, and no change in supply hours for residents. The transfer is a regulatory step, not yet a measured improvement in power supply.\n\nFor the presidency, the manifesto proposes a coordinated national and state electricity market in which states take more responsibility for intrastate distribution and local supply (PROMISE). ANALYSIS: this extends a reform already under way under the 2023 Act. Grid transmission, gas supply and generation remain federal and private-sector matters that the plan addresses only in outline. His professional background is in power and oil-and-gas engineering.",
+      "strengths": [
+        "Early mover on state electricity market under the 2023 Act",
+        "Relevant engineering background"
+      ],
+      "limitations": [
+        "No measured supply or tariff outcomes yet",
+        "National generation/transmission/gas plans not detailed in sources reviewed"
+      ],
+      "unknowns": [
+        "Status of IBEDC Oyo subsidiary licensing",
+        "Oyo end-user tariff decisions",
+        "Off-grid/rural electrification results"
+      ],
+      "sourceIds": ["s24", "s35", "s5"],
+      "verification": "AI_DRAFT"
+    },
+    "jobs": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "His jobs record rests mainly on agribusiness programmes such as the Fasola hub, and the job figures come from the government. He proposes crop-specific value-chain plans but has published no national jobs target.",
+      "analysis": "Employment outcomes are shaped largely by national macroeconomic conditions. A state can mainly influence agriculture, MSME support and investment promotion. The Oyo government reports that the Fasola Industrial Hub attracted more than ₦10 billion in private investment and created 1,500 direct and indirect jobs (UNVERIFIED: government figure). A Premium Times analysis of his manifesto cites about ₦20 billion in private investment, 16 companies and training for over 5,000 young people. The two sets of figures differ, and no independent audit of job creation was found. The state also runs youth agribusiness training and credit schemes with private banks. No current Oyo unemployment rate was found, because NBS state-level labour data is irregular.\n\nThe manifesto treats jobs as an outcome of lower production costs. It proposes delivery plans for priority crops (rice, maize, cassava, beans and tomatoes) covering inputs, financing, storage, processing and markets. Government would provide shared infrastructure and private investors would produce and employ (PROMISE). It also proposes a 'Tell Government Once' reform of 20 high-volume federal business processes in year one. ANALYSIS: the approach is mechanism-based but sets no job-creation target, so delivery would be hard to measure.",
+      "strengths": [
+        "Concrete agribusiness hub model with private investment",
+        "Business-process reform with a numeric year-one target"
+      ],
+      "limitations": [
+        "Job figures are government-reported and inconsistent",
+        "No national employment target"
+      ],
+      "unknowns": [
+        "Oyo unemployment trend 2019-2026",
+        "Independent evaluation of Fasola outcomes"
+      ],
+      "sourceIds": ["s33", "s6"],
+      "verification": "AI_DRAFT"
+    },
+    "finance": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "Under Makinde, IGR and reported budget performance rose. DMO-based data show debt stock falling to December 2025, while state budget reports show heavy new borrowing in 2025-2026, and the two have not been reconciled. BudgIT ranked Oyo low on fiscal transparency in Q4 2024.",
+      "analysis": "Oyo's budget grew from a ₦434.2 billion proposal for 2024 to a ₦684.1 billion 2025 appropriation, about half of it capital spending (FACT). The budget commissioner said budget performance improved from 57.4 per cent in 2019 to 71.4 per cent in 2024. These are the state's own figures; audited outturns were not reviewed. An analysis of DMO data by intelpoint reports external debt falling from about $137 million in June 2019 to $88 million in December 2025. The same analysis reports domestic debt falling from ₦99 billion to ₦77 billion over that period, after peaking at about ₦162 billion in 2022-2023 (FACT, secondary analysis of DMO data).\n\nSahara Reporters, citing the state's Q1 2026 budget performance document, reports borrowing of ₦62 billion in 2024, ₦219 billion in 2025 and ₦164.8 billion in January-March 2026, more than six times IGR in that quarter. It also reports a lawmaker's allegation that a ₦300 billion loan was approved during a legislative recess (UNVERIFIED; no government response reported). ANALYSIS: gross borrowing flows, short-term facilities and rollovers can differ from year-end stock, so these figures do not necessarily contradict each other, but they have not been reconciled. In its Q4 2024 fiscal transparency ranking, BudgIT placed Oyo among the lowest-scoring states. The Q1 2026 drawdown came as the state was moving into an election year.",
+      "strengths": [
+        "Rising IGR and reported budget-performance improvement",
+        "DMO-based debt stock lower in December 2025 than June 2019"
+      ],
+      "limitations": [
+        "Large reported borrowing in 2025-Q1 2026",
+        "Low BudgIT transparency score in Q4 2024",
+        "Legislator's allegation about recess loan approval unresolved"
+      ],
+      "unknowns": [
+        "Primary DMO figures for Oyo at 31 Dec 2025 and 30 June 2026",
+        "Auditor-General reports for 2019-2025",
+        "Purpose and terms of the 2025-2026 loans"
+      ],
+      "metrics": [
+        { "label": "2025 appropriation", "value": "₦684.1bn", "period": "2025", "sourceIds": ["s12"] },
+        { "label": "Budget performance (state-reported)", "value": "71.4%", "period": "2024", "sourceIds": ["s13"] },
+        { "label": "Domestic debt stock", "value": "₦77bn", "period": "Dec 2025", "note": "intelpoint analysis of DMO data", "sourceIds": ["s9"] },
+        { "label": "External debt stock", "value": "$88m", "period": "Dec 2025", "sourceIds": ["s9"] },
+        { "label": "Reported borrowing", "value": "₦164.8bn", "period": "Q1 2026", "note": "Sahara Reporters citing state budget performance document", "sourceIds": ["s11"] }
+      ],
+      "sourceIds": ["s9", "s10", "s11", "s12", "s13", "s14", "s8"],
+      "verification": "AI_DRAFT"
+    },
+    "leadership": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "He has run a state for two terms and built a cross-party PDP-APM arrangement, but the Supreme Court found he had dissolved elected councils unlawfully. He proposes a 'transitional government of national unity'.",
+      "analysis": "On assuming office in 2019, Makinde dissolved elected chairmen and councillors in Oyo's 33 local governments and 35 development areas, although a High Court had restrained the dissolution. In May 2021, the Supreme Court held this unconstitutional and said he had acted in contemptuous disregard of the High Court judgment. The councils were reinstated five days before their tenure ended, with salaries ordered paid. Makinde said he would comply (RECORD). In 2023, the Court of Appeal affirmed an order to pay ₦3.4 billion in outstanding entitlements to the former council officials.\n\nHis 2026 candidacy rests on an unusual arrangement: a sitting PDP governor running as the APM candidate under an undisclosed PDP-APM memorandum of understanding. Premium Times linked the arrangement to the PDP's leadership crisis (RECORD/ANALYSIS). He proposes a transitional government of national unity from 29 May 2027, a 100-day delivery plan and quarterly public scorecards (PROMISE). ANALYSIS: the scorecards would give voters a way to check delivery. Running the presidency would require coalition management across parties and a legislature where the APM has little presence, and his state record offers no comparable test.",
+      "strengths": [
+        "Two full terms of state executive experience",
+        "Pledged quarterly public scorecards"
+      ],
+      "limitations": [
+        "Supreme Court ruling against unlawful council dissolution",
+        "Untested coalition model at national level"
+      ],
+      "unknowns": [
+        "Composition of proposed government of national unity",
+        "Terms of PDP-APM memorandum"
+      ],
+      "sourceIds": ["s29", "s28", "s2", "s7", "s5"],
+      "verification": "AI_DRAFT"
+    },
+    "integrity": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "He publicly declared his assets in 2019. A court set aside an EFCC records request as overbroad, a civil-society petition over Bodija explosion funds was denied by the state, and he faced adverse rulings over the council dissolution. No criminal charge was found.",
+      "analysis": "In July 2019, Makinde made public his Code of Conduct Bureau declaration, reporting assets worth about ₦48.15 billion, mainly company holdings. He said the publication fulfilled a campaign pledge (RECORD).\n\nOn 2 June 2025, the EFCC wrote to the state Accountant-General requesting all contracts and payments to contractors from 2021. The state sued after, it says, the EFCC declined to identify specific targets. In July 2026, Justice Nkeonye Maha of the Federal High Court, Ibadan, set aside the request as a speculative 'fishing expedition' outside Section 38 of the EFCC Act (legalStatus: judgment). The ruling concerned the scope of the request. It did not find for or against any wrongdoing, and no appeal was reported.\n\nIn January 2026, HEDA petitioned the EFCC alleging misapplication of ₦30 billion in federal intervention funds released after the January 2024 Bodija explosion. The state replied that the ₦30 billion was untouched, that a ₦20 billion balance had not been released, and that it had spent its own funds on recovery (legalStatus: allegation, denied). Separately, courts ruled against his government over the 2019 dissolution of local councils (legalStatus: judgment). ANALYSIS: these are civil and constitutional rulings plus an unproven allegation. No criminal charge or conviction against him was found.",
+      "strengths": [
+        "Voluntary public asset declaration",
+        "No criminal charges found"
+      ],
+      "limitations": [
+        "Adverse Supreme Court and Court of Appeal rulings on council dissolution",
+        "Unresolved civil-society allegation about Bodija funds"
+      ],
+      "unknowns": [
+        "Whether the EFCC appealed the July 2026 judgment",
+        "Any EFCC action on the HEDA petition",
+        "Updated asset declaration for 2023"
+      ],
+      "sourceIds": ["s30", "s25", "s26", "s27", "s29", "s28"],
+      "verification": "AI_DRAFT"
+    },
+    "experience": {
+      "evidence": "strong",
+      "basis": "record",
+      "summary": "He has served seven-plus years as governor of a large state, after two decades as an engineer and founder of an oil, gas and power firm. He has no federal executive or legislative experience.",
+      "analysis": "Makinde graduated in electrical engineering from the University of Lagos in 1990. He spent about five years with international oil and gas firms, then founded Makon Engineering and Technical Services in 1997. It grew into a group active in oil and gas and power. A 2024 profile says he resigned in 2018 (FACT). He lost Oyo governorship bids before winning in 2019 with 515,621 votes and was re-elected in 2023 with 563,756 votes (FACT). Previous bids are not detailed in the sources reviewed.\n\nAs governor he has managed annual budgets that reached ₦684 billion in 2025. He has also dealt with a mass-casualty explosion in Ibadan, a mass school abduction, a contested land-acquisition programme, and one of the first state takeovers of electricity regulation. ANALYSIS: this is substantial sub-national executive experience in exactly the areas where his manifesto draws on Oyo models: primary health care, agribusiness hubs and state electricity markets. He has not held federal office, commanded federal security agencies, managed foreign relations, or worked with the National Assembly from the executive side. Those are core presidential functions where his record cannot be directly tested. The scale gap between a state budget and the federal budget is also material.",
+      "strengths": [
+        "Two terms as governor",
+        "Private-sector founder in energy",
+        "Experience of crisis management at state level"
+      ],
+      "limitations": [
+        "No federal or foreign-policy experience",
+        "No legislative experience"
+      ],
+      "unknowns": [
+        "Details of pre-2019 electoral bids",
+        "Independent assessment of Makon Group performance"
+      ],
+      "sourceIds": ["s34", "s31", "s32", "s12", "s24", "s23"],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "'The Reset Agenda' has four pillars, a three-plus-one-year delivery structure and several quantified targets. Full costing and the full text were not found.",
+      "analysis": "The manifesto was unveiled in November 2026 as 'The Reset Agenda: A Governing Programme for a Productive, Secure, Capable and Accountable Federation'. It is organised around economic, security, education and socio-political resets, with principal commitments in years one to three and consolidation in year four (PROMISE). Quantified targets reported include:\n- the federal deficit within the 3 per cent of GDP statutory ceiling by the end of year three;\n- the debt-service-to-revenue ratio cut from 67.22 per cent (January-September 2025) to no more than 50 per cent;\n- refinery decisions within 12 months;\n- state police operating by the end of year three;\n- Primary Three literacy at 50 per cent and numeracy at 65 per cent;\n- a 100-day delivery plan.\n\nThe socio-political pillar proposes reviewing federal, state and local responsibilities, transferring functions together with funding, a greater state role in mining licences, and letting states reorganise local councils (PROMISE). Earlier, he framed the campaign as undoing what he called the 'hard policies' of the current administration. ANALYSIS: the manifesto is unusually specific on deadlines and accountability. It relies on redirecting existing spending rather than new funding. Many items, including state police, devolution and council reorganisation, need constitutional amendments that require National Assembly and state assembly majorities. The full document was not available for this review, so the summary relies on press coverage.",
+      "strengths": [
+        "Quantified targets and deadlines",
+        "Built-in public scorecard mechanism"
+      ],
+      "limitations": [
+        "Costing not published in sources reviewed",
+        "Heavy dependence on constitutional amendments"
+      ],
+      "unknowns": [
+        "Full manifesto text",
+        "Revenue assumptions behind the deficit target"
+      ],
+      "sourceIds": ["s5", "s6", "s7"],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No foreign-policy platform was found. His relevant record is limited to state-level development-partner projects such as a World Bank education grant.",
+      "analysis": "Foreign policy is a federal power, so a governor's record touches it only through development-partner relationships. Oyo under Makinde implemented World Bank-assisted programmes, including a ₦3.5 billion grant for 105 primary schools. The press coverage of his manifesto reviewed for this research does not mention foreign policy, ECOWAS, trade agreements or diaspora policy. His running mate's security background may bear on regional security cooperation, but no stated position was found.",
+      "strengths": [],
+      "limitations": [
+        "No published foreign-policy positions found"
+      ],
+      "unknowns": [
+        "Positions on ECOWAS, AU, Sahel states and trade"
+      ],
+      "missing": [
+        "Foreign-policy chapter of the Reset Agenda, if any",
+        "Statements on ECOWAS and the Sahel juntas",
+        "Positions on trade agreements (AfCFTA) and foreign investment policy"
+      ],
+      "sourceIds": ["s20", "s5"],
+      "verification": "AI_DRAFT"
+    },
+    "humanImpact": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "Fee abolition lowered household school costs. Residents were affected by the circular-road land acquisition and by insecurity, while food inflation was mainly national in origin.",
+      "analysis": "The clearest documented household effect of his tenure is the 2019 abolition of the ₦3,000 secondary-school levy and other in-school fees. It cut direct costs for families using public schools, though external exam fees remained (RECORD). On the other side, residents along the Ibadan Circular Road corridor protested in 2025 over demolition markings and land acquisition. The government narrowed the corridor to 150 m in developed areas and said it would pay compensation in appropriate cases. How many households were finally affected or compensated is not documented in the sources reviewed (UNVERIFIED).\n\nInsecurity directly harmed residents. The May 2026 Oriire abduction took schoolchildren and teachers from rural communities. The governor reported that nearly 200 Amotekun operatives had died over six years. Food inflation in Oyo reached 34.41 per cent in March 2025. ANALYSIS: that was mainly the result of national subsidy removal, exchange-rate changes and insecurity in food-producing areas, not of state policy. The state says its transport-support programmes eased costs, and he proposes to scale them nationally, but no independent evaluation was found.",
+      "strengths": [
+        "Direct cost relief through fee abolition"
+      ],
+      "limitations": [
+        "Displacement and compensation disputes on the circular road",
+        "No independent evaluation of state transport and welfare programmes"
+      ],
+      "unknowns": [
+        "Number of households affected by circular-road acquisition",
+        "Poverty trend data for Oyo"
+      ],
+      "sourceIds": ["s17", "s16", "s23", "s6", "s3"],
+      "verification": "AI_DRAFT"
+    },
+    "promises": {
+      "evidence": "moderate",
+      "basis": "mixed",
+      "summary": "Several 2019 state promises were delivered visibly, including fee abolition and asset declaration. His presidential promises are specific and time-bound but depend on legislation.",
+      "analysis": "Two promises from his 2019 governorship campaign are well documented: abolishing secondary-school fees, done on inauguration day, and publicly declaring his assets, done in July 2019 (RECORD). His teacher-recruitment commitment was only partly implemented on the available evidence. The circular road, revived under his administration, remains incomplete (RECORD).\n\nAs a presidential candidate he is an aspirant for that office. His promises are therefore judged on specificity, not delivery. The Reset Agenda attaches deadlines to most commitments: refinery assessments in six months and decisions in 12; a delivery plan in 100 days; state police by the end of year three; deficit and debt-service targets by the end of year three; and foundational learning targets within three years. It also commits to quarterly public scorecards rating each promise as completed, on track, delayed or not achieved (PROMISE). ANALYSIS: by Nigerian campaign standards this is a high degree of specificity. The main feasibility risks are constitutional amendments, oil-revenue assumptions behind the Domestic Energy Value Credit, and the absence of published costs. Some reports describe the timeline as four years and others as three years plus consolidation. That difference is a matter of framing, not substance.",
+      "strengths": [
+        "Delivered high-visibility 2019 promises",
+        "Time-bound presidential commitments with a scorecard"
+      ],
+      "limitations": [
+        "Some 2019 promises only partly delivered",
+        "Presidential promises lack published costing"
+      ],
+      "unknowns": [
+        "Full 2019 promise list and an independent tracker of delivery"
+      ],
+      "sourceIds": ["s17", "s30", "s18", "s15", "s5", "s6"],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    { "id": "rec1", "title": "Abolition of secondary-school fees", "kind": "policy", "label": "RECORD", "period": "May 2019", "office": "Governor of Oyo State", "description": "Scrapped the ₦3,000 levy and other in-school fees in state secondary schools on inauguration day. External exam fees (WAEC, NECO) were not covered.", "categories": ["education", "humanImpact", "promises"], "sourceIds": ["s17", "s18"] },
+    { "id": "rec2", "title": "Teacher recruitment", "kind": "decision", "label": "RECORD", "period": "2019-2020", "office": "Governor of Oyo State", "description": "Approved teacher recruitment after enrolment rose. Post-primary recruitment was reportedly paused during COVID-19 and primary gaps persisted; final numbers are unverified.", "categories": ["education"], "sourceIds": ["s19", "s18"] },
+    { "id": "rec3", "title": "Ibadan Circular Road (Senator Rashidi Ladoja Circular Road)", "kind": "project", "label": "RECORD", "period": "2019-present", "office": "Governor of Oyo State", "status": "partially-completed", "description": "Conceived in 2002, surveyed in 2005 and revived as a PPP in 2017. Makinde halted the ENL Consortium works at about 5.5% in October 2019, awarded completion for ₦138.2bn and engaged Craneburg on the 32.2 km east wing in 2022. Bridges were reported largely complete in July 2023; the road itself was not complete.", "categories": ["infrastructure", "finance"], "sourceIds": ["s15"] },
+    { "id": "rec4", "title": "Circular-road corridor reduced to 150 m", "kind": "decision", "label": "RECORD", "period": "November 2025", "office": "Governor of Oyo State", "description": "After protests, cut land acquisition from 500 m to 150 m in developed areas. Officials denied allocating land to developers.", "categories": ["infrastructure", "humanImpact"], "sourceIds": ["s16"] },
+    { "id": "rec5", "title": "IGR growth", "kind": "outcome", "label": "FACT", "period": "2019-2024", "office": "Governor of Oyo State", "description": "IGR reached ₦65.28bn in 2024 (₦52.74bn in 2023). The FIRS chairman cited 145.5% growth since 2019.", "categories": ["finance", "economy"], "sourceIds": ["s8"] },
+    { "id": "rec6", "title": "Debt stock trend", "kind": "outcome", "label": "FACT", "period": "June 2019-December 2025", "office": "Governor of Oyo State", "description": "According to intelpoint's analysis of DMO data, external debt fell from about $137m to $88m and domestic debt from ₦99bn to ₦77bn, after a 2022-2023 peak of about ₦162bn.", "categories": ["finance"], "sourceIds": ["s9", "s10"] },
+    { "id": "rec7", "title": "Heavy borrowing 2025-Q1 2026", "kind": "unresolved", "label": "UNVERIFIED", "period": "2025-2026", "office": "Governor of Oyo State", "description": "Sahara Reporters, citing the state's budget performance document, reports ₦219bn borrowed in 2025 and ₦164.8bn in Q1 2026. These figures have not been reconciled with DMO stock data, and a lawmaker's allegation about approval of a ₦300bn loan during recess is unresolved.", "categories": ["finance"], "sourceIds": ["s11"] },
+    { "id": "rec8", "title": "Low fiscal-transparency ranking", "kind": "outcome", "label": "FACT", "period": "Q4 2024", "office": "Governor of Oyo State", "description": "BudgIT's Q4 2024 State Fiscal Transparency League ranked Oyo among the lowest-scoring states.", "categories": ["finance", "integrity"], "sourceIds": ["s14"] },
+    { "id": "rec9", "title": "State electricity market takeover", "kind": "policy", "label": "RECORD", "period": "2024-2026", "office": "Governor of Oyo State", "description": "Oyo's regulator law was passed in 2024 and NERC transferred oversight in August 2024, ordering IBEDC to form an Oyo subsidiary. The transition was still ongoing in 2026.", "categories": ["power"], "sourceIds": ["s24", "s35"] },
+    { "id": "rec10", "title": "Fasola agribusiness hub", "kind": "outcome", "label": "UNVERIFIED", "period": "2019-2026", "office": "Governor of Oyo State", "description": "The government reports more than ₦10bn in private investment and 1,500 jobs; a later account cites about ₦20bn and 16 companies. The figures have not been independently verified.", "categories": ["jobs", "economy"], "sourceIds": ["s33", "s6"] },
+    { "id": "rec11", "title": "Unlawful dissolution of local councils", "kind": "controversy", "label": "FACT", "period": "2019-2021", "office": "Governor of Oyo State", "legalStatus": "judgment", "description": "The Supreme Court (7 May 2021) held the 2019 dissolution of elected councils unconstitutional and contrary to a High Court restraining order, and ordered salaries paid. Makinde said he would comply.", "categories": ["integrity", "leadership"], "sourceIds": ["s29"] },
+    { "id": "rec12", "title": "₦3.4bn council entitlements judgment", "kind": "controversy", "label": "FACT", "period": "December 2023", "office": "Governor of Oyo State", "legalStatus": "judgment", "description": "The Court of Appeal affirmed an order directing payment of a ₦3.4bn balance to former council officials, with ₦50m costs.", "categories": ["integrity", "finance"], "sourceIds": ["s28"] },
+    { "id": "rec13", "title": "EFCC request for Oyo contracts set aside", "kind": "controversy", "label": "FACT", "period": "June 2025-July 2026", "office": "Governor of Oyo State", "legalStatus": "judgment", "description": "The Federal High Court, Ibadan, set aside the EFCC's 2 June 2025 request for all contracts since 2021 as an overbroad 'fishing expedition'. The ruling is not a finding on wrongdoing, and no appeal was reported.", "categories": ["integrity"], "sourceIds": ["s25"] },
+    { "id": "rec14", "title": "HEDA petition over Bodija explosion funds", "kind": "controversy", "label": "DISPUTED", "period": "January 2026", "office": "Governor of Oyo State", "legalStatus": "denied", "description": "HEDA alleged misapplication of ₦30bn in federal intervention funds. The state said the money was untouched and that a ₦20bn balance remained unpaid. This is an allegation, not a finding.", "categories": ["integrity"], "sourceIds": ["s26", "s27"] },
+    { "id": "rec15", "title": "Public asset declaration", "kind": "decision", "label": "RECORD", "period": "July 2019", "office": "Governor of Oyo State", "description": "Published his CCB declaration showing about ₦48.15bn in assets, mostly company value.", "categories": ["integrity", "promises"], "sourceIds": ["s30"] },
+    { "id": "rec16", "title": "Oriire school abduction", "kind": "unresolved", "label": "FACT", "period": "May 2026", "office": "Governor of Oyo State", "description": "Gunmen attacked schools in Oriire LGA. The governor gave 39 pupils and 7 teachers taken and one teacher killed; another report gave a lower count. Captives had not been freed as of 31 May 2026.", "categories": ["security", "humanImpact"], "sourceIds": ["s23"] }
+  ],
+  "plans": [
+    { "id": "pl1", "title": "Phased state police", "label": "PROMISE", "category": "security", "outcome": "State police services operating under a federal framework", "method": "Year 1 legal framework and recruitment rules; year 2 training and oversight; compliant services by end of year 3", "timeline": "3 years", "dependencies": "Constitutional amendment by National Assembly and state assemblies", "risks": "Abuse by state governments; funding disparities between states", "sourceIds": ["s5"] },
+    { "id": "pl2", "title": "Refinery assessment and restructuring", "label": "PROMISE", "category": "economy", "outcome": "Each state-owned refinery operated privately, converted or decommissioned", "method": "Independent assessments in 6 months; a path for each refinery in 12 months; deals within 18 months", "timeline": "6-36 months", "sourceIds": ["s6", "s5"] },
+    { "id": "pl3", "title": "Domestic Energy Value Credit", "label": "PROPOSAL", "category": "economy", "outcome": "Households and businesses receive a share of crude value on locally refined fuel", "method": "A credit set as a percentage of the budget benchmark crude price, plus a windfall share, with digital verification", "funding": "Within fiscal limits; no fixed pump price or open-ended subsidy, per the plan", "risks": "Oil-price dependence; administrative leakage", "sourceIds": ["s6"] },
+    { "id": "pl4", "title": "Fiscal targets", "label": "PROMISE", "category": "finance", "outcome": "Deficit at or below 3% of GDP; debt service at or below 50% of revenue", "target": "Debt service down from 67.22% (Jan-Sep 2025) to at most 50%", "timeline": "End of year 3", "dependencies": "CBN independence; revenue growth", "sourceIds": ["s6"] },
+    { "id": "pl5", "title": "National Foundational Learning Guarantee", "label": "PROMISE", "category": "education", "outcome": "Basic literacy and numeracy by end of Primary 3", "target": "50% literacy and 65% numeracy at minimum standard; learning gap between states cut by 25%", "timeline": "3 years", "dependencies": "State and LGA cooperation on basic education", "sourceIds": ["s5"] },
+    { "id": "pl6", "title": "Essential primary-care guarantee", "label": "PROMISE", "category": "healthcare", "outcome": "Defined services, medicines and staff at participating PHCs, plus wider insurance for the vulnerable", "sourceIds": ["s5"] },
+    { "id": "pl7", "title": "Coordinated national-state electricity market", "label": "PROPOSAL", "category": "power", "outcome": "States take more responsibility for intrastate distribution and supply", "sourceIds": ["s5"] },
+    { "id": "pl8", "title": "Devolution and fiscal restructuring", "label": "PROPOSAL", "category": "vision", "outcome": "Functions moved to states with matching funds; a state role in mining licences; states able to reorganise councils", "dependencies": "Constitutional amendments", "sourceIds": ["s5"] },
+    { "id": "pl9", "title": "Crop value-chain plans", "label": "PROPOSAL", "category": "jobs", "outcome": "Higher domestic food production and processing jobs", "method": "Delivery plans for rice, maize, cassava, beans and tomatoes; a Federal-State Road Compact for priority corridors", "sourceIds": ["s6"] },
+    { "id": "pl10", "title": "Delivery plan and public scorecards", "label": "PROMISE", "category": "promises", "outcome": "Public accountability for every commitment", "method": "Reset Delivery Plan within 100 days; quarterly scorecards", "timeline": "100 days, then quarterly", "sourceIds": ["s5", "s6"] },
+    { "id": "pl11", "title": "Transitional government of national unity", "label": "PROMISE", "category": "leadership", "outcome": "Broad-based government from 29 May 2027", "sourceIds": ["s7"] }
+  ],
+  "test": [
+    { "questionId": "r1", "answer": "Yes. The manifesto names the drivers it targets: production costs, insecurity, power, storage losses and financing costs, plus a 67.22% debt-service ratio and learning gaps.", "assessment": "yes", "sourceIds": ["s5", "s6"] },
+    { "questionId": "r2", "answer": "Largely. Refinery paths, a phased state-police timeline, learning targets and fiscal ratios are specific. Housing and foreign policy are not.", "assessment": "partly", "sourceIds": ["s5", "s6"] },
+    { "questionId": "r3", "answer": "Partly. Several items draw on Oyo pilots (ward PHCs, Fasola hub, state electricity market), but independent evaluations of those pilots were not found.", "assessment": "partly", "sourceIds": ["s6", "s21", "s33"] },
+    { "questionId": "r4", "answer": "Unclear. The plan relies on redirecting existing spending and on fiscal limits; costing of the energy credit and other items was not published in the sources reviewed.", "assessment": "unknown", "sourceIds": ["s6"] },
+    { "questionId": "r5", "answer": "Partly. Three years for state police and refinery restructuring is ambitious given that constitutional amendments are needed.", "assessment": "partly", "sourceIds": ["s5"] },
+    { "questionId": "r6", "answer": "Partly. Refineries, fiscal policy and federal security fall within presidential authority. Basic education, state police and devolution depend on states and constitutional change.", "assessment": "partly", "sourceIds": ["s5"] },
+    { "questionId": "r7", "answer": "Yes. State police, devolution and council reorganisation need constitutional amendments, and the fiscal measures need appropriation.", "assessment": "yes", "sourceIds": ["s5", "s6"] },
+    { "questionId": "r8", "answer": "Partly. Coverage notes the need for amendments and federal-state cooperation, but no formal risk section was found.", "assessment": "partly", "sourceIds": ["s6"] },
+    { "questionId": "r9", "answer": "Partly. The running mate (a former SSS Director-General) is known; no cabinet or delivery-unit team has been announced.", "assessment": "partly", "sourceIds": ["s4"] },
+    { "questionId": "r10", "answer": "Yes, at state level: two terms as governor, with fee abolition, state electricity regulation and ward PHC policies. There is no federal execution record.", "assessment": "yes", "sourceIds": ["s17", "s24", "s21"] }
+  ],
+  "sources": [
+    { "id": "s1", "title": "Final List of Presidential and National Assembly Candidates for the 2027 Elections", "url": "https://inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf", "publisher": "Independent National Electoral Commission", "type": "electoral", "published": "2026-09", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Makinde listed as APM presidential candidate (cited from the existing profile page; not reopened in this pass).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "s2", "title": "Makinde declares 2027 presidential bid under APM", "url": "https://www.premiumtimesng.com/news/headlines/879461-updated-makinde-declares-2027-presidential-bid-under-apm.html", "publisher": "Premium Times", "type": "news", "published": "2026-05-14", "accessed": "2026-11-28", "categories": ["leadership", "experience"], "claim": "Declaration at a joint PDP-APM rally; memorandum of understanding signed; still a PDP governor.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s3", "title": "2027: Makinde emerges APM presidential candidate, pledges to reform national security", "url": "https://www.premiumtimesng.com/regional/ssouth-west/884046-2027-makinde-emerges-apm-presidential-candidate-pledges-to-reform-national-security.html", "publisher": "Premium Times", "type": "news", "published": "2026-05-30", "accessed": "2026-11-28", "categories": ["security", "economy", "humanImpact"], "claim": "APM nomination, endorsement by all chapters, early pledges including expanding transport support.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s4", "title": "Four days after exiting ADC, ex-chief of SSS Lawal Daura picks APM's VP slot", "url": "https://www.premiumtimesng.com/news/top-news/902925-four-days-after-exiting-adc-ex-chief-of-sss-lawal-daura-picks-apms-vp-slot.html", "publisher": "Premium Times", "type": "news", "published": "2026-08", "accessed": "2026-11-28", "categories": ["security", "leadership"], "claim": "Lawal Musa Daura named running mate.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s5", "title": "What Seyi Makinde's 2027-2031 manifesto promises on the economy, security and education", "url": "https://www.arise.tv/what-seyi-makindes-2027-2031-manifesto-promises-on-the-economy-security-and-education/", "publisher": "Arise News", "type": "news", "published": "2026-11-11", "accessed": "2026-11-28", "categories": ["vision", "security", "education", "healthcare", "power", "promises"], "claim": "Reset Agenda pillars, targets and timelines.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s6", "title": "Manifesto: How Makinde's economic agenda targets refinery overhaul, food production and fiscal reforms", "url": "https://allafrica.com/stories/202611170676.html", "publisher": "Premium Times via AllAfrica", "type": "news", "published": "2026-11-17", "accessed": "2026-11-28", "categories": ["economy", "finance", "jobs", "vision"], "claim": "Economic pillar details; Oyo food inflation of 34.41% (March 2025); 86.7% federal share of 2024 recurrent revenue.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s7", "title": "2027: Makinde vows to undo Tinubu's hard policies, reset Nigeria in four years", "url": "https://www.arise.tv/2027-makinde-vows-to-undo-tinubus-hard-policies-reset-nigeria-in-four-years/", "publisher": "Arise News", "type": "news", "published": "2026-09-29", "accessed": "2026-11-28", "categories": ["vision", "leadership"], "claim": "Four-year reset and transitional government of national unity.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s8", "title": "Oyo State IGR performance hits N65.2 billion in 2024 - FIRS", "url": "https://nairametrics.com/2025/05/26/oyo-state-igr-performance-hits-n65-2-billion-in-2024-firs/", "publisher": "Nairametrics", "type": "news", "published": "2025-05-26", "accessed": "2026-11-28", "categories": ["finance", "economy"], "claim": "IGR 2021-2024 figures and 145.5% growth claim.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s9", "title": "Oyo has reduced external debt by 36% and domestic debt by 22% under Makinde", "url": "https://intelpoint.co/insights/oyo-has-reduced-external-debt-by-36-and-domestic-debt-by-22-under-makinde/", "publisher": "Intelpoint", "type": "statistics", "published": null, "accessed": "2026-11-28", "categories": ["finance"], "claim": "Debt stock June 2019 vs December 2025, based on DMO data.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s10", "title": "Sub-national debts", "url": "https://dmo.gov.ng/debt-profile/sub-national-debts", "publisher": "Debt Management Office", "type": "official", "published": null, "accessed": "2026-11-28", "categories": ["finance"], "claim": "Primary source for state debt stock (individual files could not be opened in this pass).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "s11", "title": "Oyo government under Makinde in three months borrows N164.8billion, which is six times its IGR", "url": "https://saharareporters.com/2026/05/01/oyo-government-under-makinde-three-months-borrows-n1648billion-which-six-times-its", "publisher": "Sahara Reporters", "type": "news", "published": "2026-05-01", "accessed": "2026-11-28", "categories": ["finance"], "claim": "Borrowing of ₦62bn (2024), ₦219bn (2025) and ₦164.8bn (Q1 2026); lawmaker's allegation about loan approval during recess.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s12", "title": "Oyo State: Makinde signs N684 billion 2025 budget into law, targets 80% implementation", "url": "https://nairametrics.com/2024/12/24/oyo-state-makinde-signs-n684-billion-2025-budget-into-law-targets-80-implementation/", "publisher": "Nairametrics", "type": "news", "published": "2024-12-24", "accessed": "2026-11-28", "categories": ["finance", "experience"], "claim": "2025 appropriation of ₦684.1bn.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s13", "title": "Oyo: We've Improved Budget Performance, Impacted Lives Positively, Says Commissioner", "url": "https://www.thisdaylive.com/2025/07/15/oyo-weve-improved-budget-performance-impacted-lives-positively-says-commissioner", "publisher": "ThisDay", "type": "news", "published": "2025-07-15", "accessed": "2026-11-28", "categories": ["finance"], "claim": "Budget performance up from 57.4% (2019) to 71.4% (2024), per the commissioner.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s14", "title": "Oyo, Bayelsa, Nasarawa rank low in 2024 Q4 fiscal transparency - Report", "url": "https://guardian.ng/?p=2585252", "publisher": "The Guardian (Nigeria)", "type": "news", "published": "2025", "accessed": "2026-11-28", "categories": ["finance", "integrity"], "claim": "BudgIT ranked Oyo among the lowest states on fiscal transparency in Q4 2024.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s15", "title": "Is Ibadan circular road becoming a reality?", "url": "https://tribuneonlineng.com/is-ibadan-circular-road-becoming-a-reality/", "publisher": "Nigerian Tribune", "type": "news", "published": "2023-07-21", "accessed": "2026-11-28", "categories": ["infrastructure", "finance"], "claim": "Project origin, halting of the ENL contract, ₦138.2bn award, Craneburg bridge progress.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s16", "title": "Makinde reduces Ibadan Circular Road corridor to 150 metres", "url": "https://leadership.ng/just-in-makinde-reduces-ibadan-circular-road-corridor-to-150-metres/", "publisher": "Leadership", "type": "news", "published": "2025-11-12", "accessed": "2026-11-28", "categories": ["infrastructure", "humanImpact"], "claim": "Corridor cut from 500 m to 150 m in developed areas; compensation statements; denial of developer allocation.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s17", "title": "Oyo Gov Scraps School Fees", "url": "https://www.thisdaylive.com/2019/05/30/oyo-gov-scraps-school-fees", "publisher": "ThisDay", "type": "news", "published": "2019-05-30", "accessed": "2026-11-28", "categories": ["education", "humanImpact", "promises"], "claim": "₦3,000 secondary-school levy abolished on inauguration.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s18", "title": "Seyi Makinde's first year in office: Hits and misses", "url": "https://www.legit.ng/1339371-seyi-makindes-year-office-hits-misses-by-lati-abayomi.html", "publisher": "Legit.ng (opinion)", "type": "news", "published": "2020", "accessed": "2026-11-28", "categories": ["education", "promises"], "claim": "Fees and levies scrapped; WAEC/NECO not covered; teacher recruitment halted by COVID-19.", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "s19", "title": "Makinde grants approval for recruitment of teachers, warns against sabotaging free education policy", "url": "https://guardian.ng/?p=1049500", "publisher": "The Guardian (Nigeria)", "type": "news", "published": "2020", "accessed": "2026-11-28", "categories": ["education"], "claim": "Teacher recruitment approved to address shortages after fee abolition.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s20", "title": "World Bank grants N3.5 billion to Oyo for renovation of 105 primary schools", "url": "https://gazettengr.com/world-bank-grants-n3-5-billion-to-oyo-for-renovation-of-105-primary-schools/", "publisher": "Peoples Gazette", "type": "news", "published": null, "accessed": "2026-11-28", "categories": ["education", "foreign"], "claim": "World Bank BESDA grant for 105 schools.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s21", "title": "Tracking impact: Inside Oyo PHCs where BHCPF is making difference in maternal healthcare", "url": "https://www.thecable.ng/tracking-impact-inside-oyo-phcs-where-bhcpf-is-making-difference-in-maternal-healthcare", "publisher": "TheCable", "type": "news", "published": null, "accessed": "2026-11-28", "categories": ["healthcare"], "claim": "More than 760 PHCs in Oyo, of which 351 (one per ward) are funded by BHCPF.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s22", "title": "How one-PHC-per-ward policy threatens lives of rural dwellers in Oyo State", "url": "https://leadership.ng/how-one-phc-per-ward-policy-threatens-lives-of-rural-dwellers-in-oyo-state/", "publisher": "Leadership", "type": "investigative", "published": null, "accessed": "2026-11-28", "categories": ["healthcare"], "claim": "Critique that non-selected PHCs were neglected.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s23", "title": "Oyo abduction: Makinde meets victims' families, says nearly 200 Amotekun killed in six years", "url": "https://www.premiumtimesng.com/regional/ssouth-west/884079-oyo-abduction-makinde-meets-victims-families-says-nearly-200-amotekun-killed-in-six-years.html", "publisher": "Premium Times", "type": "news", "published": "2026-05-31", "accessed": "2026-11-28", "categories": ["security", "humanImpact"], "claim": "Oriire abduction details and Amotekun casualties.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s24", "title": "Transfer Of Regulatory Oversight Of The Electricity Market In Oyo State To OSERC", "url": "https://nerc.gov.ng/media/transfer-of-regulatory-oversight-of-the-electricity-market-in-oyo-state-to-oserc/", "publisher": "Nigerian Electricity Regulatory Commission", "type": "official", "published": "2024-08", "accessed": "2026-11-28", "categories": ["power"], "claim": "NERC transfer order; IBEDC subsidiary requirement.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s25", "title": "Court stops EFCC's planned probe of Oyo finances, faults 'fishing expedition'", "url": "https://www.premiumtimesng.com/news/top-news/897561-court-stops-efccs-planned-probe-of-oyo-finances-faults-fishing-expedition.html", "publisher": "Premium Times", "type": "court", "published": "2026-07-23", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Federal High Court set aside the EFCC's request of 2 June 2025.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s26", "title": "Bodija Explosion: HEDA drags Seyi Makinde to EFCC over alleged diversion of ₦30bn intervention funds", "url": "https://hedang.org/bodija-explosion-heda-drags-seyi-makinde-to-efcc-over-alleged-diversion-of-%E2%82%A630bn-intervention-funds/", "publisher": "HEDA Resource Centre", "type": "other", "published": "2026-01-21", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "HEDA petition (allegation).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "s27", "title": "Ibadan explosion: FG's N30bn fund untouched, N20bn balance unpaid, Oyo says", "url": "https://punchng.com/ibadan-explosion-fgs-n30bn-fund-untouched-n20bn-balance-unpaid-oyo/", "publisher": "Punch", "type": "news", "published": "2026-01-01", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "State government's denial and account of the funds.", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "s28", "title": "N3.4bn debt: Court of Appeal orders Makinde to pay Oyo ex-council chiefs", "url": "https://www.channelstv.com/2023/12/08/n3-4bn-debt-court-of-appeal-orders-makinde-to-pay-oyo-ex-council-chiefs/", "publisher": "Channels Television", "type": "court", "published": "2023-12-08", "accessed": "2026-11-28", "categories": ["integrity", "leadership"], "claim": "Court of Appeal affirmed order to pay a ₦3.4bn balance.", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "s29", "title": "Supreme Court Nullifies Makinde's Dissolution of Oyo LGs", "url": "https://thisdaylive.com/index.php/2021/05/08/supreme-court-nullifies-makindes-dissolution-of-oyo-lgs", "publisher": "ThisDay", "type": "court", "published": "2021-05-08", "accessed": "2026-11-28", "categories": ["integrity", "leadership"], "claim": "Supreme Court held the dissolution of elected councils unlawful.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s30", "title": "Oyo governor, Makinde declares N48b worth of assets", "url": "https://www.icirnigeria.org/oyo-governor-makinde-declares-n48b-worth-of-assets/", "publisher": "ICIR", "type": "news", "published": "2019-07", "accessed": "2026-11-28", "categories": ["integrity", "promises"], "claim": "Public asset declaration of about ₦48.15bn.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s31", "title": "INEC declares Makinde winner of Oyo governorship election", "url": "https://www.channelstv.com/2019/03/10/inec-declares-makinde-winner-of-oyo-governorship-election/", "publisher": "Channels Television", "type": "electoral", "published": "2019-03-10", "accessed": "2026-11-28", "categories": ["experience"], "claim": "2019 result: 515,621 vs 357,982.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s32", "title": "Oyo governorship election: INEC declares PDP's Makinde as winner, re-elected for a second term", "url": "https://nairametrics.com/2023/03/19/oyo-governorship-election-inec-declares-pdps-makinde-as-winner-re-elected-for-a-second-term", "publisher": "Nairametrics", "type": "electoral", "published": "2023-03-19", "accessed": "2026-11-28", "categories": ["experience"], "claim": "2023 result: 563,756 vs 256,685.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s33", "title": "Fasola industrial hub attracts N10bn private sector investment", "url": "https://leadership.ng/fasola-industrial-hub-attracts-n10bn-private-sector-investment", "publisher": "Leadership", "type": "news", "published": null, "accessed": "2026-11-28", "categories": ["jobs", "economy"], "claim": "Government-reported ₦10bn investment and 1,500 jobs.", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "s34", "title": "H.E. Seyi Makinde (speaker profile)", "url": "https://oxfordafricaforum.com/speakers2024/seyi-makinde", "publisher": "Oxford Africa Forum", "type": "reference", "published": "2024", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Education, Makon Group founding (1997) and resignation in 2018.", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "s35", "title": "NERC receives OYSERC on courtesy visit to strengthen regulatory collaboration", "url": "https://nerc.gov.ng/?p=7569", "publisher": "Nigerian Electricity Regulatory Commission", "type": "official", "published": "2026-02-18", "accessed": "2026-11-28", "categories": ["power"], "claim": "Transition coordination between NERC and the Oyo regulator in 2026.", "verification": "AI_DRAFT", "quality": "high" }
+  ],
+  "gaps": [
+    "Obtain the full text of 'The Reset Agenda' manifesto and any costing annex.",
+    "Pull Oyo's line items from DMO domestic and external debt tables (Dec 2025, Jun 2026) and reconcile them with Sahara Reporters' reported 2025-Q1 2026 borrowing.",
+    "Review Oyo Auditor-General reports and audited budget outturns for 2019-2025.",
+    "Verify the current completion percentage and total payments for the Ibadan Circular Road.",
+    "Find independent data on Oyo education outcomes (WAEC/NECO) and the number of teachers actually recruited.",
+    "Confirm the outcome of the May 2026 Oriire abduction.",
+    "Check whether the EFCC appealed the July 2026 Federal High Court judgment and whether it acted on the HEDA petition.",
+    "Confirm the status of IBEDC's Oyo subsidiary licensing and any OYSERC tariff orders.",
+    "Find any foreign-policy positions of the candidate.",
+    "Confirm whether Makinde formally left the PDP or remains a member while running on the APM platform."
+  ]
+}

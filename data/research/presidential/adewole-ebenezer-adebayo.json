@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "adewole-ebenezer-adebayo",
+  "name": "Adewole Ebenezer Adebayo",
+  "researchVersion": 1,
+  "status": "RESEARCHED",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Adewole Ebenezer Adebayo",
+    "commonName": "Prince Adewole Adebayo",
+    "born": "1972-01-08",
+    "stateOfOrigin": "Ondo",
+    "party": "Social Democratic Party (SDP)",
+    "partyHistory": [
+      { "party": "Social Democratic Party (SDP)", "period": "1991–present (self-reported start date)", "sourceIds": ["a3", "a9"] }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": false,
+    "education": [
+      { "credential": "Secondary school (WASCE)", "institution": "St. Joseph College, Ondo", "year": "1989", "sourceIds": ["a9", "a10"] },
+      { "credential": "LLB (Law)", "institution": "Obafemi Awolowo University, Ile-Ife", "year": "1997", "sourceIds": ["a9", "a10"] },
+      { "credential": "Called to the Nigerian Bar", "year": "2000", "sourceIds": ["a9", "a10"] }
+    ],
+    "professional": [
+      "Lawyer; founder of Adewole Adebayo & Co. (House of Law), 2002",
+      "Reported admission to the New York and California bars",
+      "Founder of KAFTAN TV (2016)",
+      "Business interests in agriculture and pharmaceuticals (self-reported)"
+    ]
+  },
+  "career": [
+    { "period": "c. 1997–2002", "title": "Litigation lawyer, Tunji Abayomi & Co., Lagos", "description": "Began legal career as a litigation lawyer before founding his own firm.", "kind": "professional", "sourceIds": ["a9"] },
+    { "period": "2002–present", "title": "Founder, Adewole Adebayo & Co. (House of Law)", "description": "Founded his law firm; his website says he practises international investment law in several jurisdictions.", "kind": "professional", "sourceIds": ["a3", "a9"] },
+    { "period": "2006", "title": "Liberia Truth and Reconciliation Commission role (self-reported)", "description": "His official biography says the UN and ECOWAS appointed him a commissioner on Liberia's TRC. The TRC's international members were nominated by ECOWAS and the UN human-rights office; his specific role was not confirmed from TRC records in this pass.", "kind": "appointment", "sourceIds": ["a3", "a10"] },
+    { "period": "2016–present", "title": "Founder, KAFTAN TV", "description": "Founded a multilingual television channel headquartered in Ondo with stations in Lagos, Abuja and Washington DC (reach figures are self-reported).", "kind": "professional", "sourceIds": ["a3", "a9", "a10"] },
+    { "period": "2022–2023", "title": "SDP presidential candidate, 2023", "description": "Contested the 2023 presidential election and received 80,267 votes.", "kind": "candidacy", "sourceIds": ["a9", "a10", "a19"] },
+    { "period": "May 2026", "title": "SDP presidential nomination and party dispute", "description": "Returned as SDP candidate at the Bauchi convention (9 May 2026). A rival faction led by Shehu Gabam held a convention in Abuja on 20 May 2026 that declared him expelled and named Abimbola Atanda. INEC recognised the Sadiq Gombe-led leadership in June 2026, and the Court of Appeal on 12 August 2026 set aside a lower-court judgment that had backed Gabam.", "kind": "party", "sourceIds": ["a11", "a12", "a13", "a15"] },
+    { "period": "September 2026", "title": "On INEC final list", "description": "Listed by INEC as SDP presidential candidate, with Usman Bugaje as running mate, for the 16 January 2027 election.", "kind": "candidacy", "sourceIds": ["a2", "a10"] }
+  ],
+  "elections": [
+    { "year": "2023", "office": "President", "party": "SDP", "result": "Lost; 80,267 votes", "sourceIds": ["a10", "a19"] },
+    { "year": "2027", "office": "President", "party": "SDP", "result": "Candidate; election scheduled for 16 January 2027 (nomination disputed by a rival SDP faction)", "sourceIds": ["a2", "a14"] }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "Promises petrol at ₦200 per litre, currency stabilisation through productivity, four working public refineries and 36 modular refineries, and a pursuit of 'full employment'. No macroeconomic costing was found.",
+      "analysis": "Adebayo has never held public office, so this category rests on his 2027–2031 manifesto, 'Farewell to Poverty and Insecurity', presented in Abuja on 8 September 2026, and related interviews. Its headline economic commitments are to review petrol pricing so that Nigerians are not exposed to international prices without internationally competitive wages, with a target of ₦200 per litre that he says his team calculated; to stabilise the naira through productivity and employment rather than monetary measures alone; to restore four public refineries and add 36 modular refineries while encouraging private refining for export; and to reorient the economy toward agriculture value chains, manufacturing and import substitution. He frames these within Chapter II of the Constitution (the Fundamental Objectives and Directive Principles of State Policy).\n\nThe ₦200 petrol target is the most consequential and least explained element: reports found no account of whether it would be achieved through subsidy, exchange-rate changes or refining margins, nor its fiscal cost. He criticised the CBN for failing to protect the naira but no specific monetary proposal was found. The manifesto commits in general terms to fiscal discipline and to directing borrowing toward investments with credible returns. Outcomes would also depend on oil prices, the CBN, the legislature and states.",
+      "strengths": [
+        "Published, structured manifesto document (138 pages per the campaign site)",
+        "Emphasis on productivity and domestic refining is specific"
+      ],
+      "limitations": [
+        "₦200 petrol mechanism and cost not explained",
+        "No inflation, growth or exchange-rate targets found"
+      ],
+      "unknowns": [
+        "Whether ₦200 petrol implies a subsidy",
+        "Monetary-policy stance toward the CBN"
+      ],
+      "metrics": [
+        { "label": "Petrol price target", "value": "₦200 per litre", "sourceIds": ["a6", "a7"] },
+        { "label": "Refinery target", "value": "4 public + 36 modular refineries", "sourceIds": ["a5", "a6"] }
+      ],
+      "sourceIds": ["a4", "a5", "a6", "a7", "a18"],
+      "verification": "AI_DRAFT"
+    },
+    "security": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Manifesto proposes a joint intelligence-operations platform, a National Anti-Kidnapping and Banditry Command and a National Cyber Defence Command, combined with economic and social measures. No numeric targets or costs.",
+      "analysis": "Security is the first of the manifesto's twelve 'Presidential Missions' ('Secure Nigeria'). The campaign site describes a joint intelligence and operations platform, a National Anti-Kidnapping and Banditry Command and a National Cyber Defence and Security Command, with a 2031 goal of a 'substantial, sustained reduction' in terrorism, kidnapping and banditry measured by independently verifiable indicators. In public presentations he said security would combine kinetic and non-kinetic approaches, strengthening the armed forces, police, intelligence, border control and the justice system while tackling the economic and social conditions behind crime and extremism.\n\nThe plan names institutions but not costs, force levels, command relationships with existing agencies or a timeline beyond 2031. Creating new national commands could duplicate existing structures unless their mandates are defined, and some changes would need legislation. His statement that changing the government would be '60 per cent' of defeating banditry is rhetorical rather than measurable. He has no record of managing a security institution; his reported Liberia TRC role relates to post-conflict accountability rather than security operations, and that role itself is self-reported. Security outcomes are shared with states, communities and agencies.",
+      "strengths": [
+        "Names specific institutional changes",
+        "Commits to independently verifiable indicators"
+      ],
+      "limitations": [
+        "No cost, force-level or timeline detail",
+        "Overlap with existing agencies not addressed"
+      ],
+      "unknowns": [
+        "Position on state police",
+        "Defence budget plans"
+      ],
+      "sourceIds": ["a4", "a6", "a7"],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Targets enrolling 20 million out-of-school children and training five million young people in green skills; prioritises basic and early-childhood education. No costing found.",
+      "analysis": "Education sits under the manifesto mission 'Educate, Skill and Empower'. In a June 2026 presentation reported by THISDAY, Adebayo set targets of enrolling 20 million out-of-school children and training five million young Nigerians in environmental sustainability and green technology, and said basic education, early-childhood learning, nutrition and healthcare should take priority over elite institutions. The manifesto text summarised in this research proposes modernising basic education and expanding technical and vocational training, but no figures for teacher recruitment, budget share or tertiary funding were found.\n\nThe out-of-school target is large relative to the size of the problem and would depend heavily on state governments, which run primary and junior secondary schools, and on the Universal Basic Education Commission's transfer system; no plan for that coordination was found. No cost or financing source was identified. His personal record in this area consists of self-reported scholarships, which his campaign says reach about 2,000 current beneficiaries, and NYSC training at KAFTAN TV; these were not independently verified and are small in scale. Earlier, in 2022, he said implementing part of his plan would create 30 million jobs, a figure that recurs in his education and employment framing.",
+      "strengths": [
+        "Quantified access target",
+        "Clear prioritisation of basic education"
+      ],
+      "limitations": [
+        "No cost or financing",
+        "Depends on state delivery"
+      ],
+      "unknowns": [
+        "Tertiary funding and student loans position",
+        "Teacher workforce plans"
+      ],
+      "metrics": [
+        { "label": "Out-of-school enrolment target", "value": "20 million children", "sourceIds": ["a8"] }
+      ],
+      "sourceIds": ["a3", "a4", "a8"],
+      "verification": "AI_DRAFT"
+    },
+    "healthcare": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "The 'Healthy Nigeria' mission mentions primary care, staff retention and pharmaceutical manufacturing, but no targets or costs were found.",
+      "analysis": "The manifesto lists 'Healthy Nigeria' as one of twelve missions and, per the readable portion of the campaign site, proposes strengthening primary healthcare, retaining medical staff and expanding domestic pharmaceutical manufacturing. In June 2026 he spoke of redirecting public resources toward healthcare and nutrition. His campaign biography says he chairs SAI Phytochemical, which it describes as producing sickle-cell drugs in India and Nigeria; this is self-reported. No targets for insurance coverage, facilities, workforce or budget share were found.",
+      "strengths": [],
+      "limitations": [
+        "No measurable health targets found"
+      ],
+      "unknowns": [
+        "Health financing plan",
+        "Position on the National Health Insurance Authority"
+      ],
+      "missing": [
+        "Full text of the 'Healthy Nigeria' mission in the 138-page manifesto",
+        "Health insurance coverage targets",
+        "Health budget commitments",
+        "Independent information on SAI Phytochemical"
+      ],
+      "sourceIds": ["a3", "a4", "a8"],
+      "verification": "AI_DRAFT"
+    },
+    "infrastructure": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Proposes a National Metro Rail Development Programme, prioritised federal highways, aviation maintenance hubs and investor-financed infrastructure; no mileage or cost figures found.",
+      "analysis": "Under the 'Modern Infrastructure' mission, the manifesto proposes a National Metro Rail Development Programme and prioritised federal highways, and the jobs section proposes four domestic aviation maintenance, repair and overhaul hubs by 2028 and three more by 2031. Adebayo has described Nigeria's estimated $1 trillion infrastructure deficit as an investment opportunity and says roads, energy, digital and industrial infrastructure would be built with local and international investors, while separately stating that infrastructure should be financed from domestic resources and better management of petroleum, mineral and tax revenue.\n\nThese two financing positions are not reconciled in the reports found, and no project list, cost or mileage target was identified. Metro rail is largely a matter for states and cities, so federal involvement would need a cost-sharing framework. The manifesto's commitment to a public delivery dashboard within 100 days and an audited end-of-term scorecard would, if implemented, make infrastructure delivery easier to track. He has no record of delivering public infrastructure; his business record (KAFTAN TV stations) is small in scale and self-reported.",
+      "strengths": [
+        "Some dated targets (MRO hubs 2028/2031)",
+        "Commitment to public delivery dashboard"
+      ],
+      "limitations": [
+        "No costs or project lists",
+        "Financing approach inconsistent across statements"
+      ],
+      "unknowns": [
+        "Treatment of ongoing federal projects",
+        "Housing policy"
+      ],
+      "sourceIds": ["a4", "a7", "a8"],
+      "verification": "AI_DRAFT"
+    },
+    "power": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Targets a path to 75,000 MW of generation and a National Distributed Electricity Initiative with a 'Bank of Electricity' financing mini-grids; no timeline for 75,000 MW found.",
+      "analysis": "Power is covered by two missions, 'Power Nigeria' and 'Affordable Energy'. The headline target, repeated in Premium Times, Arise and THISDAY reports of the September 2026 launch, is a path to 75,000 megawatts of generation 'using Nigeria's own resources'. The manifesto also proposes a National Distributed Electricity Initiative and a 'Bank of Electricity' to finance tens of thousands of mini-grids within four years. Running mate Usman Bugaje described energy costs as a major barrier to transport, farming and manufacturing.\n\nThe 75,000 MW figure is many times Nigeria's current grid generation, and no timeline, investment estimate, gas-supply plan or transmission strategy for reaching it was found; it is described as a 'path' rather than a four-year target. The mini-grid programme is more concrete and aligns with the decentralisation permitted under the Electricity Act 2023, but its funding source and the Bank of Electricity's structure were not detailed. Tariff policy and relations with privatised distribution companies were not addressed in sources found. There is no prior record of power-sector work to assess.",
+      "strengths": [
+        "Specific distributed-generation mechanism",
+        "Consistent target across reports"
+      ],
+      "limitations": [
+        "75,000 MW lacks timeline and cost",
+        "No tariff or transmission plan found"
+      ],
+      "unknowns": [
+        "Structure and capitalisation of the 'Bank of Electricity'",
+        "Gas-to-power strategy"
+      ],
+      "metrics": [
+        { "label": "Generation target", "value": "75,000 MW (no date given)", "sourceIds": ["a5", "a6"] }
+      ],
+      "sourceIds": ["a4", "a5", "a6", "a7"],
+      "verification": "AI_DRAFT"
+    },
+    "jobs": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Pursues 'full employment' with a 30 million jobs target via agriculture, manufacturing, digital and enterprise; specific items include aviation MRO hubs (15,000+ jobs) and vehicle import substitution.",
+      "analysis": "Employment is central to Adebayo's pitch. In June 2026 he set a goal of 30 million jobs through agriculture, manufacturing, digital innovation and enterprise development, plus entrepreneurship incubation centres and an initiative for one million women entrepreneurs; he used a similar 30 million figure in 2022. The manifesto's 'Jobs and Enterprise' mission adds concrete items: vehicle import substitution, justified by manufactured goods making up about 44 per cent of imports, and four aviation maintenance hubs by 2028 and three more by 2031 that it says would create over 15,000 skilled jobs.\n\nThe 30 million figure is not broken down by sector or year in sources found, and no fiscal cost or financing instrument for MSME support was identified. Import substitution can raise consumer prices and invite trade disputes, a trade-off not discussed in the reports. On his own record, the campaign says KAFTAN TV trained 1,022 NYSC members and retained 103, and that the NYSC named it the best employer of corps members in Ondo State in 2021; these figures come from the campaign and were not independently confirmed. That record is modest relative to national employment policy.",
+      "strengths": [
+        "Mix of headline target and specific sectoral projects",
+        "Some dated milestones"
+      ],
+      "limitations": [
+        "30 million target not broken down",
+        "Trade-offs of import substitution not disclosed"
+      ],
+      "unknowns": [
+        "Financing for MSME and enterprise programmes"
+      ],
+      "metrics": [
+        { "label": "Jobs target", "value": "30 million", "sourceIds": ["a8", "a9"] }
+      ],
+      "sourceIds": ["a3", "a4", "a8", "a9"],
+      "verification": "AI_DRAFT"
+    },
+    "finance": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Commits to fiscal discipline, borrowing only for investments with credible returns, quarterly publication of all 774 LGA accounts and performance contracts for officials. No revenue, deficit or debt targets.",
+      "analysis": "The manifesto's public-finance content is mainly about transparency and discipline. It commits to fiscal discipline and to directing borrowing toward infrastructure and investments with credible returns, requires every one of the 774 local governments to publish quarterly revenue and expenditure reports, proposes open procurement and stronger whistleblower protection, and requires senior officials to sign annual performance contracts. It also proposes a Presidential Delivery Dashboard within 100 days and an audited scorecard in year four. Party chairman statements at the launch stressed performance contracts and public monitoring.\n\nNo projections for revenue, deficit, debt stock or debt service were found, and the cost of headline pledges such as ₦200 petrol, 75,000 MW and the out-of-school programme is not set against a budget. Publication of local-government accounts would need cooperation from states and local councils, which the federal government does not control directly. In 2022 he argued that anti-corruption depends on leaders' personal example rather than mainly on agencies such as the EFCC and ICPC; the 2026 manifesto adds proposals for security of tenure and operational independence for both agencies. Budget approval rests with the National Assembly.",
+      "strengths": [
+        "Specific transparency mechanisms",
+        "Commitment to an audited end-of-term scorecard"
+      ],
+      "limitations": [
+        "No fiscal targets",
+        "Headline pledges not costed against revenue"
+      ],
+      "unknowns": [
+        "Tax policy",
+        "Debt strategy"
+      ],
+      "sourceIds": ["a4", "a5", "a7", "a9"],
+      "verification": "AI_DRAFT"
+    },
+    "leadership": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Leads a law firm and media company and led the SDP's legal team through the 2026 leadership litigation; has not run a government. His candidacy itself is contested by a rival party faction.",
+      "analysis": "Adebayo's leadership record comes from private practice, business and party politics. He founded a law firm in 2002 and KAFTAN TV in 2016, and the campaign describes him as chairing several companies. Within the SDP he has been the presidential candidate twice and, according to party chairman Sadiq Gombe as reported by Legit.ng, led the party's legal team in the 2026 leadership litigation that ended with the Court of Appeal on 12 August 2026 setting aside a Federal High Court judgment that had backed the rival Shehu Gabam faction.\n\nThat dispute is also the main test of his coalition management. The Gabam faction expelled him at a convention on 20 May 2026, nominated another candidate, and its media directorate continues to say he was never the party's candidate. INEC, which recognised the Gombe-led leadership in June 2026, nevertheless lists him. The episode shows persistence through the courts but also a divided party going into the election. He chose a 74-year-old running mate, Usman Bugaje; no detail on how the ticket was assembled was found. No information was found on a prospective cabinet or on management practices at his firms, so leadership capacity at federal scale cannot be assessed from evidence.",
+      "strengths": [
+        "Built a law firm and a media business",
+        "Prevailed in court in the party leadership dispute (per party accounts)"
+      ],
+      "limitations": [
+        "No government management record",
+        "Party divided over his candidacy"
+      ],
+      "unknowns": [
+        "Prospective delivery team",
+        "Scale and governance of his companies"
+      ],
+      "sourceIds": ["a3", "a11", "a12", "a13", "a14"],
+      "verification": "AI_DRAFT"
+    },
+    "integrity": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "No criminal charges or investigations were found. His candidacy is disputed by a rival SDP faction that says he was expelled; courts and INEC have so far sided with the faction that nominated him. Several biographical claims are self-reported.",
+      "analysis": "No criminal charge, anti-corruption investigation, court judgment or audit finding against Adebayo was found in this research, though a dedicated integrity search could not be completed because the search budget ran out, so this is not proof of absence. The main integrity-related matter is the dispute over his nomination. A Shehu Gabam-led faction held a convention in Abuja on 20 May 2026 that declared him and 13 others expelled, and an SDP Media Directorate statement (on a site whose sidebar names Gabam as chairman) asks INEC to review his listing. Against that, INEC recognised Sadiq Gombe as national chairman in June 2026 following a Supreme Court judgment of 22 May 2026, and on 12 August 2026 the Court of Appeal set aside the lower-court ruling that had backed Gabam, according to the SDP's account reported by Legit.ng. INEC's September 2026 list includes Adebayo. The expulsion is a political claim by a faction, not a legal finding.\n\nSome biographical claims rest only on his campaign: the Liberia TRC commissioner appointment, multi-jurisdiction bar admissions, company chairmanships and KAFTAN TV reach figures. Independent confirmation of these, and any asset declaration, was not found.",
+      "strengths": [
+        "No criminal or corruption proceedings found",
+        "Faction that nominated him is the one recognised by INEC"
+      ],
+      "limitations": [
+        "Several biographical claims are self-reported",
+        "No asset declaration found",
+        "Dedicated integrity search not completed"
+      ],
+      "unknowns": [
+        "Whether further litigation over the SDP candidacy is pending",
+        "Independent confirmation of the Liberia TRC role"
+      ],
+      "sourceIds": ["a3", "a10", "a11", "a12", "a13", "a14", "a21"],
+      "verification": "AI_DRAFT"
+    },
+    "experience": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "About 25 years as a lawyer, a decade running a TV business, and two presidential candidacies; no elected or appointed public office in Nigeria.",
+      "analysis": "Adebayo studied law at Obafemi Awolowo University (1991–1997), was called to the Nigerian Bar in 2000, worked at Tunji Abayomi & Co. and founded Adewole Adebayo & Co. in 2002. Profiles report admission to the New York and California bars and say he practises international investment law; Daily Trust and Premium Times also report licences in other jurisdictions, though one earlier search flagged a possible confusion with a similarly named US lawyer, so the extent of foreign admissions should be checked. He founded KAFTAN TV in 2016 and reports agricultural and pharmaceutical business interests.\n\nHis campaign states that in 2006 the UN and ECOWAS appointed him a commissioner on Liberia's Truth and Reconciliation Commission; this was not confirmed against TRC records. He has been a member of the SDP since 1991 by his account, ran in 2023 (80,267 votes) and is running again. He has never held elected or appointed public office in Nigeria, never managed a public budget and has no legislative record. Under this site's definition he has no executive experience. A Daily Trust profile in 2022 described him as politically inexperienced. His legal and business background is relevant to regulatory and investment policy but does not show how he would run a federal government.",
+      "strengths": [
+        "Long legal career including international practice",
+        "Business founding experience"
+      ],
+      "limitations": [
+        "No public office experience",
+        "Some credentials self-reported"
+      ],
+      "unknowns": [
+        "Confirmed list of bar admissions",
+        "Liberia TRC role details"
+      ],
+      "sourceIds": ["a3", "a9", "a10", "a19", "a22"],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "A four-year, twelve-mission programme anchored on Chapter II of the Constitution, aiming to end poverty and insecurity by 2031 with public dashboards and performance contracts.",
+      "analysis": "Adebayo's vision is set out in the 'Farewell to Poverty and Insecurity' manifesto for 2027–2031, organised into twelve missions: Secure Nigeria, Feed Nigeria, Power Nigeria, Affordable Energy, Jobs and Enterprise, Educate Skill and Empower, Healthy Nigeria, Modern Infrastructure, Innovate Nigeria, Transparent Government, United Federation and Nigeria in the World. Each mission is said to have a lead institution, quarterly milestones and a public dashboard. He anchors the programme in Chapter II of the Constitution, arguing that its welfare and security objectives should be treated as binding, and he frames his candidacy against what he calls ethnic and tribal politics and 'internal colonialism'.\n\nThe structure is more developed than many aspirants' platforms, and the delivery architecture (dashboards, performance contracts, an audited year-four scorecard) is concrete. Feasibility concerns arise from the claim that four years is enough to eliminate poverty and tackle insecurity, which is not supported by evidence presented, and from uncosted headline targets such as ₦200 petrol and 75,000 MW. Only part of the 138-page document could be read in this research, so more detail may exist. The SDP's representation in the National Assembly, which would matter for implementation, was not established.",
+      "strengths": [
+        "Structured, mission-based programme with delivery tools",
+        "Clear constitutional framing"
+      ],
+      "limitations": [
+        "Four-year poverty-elimination claim not evidenced",
+        "Headline targets uncosted"
+      ],
+      "unknowns": [
+        "Full manifesto content beyond the sections read",
+        "Legislative strategy"
+      ],
+      "sourceIds": ["a4", "a5", "a7", "a8", "a18"],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "The 'Nigeria in the World' mission emphasises Africa-first diplomacy and citizen protection; no further detail found.",
+      "analysis": "The manifesto includes a 'Nigeria in the World' mission which, in the portion read, emphasises Africa-first diplomacy and protection of Nigerian citizens abroad. He has spoken of positioning Nigeria as Africa's leading investment destination and of a one-million women entrepreneurs initiative across Africa. His reported US legal practice and self-reported Liberia TRC role give him international exposure. No positions were found on ECOWAS and the Sahel states, AfCFTA, or relations with major powers.",
+      "strengths": [],
+      "limitations": [
+        "Foreign-policy mission content largely unread"
+      ],
+      "unknowns": [
+        "ECOWAS and AU policy"
+      ],
+      "missing": [
+        "Full text of the 'Nigeria in the World' mission",
+        "Position on ECOWAS and the Alliance of Sahel States",
+        "Trade and AfCFTA policy",
+        "Diaspora policy"
+      ],
+      "sourceIds": ["a4", "a8"],
+      "verification": "AI_DRAFT"
+    },
+    "humanImpact": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Proposals target fuel costs, out-of-school children, women entrepreneurs and nutrition; distributional effects are not analysed. Self-reported philanthropy is unverified.",
+      "analysis": "Several Adebayo proposals would, if delivered, directly affect household welfare: petrol at ₦200 per litre would cut transport and food costs; enrolling 20 million out-of-school children and prioritising nutrition and early-childhood learning targets some of the most deprived children; a one-million women entrepreneurs initiative and full-employment goal address income. He argues Chapter II of the Constitution obliges government to prioritise citizens' welfare, and he says success should be judged by tangible improvements in citizens' lives rather than programmes announced.\n\nThe campaign has not published distributional analysis, and the reports found do not say how benefits would be targeted to the poorest households or how a cheap-petrol policy would avoid the leakages and fiscal costs associated with past subsidies. On his personal record, his campaign states that he sponsors about 2,000 students and has supported hundreds of women through income-generating activities; these claims were not independently verified. He has no record of national policy whose effects on households could be measured. The household impact of his plans would also depend on inflation, exchange-rate movements and state-level delivery.",
+      "strengths": [
+        "Targets vulnerable groups explicitly (out-of-school children, women)",
+        "Outcome-based framing of success"
+      ],
+      "limitations": [
+        "No targeting or distributional analysis",
+        "Philanthropy claims unverified"
+      ],
+      "unknowns": [
+        "Social-protection plans (cash transfers, register)"
+      ],
+      "sourceIds": ["a3", "a5", "a6", "a8"],
+      "verification": "AI_DRAFT"
+    },
+    "promises": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "A written manifesto with several quantified targets and an explicit monitoring framework; key targets lack costing and some lack dates. No office record to test delivery.",
+      "analysis": "For an aspirant, promises are judged on specificity. Adebayo's are among the more structured found for 2027: a written manifesto with twelve missions, quantified pledges (₦200 petrol, 75,000 MW, four public and 36 modular refineries, 20 million out-of-school children enrolled, 30 million jobs, seven aviation maintenance hubs by 2031), procedural commitments (quarterly LGA accounts, twelve-month final determination of court cases, performance contracts) and a promise to publish a delivery dashboard within 100 days and an audited scorecard in year four. Those monitoring commitments would themselves make later promise-tracking easier.\n\nWeaknesses are in costing and dependencies. None of the headline pledges was found with a cost estimate, and the ₦200 petrol pledge has no stated mechanism. Several commitments depend on others: twelve-month court determinations require judicial and legislative reform; LGA accounts depend on states; out-of-school enrolment depends on state school systems. His claim that four years suffices to end poverty is not supported by evidence presented. With no time in office there is no record of promise-keeping, and the dispute over his nomination adds uncertainty about the party machinery behind the programme.",
+      "strengths": [
+        "Written manifesto with measurable targets",
+        "Built-in monitoring commitments"
+      ],
+      "limitations": [
+        "Uncosted headline pledges",
+        "Dependencies on states and judiciary not acknowledged"
+      ],
+      "unknowns": [
+        "Costing annex, if any, in the full manifesto"
+      ],
+      "sourceIds": ["a4", "a5", "a6", "a7", "a8"],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    { "id": "rec1", "title": "Founded Adewole Adebayo & Co. (House of Law)", "kind": "achievement", "label": "FACT", "period": "2002", "description": "Founded his law firm after working at Tunji Abayomi & Co.", "categories": ["experience"], "sourceIds": ["a9"] },
+    { "id": "rec2", "title": "Founded KAFTAN TV", "kind": "achievement", "label": "FACT", "period": "2016", "description": "Founded a multilingual TV channel based in Ondo. Reach (20+ countries, 6 million homes) and NYSC training figures are self-reported.", "categories": ["experience", "jobs"], "sourceIds": ["a3", "a9", "a10"] },
+    { "id": "rec3", "title": "Liberia Truth and Reconciliation Commission appointment", "kind": "achievement", "label": "UNVERIFIED", "period": "2006", "description": "Campaign says the UN and ECOWAS appointed him a commissioner on Liberia's TRC. Not confirmed from TRC records; repeated by Premium Times' profile.", "categories": ["experience", "foreign"], "sourceIds": ["a3", "a10"] },
+    { "id": "rec4", "title": "Expulsion claim by rival SDP faction", "kind": "controversy", "label": "DISPUTED", "period": "May–November 2026", "description": "Gabam-led faction convention (20 May 2026) declared him expelled and named another candidate; its media directorate asks INEC to review his listing. INEC recognised the Gombe-led leadership (June 2026), the Court of Appeal set aside the pro-Gabam judgment (12 August 2026, per SDP account) and INEC's final list includes him. A party-faction claim, not a legal finding.", "legalStatus": "denied", "categories": ["integrity", "leadership"], "sourceIds": ["a11", "a12", "a13", "a14", "a21"] },
+    { "id": "rec5", "title": "2023 presidential result", "kind": "outcome", "label": "FACT", "period": "2023", "description": "Received 80,267 votes as SDP candidate.", "categories": ["experience"], "sourceIds": ["a10", "a19"] }
+  ],
+  "plans": [
+    { "id": "pl1", "title": "Petrol at ₦200 per litre", "label": "PROMISE", "category": "economy", "outcome": "Review petrol pricing to ₦200 per litre", "funding": "Not stated", "risks": "Mechanism and fiscal cost not explained", "sourceIds": ["a6", "a7"] },
+    { "id": "pl2", "title": "Refinery expansion", "label": "PROMISE", "category": "economy", "outcome": "Four functioning public refineries and 36 modular refineries; enable private refining for export", "funding": "Not stated", "sourceIds": ["a5", "a6", "a7"] },
+    { "id": "pl3", "title": "Path to 75,000 MW and distributed mini-grids", "label": "PROMISE", "category": "power", "outcome": "75,000 MW generation path; National Distributed Electricity Initiative and Bank of Electricity financing tens of thousands of mini-grids", "timeline": "Mini-grids within four years; no date for 75,000 MW", "funding": "'Nigeria's own resources'; Bank of Electricity", "sourceIds": ["a4", "a5", "a6"] },
+    { "id": "pl4", "title": "New security commands", "label": "PROPOSAL", "category": "security", "outcome": "Joint intelligence-operations platform; National Anti-Kidnapping and Banditry Command; National Cyber Defence and Security Command; sustained reduction in terrorism, kidnapping and banditry by 2031", "timeline": "By 2031", "sourceIds": ["a4", "a7"] },
+    { "id": "pl5", "title": "Enrol 20 million out-of-school children", "label": "PROMISE", "category": "education", "outcome": "20 million out-of-school children enrolled; five million youths trained in green skills", "dependencies": "State school systems and UBEC", "sourceIds": ["a8"] },
+    { "id": "pl6", "title": "30 million jobs and aviation MRO hubs", "label": "PROMISE", "category": "jobs", "outcome": "30 million jobs via agriculture, manufacturing, digital and enterprise; 4 aviation MRO hubs by 2028 and 3 more by 2031 (15,000+ skilled jobs)", "timeline": "2028 and 2031 for MRO hubs", "sourceIds": ["a4", "a8"] },
+    { "id": "pl7", "title": "Transparent government package", "label": "PROPOSAL", "category": "finance", "outcome": "Quarterly accounts for all 774 LGAs; open procurement; whistleblower protection; security of tenure for EFCC and ICPC heads; annual performance contracts; delivery dashboard in 100 days; audited year-four scorecard", "dependencies": "States, local councils and National Assembly", "sourceIds": ["a4", "a5"] },
+    { "id": "pl8", "title": "Twelve-month final determination of court cases", "label": "PROMISE", "category": "leadership", "outcome": "Court cases reach final determination within twelve months", "dependencies": "Judiciary and legislation", "sourceIds": ["a4"] }
+  ],
+  "test": [
+    { "questionId": "r1", "answer": "Yes. Poverty and insecurity are defined as the central problems, with supporting diagnoses such as energy costs, import dependence and low farm yields.", "assessment": "yes", "sourceIds": ["a5", "a7"] },
+    { "questionId": "r2", "answer": "Partly. The manifesto names institutions, targets and some dates, but core pledges such as ₦200 petrol and 75,000 MW lack mechanisms.", "assessment": "partly", "sourceIds": ["a4", "a6"] },
+    { "questionId": "r3", "answer": "Partly. Some diagnoses cite data (import shares, crop yields); no evidence base for the main approaches was found.", "assessment": "partly", "sourceIds": ["a4", "a5"] },
+    { "questionId": "r4", "answer": "Unknown. No costings were found for headline pledges; financing statements are general (domestic resources, investors, fiscal discipline).", "assessment": "unknown", "sourceIds": ["a4", "a7"] },
+    { "questionId": "r5", "answer": "Partly. Some milestones are dated (100-day dashboard, MRO hubs 2028/2031) but the claim that four years can end poverty and insecurity is not supported.", "assessment": "partly", "sourceIds": ["a4", "a6"] },
+    { "questionId": "r6", "answer": "Partly. Federal powers cover petroleum, security and power policy, but LGA accounts, basic education and court timelines depend on states and the judiciary.", "assessment": "partly", "sourceIds": ["a4"] },
+    { "questionId": "r7", "answer": "Yes. New security commands, EFCC/ICPC tenure, judicial timelines and budgets require National Assembly action; SDP legislative strength not established.", "assessment": "yes", "sourceIds": ["a4"] },
+    { "questionId": "r8", "answer": "Mostly no. Trade-offs of cheap petrol and import substitution were not found to be disclosed.", "assessment": "no", "sourceIds": ["a6", "a7"] },
+    { "questionId": "r9", "answer": "Partly. Running mate Usman Bugaje and party chairman Sadiq Gombe are named; no wider delivery team was identified. The manifesto assigns a lead institution to each mission.", "assessment": "partly", "sourceIds": ["a4", "a7", "a10"] },
+    { "questionId": "r10", "answer": "No public-sector execution record. Private record (law firm, KAFTAN TV) is largely self-reported.", "assessment": "no", "sourceIds": ["a3", "a9"] }
+  ],
+  "sources": [
+    { "id": "a1", "title": "Final List of Presidential and National Assembly Candidates (PDF)", "url": "https://inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf", "publisher": "Independent National Electoral Commission", "type": "electoral", "published": "2026-10", "accessed": "2026-11-28", "categories": ["experience"], "claim": "INEC final list (opened but not machine-readable; existing profile reports age 54, FSLC/WASCE/LLB, running mate Usman Muhammed Bugaje, 74).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "a2", "title": "INEC releases final list of 18 presidential candidates for 2027 elections", "url": "https://nairametrics.com/2026/09/12/inec-releases-final-list-of-18-presidential-candidates-for-2027-elections/", "publisher": "Nairametrics", "type": "news", "published": "2026-09-12", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Adebayo listed as SDP candidate on the final list; election 16 January 2027.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "a3", "title": "About Prince Adewole Adebayo", "url": "https://www.adewoleadebayo.com/about", "publisher": "Adewole Adebayo campaign", "type": "candidate-statement", "published": null, "accessed": "2026-11-28", "categories": ["experience", "integrity", "jobs", "humanImpact"], "claim": "Self-reported biography: born 8 Jan 1972; Liberia TRC 2006; bar admissions; companies; KAFTAN TV reach and NYSC figures; philanthropy.", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "a4", "title": "Prince's Manifesto: Farewell to Poverty and Insecurity (2027–2031)", "url": "https://www.adewoleadebayo.com/manifesto", "publisher": "Adewole Adebayo campaign", "type": "manifesto", "published": "2026-09", "accessed": "2026-11-28", "categories": ["economy", "security", "education", "healthcare", "infrastructure", "power", "jobs", "finance", "vision", "foreign", "promises"], "claim": "Twelve Presidential Missions; security commands; MRO hubs; Bank of Electricity mini-grids; LGA quarterly accounts; EFCC/ICPC tenure; 100-day dashboard. Only part of the page text was readable.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "a5", "title": "2027: SDP presidential candidate unveils blueprint to address poverty, insecurity", "url": "https://premiumtimesng.com/news/top-news/908285-2027-sdp-presidential-candidate-unveils-blueprint-to-address-poverty-insecurity.html", "publisher": "Premium Times (NAN)", "type": "news", "published": "2026-09-08", "accessed": "2026-11-28", "categories": ["economy", "power", "finance", "vision"], "claim": "Blueprint launch; 75,000 MW path; 4 public and 36 modular refineries; Bugaje on yields and energy costs; performance contracts.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "a6", "title": "Adebayo says four years enough to transform Nigeria, promises N200 petrol, 75,000MW power under SDP", "url": "https://www.arise.tv/adebayo-says-four-years-enough-to-transform-nigeria-promises-n200-petrol-75000mw-power-under-sdp/", "publisher": "Arise News", "type": "news", "published": "2026-09-09", "accessed": "2026-11-28", "categories": ["economy", "power", "security"], "claim": "₦200 petrol; 75,000 MW; refineries; security approach; '60 per cent' remark.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "a7", "title": "2027 Election: Four Years Enough to Transform Nigeria, SDP's Adebayo Says", "url": "https://thisdaylive.com/2026/09/09/2027-election-four-years-enough-to-transform-nigeria-sdps-adebayo-says", "publisher": "THISDAY", "type": "news", "published": "2026-09-09", "accessed": "2026-11-28", "categories": ["economy", "security", "infrastructure", "finance"], "claim": "₦200 per litre petrol; kinetic and non-kinetic security; domestic financing of infrastructure; CBN criticism.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "a8", "title": "Nigeria Can Rise in One Generation, Adebayo Rolls Out Vision for National Renewal", "url": "https://www.thisdaylive.com/2026/06/25/nigeria-can-rise-in-one-generation-adebayo-rolls-out-vision-for-national-renewal/", "publisher": "THISDAY", "type": "news", "published": "2026-06-25", "accessed": "2026-11-28", "categories": ["education", "jobs", "humanImpact", "foreign"], "claim": "30 million jobs; 20 million out-of-school children; five million green-skills trainees; one million women entrepreneurs; $1 trillion infrastructure deficit framing.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "a9", "title": "Nigeria Decides: SDP's Adewole Adebayo struggling to reincarnate MKO's feat", "url": "https://dailytrust.com/?p=1152396", "publisher": "Daily Trust", "type": "news", "published": "2022-12-04", "accessed": "2026-11-28", "categories": ["experience", "jobs", "finance"], "claim": "Born Ondo City 1972; St. Joseph College 1983–1989; OAU law 1991–1997; Bar 2000; Tunji Abayomi & Co.; own firm 2002; KAFTAN TV 2016; 30 million jobs claim; anti-corruption by example.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "a10", "title": "Profiles: The men, women seeking to be Nigeria's president in 2027", "url": "https://allafrica.com/stories/202610260089.html", "publisher": "Premium Times via AllAfrica", "type": "news", "published": "2026-10-25", "accessed": "2026-11-28", "categories": ["experience", "integrity"], "claim": "Age 54; OAU law 1997, Bar 2000; Liberia TRC 2006; KAFTAN TV 2016; 80,267 votes in 2023; running mate Usman Bugaje, 74; no executive office held.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "a11", "title": "SDP Expels Adewale, Agunloye, Ayienigba, Others, Elects New NWC", "url": "https://www.thisdaylive.com/2026/05/21/sdp-expels-adewale-agunloye-ayienigba-others-elects-new-nwc/", "publisher": "THISDAY", "type": "news", "published": "2026-05-21", "accessed": "2026-11-28", "categories": ["integrity", "leadership"], "claim": "Gabam-backed convention in Abuja expelled 14 including Adebayo; Abimbola Atanda picked by voice vote.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "a12", "title": "Supreme Court judgment implemented: INEC recognises Prof. Sadiq Gombe as SDP National Chairman, removes expelled Shehu Gabam", "url": "https://thenigerialawyer.com/supreme-court-judgment-implemented-inec-recognises-prof-sadiq-gombe-as-sdp-national-chairman-removes-expelled-shehu-gabam/", "publisher": "The Nigeria Lawyer", "type": "news", "published": "2026-06-17", "accessed": "2026-11-28", "categories": ["integrity", "leadership"], "claim": "INEC portal lists Gombe as SDP chairman; party names Adebayo as its candidate (largely based on SDP statement).", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "a13", "title": "Breaking: Court of Appeal sacks national chairman of top opposition party", "url": "https://www.legit.ng/politics/1724760-breaking-court-appeal-sacks-national-chairman-top-opposition-party/", "publisher": "Legit.ng", "type": "news", "published": "2026-08-12", "accessed": "2026-11-28", "categories": ["integrity", "leadership"], "claim": "Court of Appeal set aside Federal High Court judgment recognising Gabam; Adebayo led party's legal team (SDP account).", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "a14", "title": "SDP: Adewole Adebayo was long expelled from the party and was never its presidential candidate", "url": "https://www.sdpnigeria.org/news/sdp-adewole-adebayo-was-long-expelled-from-the-party-and-was-never-its-presidential-candidate", "publisher": "SDP Media Directorate (site aligned with the Gabam faction)", "type": "candidate-statement", "published": null, "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Faction says Adebayo was expelled on 20 May 2026 and asks INEC to review its list.", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "a15", "title": "SDP adopts Adewole Adebayo as presidential candidate for 2027 poll", "url": "https://www.thecable.ng/sdp-adopts-adewole-adebayo-as-presidential-candidate-for-2027-poll/", "publisher": "TheCable", "type": "news", "published": "2026-05-10", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Adopted as SDP candidate at Bauchi convention (from existing profile; not opened).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "a16", "title": "SDP adopts Adebayo as presidential candidate", "url": "https://von.gov.ng/sdp-adopts-adebayo-as-presidential-candidate/", "publisher": "Voice of Nigeria", "type": "news", "published": "2026-05-11", "accessed": "2026-11-28", "categories": ["experience"], "claim": "SDP adoption (from existing profile; not opened).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "a17", "title": "2027: SDP writes INEC, submits Adebayo's details as presidential candidate", "url": "https://guardian.ng/politics/2027-sdp-writes-inec-submits-adebayos-details-as-presidential-candidate/", "publisher": "The Guardian (Nigeria)", "type": "news", "published": "2026-05-16", "accessed": "2026-11-28", "categories": ["experience"], "claim": "SDP submitted Adebayo's details to INEC (from existing profile; not opened).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "a18", "title": "Chapter II of Constitution will be blueprint for my presidency – SDP's Adebayo", "url": "https://guardian.ng/politics/chapter-ii-of-constitution-will-be-blueprint-for-my-presidency-sdps-adebayo/", "publisher": "The Guardian (Nigeria)", "type": "news", "published": "2026-06-01", "accessed": "2026-11-28", "categories": ["vision", "economy"], "claim": "Chapter II framing of his programme (from existing profile; headline only).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "a19", "title": "INEC declares Tinubu winner of the 2023 presidential election", "url": "https://nairametrics.com/2023/03/01/inec-declares-tinubu-winner-of-the-2023-presidential-election/", "publisher": "Nairametrics", "type": "news", "published": "2023-03-01", "accessed": "2026-11-28", "categories": ["experience"], "claim": "2023 declared results including SDP's Adebayo with 80,267 votes (seen in search results).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "a20", "title": "SDP Emerges Fastest Growing Party, Adewole Adebayo Lawyer Turned Politician Set to Fix Nigeria", "url": "https://thisdaylive.com/index.php/2022/11/12/sdp-emerges-fastest-growing-party-adewole-adebayo-lawyer-turned-politician-set-to-fix-nigeria", "publisher": "THISDAY", "type": "news", "published": "2022-11-12", "accessed": "2026-11-28", "categories": ["experience"], "claim": "2022 profile of his candidacy (seen in search results; not opened).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "a21", "title": "SDP crisis deepens as Gabam faction expels Adebayo, Agunloye, others", "url": "https://guardian.ng/politics/sdp-crisis-deepens-as-gabam-faction-expels-adebayo-agunloye-others/", "publisher": "The Guardian (Nigeria)", "type": "news", "published": "2026-05", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Gabam faction expelled Adebayo and others (seen in search results).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "a22", "title": "Adewole Adebayo", "url": "https://en.wikipedia.org/wiki/Adewole_Adebayo", "publisher": "Wikipedia", "type": "reference", "published": null, "accessed": "2026-11-28", "categories": ["experience"], "claim": "Used only to locate sources on education and bar admissions (seen in search results).", "verification": "UNVERIFIED", "quality": "low" },
+    { "id": "a23", "title": "SDP Leadership Crisis Deepens as Party Rejects Gabam's Court Victory", "url": "https://www.thisdaylive.com/2026/07/11/sdp-leadership-crisis-deepens-as-party-rejects-gabams-court-victory/", "publisher": "THISDAY", "type": "news", "published": "2026-07-11", "accessed": "2026-11-28", "categories": ["integrity", "leadership"], "claim": "July 2026 lower-court ruling for Gabam, rejected by the Gombe-led party, which said it had completed Adebayo's nomination (seen in search results).", "verification": "UNVERIFIED", "quality": "high" }
+  ],
+  "gaps": [
+    "Read the full 138-page manifesto PDF for health, education, foreign-policy and costing detail.",
+    "Confirm the 2006 Liberia TRC role against TRC or ECOWAS records (the TRC Act provided for internationally nominated technical advisers).",
+    "Confirm bar admissions outside Nigeria (a possible name confusion with a US lawyer was flagged).",
+    "Monitor any further litigation or INEC action on the disputed SDP candidacy.",
+    "Run a dedicated integrity search (court records, petitions, asset declaration); the web search budget ran out before this could be done.",
+    "Obtain a readable copy of INEC's final list to confirm age, qualifications and running-mate details.",
+    "Independent verification of KAFTAN TV reach, NYSC training and philanthropy figures."
+  ]
+}

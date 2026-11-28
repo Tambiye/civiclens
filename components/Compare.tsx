@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import SurpriseMe from "@/components/compare/SurpriseMe";
 import {
   FiArrowRight,
   FiBriefcase,
@@ -64,6 +65,8 @@ export default function Compare() {
             <FiArrowRight aria-hidden="true" />
           </Link>
         </div>
+
+        <SurpriseMe className="compare-surprise" label="Surprise me with a matchup" />
 
         <div className="comparison-topics">
           {comparisonTopics.map((topic) => {

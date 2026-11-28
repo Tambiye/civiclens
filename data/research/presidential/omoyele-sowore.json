@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "omoyele-sowore",
+  "name": "Omoyele Sowore",
+  "researchVersion": 1,
+  "status": "RESEARCHED",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Omoyele Sowore",
+    "commonName": "Sowore",
+    "born": "1971-02-16",
+    "stateOfOrigin": "Ondo",
+    "party": "African Action Congress (AAC)",
+    "partyHistory": [
+      { "party": "African Action Congress (AAC), founder and former national chairman", "period": "2018–present", "sourceIds": ["s3", "s5"] }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": false,
+    "education": [
+      { "credential": "BSc Geography and Regional Planning", "institution": "University of Lagos", "year": "1995", "sourceIds": ["s5", "s29"] },
+      { "credential": "Master's in Public Administration", "institution": "Columbia University", "sourceIds": ["s5", "s29"] }
+    ],
+    "professional": [
+      "Journalist and publisher; founder of Sahara Reporters (2006)",
+      "Human-rights and pro-democracy activist",
+      "Founder of the African Action Congress (2018)"
+    ]
+  },
+  "career": [
+    { "period": "1992–1994", "title": "President, University of Lagos Students' Union (reported)", "description": "Reported as UNILAG Students' Union president during military rule; his studies were extended after expulsions for activism. The union-presidency dates rest on secondary profiles and were not confirmed from a primary record in this pass.", "kind": "activism", "sourceIds": ["s29", "s30"] },
+    { "period": "2006–present", "title": "Founder and publisher, Sahara Reporters", "description": "Founded the New York-based online news outlet Sahara Reporters, which focuses on Nigerian governance and corruption reporting.", "kind": "professional", "sourceIds": ["s5", "s30"] },
+    { "period": "2018–2026", "title": "Founder and national chairman, African Action Congress", "description": "Founded the AAC in 2018; stepped down as national chairman after winning the party's 2027 presidential ticket in May 2026.", "kind": "party", "sourceIds": ["s3", "s5"] },
+    { "period": "2019", "title": "AAC presidential candidate", "description": "Contested the 2019 presidential election and finished fifth with 33,953 votes.", "kind": "candidacy", "sourceIds": ["s3", "s5"] },
+    { "period": "2019", "title": "#RevolutionNow protest and DSS detention", "description": "Arrested by the DSS in August 2019 ahead of the #RevolutionNow protest; held for months despite bail orders and released in December 2019. The treasonable-felony charge was discontinued in February 2024.", "kind": "activism", "sourceIds": ["s17", "s19", "s20", "s21"] },
+    { "period": "2023", "title": "AAC presidential candidate", "description": "Contested the 2023 presidential election and received 14,608 votes.", "kind": "candidacy", "sourceIds": ["s3", "s5", "s28"] },
+    { "period": "2026–2027", "title": "AAC presidential candidate for 2027", "description": "Emerged unopposed as AAC candidate at the party primary in Abuja on 26 May 2026; included on INEC's final list published 12 September 2026. Running mate reported as Haruna Magashi.", "kind": "candidacy", "sourceIds": ["s2", "s3", "s4", "s5"] }
+  ],
+  "elections": [
+    { "year": "2019", "office": "President", "party": "AAC", "result": "Lost; 33,953 votes, fifth place", "sourceIds": ["s3", "s5"] },
+    { "year": "2023", "office": "President", "party": "AAC", "result": "Lost; 14,608 votes", "sourceIds": ["s3", "s5", "s28"] },
+    { "year": "2027", "office": "President", "party": "AAC", "result": "Candidate; election scheduled for 16 January 2027", "sourceIds": ["s2", "s3"] }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "Sowore proposes reversing the 2023 petrol-subsidy removal, a ₦500,000 monthly minimum wage and a general reversal of the current administration's economic approach, financed mainly by cutting waste and recovering funds. He has no record of running economic policy.",
+      "analysis": "Sowore has never held public office, so this category rests entirely on campaign proposals. His central economic commitments, repeated across September and October 2026 interviews, are to restore the petrol subsidy removed in 2023 'on the first day in office', to set a ₦500,000 monthly living minimum wage, and to industrialise the economy by expanding agricultural production and processing. He says economic policy should be judged by its effect on living conditions and that he would not keep any current administration economic policy.\n\nOn financing, he told Premium Times that the wage would raise the federal wage bill by about ₦7.1 trillion and that ₦3 trillion to ₦4 trillion could be saved by eliminating government waste, with the balance from unpaid oil royalties and blocked leakages. He acknowledged corruption 'may not' end immediately. The AAC spokesperson added recovered looted funds and fuller use of refineries as sources. No published costing of the subsidy restoration was found, and the subsidy and wage proposals together imply large recurrent commitments whose interaction with the exchange rate, CBN policy, state and private-sector wage capacity, and the federal deficit is not addressed. Premium Times noted open questions about how states and businesses would pay. These outcomes would also depend on oil prices, the National Assembly and state governments, not on a president alone.",
+      "strengths": [
+        "Headline targets are specific and quantified (₦500,000 wage; day-one subsidy restoration)",
+        "Has given a partial cost estimate for the wage proposal (about ₦7.1 trillion)"
+      ],
+      "limitations": [
+        "No published costing for restoring the petrol subsidy",
+        "Savings estimate of ₦3–4 trillion is not itemised",
+        "Effects on inflation, the exchange rate and state/private employers are not addressed"
+      ],
+      "unknowns": [
+        "Whether a full macroeconomic framework or manifesto document will be published",
+        "How subsidy restoration would be funded and administered"
+      ],
+      "metrics": [
+        { "label": "Proposed monthly minimum wage", "value": "₦500,000", "sourceIds": ["s11", "s12"] },
+        { "label": "Candidate's estimate of added federal wage bill", "value": "about ₦7.1 trillion", "sourceIds": ["s11", "s5"] }
+      ],
+      "sourceIds": ["s5", "s9", "s10", "s11", "s12"],
+      "verification": "AI_DRAFT"
+    },
+    "security": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Proposes multi-level decentralised policing under national training standards, better pay for security personnel funded partly by redirecting governors' security votes, and drone/AI-based operations. His own record is as a rights campaigner and frequent detainee, not as a security manager.",
+      "analysis": "Sowore's security platform is a set of stated principles rather than a costed plan. In an October 2026 interview he backed decentralised policing at federal, state, local government, campus, city and community levels, with central training to national standards and a federal power to intervene in rights violations; he warned that state police without safeguards could worsen abuses, and in August 2026 urged that state police not be handed to governors before the election. He proposes raising pay for security personnel and redirecting governors' security votes to pay police salaries, which would require cooperation from states and probably legislation.\n\nIn July 2026 he proposed a drone and AI command-and-control system for surveillance, tracking criminal networks and frontline logistics, preferring unmanned aircraft to fighter jets, and criticised commanders for staying in Abuja. No cost, procurement path or timeline was given. His relevant track record is on the human-rights side of security: he has repeatedly been arrested by the DSS and police (2019, 2025) and has won rights rulings, which gives him first-hand familiarity with abuses but no record of commanding or reforming a security institution. Security outcomes in Nigeria are shared among the presidency, states, communities and agencies.",
+      "strengths": [
+        "Specific structural position on policing with explicit rights safeguards",
+        "Identifies personnel welfare and technology as levers"
+      ],
+      "limitations": [
+        "No cost, timeline or legislative route stated",
+        "Redirecting state security votes depends on governors and law",
+        "No record of managing a security institution"
+      ],
+      "unknowns": [
+        "Detailed plan for the North-East, North-West and South-East conflicts",
+        "Position on military budget and force structure"
+      ],
+      "sourceIds": ["s8", "s10", "s12", "s19", "s25"],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "A 20-point education manifesto (July 2026) promises free education from early childhood through university, abolition of WAEC/NECO fees, student semester grants and a restructured 5-5-4 system. It contains no costing.",
+      "analysis": "Education is the most fully documented of Sowore's proposals. On 13 July 2026 he released a 20-point education manifesto, reported by The Sun and Leadership, that promises free education from early childhood through university, removal of fees for WAEC, NECO and other public examinations, and semester grants covering academic and living expenses for students in public tertiary institutions. It proposes a restructured system of five years primary, five years secondary and four-year degrees, a community college offering two-year associate degrees in every local government area, conversion of all polytechnics and monotechnics into universities, universal early-childhood education, daily school meals, coding from primary school, a national education cloud, merit-based research grants, two-year teachers' institutes and better teacher pay and housing.\n\nThe document is specific about what would change but not about cost, phasing or funding; no budget figure was found in either report. Several items (converting polytechnics, restructuring school years, community colleges) would require changes to federal law and coordination with states, which run most primary and secondary schools. Free tertiary education plus living grants would be a large recurrent commitment beside his wage and subsidy plans. His professional background is in journalism and activism, so there is no record of running an education system to assess.",
+      "strengths": [
+        "Detailed, itemised policy document",
+        "Covers access, teacher welfare, structure and research"
+      ],
+      "limitations": [
+        "No costing or funding source",
+        "Relies on state governments and legislative changes",
+        "No implementation timeline"
+      ],
+      "unknowns": [
+        "Total cost of free tertiary education and grants",
+        "Phasing and sequencing of structural reforms"
+      ],
+      "sourceIds": ["s6", "s7", "s12"],
+      "verification": "AI_DRAFT"
+    },
+    "healthcare": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "States healthcare should be a right and proposes telemedicine using diaspora doctors, but no detailed health plan was found.",
+      "analysis": "Sowore's healthcare positions are brief. In September 2026 he said healthcare must become a right rather than a privilege for those who can afford medical tourism, and his campaign spokesperson referred to plans for affordable care. The most concrete proposal found was reported by Premium Times: combining conventional care with telemedicine, so that Nigerian doctors in the diaspora give remote consultations while local staff handle examinations and tests. His education manifesto also promises school health services, counselling and mental-health support for students.\n\nNo targets were found for health insurance coverage, primary healthcare centres, health-worker retention, budget share or tertiary hospitals, and no cost estimate was found. Telemedicine depends on electricity and connectivity that his power and digital plans would themselves have to deliver first, and on regulatory arrangements for cross-border medical practice that are not discussed. As a non-office-holder he has no record of health administration. A fuller AAC health document may exist but was not located in this pass, so the assessment may understate the detail of his platform. Health outcomes also depend heavily on states, which run most primary care.",
+      "strengths": [
+        "Identifies brain drain and diaspora capacity as a resource",
+        "Links student welfare to health services"
+      ],
+      "limitations": [
+        "No health financing, insurance or workforce targets",
+        "Telemedicine plan lacks regulatory and infrastructure detail"
+      ],
+      "unknowns": [
+        "Whether a separate AAC health policy document exists",
+        "Position on the National Health Insurance Authority framework"
+      ],
+      "sourceIds": ["s7", "s11", "s12"],
+      "verification": "AI_DRAFT"
+    },
+    "infrastructure": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Promises one million public mixed-income homes, tenancy-law reform and rebuilt infrastructure; no costs or delivery model found.",
+      "analysis": "Sowore's main infrastructure pledge is housing: one million public mixed-income homes, alongside reform of tenancy laws to end landlords' demands for one or two years' rent in advance, reported by Daily Trust and The Nigeria Lawyer in September 2026. He also promises to 'rebuild infrastructure' generally and, in education, modern classrooms, hostels, clean water and renewable electricity in schools. He describes his overall programme through the 'SPICER HEAT' framework, first used in 2019, in which infrastructure is one pillar.\n\nNo cost, financing model, delivery agency or timeline was found for the housing target, and no road, rail or port proposals were located. Tenancy law is largely a state matter, so the rent-reform pledge would depend on state legislatures, and land for public housing is controlled by state governors under the Land Use Act. Without a record of delivering projects, his capacity to execute large construction programmes cannot be assessed from evidence. The infrastructure category therefore rests on a small number of headline pledges, and a full infrastructure document, if one exists, was not found.",
+      "strengths": [
+        "Quantified housing target",
+        "Addresses a specific affordability issue (advance rent)"
+      ],
+      "limitations": [
+        "No cost, financing or timeline",
+        "Tenancy and land are largely state powers",
+        "No transport infrastructure proposals found"
+      ],
+      "unknowns": [
+        "Delivery model for one million homes",
+        "Position on ongoing federal road and rail projects"
+      ],
+      "sourceIds": ["s10", "s12", "s13"],
+      "verification": "AI_DRAFT"
+    },
+    "power": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Promises 24-hour electricity within three years by replacing the national grid with regional grids using solar, gas, hydro and biogas.",
+      "analysis": "Sowore has made electricity a headline pledge, saying 'no serious industrial economy can operate permanently on generators' and that he would deliver 24-hour power. The most specific version, reported by Premium Times in September 2026, is to dismantle the national grid and replace it with regional grids powered by solar, gas, hydro and biogas, promising uninterrupted power within three years and citing a need for more than 60,000 megawatts to restore industrial productivity.\n\nThe proposal is clear in direction but leaves major questions open. No cost, investment model or sequencing was found for building regional grids, and it is not stated how existing transmission assets, privatised distribution companies, gas-supply contracts or the 2023 Electricity Act framework (which gives states powers over their electricity markets) would be handled. A three-year path to uninterrupted supply is far faster than Nigeria's historical rate of capacity additions, so the timeline carries high delivery risk. The proposal does align in part with the post-2023 shift toward state and regional markets. There is no prior record of power-sector work to assess. The power pledge also sits alongside a subsidy restoration that could affect gas pricing, which is not discussed.",
+      "strengths": [
+        "Clear target and timeline",
+        "Explicit preference for a mixed, decentralised generation model"
+      ],
+      "limitations": [
+        "No cost or financing",
+        "Three-year timeline is very ambitious",
+        "Interaction with privatised DisCos and the Electricity Act not explained"
+      ],
+      "unknowns": [
+        "Tariff policy",
+        "Gas supply and pricing plan"
+      ],
+      "metrics": [
+        { "label": "Generation the candidate says is needed", "value": "more than 60,000 MW", "sourceIds": ["s11"] }
+      ],
+      "sourceIds": ["s11", "s12", "s13"],
+      "verification": "AI_DRAFT"
+    },
+    "jobs": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Promises 'dignified employment' through industrialisation, agricultural processing and infrastructure; no job targets found.",
+      "analysis": "Sowore frames unemployment, especially among young people, as a core grievance, and his platform proposes to create 'dignified employment' by industrialising the economy, expanding agricultural production and processing and rebuilding infrastructure. The AAC spokesperson described a shift from subsistence farming to an industrial, export-oriented agricultural sector. His education manifesto adds technical and vocational training in renewable energy, manufacturing, agriculture, aviation and health technology, which is the most concrete skills-related element found.\n\nNo numerical job-creation target, sector-by-sector plan, MSME financing scheme or investment-promotion strategy was found. The ₦500,000 minimum wage is presented as part of an economic programme to boost production, but its likely effect on formal hiring by states and private firms, which several commentators raised, is not addressed by the campaign. The jobs category therefore depends on the success of wider plans in power, agriculture and education, each of which is itself uncosted. His own organisational experience, founding a media outlet and a political party, is small in scale relative to national employment policy, and no employment figures for Sahara Reporters were found.",
+      "strengths": [
+        "Links jobs to agriculture value chains and vocational training"
+      ],
+      "limitations": [
+        "No job targets or MSME instruments",
+        "Possible employment effects of the wage proposal not addressed"
+      ],
+      "unknowns": [
+        "Investment policy and incentives",
+        "Specific youth-employment programmes"
+      ],
+      "sourceIds": ["s7", "s9", "s12"],
+      "verification": "AI_DRAFT"
+    },
+    "finance": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Proposes cutting the cost of governance, putting public spending on blockchain and AI-audited systems, and refusing to repay IMF and other loans he says were made to 'politicians'.",
+      "analysis": "Sowore's public-finance proposals combine spending cuts with technology. The AAC says it would reduce spending on political office holders, aides, convoys and luxury vehicles, and he says he would not create an Office of the First Lady. In July 2026 he proposed recording government contracts, budgets and spending on a time-stamped blockchain open to public review and using AI for continuous real-time audits to flag fraud and procurement irregularities; he has described AI as effectively a 'Minister of Finance'. He also told party members in May 2026 that international lenders should stop lending to Nigerian politicians and that his administration would not repay such loans.\n\nThe last point carries significant trade-offs that the campaign has not disclosed: repudiating sovereign debt would affect Nigeria's credit rating, borrowing costs and access to markets, and it is not stated which loans would be covered or how. No revenue projections, deficit targets or debt-service figures were found, and the claimed ₦3–4 trillion in waste savings is not itemised. Blockchain and AI audit systems would need procurement, data integration across MDAs and legal backing. Budget approval also lies with the National Assembly.",
+      "strengths": [
+        "Specific transparency mechanism proposed",
+        "Explicit cost-of-governance cuts"
+      ],
+      "limitations": [
+        "Debt repudiation risks are not disclosed",
+        "No revenue, deficit or debt targets",
+        "Technology proposals lack implementation detail"
+      ],
+      "unknowns": [
+        "Which loans the repudiation pledge would cover",
+        "Tax policy"
+      ],
+      "sourceIds": ["s4", "s8", "s9", "s11"],
+      "verification": "AI_DRAFT"
+    },
+    "leadership": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "Has led a students' union, a news organisation and a political party; has not led a government or large public institution.",
+      "analysis": "Evidence of Sowore's leadership comes from three organisations. He is reported to have led the University of Lagos Students' Union in the early 1990s. He founded Sahara Reporters in 2006 and built it into a widely read outlet, and he founded the AAC in 2018, chaired it until May 2026 and has been its presidential candidate three times. These show sustained organisation-building and the ability to keep a small party on the ballot through repeated elections.\n\nThe scale of these roles is small relative to the presidency. The AAC's vote fell from 33,953 in 2019 to 14,608 in 2023, and he won three party primaries unopposed, so there is little evidence of building broad coalitions; in May 2026 he explicitly rejected alliances with other opposition parties. No information was found on the size of Sahara Reporters' staff or budget, on his management practices, or on who would serve in a Sowore cabinet. His approach to crisis is visible mainly in confrontations with security agencies, where he has relied on courts and public campaigns. Whether this style would translate into managing a federal bureaucracy, a cabinet and relations with the National Assembly cannot be assessed from the available record.",
+      "strengths": [
+        "Founded and sustained two organisations over many years",
+        "Consistent public positions across three campaigns"
+      ],
+      "limitations": [
+        "No government or large-institution management record",
+        "Declining vote share and no coalition-building record"
+      ],
+      "unknowns": [
+        "Prospective cabinet or delivery team",
+        "Management record at Sahara Reporters"
+      ],
+      "sourceIds": ["s3", "s4", "s5", "s29"],
+      "verification": "AI_DRAFT"
+    },
+    "integrity": {
+      "evidence": "strong",
+      "basis": "record",
+      "summary": "Faces an ongoing DSS cybercrime prosecution over posts calling President Tinubu a criminal (not guilty plea; no verdict). His 2019 treasonable-felony charge was discontinued in 2024 without trial; several courts have ruled detentions or declarations against him unlawful.",
+      "analysis": "Sowore has an extensive court record, almost all of it arising from his activism and publishing. In 2019 he was arrested by the DSS before the #RevolutionNow protest and charged with treasonable felony and related counts; he was granted bail on 24 September 2019 but held until late December, and DSS operatives entered a courtroom on 6 December 2019 to re-arrest him, drawing criticism from Human Rights Watch and others. In February 2024 the Attorney-General discontinued the case and the court struck it out, so the allegations were never tried. A 2022 court ruling declared his 2019 arrest illegal.\n\nThe current matter is a two-count DSS cybercrime charge under the Cybercrimes Act over 2025 posts calling President Tinubu a criminal. He pleaded not guilty, his no-case submission was overruled on 8 May 2026, and on 24 November 2026 the DSS asked the court to foreclose his defence for exceeding adjournment limits; the defence opposed, and the matter was adjourned to 7 December 2026. No finding of guilt has been made. Separately, police charged him in 2025 over posts about the IGP (bailed January 2025) and over an October 2025 protest; outcomes were not found. In civil matters, a Lagos court dismissed a defamation suit against him in June 2025, and a court awarded him ₦30 million after police unlawfully declared him wanted. No asset declaration was found.",
+      "strengths": [
+        "No conviction on record",
+        "Several courts have found state action against him unlawful"
+      ],
+      "limitations": [
+        "Ongoing criminal trial in the Federal High Court",
+        "Outcomes of the 2025 police cases not found",
+        "No public asset declaration found"
+      ],
+      "unknowns": [
+        "Outcome of the DSS cybercrime trial",
+        "Status of the IGP-related cybercrime case and protest charges",
+        "Sahara Reporters' ownership and funding disclosures"
+      ],
+      "sourceIds": ["s14", "s15", "s16", "s17", "s18", "s19", "s20", "s21", "s22", "s23", "s24", "s25", "s26", "s27"],
+      "verification": "AI_DRAFT"
+    },
+    "experience": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "Two decades as a publisher and activist and three presidential campaigns; no public office, executive or legislative.",
+      "analysis": "Sowore's experience is in journalism, advocacy and opposition politics. He studied geography and regional planning at the University of Lagos and public administration at Columbia University, founded Sahara Reporters in New York in 2006, and founded the AAC in 2018. He has run for president in 2019, 2023 and now 2027, giving him campaign experience and long exposure to national policy debates. Through Sahara Reporters he has spent years scrutinising public spending and official conduct, which is relevant background for anti-corruption and transparency policy.\n\nHe has never held elected or appointed public office, never managed a public budget, and has no legislative record, so his ability to run a federal government cannot be judged from a performance record. Under this site's definition he has no executive experience. This is a factual gap rather than a judgement: several Nigerian heads of state also came to office with limited prior civilian executive experience. Voters weighing this category will be comparing a record of outside scrutiny of government with candidates who have inside experience of running it. Details of his management responsibilities at Sahara Reporters (staff, budget, governance) were not found.",
+      "strengths": [
+        "Long record of public-interest reporting and advocacy",
+        "Formal training in public administration"
+      ],
+      "limitations": [
+        "No public office or budget-management experience"
+      ],
+      "unknowns": [
+        "Scale of his management role at Sahara Reporters"
+      ],
+      "sourceIds": ["s3", "s5", "s29", "s30"],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "Frames his candidacy as a non-violent 'revolutionary' break with the current political class, organised around the 'SPICER HEAT' agenda and technology-driven governance.",
+      "analysis": "Sowore's stated vision is a 'revolutionary change' that removes what he calls a corrupt political elite and builds a 'new Nigeria' on accountability, justice and people-centred governance. He organises policy under 'SPICER HEAT' (security, power, infrastructure, economy, anti-corruption, restructuring, health, education, agriculture, technology and tourism), which he says dates from 2019 and needs only minor adjustment. Distinctive elements in 2026 include blockchain and AI in public finance, drones in defence, a people-funded campaign, rejection of a return to regional government while supporting decentralised policing, and a refusal to keep any current-administration policy.\n\nThe vision is consistent over three campaigns, which is evidence of conviction rather than of feasibility. Its feasibility is weakened by the absence of a consolidated, costed manifesto in the sources found; most proposals have been released as interviews, social-media posts and a sector document on education. Several pledges (subsidy restoration, ₦500,000 wage, free education to university level, one million homes, 24-hour power in three years) would each require large resources at the same time, and the campaign has not shown how they fit within one budget. The AAC holds no seats in the National Assembly found in this research, which would matter for legislation.",
+      "strengths": [
+        "Coherent and consistent framing since 2019",
+        "Distinctive technology-governance ideas"
+      ],
+      "limitations": [
+        "No consolidated, costed manifesto located",
+        "Simultaneous large commitments not reconciled"
+      ],
+      "unknowns": [
+        "Prioritisation among commitments",
+        "Legislative strategy"
+      ],
+      "sourceIds": ["s3", "s4", "s8", "s10", "s11"],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Only general statements found: Nigeria's domestic success as the basis of African influence, and a call for lenders to stop lending to Nigerian politicians.",
+      "analysis": "Little on foreign policy was found. In an October 2026 interview Sowore said Nigeria's development is central to Africa's progress, so domestic success would strengthen its continental influence. In May 2026 he urged the IMF and other international lenders to stop lending to Nigerian politicians and said his administration would not repay such loans, which would have significant consequences for relations with creditors. He has lived and worked in the United States for long periods. No positions were found on ECOWAS (including the Sahel states' exit), trade agreements such as AfCFTA, migration, or relations with major powers.",
+      "strengths": [],
+      "limitations": [
+        "No structured foreign-policy statement found"
+      ],
+      "unknowns": [
+        "ECOWAS and AU policy",
+        "Trade policy",
+        "Approach to international creditors in detail"
+      ],
+      "missing": [
+        "Position on ECOWAS and the Alliance of Sahel States",
+        "Trade and AfCFTA policy",
+        "Diaspora and migration policy",
+        "Detail of the debt-repudiation pledge and its diplomatic consequences"
+      ],
+      "sourceIds": ["s4", "s10"],
+      "verification": "AI_DRAFT"
+    },
+    "humanImpact": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "His proposals target household costs directly (fuel price, wages, rent, school fees). His documented public impact is through reporting and rights litigation rather than policy.",
+      "analysis": "Sowore's platform is aimed squarely at household costs. Restoring the petrol subsidy, which he associates with petrol at ₦400 per litre or less, a ₦500,000 minimum wage, abolition of public examination fees, free education with student grants, daily school meals and an end to advance-rent demands would each, if delivered, directly reduce costs for low- and middle-income households. Special-education provisions such as Braille and sign language are included in the education plan.\n\nThe distributional effects are not analysed by the campaign. A minimum wage only reaches formal-sector workers, while most Nigerian workers are informal; subsidy restoration benefits fuel consumers broadly but has historically been costly and vulnerable to fraud, which he himself acknowledges; and large unfunded commitments could raise inflation or debt, which hurts poorer households most. His documented impact on people so far is through Sahara Reporters' accountability reporting and through litigation that produced rulings against unlawful detention and against police declaring him wanted, outcomes with some precedent value for other citizens. No independent evaluation of that impact was found.",
+      "strengths": [
+        "Proposals directly address household cost pressures",
+        "Includes provision for students with disabilities"
+      ],
+      "limitations": [
+        "No distributional or inflation analysis",
+        "Informal-sector workers not addressed"
+      ],
+      "unknowns": [
+        "Targeting mechanisms for vulnerable groups",
+        "Independent assessment of his reporting's impact"
+      ],
+      "sourceIds": ["s7", "s10", "s11", "s12", "s23"],
+      "verification": "AI_DRAFT"
+    },
+    "promises": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "Many promises are specific and quantified (day-one subsidy restoration, ₦500,000 wage, one million homes, 24-hour power in three years) but few are costed or sequenced. No office record exists to test delivery.",
+      "analysis": "As an aspirant, Sowore's promises are assessed for specificity. They score well on clarity: day-one restoration of the petrol subsidy, a ₦500,000 monthly minimum wage, one million public mixed-income homes, uninterrupted power within three years via regional grids, free education from nursery to university with no WAEC or NECO fees, blockchain-recorded public spending, and non-repayment of loans to 'politicians'. Several carry numbers or timelines that would make later tracking straightforward.\n\nThey score less well on how. Only the wage proposal has a partial cost estimate (about ₦7.1 trillion), set against an un-itemised ₦3–4 trillion in waste savings and recovered royalties. Delivery mechanisms, legislative requirements and trade-offs are rarely stated, and the promises have not been reconciled into a single budget. Many depend on bodies outside the presidency: tenancy and land on states, wage implementation on states and employers, curriculum and institutional changes on the National Assembly. A meaningful share of the reporting comes from Sahara Reporters, which he founded, so independent outlets (Premium Times, Daily Trust, The Sun, Leadership) were used where possible. With no time in office, there is no promise-keeping record to evaluate.",
+      "strengths": [
+        "High specificity and measurability",
+        "Consistency of core themes since 2019"
+      ],
+      "limitations": [
+        "Little costing or sequencing",
+        "Dependence on states and the legislature not acknowledged"
+      ],
+      "unknowns": [
+        "Whether a full costed manifesto will be released before the election"
+      ],
+      "sourceIds": ["s6", "s9", "s10", "s11", "s12", "s13"],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    { "id": "rec1", "title": "Founded Sahara Reporters", "kind": "achievement", "label": "FACT", "period": "2006", "description": "Founded the New York-based online outlet that reports on Nigerian governance and corruption.", "categories": ["experience", "leadership"], "sourceIds": ["s5", "s30"] },
+    { "id": "rec2", "title": "Founded the African Action Congress", "kind": "achievement", "label": "FACT", "period": "2018", "description": "Founded the AAC and led it as national chairman until May 2026.", "categories": ["leadership", "experience"], "sourceIds": ["s3", "s5"] },
+    { "id": "rec3", "title": "2019 #RevolutionNow arrest and treasonable-felony prosecution", "kind": "controversy", "label": "FACT", "period": "2019–2024", "description": "Arrested by the DSS in August 2019 and charged with treasonable felony, money laundering, cyberstalking and insulting the President. Bail granted September 2019 but detention continued until December 2019, including a courtroom re-arrest on 6 December. The Attorney-General discontinued the case in February 2024 and the court struck it out; no trial verdict was reached.", "legalStatus": "closed", "categories": ["integrity", "security"], "sourceIds": ["s17", "s18", "s19", "s20", "s21"] },
+    { "id": "rec4", "title": "Court declares 2019 arrest illegal", "kind": "outcome", "label": "FACT", "period": "2022", "description": "A court declared his arrest over the #RevolutionNow protest illegal.", "categories": ["integrity", "humanImpact"], "sourceIds": ["s22"] },
+    { "id": "rec5", "title": "DSS cybercrime prosecution over posts about President Tinubu", "kind": "controversy", "label": "FACT", "period": "2025–present", "description": "Two-count charge under the Cybercrimes Act over posts calling the President a criminal. Pleaded not guilty; no-case submission overruled 8 May 2026; DSS application to foreclose his defence (filed 23 November 2026) opposed by the defence; adjourned to 7 December 2026. No verdict.", "legalStatus": "charged", "categories": ["integrity"], "sourceIds": ["s14", "s15", "s16"] },
+    { "id": "rec6", "title": "Police cybercrime charge over posts about the IGP", "kind": "unresolved", "label": "FACT", "period": "2025", "description": "Police charged him over posts describing IGP Kayode Egbetokun as an 'illegal IGP'; he pleaded not guilty and was granted ₦10 million bail on 30 January 2025. Current status not found.", "legalStatus": "charged", "categories": ["integrity"], "sourceIds": ["s27"] },
+    { "id": "rec7", "title": "October 2025 protest charges and re-arrest", "kind": "controversy", "label": "FACT", "period": "October 2025", "description": "Arraigned with 12 others at a Kuje magistrate's court on counts of unlawful assembly and disturbance of public peace after the #FreeNnamdiKanuNow protest; re-arrested by police after bail was granted, then released on 27 October 2025. Outcome of the charges not found.", "legalStatus": "charged", "categories": ["integrity", "security"], "sourceIds": ["s25", "s26"] },
+    { "id": "rec8", "title": "Fatodu defamation suit dismissed", "kind": "outcome", "label": "FACT", "period": "June 2025", "description": "Lagos State High Court dismissed a defamation suit by Lekan Fatodu and his firm over a 2017 Sahara Reporters publication, finding publication to a third party was not proved, and awarded ₦500,000 costs against the claimants.", "legalStatus": "closed", "categories": ["integrity"], "sourceIds": ["s24"] },
+    { "id": "rec9", "title": "Court awards ₦30 million over police 'wanted' declaration", "kind": "outcome", "label": "FACT", "period": "February 2026", "description": "Federal High Court in Lagos held that the Lagos police commissioner's declaration of Sowore as wanted was unlawful and awarded ₦30 million damages (per the existing profile's TheCable source; the page could not be opened in this pass).", "legalStatus": "judgment", "categories": ["integrity", "humanImpact"], "sourceIds": ["s23"] }
+  ],
+  "plans": [
+    { "id": "pl1", "title": "Restore petrol subsidy", "label": "PROMISE", "category": "economy", "outcome": "Reverse the 2023 subsidy removal and return petrol to about ₦400 per litre or less", "timeline": "First day in office", "funding": "Not stated", "risks": "Fiscal cost and historical subsidy fraud, acknowledged by the candidate", "sourceIds": ["s9", "s10"] },
+    { "id": "pl2", "title": "₦500,000 monthly living minimum wage", "label": "PROMISE", "category": "economy", "outcome": "National minimum wage of ₦500,000 per month", "funding": "Waste reduction (₦3–4 trillion claimed), recovery of unpaid oil royalties and leakages", "target": "Adds about ₦7.1 trillion to federal wage bill (candidate's estimate)", "risks": "Affordability for states and private employers; inflation", "sourceIds": ["s11", "s12"] },
+    { "id": "pl3", "title": "Free education from early childhood to university", "label": "PROMISE", "category": "education", "outcome": "Free schooling at all levels, no WAEC/NECO fees, semester grants for public tertiary students, 5-5-4 structure, LGA community colleges, polytechnics converted to universities", "funding": "Not stated", "dependencies": "States and National Assembly", "sourceIds": ["s6", "s7"] },
+    { "id": "pl4", "title": "24-hour electricity via regional grids", "label": "PROMISE", "category": "power", "outcome": "Replace the national grid with regional grids (solar, gas, hydro, biogas) and deliver uninterrupted power", "timeline": "Within three years", "funding": "Not stated", "sourceIds": ["s11", "s13"] },
+    { "id": "pl5", "title": "One million public homes and tenancy reform", "label": "PROMISE", "category": "infrastructure", "outcome": "Build one million mixed-income public homes; end demands for one to two years' advance rent", "funding": "Not stated", "dependencies": "State land and tenancy laws", "sourceIds": ["s12", "s13"] },
+    { "id": "pl6", "title": "Blockchain and AI public-finance controls", "label": "PROPOSAL", "category": "finance", "outcome": "Public, tamper-proof ledger of contracts, budgets and spending with AI real-time audits", "funding": "Not stated", "sourceIds": ["s8", "s11"] },
+    { "id": "pl7", "title": "Decentralised policing and security pay", "label": "PROPOSAL", "category": "security", "outcome": "Multi-level policing under national training standards; higher security pay, partly by redirecting governors' security votes; drone/AI command system", "dependencies": "Constitutional/legislative change and state cooperation", "sourceIds": ["s8", "s10", "s12"] },
+    { "id": "pl8", "title": "Non-repayment of loans to 'politicians'", "label": "PROMISE", "category": "finance", "outcome": "Not repay IMF and other international loans he says were made to Nigerian politicians", "risks": "Credit rating, borrowing costs and creditor relations; not disclosed by the campaign", "sourceIds": ["s4"] },
+    { "id": "pl9", "title": "Telemedicine with diaspora doctors", "label": "PROPOSAL", "category": "healthcare", "outcome": "Diaspora doctors give remote consultations while local staff run examinations and tests", "sourceIds": ["s11"] }
+  ],
+  "test": [
+    { "questionId": "r1", "answer": "Yes. Problems such as cost of living, unemployment, unreliable power, out-of-school costs and corruption are stated clearly and repeatedly.", "assessment": "yes", "sourceIds": ["s3", "s12"] },
+    { "questionId": "r2", "answer": "Partly. Many pledges are specific and quantified (₦500,000 wage, day-one subsidy restoration, one million homes, 24-hour power in three years, 20-point education plan), but delivery mechanisms are mostly undescribed.", "assessment": "partly", "sourceIds": ["s7", "s10", "s11", "s13"] },
+    { "questionId": "r3", "answer": "Partly. Some ideas have precedents (regional/decentralised power markets, open contracting), but the campaign has not cited evidence for its approaches, and subsidy restoration runs against most economic evidence on cost and leakage.", "assessment": "partly", "sourceIds": ["s8", "s11"] },
+    { "questionId": "r4", "answer": "No evidence that it is. Only the wage proposal has a partial cost (about ₦7.1 trillion) against un-itemised savings; subsidy, free education and housing are uncosted, and the debt-repudiation pledge could raise borrowing costs.", "assessment": "no", "sourceIds": ["s4", "s5", "s11"] },
+    { "questionId": "r5", "answer": "Partly. Some timelines are given (day one for subsidy, three years for power), but they are very ambitious and most pledges have none.", "assessment": "partly", "sourceIds": ["s10", "s11"] },
+    { "questionId": "r6", "answer": "Partly. A president controls federal fuel pricing and federal spending, but tenancy, land, most schooling, state wages and policing reform depend on states and the National Assembly.", "assessment": "partly", "sourceIds": ["s10", "s12"] },
+    { "questionId": "r7", "answer": "Yes. Policing reform, education restructuring, the budget for subsidies and wages, and the minimum-wage law all require National Assembly action; the AAC's legislative strength is not documented.", "assessment": "yes", "sourceIds": ["s7", "s10"] },
+    { "questionId": "r8", "answer": "Mostly no. He acknowledges corruption will not end immediately, but fiscal, inflation and creditor risks of the main pledges are not disclosed.", "assessment": "no", "sourceIds": ["s4", "s11"] },
+    { "questionId": "r9", "answer": "Unknown. No cabinet, delivery team or technical committee was identified; running mate reported as Haruna Magashi, a Kano-based lawyer.", "assessment": "unknown", "sourceIds": ["s5"] },
+    { "questionId": "r10", "answer": "No government execution record. He has built and sustained Sahara Reporters and the AAC, which shows organisational persistence but not delivery of public programmes.", "assessment": "no", "sourceIds": ["s3", "s5"] }
+  ],
+  "sources": [
+    { "id": "s1", "title": "Final List of Presidential and National Assembly Candidates (PDF)", "url": "https://inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf", "publisher": "Independent National Electoral Commission", "type": "electoral", "published": "2026-10", "accessed": "2026-11-28", "categories": ["experience"], "claim": "INEC final candidate list (file opened, but table content was not machine-readable in this pass; candidacy corroborated by s2 and s5).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "s2", "title": "INEC releases final list of 18 presidential candidates for 2027 elections", "url": "https://nairametrics.com/2026/09/12/inec-releases-final-list-of-18-presidential-candidates-for-2027-elections/", "publisher": "Nairametrics", "type": "news", "published": "2026-09-12", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Sowore is the AAC candidate on INEC's final list released 12 September 2026; presidential election set for 16 January 2027.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s3", "title": "2027: Sowore emerges AAC presidential candidate", "url": "https://www.premiumtimesng.com/news/top-news/882985-2027-sowore-emerges-aac-presidential-candidate.html", "publisher": "Premium Times", "type": "news", "published": "2026-05-26", "accessed": "2026-11-28", "categories": ["experience", "leadership", "vision"], "claim": "Unopposed AAC primary in Abuja; stepped down as national chairman; 33,953 votes (fifth) in 2019 and 14,608 in 2023; founded AAC in 2018.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s4", "title": "AAC picks Sowore as consensus presidential candidate for 2027", "url": "https://www.vanguardngr.com/2026/05/aac-picks-sowore-as-consensus-presidential-candidate-for-2027/", "publisher": "Vanguard", "type": "news", "published": "2026-05-26", "accessed": "2026-11-28", "categories": ["leadership", "finance", "foreign", "vision"], "claim": "Consensus adoption; rejected coalitions; urged IMF and lenders to stop lending to Nigerian politicians and said such loans would not be repaid.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s5", "title": "Profiles: The men, women seeking to be Nigeria's president in 2027", "url": "https://allafrica.com/stories/202610260089.html", "publisher": "Premium Times via AllAfrica", "type": "news", "published": "2026-10-25", "accessed": "2026-11-28", "categories": ["experience", "economy", "integrity"], "claim": "Biography (born 16 Feb 1971, Ondo; UNILAG and Columbia MPA); vote totals; treason charges struck out Feb 2024; running mate Haruna Magashi; ₦7.1 trillion wage estimate.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s6", "title": "Sowore unveils 2027 education plan, promises free schooling, WAEC, NECO exams writing", "url": "https://leadership.ng/sowore-unveils-2027-education-plan-promises-free-schooling-waec-neco-exams-writing/", "publisher": "Leadership", "type": "news", "published": "2026-07-13", "accessed": "2026-11-28", "categories": ["education"], "claim": "Education plan: free schooling to university, no exam fees, semester grants, 5-5-4 structure, LGA community colleges.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s7", "title": "Sowore promises free education, vows to end WAEC, NECO fees", "url": "https://thesun.ng/sowore-promises-free-education-vows-to-end-waec-neco-fees/", "publisher": "The Sun", "type": "news", "published": "2026-07-13", "accessed": "2026-11-28", "categories": ["education", "healthcare", "jobs", "humanImpact"], "claim": "Details of the 20-point education manifesto, including teacher institutes, school meals, health services and vocational training.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s8", "title": "2027: Sowore unveils blockchain, AI plan to end public sector corruption, slash bureaucracy", "url": "https://saharareporters.com/2026/07/24/2027-sowore-unveils-blockchain-ai-plan-end-public-sector-corruption-slash-bureaucracy", "publisher": "Sahara Reporters (founded by the candidate)", "type": "candidate-statement", "published": "2026-07-24", "accessed": "2026-11-28", "categories": ["finance", "security", "vision"], "claim": "Blockchain ledger and AI audits for public finance; drone/AI defence command system.", "verification": "AI_DRAFT", "quality": "medium", "summary": "Outlet founded by the candidate; treated as a record of his statements, not independent reporting." },
+    { "id": "s9", "title": "AAC promises to restore fuel subsidy, pay N500,000 minimum wage if Sowore wins 2027 election", "url": "https://saharareporters.com/2026/09/14/aac-promises-restore-fuel-subsidy-pay-n500000-minimum-wage-if-sowore-wins-2027-election", "publisher": "Sahara Reporters (founded by the candidate)", "type": "candidate-statement", "published": "2026-09-14", "accessed": "2026-11-28", "categories": ["economy", "finance", "jobs"], "claim": "AAC spokesperson: subsidy restoration, free education, industrial agriculture, ₦500,000 wage, cuts to cost of governance; funding from oil revenue and recovered loot.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s10", "title": "Sowore vows to restore fuel subsidy on first day in office, calls regime 'a scam'", "url": "https://saharareporters.com/2026/10/04/sowore-vows-restore-fuel-subsidy-first-day-office-calls-regime-scam", "publisher": "Sahara Reporters (founded by the candidate)", "type": "candidate-statement", "published": "2026-10-04", "accessed": "2026-11-28", "categories": ["economy", "security", "foreign", "vision"], "claim": "Day-one subsidy restoration; decentralised policing with national standards; security votes to pay police; SPICER HEAT agenda; foreign-policy remark.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s11", "title": "2027: How Nigerian govt can fund N500,000 minimum wage – Sowore", "url": "https://premiumtimesng.com/news/top-news/910537-2027-how-nigerian-govt-can-fund-n500000-minimum-wage-sowore.html", "publisher": "Premium Times", "type": "news", "published": "2026-09-18", "accessed": "2026-11-28", "categories": ["economy", "finance", "power", "healthcare"], "claim": "₦7.1 trillion wage-bill estimate; ₦3–4 trillion waste savings; regional grids and uninterrupted power within three years; telemedicine; no Office of First Lady.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s12", "title": "2027: I'll introduce N500,000 minimum wage if elected – Sowore", "url": "https://dailytrust.com/?p=1952026", "publisher": "Daily Trust", "type": "news", "published": "2026-09-13", "accessed": "2026-11-28", "categories": ["economy", "security", "healthcare", "jobs", "infrastructure"], "claim": "Wage, healthcare-as-right, security reform with drones and better pay, 24-hour power, one million homes, tenancy reform.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s13", "title": "'We will deliver 24-hour electricity' — Sowore promises ₦500,000 minimum wage, free education, one million homes", "url": "https://thenigerialawyer.com/we-will-deliver-24-hour-electricity-sowore-promises-₦500000-minimum-wage-free-education-one-million-homes/", "publisher": "The Nigeria Lawyer", "type": "news", "published": "2026-09-13", "accessed": "2026-11-28", "categories": ["power", "infrastructure"], "claim": "24-hour electricity pledge; one million homes; people-funded campaign.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s14", "title": "Alleged cyberbullying: Foreclose Sowore's defence for exceeding adjournments ceiling, DSS tells court", "url": "https://tribuneonlineng.com/alleged-cyberbullying-foreclose-sowores-defence-for-exceeding-adjournments-ceiling-dss-tells-court/", "publisher": "Nigerian Tribune", "type": "news", "published": "2026-11-24", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Two-count cyberbullying charge; re-arraigned 19 Jan 2026; DSS motion to foreclose defence; defence opposition; adjourned to 7 Dec 2026.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s15", "title": "Court Dismisses Sowore's No-Case Submission in Cyberbullying Trial, Fixes May 19 to Open Defence", "url": "https://www.thisdaylive.com/2026/05/08/court-dismisses-sowores-no-case-submission-in-cyberbullying-trial-fixes-may-19-to-open-defence/", "publisher": "THISDAY", "type": "news", "published": "2026-05-08", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "No-case submission dismissed; Sowore to open defence.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s16", "title": "Court rejects DSS application to foreclose Sowore's defence in trial over 'Tinubu criminal'", "url": "https://saharareporters.com/2026/07/16/court-rejects-dss-application-foreclose-sowores-defence-trial-over-tinubu-criminal", "publisher": "Sahara Reporters (founded by the candidate)", "type": "news", "published": "2026-07-16", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "In July 2026 the court rejected an earlier DSS application to foreclose the defence (seen in search results).", "verification": "UNVERIFIED", "quality": "low" },
+    { "id": "s17", "title": "FG Discontinues Treason Charges against Omoyele Sowore", "url": "https://www.thisdaylive.com/2024/02/15/fg-discontinues-treason-charges-against-omoyele-sowore/", "publisher": "THISDAY", "type": "news", "published": "2024-02-15", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Attorney-General Lateef Fagbemi filed notice discontinuing the 2019 charge against Sowore and Bakare.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s18", "title": "Court strikes out treasonable felony charge against Sowore", "url": "https://www.channelstv.com/2024/02/19/court-strikes-out-treasonable-felony-charge-against-sowore/", "publisher": "Channels Television", "type": "news", "published": "2024-02-19", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Federal High Court struck out the treasonable felony charge after discontinuance (page returned 403 when fetched; listed in existing profile).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "s19", "title": "Nigeria: Despite court order, activist still held", "url": "https://www.hrw.org/news/2019/11/15/nigeria-despite-court-order-activist-still-held", "publisher": "Human Rights Watch", "type": "investigative", "published": "2019-11-15", "accessed": "2026-11-28", "categories": ["integrity", "security"], "claim": "Sowore remained in DSS custody despite a court bail order (seen in search results).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "s20", "title": "Nigeria's DSS attempts to rearrest leader of Revolution Now protests", "url": "https://www.africanews.com/2019/12/06/nigeria-s-dss-attempts-to-rearrest-leader-of-revolution-now-protests", "publisher": "Africanews", "type": "news", "published": "2019-12-06", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "DSS operatives entered the courtroom to re-arrest Sowore a day after Justice Ojukwu ordered his release.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s21", "title": "Nigerian government orders release of Omoyele Sowore, journalist and human rights activist", "url": "https://globalvoices.org/2019/12/24/nigerian-government-orders-release-of-omoleye-sowore-journalist-and-human-rights-activist/", "publisher": "Global Voices", "type": "news", "published": "2019-12-24", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Attorney-General Malami directed the DSS to comply with bail orders on 24 December 2019.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s22", "title": "Court declares Sowore's arrest over RevolutionNow protest illegal", "url": "https://www.premiumtimesng.com/news/headlines/518822-court-declares-sowores-arrest-over-revolutionnow-protest-illegal.html", "publisher": "Premium Times", "type": "news", "published": "2022-03-22", "accessed": "2026-11-28", "categories": ["integrity", "humanImpact"], "claim": "Court declared the 2019 arrest illegal (URL seen as a reference; page not opened).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "s23", "title": "Court faults Lagos CP for declaring Sowore wanted, awards him N30m damages", "url": "https://www.thecable.ng/court-faults-lagos-cp-for-declaring-sowore-wanted-awards-him-n30m-damages/", "publisher": "TheCable", "type": "news", "published": "2026-02", "accessed": "2026-11-28", "categories": ["integrity", "humanImpact"], "claim": "Federal High Court held the police 'wanted' declaration unlawful and awarded ₦30 million (page returned 403; claim from existing profile).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "s24", "title": "Court dismisses defamation suit against Sowore, SaharaReporters, fines complainant N500,000", "url": "https://www.premiumtimesng.com/news/top-news/801657-court-dismisses-defamation-suit-against-sowore-saharareporters-fines-complainant-n500000.html", "publisher": "Premium Times", "type": "news", "published": "2025-06-18", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Lagos High Court (Justice Ogala) dismissed Fatodu's defamation suit on 17 June 2025; ₦500,000 costs.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s25", "title": "Police rearrest Sowore in court", "url": "https://www.premiumtimesng.com/news/headlines/830439-police-rearrest-sowore-in-court.html", "publisher": "Premium Times", "type": "news", "published": "2025-10-24", "accessed": "2026-11-28", "categories": ["integrity", "security"], "claim": "Arraigned with 12 others on unlawful assembly and public-peace counts after #FreeNnamdiKanuNow protest; re-arrested after bail.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s26", "title": "Nigeria: Sowore Released After Four Days in Kuje Prison Over #FreeNnamdiKanu Protest", "url": "https://allafrica.com/stories/202510280073.html", "publisher": "AllAfrica", "type": "news", "published": "2025-10-28", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Released from Kuje prison on 27 October 2025 after meeting bail conditions (seen in search results).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "s27", "title": "Court grants Sowore N10 million bail in cybercrime case over abusing IGP Egbetokun", "url": "https://www.premiumtimesng.com/news/top-news/770632-court-grants-sowore-n10-million-bail-in-cybercrime-case-over-abusing-igp-egbetokun.html", "publisher": "Premium Times", "type": "news", "published": "2025-01-30", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "₦10 million bail granted in police cybercrime case over 'illegal IGP' remarks; not guilty plea (seen in search results).", "verification": "UNVERIFIED", "quality": "high" },
+    { "id": "s28", "title": "INEC declares Tinubu winner of the 2023 presidential election", "url": "https://nairametrics.com/2023/03/01/inec-declares-tinubu-winner-of-the-2023-presidential-election/", "publisher": "Nairametrics", "type": "news", "published": "2023-03-01", "accessed": "2026-11-28", "categories": ["experience"], "claim": "2023 declared results, including Sowore (AAC) 14,608 votes (seen in search results).", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "s29", "title": "Omoyele Sowore (candidate profile)", "url": "https://dubawa.org/omoyele-sowore", "publisher": "Dubawa", "type": "reference", "published": "2019", "accessed": "2026-11-28", "categories": ["experience", "leadership"], "claim": "UNILAG BSc Geography and Regional Planning 1989–1995, extended after expulsion for activism; Columbia public administration degree.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s30", "title": "Omoyele Sowore", "url": "https://en.wikipedia.org/wiki/Omoyele_Sowore", "publisher": "Wikipedia", "type": "reference", "published": null, "accessed": "2026-11-28", "categories": ["experience"], "claim": "Used only to locate primary sources; reports UNILAG Students' Union presidency 1992–1994 citing a secondary profile.", "verification": "UNVERIFIED", "quality": "low" }
+  ],
+  "gaps": [
+    "Obtain a readable copy of INEC's final presidential list (the PDF appears to be image-based) to confirm running mate name and details.",
+    "Confirm the UNILAG Students' Union presidency (1992–1994) from a primary or contemporaneous source.",
+    "Track the outcome of the DSS cybercrime trial (next date 7 December 2026) and the status of the 2025 police cybercrime and protest charges.",
+    "Open the Channels (Feb 2024) and TheCable (Feb 2026) pages, which returned 403, to confirm details.",
+    "Locate any consolidated AAC 2027 manifesto with costings, especially for healthcare, foreign policy and power.",
+    "Find any asset declaration and Sahara Reporters ownership/funding disclosures.",
+    "Reduce reliance on Sahara Reporters (founded by the candidate) by finding independent reports of the same statements.",
+    "Web search budget was exhausted during this pass; no further targeted searches could be run."
+  ]
+}

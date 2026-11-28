@@ -1,0 +1,615 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "sunday-chibuzo-okereke",
+  "name": "Sunday Chibuzo Okereke",
+  "researchVersion": 1,
+  "status": "RESEARCHED",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Sunday Chibuzo Okereke",
+    "commonName": "Chibuzo Okereke (also spelled Chibuzor in some reports)",
+    "born": null,
+    "stateOfOrigin": "Abia State (reported by Premium Times; not confirmed by an official record)",
+    "party": "Labour Party (LP)",
+    "partyHistory": [
+      {
+        "party": "Labour Party (LP)",
+        "period": "2026 (presidential candidate); earlier membership history not established",
+        "sourceIds": ["s1", "s6", "s2"]
+      }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": false,
+    "education": [
+      {
+        "credential": "Ph.D. (filed with INEC); reported as Ph.D. in Legislative Governance Studies",
+        "institution": "Federal University Lokoja (reported by Premium Times; not independently verified)",
+        "sourceIds": ["s1", "s7", "s6"]
+      },
+      {
+        "credential": "MLS (Distinction) (filed with INEC); reported as Master's in Legislative and Democratic Studies",
+        "institution": "University of Benin / National Institute for Legislative and Democratic Studies (reported; not independently verified)",
+        "sourceIds": ["s1", "s7"]
+      },
+      {
+        "credential": "M.Sc. (Distinction) (filed with INEC); reported as Master's in Public Administration and Policy",
+        "institution": "Baze University (reported; not independently verified)",
+        "sourceIds": ["s1", "s7"]
+      },
+      {
+        "credential": "B.Sc. (Hons) (filed with INEC); reported as a first degree in accounting",
+        "institution": "University of Nigeria, Nsukka (reported; INEC entry reads \"BSC (Hons) (Nig)\")",
+        "sourceIds": ["s1", "s7"]
+      },
+      {
+        "credential": "FSLC and NABTEC (as printed on the INEC list)",
+        "sourceIds": ["s1"]
+      }
+    ],
+    "professional": [
+      "President, ERGAF-AFRICA Legislative Governance Innovation and Policy Hub (as reported)",
+      "Legislative consultant to National Assembly committees and ranking members (as reported)",
+      "Resident lecturer, Department of Public Policy and Administration, Miva Open University, Abuja (as reported)"
+    ]
+  },
+  "career": [
+    {
+      "period": "Before 2026 (dates not published)",
+      "title": "President, ERGAF-AFRICA Legislative Governance Innovation and Policy Hub",
+      "description": "Described in party-issued and press material as a policy and legislative research institution he leads. No independent registry or output record for the organisation was located.",
+      "kind": "professional",
+      "sourceIds": ["s6", "s7"]
+    },
+    {
+      "period": "Before 2026 (dates not published)",
+      "title": "Legislative consultant",
+      "description": "Reported to consult for committees and ranking members of the National Assembly. Which committees, and over what period, is not stated in the sources reviewed.",
+      "kind": "professional",
+      "sourceIds": ["s6", "s7"]
+    },
+    {
+      "period": "Reported as current in 2026",
+      "title": "Resident lecturer, Miva Open University, Abuja",
+      "description": "Reported to lecture in the Department of Public Policy and Administration.",
+      "kind": "professional",
+      "sourceIds": ["s6", "s7"]
+    },
+    {
+      "period": "30 May 2026",
+      "title": "Named presidential candidate by the Nenadi Usman-led Labour Party",
+      "description": "Announced as the candidate following what the party called a broad-based consensus among members and stakeholders, ratified in Abuja. A faction associated with Julius Abure reportedly adopted Prince Kennedy Ahanotu as a parallel candidate.",
+      "kind": "candidacy",
+      "sourceIds": ["s6", "s9"]
+    },
+    {
+      "period": "11 June 2026",
+      "title": "Nomination ratified by the party's National Executive Committee",
+      "description": "The NEC meeting in Abuja ratified about 1,211 candidates, including Okereke as presidential candidate; he presented his agenda at the meeting.",
+      "kind": "candidacy",
+      "sourceIds": ["s2", "s3", "s10"]
+    },
+    {
+      "period": "September 2026",
+      "title": "Listed on INEC's final list of presidential candidates",
+      "description": "INEC lists \"OKEREKE SUNDAY CHIBUZO\", 43, male, as the LP candidate, with Konto Hajja Bintu, 54, as running mate.",
+      "kind": "candidacy",
+      "sourceIds": ["s1", "s8"]
+    }
+  ],
+  "elections": [
+    {
+      "year": "2027",
+      "office": "President of Nigeria",
+      "party": "Labour Party (LP)",
+      "result": "Pending; election scheduled for January 2027. No earlier contested election by this candidate was found.",
+      "sourceIds": ["s1"]
+    }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Okereke proposes moving Nigeria from a 'palliative and distributive' economy to a productive one, with power decentralisation and state-level regional strategies. No costed plan or targets were found.",
+      "analysis": "Okereke's economic statements are proposals; he has never held an office that set national economic policy, so there is no record to assess. At the Labour Party NEC in June 2026 he listed 'economic stabilisation, food security and productive growth' as one of five pillars, and said a Labour administration would tackle power shortages, infrastructure gaps, policy inconsistency and regulatory bottlenecks, decentralise the national power grid and work with states on their regional economic strengths (BusinessDay). At a September 2026 roadshow in Arochukwu, Abia State, he called for shifting from a 'palliative and distributive' economy to a productive one and for restructuring the federation (Premium Times).\n\nThese statements identify widely discussed constraints, but the sources reviewed contain no position on the exchange rate, fuel or electricity subsidies, tax policy, trade or inflation targeting, which are the main levers of national macroeconomic policy. No growth, inflation or employment targets, timelines or financing estimates were published. Several outcomes he names depend on actors outside the presidency: the Central Bank sets monetary policy, the National Assembly passes budgets and any restructuring requires constitutional amendment, and state governments control much of agriculture and land policy. Global oil prices and security conditions also shape results. Without a published manifesto, the feasibility of the economic agenda cannot yet be tested.",
+      "strengths": [
+        "Names specific constraints (power supply, policy inconsistency, regulatory bottlenecks)",
+        "Proposes a concrete structural change (grid decentralisation) that can be checked against later detail"
+      ],
+      "limitations": [
+        "No targets, timelines, costing or financing",
+        "No stated position on subsidies, exchange rate, tax or trade",
+        "No record in economic management to test against"
+      ],
+      "unknowns": [
+        "Whether a full LP manifesto with economic detail will be published",
+        "How 'productive economy' would be pursued in practice"
+      ],
+      "sourceIds": ["s3", "s5", "s2"],
+      "verification": "AI_DRAFT"
+    },
+    "security": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Proposes a 'whole-of-society' approach to insecurity, modernisation of the military and security architecture, and a National Day of Peace and Forgiveness. No operational detail was found.",
+      "analysis": "Okereke's security positions are general proposals. BusinessDay's account of his June 2026 acceptance address lists 'national security and unity' as a pillar and reports commitments to a whole-of-society approach to insecurity and to rebuilding and modernising the military and wider security architecture. He also proposed a National Day of Peace and Forgiveness to promote inter-ethnic and inter-religious harmony. In a July 2026 News Agency of Nigeria interview he claimed that fixing budget and procurement problems would solve 'almost 60 per cent' of the poverty and security crisis; no basis for that figure was given and it should be treated as an unsupported assertion.\n\nThe sources reviewed do not say how he would approach specific threats such as insurgency in the North-East, banditry and kidnapping in the North-West and North-Central, separatist violence in the South-East or farmer-herder conflict. There is no position on state policing, which is a live constitutional debate, on security funding levels, or on human-rights accountability for security agencies. As President he would command the armed forces and the federal police, but outcomes also depend on state governments, the legislature that funds the services and conditions in neighbouring countries. He has no prior security-sector record. The evidence supports only a description of stated intentions.",
+      "strengths": [
+        "Explicitly frames security alongside social cohesion",
+        "Commits to institutional modernisation rather than only force levels"
+      ],
+      "limitations": [
+        "No threat-specific plans, funding levels or timelines",
+        "The '60 per cent' claim linking procurement reform to security is unsupported",
+        "No security-sector record"
+      ],
+      "unknowns": [
+        "Position on state or community policing",
+        "Approach to human-rights oversight of security agencies"
+      ],
+      "sourceIds": ["s3", "s4"],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Proposes devolving basic education management to local governments, making NYSC optional for most graduates, and investing in foundational, technical and digital skills. No costing or timeline was found.",
+      "analysis": "Okereke's education agenda consists of three identifiable proposals, all reported from his June 2026 address to the Labour Party NEC (Premium Times; BusinessDay). First, he would shift management of basic education to local governments. Second, he would make the National Youth Service Corps optional for most graduates, with BusinessDay reporting an exception for selected disciplines. Third, he pledged investment in foundational education, technical skills, digital literacy and research.\n\nThe proposals are more specific in direction than in method. Basic education is already a shared responsibility in which the Universal Basic Education Commission funds and states and local governments deliver; the sources do not explain what would change in funding flows, how local-government capacity and autonomy would be secured, or how outcomes would be monitored. Making NYSC optional would require amending the NYSC Act through the National Assembly, and the sources do not discuss the scheme's current roles in national integration and staffing rural schools and clinics, which would be the main trade-offs. No enrolment, learning-outcome or funding targets were given. Separately, he holds an academic post at Miva Open University and reports postgraduate study in governance, but that is not a record of managing an education system. Nigeria's out-of-school numbers and learning outcomes are shaped by states, security and household poverty, so any federal plan would depend heavily on intergovernmental cooperation.",
+      "strengths": [
+        "Specific, checkable proposals (NYSC optional; devolution of basic education)",
+        "Addresses skills and digital literacy, not only access"
+      ],
+      "limitations": [
+        "Requires legislative change (NYSC Act) not acknowledged in sources",
+        "No funding, targets or timeline",
+        "Trade-offs of ending compulsory NYSC not discussed"
+      ],
+      "unknowns": [
+        "Which disciplines would remain under compulsory NYSC",
+        "How local-government capacity would be built before devolution"
+      ],
+      "sourceIds": ["s2", "s3"],
+      "verification": "AI_DRAFT"
+    },
+    "healthcare": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Proposes devolving primary healthcare to local governments and retaining trained health workers in Nigeria; criticises short overseas-oriented courses as brain drain. No implementation detail was found.",
+      "analysis": "Okereke's health positions come from two sources. At the June 2026 NEC he proposed shifting primary healthcare responsibility to local governments and pledged investment in healthcare access (Premium Times; BusinessDay). In a July 2026 NAN interview he said trained graduates such as nurses should be able to 'practise here under the best condition of service', and criticised private two-week executive courses for paramedics and medical staff that, in his description, prepare people to emigrate, calling this capital flight and brain drain. The interview did not say what his government would do about such courses or how conditions of service would be improved or funded.\n\nThe proposals touch two documented pressures in Nigeria's health system: weak primary healthcare delivery and emigration of health workers. However, primary healthcare is already nominally a local-government function and the sources do not explain how devolution would differ from current arrangements, which are constrained by state control of local-government funds. No budget share, staffing target, insurance coverage goal or timeline was published. Retention of health workers depends on pay, security, equipment and the demand for staff in other countries, several of which are outside direct presidential control. He has no record of running a health programme. Until a costed health plan appears, the category can only be assessed as a set of stated priorities.",
+      "strengths": [
+        "Identifies health-worker emigration as a policy problem",
+        "Gives a specific structural proposal (PHC devolution)"
+      ],
+      "limitations": [
+        "No funding, targets or timeline",
+        "Remedy for brain drain not specified",
+        "No health-sector record"
+      ],
+      "unknowns": [
+        "Position on health insurance coverage and the Basic Health Care Provision Fund",
+        "Planned health share of the federal budget"
+      ],
+      "sourceIds": ["s2", "s3", "s4"],
+      "verification": "AI_DRAFT"
+    },
+    "infrastructure": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "Okereke has named 'infrastructure gaps' as a problem and listed infrastructure among his priorities, but no specific projects, financing approach or targets were found.",
+      "analysis": "Infrastructure is mentioned only as a general priority in his June 2026 'Nigerians First' agenda. The sources reviewed contain no project list, transport or housing plan, financing model or delivery timeline, and he has no record of delivering infrastructure.",
+      "strengths": [],
+      "limitations": ["Only a general commitment"],
+      "unknowns": ["Any specific infrastructure programme"],
+      "sourceIds": ["s2", "s3"],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Named road, rail, port or housing projects",
+        "Financing approach (budget, PPP, borrowing)",
+        "Targets and timelines"
+      ]
+    },
+    "power": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He proposes decentralising the national power grid; no further detail was found.",
+      "analysis": "BusinessDay reports a commitment to tackle power shortages and to decentralise the national grid. The sources do not describe how this would build on the 2023 constitutional amendment and Electricity Act that already allow states to regulate electricity markets, nor any generation, transmission, tariff or metering targets.",
+      "strengths": [],
+      "limitations": ["Single-line proposal without method or targets"],
+      "unknowns": ["Tariff and subsidy position", "Generation and transmission targets"],
+      "sourceIds": ["s3"],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Details of the grid-decentralisation proposal",
+        "Position on electricity tariffs and subsidies",
+        "Generation, transmission and metering targets"
+      ]
+    },
+    "jobs": {
+      "evidence": "insufficient",
+      "basis": "proposal",
+      "summary": "He proposes merit-based recruitment and public advertisement of government vacancies; no wider job-creation plan was found.",
+      "analysis": "In the July 2026 NAN interview he said government vacancies should be publicly advertised so applicants can get jobs without connections, and his agenda includes merit-based recruitment across agencies. These concern fairness in public-sector hiring rather than national employment, MSME support or investment policy, on which no plan was found.",
+      "strengths": [],
+      "limitations": ["Addresses public-sector hiring only"],
+      "unknowns": ["Private-sector job-creation strategy", "Youth employment targets"],
+      "sourceIds": ["s4", "s3"],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Job-creation targets",
+        "MSME and investment policy",
+        "Youth employment programme details"
+      ]
+    },
+    "finance": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "His most developed proposal is replacing envelope budgeting with zero-based budgeting, alongside procurement reform and stronger anti-corruption accountability. No costing or legal pathway was published.",
+      "analysis": "Public-finance reform is the most consistent theme in Okereke's statements. In a July 2026 NAN interview he said Nigeria's envelope budgeting system 'cannot take the country out of the woods' and proposed zero-based budgeting, under which every item in the budget would need a clear and verifiable economic impact; he also argued that Nigeria has never produced workable budgets. He linked budget and procurement reform to poverty and insecurity. His June 2026 NEC agenda added stronger anti-corruption accountability, digitised public services and a review of the operations of key federal agencies (BusinessDay), and he repeated the zero-based budgeting pledge at a September 2026 roadshow (Premium Times).\n\nZero-based budgeting is a recognised technique, but the sources do not explain how it would be applied to a federal budget dominated by personnel costs, statutory transfers and debt service, which cannot be rebuilt from zero each year. Nor do they say how the Budget Office would be resourced to do it, or how the National Assembly, which appropriates funds, would be brought along. There is no stated position on borrowing, debt service, revenue mobilisation or the Fiscal Responsibility Act. He is described as a legislative consultant and governance researcher, which is relevant background, but no published budget analysis by him was located for this review. His claim that solving budget and procurement problems would resolve '60 per cent' of poverty and insecurity has no stated basis.",
+      "strengths": [
+        "A specific, named reform (zero-based budgeting) with a clear rationale",
+        "Consistent message across several appearances"
+      ],
+      "limitations": [
+        "No position on debt, borrowing or revenue",
+        "Implementation path through the Budget Office and National Assembly not described",
+        "Quantitative claims unsupported"
+      ],
+      "unknowns": [
+        "Whether ERGAF-AFRICA has published budget research that underpins the proposal",
+        "Debt and deficit targets"
+      ],
+      "sourceIds": ["s4", "s3", "s5"],
+      "verification": "AI_DRAFT"
+    },
+    "leadership": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "He has not held executive office. His candidacy emerged by consensus within one faction of a divided Labour Party.",
+      "analysis": "No record of managing a government, crisis or coalition was found. The available facts are that he was chosen by consensus by the Nenadi Usman-led LP faction on 30 May 2026 while the Julius Abure-led faction named Prince Kennedy Ahanotu, and that the party's NEC later ratified his nomination. INEC lists him as the LP candidate. These facts describe the party's process, not his own leadership performance.",
+      "strengths": [],
+      "limitations": ["No executive or managerial record located"],
+      "unknowns": ["Size and governance record of ERGAF-AFRICA", "How the LP factional dispute was resolved"],
+      "sourceIds": ["s6", "s2", "s1"],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Evidence of organisations or teams he has led and their results",
+        "Named campaign or transition team",
+        "Status of the LP factional dispute over the presidential ticket"
+      ]
+    },
+    "integrity": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No investigations, charges, court judgments or audit findings involving Okereke were found. No asset declaration is public.",
+      "analysis": "A search of news coverage found no allegations or legal proceedings against him personally. The LP leadership dispute concerns the party, not his conduct. Absence of findings in a limited search is not a clearance.",
+      "strengths": [],
+      "limitations": ["Limited public record to examine"],
+      "unknowns": ["Asset declaration", "Business interests"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Asset and interest declarations",
+        "Court and EFCC/ICPC record checks",
+        "Verification of filed academic credentials with the awarding universities"
+      ]
+    },
+    "experience": {
+      "evidence": "limited",
+      "basis": "record",
+      "summary": "A governance researcher, legislative consultant and lecturer with filed postgraduate degrees; no elected, appointed or executive public office was found.",
+      "analysis": "Okereke's documented background is academic and advisory. INEC's final list records his filed qualifications as FSLC, NABTEC, a Ph.D., a Master of Legislative Studies with distinction, an M.Sc. with distinction and a B.Sc. (Hons). Premium Times, in an October 2026 profile, names the institutions as Federal University Lokoja (Ph.D. in Legislative Governance Studies), the University of Benin with the National Institute for Legislative and Democratic Studies (master's), Baze University (master's in public administration and policy) and the University of Nigeria, Nsukka (first degree in accounting). These institutional details come from press and campaign material and were not checked against university records.\n\nProfessionally he is reported to be President of ERGAF-AFRICA Legislative Governance Innovation and Policy Hub, a legislative consultant to National Assembly committees and ranking members, and a resident lecturer in public policy at Miva Open University, Abuja (The Nigeria Lawyer; Premium Times). No dates, named committees or outputs were provided. He has also appeared as a media commentator. This background is relevant to understanding legislative processes and policy design, which matters for a President who must work with the National Assembly. However, he has not held elected office, a ministerial post or any executive role, and no record of running a large organisation or budget was found. At 43, per INEC, he is among the younger candidates in the field.",
+      "strengths": [
+        "Formal training in legislative governance and public administration",
+        "Reported direct work with National Assembly committees"
+      ],
+      "limitations": [
+        "No elected or executive office",
+        "Career entries are undated and party-sourced"
+      ],
+      "unknowns": [
+        "Dates and scope of consultancy roles",
+        "Scale of ERGAF-AFRICA's operations"
+      ],
+      "sourceIds": ["s1", "s7", "s6"],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "A 'Nigerians First! Believe Again' platform with five pillars, centred on institutional reform, devolution and restructuring. No full manifesto document was located.",
+      "analysis": "Okereke's platform is branded 'Nigerians First! Believe Again'. BusinessDay reports five pillars from his June 2026 acceptance address: national security and unity; economic stabilisation, food security and productive growth; education and healthcare; institutional reform and good governance; and national unity and social cohesion. Recurring themes across his appearances are restructuring the federation and strengthening local governments, devolving basic education and primary healthcare, extending federal character to youth, women and persons with disabilities, and giving women greater representation (Premium Times, June and September 2026). In a NAN interview he said 'We will not govern Nigeria by projects and programmes; we will govern Nigeria by vision.'\n\nThe vision is coherent in emphasising institutions and decentralisation, which matches his stated professional background. Its feasibility is hard to judge because no full manifesto, costing or sequencing was found. Several central ideas, including restructuring and changes to federal character, would need constitutional amendment, which requires two-thirds of both chambers of the National Assembly and approval by two-thirds of state houses of assembly. The Labour Party's internal division also affects how much legislative support any LP President could expect. The statement that he would not govern 'by projects' may make later performance harder to measure unless replaced with concrete targets.",
+      "strengths": [
+        "Consistent institutional-reform theme across appearances",
+        "Specific structural proposals that can be checked"
+      ],
+      "limitations": [
+        "No full manifesto or costing located",
+        "Key items need constitutional amendment"
+      ],
+      "unknowns": ["Whether a full LP manifesto exists for 2027"],
+      "sourceIds": ["s3", "s2", "s5", "s4"],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "No foreign-policy statements were found.",
+      "analysis": "The sources reviewed contain no position on ECOWAS, the African Union, trade agreements, the Sahel or relations with major partners.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Any foreign-policy position"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Position on ECOWAS and the Sahel states",
+        "Trade policy including AfCFTA",
+        "Approach to diaspora and migration"
+      ]
+    },
+    "humanImpact": {
+      "evidence": "insufficient",
+      "basis": "none",
+      "summary": "He has held no office whose policies could have affected households, so there is no documented impact to assess.",
+      "analysis": "Without a governing record, documented effects on households and vulnerable groups cannot be assessed. His proposals mention inclusion of women, youth and persons with disabilities but give no social-protection detail.",
+      "strengths": [],
+      "limitations": [],
+      "unknowns": ["Social-protection plans"],
+      "sourceIds": [],
+      "verification": "AI_DRAFT",
+      "missing": [
+        "Social-protection and cash-transfer proposals",
+        "Any evaluated programme he designed or ran"
+      ]
+    },
+    "promises": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "Several promises are specific in direction (zero-based budgeting, optional NYSC, PHC and basic-education devolution) but none carry targets, timelines or costs.",
+      "analysis": "As a first-time candidate, Okereke's promises can be judged on specificity rather than delivery. Some commitments are concrete enough to verify if he were elected: adopting zero-based budgeting; making NYSC optional for most graduates; devolving basic education and primary healthcare to local governments; decentralising the power grid; publicly advertising government vacancies; and creating a National Day of Peace and Forgiveness (NAN; BusinessDay; Premium Times). Others are broad aims such as 'economic stabilisation', 'restoring public trust' and 'measurable improvements in Nigerians' lives', for which Premium Times noted no metrics were offered.\n\nNone of the promises reviewed includes a target figure, a deadline, a cost estimate or a funding source. Several depend on the National Assembly (the NYSC Act, appropriation, constitutional amendment for restructuring), which is not acknowledged in the reported statements. One quantitative claim, that fixing budgets and procurement would solve about 60 per cent of poverty and insecurity, is not supported by any cited evidence. Specificity is therefore moderate on direction and low on measurement. A published manifesto could change this assessment.",
+      "strengths": ["A number of verifiable, specific commitments"],
+      "limitations": ["No targets, timelines, costs or funding sources", "Legislative dependencies not acknowledged"],
+      "unknowns": ["Whether a costed manifesto will be released"],
+      "sourceIds": ["s4", "s3", "s2", "s5"],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    {
+      "id": "rec1",
+      "title": "Emerged as candidate amid a Labour Party leadership split",
+      "kind": "unresolved",
+      "label": "FACT",
+      "period": "May-June 2026",
+      "description": "The Nenadi Usman-led LP named Okereke by consensus on 30 May 2026; the Julius Abure-led faction reportedly adopted Prince Kennedy Ahanotu as a parallel candidate. The dispute is between party factions and does not involve any allegation against Okereke. INEC's final list carries Okereke as the LP candidate. Whether the factional dispute has been formally resolved was not established.",
+      "categories": ["leadership"],
+      "sourceIds": ["s6", "s1"]
+    }
+  ],
+  "plans": [
+    {
+      "id": "pl1",
+      "title": "Replace envelope budgeting with zero-based budgeting",
+      "label": "PROMISE",
+      "category": "finance",
+      "outcome": "Every budget item to have a clear, verifiable economic impact",
+      "method": "Zero-based budgeting; procurement reform",
+      "sourceIds": ["s4", "s3", "s5"]
+    },
+    {
+      "id": "pl2",
+      "title": "Make NYSC optional for most graduates",
+      "label": "PROMISE",
+      "category": "education",
+      "outcome": "NYSC participation optional except for selected disciplines",
+      "dependencies": "Amendment of the NYSC Act by the National Assembly (not mentioned in sources)",
+      "sourceIds": ["s2", "s3"]
+    },
+    {
+      "id": "pl3",
+      "title": "Devolve basic education and primary healthcare to local governments",
+      "label": "PROMISE",
+      "category": "healthcare",
+      "outcome": "Local governments take responsibility for basic education and primary healthcare",
+      "sourceIds": ["s2", "s3"]
+    },
+    {
+      "id": "pl4",
+      "title": "Decentralise the national power grid",
+      "label": "PROPOSAL",
+      "category": "power",
+      "outcome": "Decentralised grid and state-federal cooperation on regional economic strengths",
+      "sourceIds": ["s3"]
+    },
+    {
+      "id": "pl5",
+      "title": "Merit-based recruitment and public advertisement of vacancies",
+      "label": "PROMISE",
+      "category": "jobs",
+      "outcome": "Government vacancies publicly advertised and filled on merit",
+      "sourceIds": ["s4", "s3"]
+    },
+    {
+      "id": "pl6",
+      "title": "Whole-of-society security approach and military modernisation",
+      "label": "PROPOSAL",
+      "category": "security",
+      "outcome": "Rebuilt and modernised security architecture",
+      "sourceIds": ["s3"]
+    },
+    {
+      "id": "pl7",
+      "title": "National Day of Peace and Forgiveness",
+      "label": "PROPOSAL",
+      "category": "vision",
+      "outcome": "Annual observance to promote inter-ethnic and inter-religious harmony",
+      "sourceIds": ["s3"]
+    },
+    {
+      "id": "pl8",
+      "title": "Restructure the federation and extend federal character",
+      "label": "PROPOSAL",
+      "category": "vision",
+      "outcome": "Stronger local governments; federal character extended to youth, women and persons with disabilities",
+      "dependencies": "Constitutional amendment",
+      "sourceIds": ["s5"]
+    }
+  ],
+  "test": [
+    { "questionId": "r1", "answer": "Partly. He identifies problems such as envelope budgeting, power shortages, policy inconsistency and health-worker emigration, but without data or diagnosis.", "assessment": "partly", "sourceIds": ["s4", "s3"] },
+    { "questionId": "r2", "answer": "Partly. Some proposals are specific in direction (zero-based budgeting, optional NYSC, devolution), but methods are not described.", "assessment": "partly", "sourceIds": ["s3", "s4"] },
+    { "questionId": "r3", "answer": "No evidence base for the proposals was cited in the sources reviewed.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r4", "answer": "No costing or funding plan was found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r5", "answer": "No timelines were found.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r6", "answer": "Partly. A President prepares the budget and directs federal agencies, but NYSC reform, restructuring and appropriations need the National Assembly and, for some items, states.", "assessment": "partly", "sourceIds": ["s3", "s5"] },
+    { "questionId": "r7", "answer": "Yes. Optional NYSC, restructuring and federal-character changes would require legislation or constitutional amendment; budgets require appropriation.", "assessment": "yes", "sourceIds": ["s3", "s5"] },
+    { "questionId": "r8", "answer": "No disclosure of risks or trade-offs was found in the reported statements.", "assessment": "no", "sourceIds": ["s3", "s4"] },
+    { "questionId": "r9", "answer": "No implementation team or campaign council was identified.", "assessment": "unknown", "sourceIds": [] },
+    { "questionId": "r10", "answer": "No record of executing comparable programmes was found; his background is advisory and academic.", "assessment": "unknown", "sourceIds": ["s7"] }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Presidential and National Assembly Elections for Jan, 2027 - Presidential: Final List of Candidates",
+      "url": "https://inecnigeria.org/documents/uploads/2026/10/b5af9099-864c-4d5e-924d-e1a2c771c529-final-list-presidential.pdf",
+      "publisher": "Independent National Electoral Commission (INEC)",
+      "type": "electoral",
+      "published": "2026-10",
+      "accessed": "2026-11-28",
+      "categories": ["experience"],
+      "claim": "LP candidate OKEREKE SUNDAY CHIBUZO, 43, male; qualifications FSLC, NABTEC, Ph.D., MLS (Distinction), MSC (Distinction) & BSC (Hons) (Nig); running mate KONTO HAJJA BINTU, 54, female.",
+      "verification": "AI_DRAFT",
+      "quality": "high",
+      "summary": "Signed by Rose Oriaran-Anthony, Secretary, INEC. PDF metadata creation date 30 October 2026."
+    },
+    {
+      "id": "s2",
+      "title": "LP presidential flagbearer unveils agenda as party ratifies 1,211 candidates for 2027 elections",
+      "url": "https://www.premiumtimesng.com/news/top-news/886908-lp-presidential-flagbearer-unveils-agenda-as-party-ratifies-1211-candidates-for-2027-elections.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2026-06-11",
+      "accessed": "2026-11-28",
+      "categories": ["vision", "education", "healthcare", "promises"],
+      "claim": "NEC ratified Okereke; he proposed optional NYSC, devolution of basic education and primary healthcare, and greater representation for women.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s3",
+      "title": "2027: LP presidential candidate Okereke unveils vision as party rectifies his nomination",
+      "url": "https://businessday.ng/life/article/2027-lp-presidential-candidate-okereke-unveils-vision-as-party-rectifies-his-nomination/",
+      "publisher": "BusinessDay",
+      "type": "news",
+      "published": "2026-06-14",
+      "accessed": "2026-11-28",
+      "categories": ["economy", "security", "education", "healthcare", "power", "finance", "vision", "promises"],
+      "claim": "Five-pillar 'Nigerians First! Believe Again' agenda including zero-based budgeting, grid decentralisation, whole-of-society security, optional NYSC and a National Day of Peace and Forgiveness.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s4",
+      "title": "2027: LP presidential candidate vows to overhaul budget, procurement systems",
+      "url": "https://nannews.ng/?p=330944",
+      "publisher": "News Agency of Nigeria (NAN)",
+      "type": "candidate-statement",
+      "published": "2026-07-19",
+      "accessed": "2026-11-28",
+      "categories": ["finance", "jobs", "healthcare", "security"],
+      "claim": "In a NAN interview he proposed zero-based budgeting, merit-based hiring with advertised vacancies, and criticised health-worker brain drain.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s5",
+      "title": "2027: Labour Party presidential candidate proposes zero-based budgeting, institutional governance reset",
+      "url": "https://www.premiumtimesng.com/news/more-news/912014-2027-labour-party-presidential-candidate-proposes-zero-based-budgeting-institutional-governance-reset.html",
+      "publisher": "Premium Times",
+      "type": "news",
+      "published": "2026-09-24",
+      "accessed": "2026-11-28",
+      "categories": ["economy", "finance", "vision"],
+      "claim": "At an Arochukwu roadshow he called for restructuring, a productive economy, zero-based budgeting and extending federal character to youth, women and persons with disabilities.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s6",
+      "title": "LP picks Chibuzo Okereke: Nenadi Usman camp presents governance expert as 2027 presidential candidate amid parallel ticket crisis",
+      "url": "https://thenigerialawyer.com/lp-picks-chibuzo-okereke-nenadi-usman-camp-presents-governance-expert-as-2027-presidential-candidate-amid-parallel-ticket-crisis/",
+      "publisher": "The Nigeria Lawyer",
+      "type": "news",
+      "published": "2026-05-31",
+      "accessed": "2026-11-28",
+      "categories": ["experience", "leadership"],
+      "claim": "Consensus selection ratified 30 May 2026; President of ERGAF-AFRICA; legislative consultant; Miva Open University lecturer; Abure faction adopted Prince Kennedy Ahanotu.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s7",
+      "title": "Nigeria: Profiles - the Men, Women Seeking to Be Nigeria's President in 2027",
+      "url": "https://allafrica.com/stories/202610260089.html",
+      "publisher": "Premium Times (via AllAfrica)",
+      "type": "news",
+      "published": "2026-10-25",
+      "accessed": "2026-11-28",
+      "categories": ["experience"],
+      "claim": "Age 43, from Abia State; Ph.D. Federal University Lokoja; master's UNIBEN/NILDS and Baze University; first degree in accounting, UNN.",
+      "verification": "AI_DRAFT",
+      "quality": "high"
+    },
+    {
+      "id": "s8",
+      "title": "Full List: INEC Publishes Credentials of 19 Presidential Candidates for 2027 Elections",
+      "url": "https://www.legit.ng/nigeria/1722781-inec-publishes-credentials-19-presidential-candidates-2027-elections/",
+      "publisher": "Legit.ng",
+      "type": "news",
+      "published": "2026-08-03",
+      "accessed": "2026-11-28",
+      "categories": [],
+      "claim": "INEC Form EC9 publication listed Okereke Sunday Chibuzor (LP) with running mate Konto Hajja Bintu.",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s9",
+      "title": "2027 Presidency: LP Ratifies Okereke's Candidacy",
+      "url": "https://www.thisdaylive.com/2026/06/12/2027-presidency-lp-ratifies-okerekes-candidacy/",
+      "publisher": "ThisDay",
+      "type": "news",
+      "published": "2026-06-12",
+      "accessed": "2026-11-28",
+      "categories": ["leadership"],
+      "claim": "Headline reports LP ratification of Okereke's candidacy (seen in search results; article body not read).",
+      "verification": "AI_DRAFT",
+      "quality": "medium"
+    },
+    {
+      "id": "s10",
+      "title": "2027 election: Here are all the 18 presidential candidates",
+      "url": "https://www.pulse.ng/story/nigeria-2027-presidential-candidates-list-2026101909505684714",
+      "publisher": "Pulse Nigeria",
+      "type": "news",
+      "published": "2026-10-19",
+      "accessed": "2026-11-28",
+      "categories": [],
+      "claim": "Lists Okereke as LP candidate on INEC's final list; notes his proposals should be assessed against a published manifesto.",
+      "verification": "AI_DRAFT",
+      "quality": "low"
+    }
+  ],
+  "gaps": [
+    "Locate any full Labour Party 2027 manifesto or Okereke policy document and re-assess vision, promises and test answers",
+    "Verify degrees with Federal University Lokoja, UNIBEN/NILDS, Baze University and UNN",
+    "Verify ERGAF-AFRICA's registration (CAC), outputs and his role there; identify National Assembly committees he advised",
+    "Confirm date and state of origin from an official record",
+    "Establish the outcome of the LP factional dispute over the presidential ticket (Ahanotu parallel candidacy)",
+    "Search for foreign-policy, infrastructure and social-protection statements",
+    "Running mate's name appears as 'Hanna Konto' in one Premium Times profile versus 'Konto Hajja Bintu' on the INEC list; confirm",
+    "Disambiguation: Okereke Nkem Esther, another 2027 presidential candidate on the INEC list, is a different person"
+  ]
+}

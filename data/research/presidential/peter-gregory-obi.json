@@ -1,0 +1,493 @@
+{
+  "schemaVersion": 1,
+  "candidateId": "peter-gregory-obi",
+  "name": "Peter Gregory Obi",
+  "researchVersion": 1,
+  "status": "RESEARCHED",
+  "verification": "AI_DRAFT",
+  "researchedAt": "2026-11-28",
+  "lastReviewed": null,
+  "provenance": "AI-assisted web research (Claude), pending human review",
+  "identity": {
+    "fullName": "Peter Gregory Onwubuasi Obi",
+    "commonName": "Peter Obi",
+    "born": "1961-07-19",
+    "stateOfOrigin": "Anambra",
+    "party": "Nigeria Democratic Congress (NDC)",
+    "partyHistory": [
+      { "party": "All Progressives Grand Alliance (APGA)", "period": "2003-2014", "sourceIds": ["s9", "s1"] },
+      { "party": "Peoples Democratic Party (PDP)", "period": "2014-2022", "sourceIds": ["s4", "s10"] },
+      { "party": "Labour Party (LP)", "period": "2022-2025", "sourceIds": ["s6", "s37"] },
+      { "party": "African Democratic Congress (ADC)", "period": "December 2025 - May 2026", "sourceIds": ["s37", "s38"] },
+      { "party": "Nigeria Democratic Congress (NDC)", "period": "May 2026 - present", "sourceIds": ["s38", "s34"] }
+    ],
+    "currentOffice": null,
+    "isIncumbent": false,
+    "incumbentOffice": null,
+    "hasExecutiveExperience": true,
+    "education": [
+      { "credential": "West African School Certificate", "institution": "Christ the King College, Onitsha", "year": "1978", "sourceIds": ["s3"] },
+      { "credential": "B.A. Philosophy", "institution": "University of Nigeria, Nsukka", "year": "1984", "sourceIds": ["s3"] },
+      { "credential": "Executive education short programmes (non-degree)", "institution": "Lagos Business School, Harvard Business School, London School of Economics, Columbia, Kellogg, IMD, Said Business School (Oxford) and others", "sourceIds": ["s3"] }
+    ],
+    "professional": [
+      "Businessman and trader before entering politics",
+      "Former chairman, Fidelity Bank Plc (years not confirmed by a primary record)",
+      "Former chairman of Next International (Nigeria) Ltd, Guardian Express Mortgage Bank, Future Views Securities and Paymaster Nigeria Plc (per biographical profile)",
+      "Former chairman, Securities and Exchange Commission board (appointed April 2015)"
+    ]
+  },
+  "career": [
+    { "period": "Before 2006", "title": "Business and banking career", "description": "Chaired or sat on the boards of several financial and commercial companies, including Fidelity Bank Plc, Next International (Nigeria) Ltd, Guardian Express Mortgage Bank, Future Views Securities and Paymaster Nigeria Plc. He was also a director of Next International (UK) Ltd, a London company incorporated in 1996. Obi has said he served as chairman or director of three banks or financial institutions, Fidelity being one, and denies owning Fidelity.", "kind": "professional", "sourceIds": ["s3", "s11", "s13"] },
+    { "period": "2003-2006", "title": "Anambra governorship candidate and petitioner (APGA)", "description": "Contested the 2003 Anambra governorship election. INEC declared Chris Ngige (PDP) winner; Obi's petition succeeded at the tribunal and Court of Appeal and he was sworn in on 17 March 2006.", "kind": "candidacy", "sourceIds": ["s1", "s3"] },
+    { "period": "March 2006 - March 2014", "title": "Governor of Anambra State", "description": "Served with two interruptions: impeached by the state assembly on 2 November 2006 and restored by the courts on 9 February 2007; removed on 29 May 2007 when a successor elected in April 2007 was sworn in, and restored on 14 June 2007 when the Supreme Court held that his four-year term ran from March 2006. Re-elected in February 2010; left office 17 March 2014. Also chaired the South-East Governors' Forum and was vice-chairman of the Nigeria Governors' Forum.", "kind": "political-office", "sourceIds": ["s1", "s3", "s9"] },
+    { "period": "2014 - May 2015", "title": "Presidential economic team and SEC chairman", "description": "Listed as a member of President Goodluck Jonathan's Presidential Economic Management Team and honorary special adviser on finance until May 2015. Named chairman of the Securities and Exchange Commission board in April 2015, weeks before the administration ended.", "kind": "appointment", "sourceIds": ["s3", "s10"] },
+    { "period": "October 2018 - February 2019", "title": "PDP vice-presidential candidate", "description": "Picked by Atiku Abubakar as running mate on 12 October 2018; the ticket lost the February 2019 election.", "kind": "candidacy", "sourceIds": ["s4", "s5"] },
+    { "period": "2022-2023", "title": "Labour Party presidential candidate", "description": "Contested the February 2023 presidential election, finishing third with 6,101,533 votes. His petition was dismissed by the Presidential Election Petition Court on 6 September 2023 and the Supreme Court dismissed his appeal on 26 October 2023.", "kind": "candidacy", "sourceIds": ["s6", "s7", "s8"] },
+    { "period": "December 2025 - May 2026", "title": "Joined, then left, the ADC coalition", "description": "Moved from the Labour Party to the African Democratic Congress at the end of December 2025 and announced on 3 May 2026 that he was leaving it.", "kind": "party", "sourceIds": ["s37", "s38"] },
+    { "period": "May 2026 - present", "title": "NDC presidential candidate", "description": "Joined the Nigeria Democratic Congress in May 2026 and accepted its presidential nomination at the party convention in Abuja on 30 May 2026. Former Kano governor Rabiu Musa Kwankwaso is his running mate. A Federal High Court in Lokoja set aside the judgment recognising the NDC in June 2026; the Court of Appeal reversed that decision 2-1 on 18 September 2026.", "kind": "candidacy", "sourceIds": ["s34", "s36", "s40"] }
+  ],
+  "elections": [
+    { "year": "2003", "office": "Governor of Anambra State", "party": "APGA", "result": "INEC declared Chris Ngige (PDP) winner; Obi won on petition and was sworn in on 17 March 2006.", "sourceIds": ["s1", "s3"] },
+    { "year": "2010", "office": "Governor of Anambra State", "party": "APGA", "result": "Won re-election (6 February 2010) with about 97,800 votes (reports give 97,833 or 97,843), ahead of Chris Ngige and Chukwuma Soludo.", "sourceIds": ["s9"] },
+    { "year": "2019", "office": "Vice-President (running mate to Atiku Abubakar)", "party": "PDP", "result": "Lost. INEC declared Muhammadu Buhari (APC) winner with 15,191,847 votes to Atiku Abubakar's 11,262,978.", "sourceIds": ["s4", "s5"] },
+    { "year": "2023", "office": "President", "party": "Labour Party", "result": "Third with 6,101,533 votes (Tinubu 8,794,726; Atiku 6,984,520). Petition dismissed by the PEPC (6 September 2023); appeal dismissed by the Supreme Court (26 October 2023).", "sourceIds": ["s6", "s7", "s8"] },
+    { "year": "2027", "office": "President", "party": "NDC", "result": "Pending. Election scheduled for 16 January 2027; NDC registration upheld by the Court of Appeal on 18 September 2026.", "sourceIds": ["s36", "s40"] }
+  ],
+  "categories": {
+    "economy": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "No national economic record; state-level investment decisions are documented but their claimed returns are disputed, and the 2027 economic plan is directional without numeric targets or costing.",
+      "analysis": "Obi has never held national economic office, so there is no record of national fiscal, exchange-rate, subsidy or tax decisions to assess. The relevant evidence comes from his Anambra governorship (2006-2014) and short advisory roles: he was listed as a member of President Jonathan's Presidential Economic Management Team and honorary special adviser on finance until May 2015, and was named chairman of the Securities and Exchange Commission board in April 2015, weeks before that administration ended. No public record was found of specific policy outputs from those roles.\n\nAt state level his most cited economic decision is the 2012 equity investment of N1.96 billion (about US$12.6 million at the time) in Intafact Beverages, the SABMiller brewery in Onitsha, now held as about 407 million International Breweries shares. Obi described it in 2018 as a stake of over $20 million worth close to $100 million; Anambra's finance commissioner reported in June 2022 that it was worth roughly $3.7-5.4 million at market prices. The underlying stake is documented; his valuation claim was overstated.\n\nHis 2027 platform repeats the 2023 'consumption to production' thesis: agriculture, manufacturing and small businesses supported by affordable credit and tax incentives, a gradual and transparent end to fuel subsidy, lower borrowing costs, and a preference for long-term productive investment over short-term portfolio inflows. Reporting from May to August 2026 records no growth, inflation or exchange-rate targets and no costing. Macroeconomic outcomes would also depend on the CBN, oil prices, global conditions and the National Assembly, which a president does not control.",
+      "strengths": [
+        "Economic thesis (production over consumption, agriculture and manufacturing) is consistent between 2023 and 2027",
+        "Documented state equity investment in a foreign-led brewery project",
+        "Background in banking and capital-market governance"
+      ],
+      "limitations": [
+        "No national macroeconomic record",
+        "Brewery investment value overstated in his 2018 claim",
+        "No published targets, costing or sequencing for the 2027 economic agenda"
+      ],
+      "unknowns": [
+        "Exchange-rate and monetary-policy stance",
+        "Tax policy specifics",
+        "Concrete outputs from his 2014-2015 economic-team role"
+      ],
+      "sourceIds": ["s3", "s10", "s30", "s34", "s35"],
+      "verification": "AI_DRAFT"
+    },
+    "security": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "As governor he funded logistics for federal police and vigilantes but controlled no forces; outcome data for his tenure were not found, and 2027 security pledges lack operational detail.",
+      "analysis": "Obi has not commanded federal security forces. Nigeria's police and military are federal, so as governor his role was support and coordination. In January 2013 the Anambra government gave the state police command 50 patrol vehicles and three armoured personnel carriers; Obi said the state could not reach its goals in an insecure environment and tied crime reduction to industrial growth and youth employment. The Inspector-General of Police, receiving the vehicles, warned officers against harassment of citizens. No independent data on crime or kidnapping trends in Anambra across 2006-2014 were found in this research pass, so outcomes cannot be assessed.\n\nIn September 2026 the presidential adviser Bayo Onanuga argued that insecurity during Obi's tenure discouraged indigenes from returning home and credited his successor with improvements. That is a partisan assessment from a rival camp and was not independently verified.\n\nFor 2027, Obi says he will personally coordinate the response to insecurity, visit affected communities regularly, ensure agencies are properly equipped and funded, use intelligence- and technology-led approaches, and work with domestic and international partners. He has not published operational strategies, force-size targets, budgets or timelines, and argues that education and jobs are the durable remedies for insecurity. His 2023 manifesto promised more personnel for the armed forces and police and secured borders with Niger, Chad and Cameroon, again without numbers. As president he would hold command authority, but structural changes such as state policing would require constitutional amendment by the National Assembly and state assemblies.",
+      "strengths": [
+        "Record of state logistical support to federal police (vehicles, APCs)",
+        "Links security to education and employment rather than force alone"
+      ],
+      "limitations": [
+        "No command experience of military or police",
+        "No published operational plan, budget or targets for 2027"
+      ],
+      "unknowns": [
+        "Crime and kidnapping trends in Anambra 2006-2014",
+        "Position on state policing and specific reforms",
+        "Planned security appointments"
+      ],
+      "sourceIds": ["s32", "s22", "s35", "s34", "s33"],
+      "verification": "AI_DRAFT"
+    },
+    "education": {
+      "evidence": "moderate",
+      "basis": "mixed",
+      "summary": "Returned schools to missions in 2011 and Anambra recorded top WASSCE pass rates in 2014, but the '26th to 1st' ranking claim is unverified and causal attribution is contested.",
+      "analysis": "Education is the area most associated with Obi's governorship and also one with heavily contested claims. Documented: in 2011 his administration returned public primary and secondary schools to the churches that founded them before the 1970 state takeover, building on a small pilot under a predecessor; the state continued paying teachers and giving subventions. Accounts of the policy's effects come mainly from mission-school principals and clergy, who describe renovated buildings, improved discipline and better exam results, but no independent evaluation or audit of state funding to the returned schools was found. A 2024 ThisDay opinion article argued the policy was unfair to private proprietors whose schools were also taken in 1970 and were neither returned nor compensated.\n\nOn results, NewsExpress reported in September 2014, citing official WAEC results, that Anambra had the highest share of candidates with five credits including English and Mathematics in the May/June 2014 WASSCE (65.92 percent against a national 31.21 percent). That exam was sat about two months after Obi left office, though the cohort was schooled under his administration. His broader claim that he moved Anambra from 26th to first is UNVERIFIED: WAEC does not routinely publish state rankings, no baseline ranking document was found, and a 2024 claim that WAEC deleted a post on the subject was disputed. Allegations that malpractice explains the results are likewise unsupported by evidence found.\n\nFor 2027 he promises an out-of-school children task force, more emphasis on technical and vocational training, and investment in teacher training and technology, without numeric targets. Federal authority over basic education operates mainly through UBEC transfers, so state cooperation would matter.",
+      "strengths": [
+        "Implemented a distinctive, documented structural reform (return of mission schools)",
+        "Strong 2014 WASSCE credit-pass rate reported from official WAEC results"
+      ],
+      "limitations": [
+        "'26th to 1st' ranking claim lacks a verifiable baseline",
+        "No independent evaluation of the mission-schools policy or its funding",
+        "2027 education pledges lack targets and costing"
+      ],
+      "unknowns": [
+        "Total state spending on returned schools and how it was audited",
+        "Effect on fees or levies paid by families",
+        "Size and design of the proposed out-of-school task force"
+      ],
+      "metrics": [
+        { "label": "Anambra share of WASSCE candidates with 5 credits incl. English and Maths", "value": "65.92%", "period": "May/June 2014", "note": "National rate 31.21%; reported by NewsExpress citing WAEC results", "sourceIds": ["s26"] }
+      ],
+      "sourceIds": ["s28", "s29", "s26", "s27", "s35"],
+      "verification": "AI_DRAFT"
+    },
+    "healthcare": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Health-sector achievements rest largely on Obi's own figures; the 2013 Gates polio award is real but often overstated, and 2027 health pledges are among his most specific.",
+      "analysis": "Obi has no record in federal health administration. His Anambra health record rests heavily on his own account. In a November 2026 interview he said his government built and obtained accreditation for the Chukwuemeka Odumegwu Ojukwu University Teaching Hospital in Awka, rehabilitated 15 general hospitals (citing N400 million for 11 in 2013), built more than 120 primary healthcare centres, distributed close to 100 ambulances, set up a heart centre with a mission hospital, and worked with UNICEF, the World Bank and DFID. These figures were not independently verified in sources found. Dubawa rated his claim that no Anambra nursing, midwifery or laboratory school was accredited before his tenure as 'insufficient evidence' in July 2026.\n\nOne claim is documented but frequently overstated by supporters: in 2013 the Gates Foundation recognised Anambra as the best-performing South-East state on polio eradication, with a $1 million grant. Daily Trust rated the viral claim that he was named 'best governor in Nigeria' misleading, and could not confirm that the 10 rural maternity units he said would be built with the grant were completed. The current Anambra government lists a World Bank Malaria Control Booster Project among the external facilities of his era, indicating that some health spending was loan-financed.\n\nFor 2027 the pledges are more specific than in other sectors: raise health-insurance coverage from about 10 percent to over 20 percent within four years, ensure a functional primary healthcare centre in each of the 8,809 wards, and raise health spending to at least 10 percent of GDP (as reported by Premium Times; base and financing not stated). Primary care is largely a state and local-government responsibility, so ward-level delivery would depend on states.",
+      "strengths": [
+        "Documented 2013 Gates Foundation polio-eradication recognition and grant",
+        "2027 health pledges include measurable targets"
+      ],
+      "limitations": [
+        "Most facility counts are self-reported and unverified",
+        "Promised grant-funded maternity units not confirmed as completed",
+        "No financing plan for the health-spending and insurance targets"
+      ],
+      "unknowns": [
+        "Independent data on Anambra health outcomes 2006-2014",
+        "Whether the '10% of GDP' figure refers to GDP or budget share",
+        "How ward-level PHCs would be funded and staffed with states"
+      ],
+      "sourceIds": ["s24", "s25", "s23", "s19", "s34"],
+      "verification": "AI_DRAFT"
+    },
+    "infrastructure": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Road-building claims (over 800 km) are government-sourced and unaudited; erosion control is a disputed part of his record; no 2027 project list or financing plan exists.",
+      "analysis": "Obi's infrastructure record is at state level and poorly documented by independent sources. In August 2013 he said his administration had completed over 800 km of urban and rural roads since 2006 and that Anambra had the best road network in Nigeria; the figure came from the government itself and no audit or project-by-project list was found. Other counts in circulation, such as numbers of roads completed or left to his successor, come from former aides, allies or opponents rather than official completion records.\n\nCritics have targeted urban development and erosion. In September 2026 presidential adviser Bayo Onanuga argued that Awka, the state capital, was left largely unchanged and faulted Obi's handling of gully erosion, a major hazard in Anambra; that is a partisan view and was not verified. Erosion also features in the current debt dispute: the Nigeria Erosion and Watershed Management Project ($37.89 million approved) is one of the World Bank-linked facilities the Anambra government attributes to his era, and his statement that he left N2.13 billion as an ecological fund for the Oko/Umuchiana erosion site is contested by the state, which says the cited bank account never received such a deposit.\n\nProject-lifecycle information (contract award, completion, commissioning and projects handed over unfinished) is not publicly available in a form that separates inherited from new projects. For 2027 Obi says major public investment must produce measurable outcomes, and his 2023 manifesto favoured public-private partnerships for power, rail, road, air and pipeline networks, but neither document set out a project pipeline, financing plan or completion targets.",
+      "strengths": [
+        "Visible state road programme acknowledged across sources, even where totals differ",
+        "Stated commitment to outcome-based public investment"
+      ],
+      "limitations": [
+        "800 km figure is self-reported and unaudited",
+        "Erosion fund claim disputed by the state government",
+        "No 2027 infrastructure project list or financing plan"
+      ],
+      "unknowns": [
+        "Audited road completion and cost data 2006-2014",
+        "Status of projects handed over in 2014",
+        "Planned federal infrastructure priorities and funding sources"
+      ],
+      "sourceIds": ["s31", "s22", "s19", "s33"],
+      "verification": "AI_DRAFT"
+    },
+    "power": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "No power-sector record; the 2027 pledge of 10,000 MW in four years is specific but its delivery mechanism has not been disclosed.",
+      "analysis": "Obi has no record in power-sector administration, and governors had little power-sector authority during his tenure, which predates the 2023 Electricity Act. This category therefore rests on proposals. At his NDC nomination on 30 May 2026 he pledged that Nigeria would add at least 10,000 MW of generation and distribution within four years. In a June 2026 BlackBox interview he repeated the target as generating, transmitting and distributing at least 10,000 MW, but declined to explain how, saying voters should judge character and record; Daily Trust reported that no financing, policy or sequencing plan was given. In a later July 2026 interview he said reliable 24-hour supply within four years was not realistic and identified transmission and distribution, rather than generation capacity, as the binding constraint.\n\nThe target is specific and time-bound, which makes it checkable after the fact, but it lacks a disclosed mechanism or cost estimate. Delivery would involve the Transmission Company of Nigeria, privately owned generation and distribution companies, NERC tariff decisions, gas supply and pricing, and, since 2023, state electricity markets. Many of those levers are outside a president's direct control, and grid investment of this scale usually requires multi-year financing and procurement.\n\nHis campaign also proposes replicating independent power models across regions and encouraging private-sector participation. His 2023 manifesto similarly emphasised public-private partnerships for power without a megawatt target. No position was found on tariff policy or on the federal government's legacy debts to generation companies, both of which affect investor appetite.",
+      "strengths": [
+        "Clear, time-bound and measurable headline target",
+        "Acknowledges transmission and distribution constraints and the limits of short-term promises"
+      ],
+      "limitations": [
+        "Declined to explain how the target would be achieved",
+        "No cost estimate, financing plan or tariff position"
+      ],
+      "unknowns": [
+        "Baseline against which the 10,000 MW addition is measured",
+        "Tariff and subsidy approach",
+        "Role envisaged for state electricity markets"
+      ],
+      "sourceIds": ["s34", "s35", "s20", "s33"],
+      "verification": "AI_DRAFT"
+    },
+    "jobs": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "No national employment record and little state-level job data; the 2027 jobs agenda is directional, built on agriculture, manufacturing and MSME credit, without targets.",
+      "analysis": "Obi has not held national office, so national employment outcomes cannot be attributed to him. Evidence of state-level job creation from 2006-2014 is thin: no Anambra labour-force data for the period were found in this research pass. The SABMiller (Intafact) brewery in Onitsha, commissioned in 2012 with a state equity stake of about N1.96 billion, is the investment most associated with his job-creation claims; the stake is documented, but its employment effect was not quantified in sources reviewed here. In January 2013 he framed industrial expansion and youth employment as tools against crime, without published job targets.\n\nHis private-sector background is relevant context: he chaired or directed several financial firms before 2006, giving him experience of enterprise finance, though not of running public employment programmes at scale.\n\nFor 2027 his platform centres on moving Nigeria from consumption to production through agriculture, agro-processing, manufacturing and micro, small and medium enterprises, with tax incentives, affordable credit and industrial parks in development zones across the geopolitical zones. He often cites Indonesia, Bangladesh and others as models; Dubawa found most such comparative statistics in a July 2026 interview accurate but rated his China foreign-reserves figure false. No job-creation target, budget or timeline has been published. Access to affordable credit depends heavily on CBN monetary policy, and new tax incentives would require legislation through the National Assembly. As a result the jobs agenda is directional rather than measurable at this stage.",
+      "strengths": [
+        "Consistent production-led employment thesis focused on agriculture and MSMEs",
+        "Enterprise-finance experience from banking career"
+      ],
+      "limitations": [
+        "No employment data from his governorship",
+        "No job targets, costing or programme design for 2027"
+      ],
+      "unknowns": [
+        "Jobs created by the Onitsha brewery and other state investments",
+        "Design and funding of proposed industrial parks",
+        "Mechanism for delivering affordable credit"
+      ],
+      "sourceIds": ["s30", "s32", "s3", "s34", "s36", "s25"],
+      "verification": "AI_DRAFT"
+    },
+    "finance": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "DMO data show Anambra's external debt rose from about $17m to $30m under Obi, contradicting his 'no debt' claim; his successor's larger $123.77m figure and his own N75bn-savings claim are both disputed.",
+      "analysis": "Financial management is the most contested part of Obi's record and the one with the most documentary evidence. Debt Management Office data compiled by Premium Times in September 2026 show Anambra's external debt at $16.87 million in December 2006 and $30.32 million in December 2013, the last record before he left office in March 2014, a rise of about 80 percent; domestic debt was reported at a revised N3.03 billion in December 2013. Obi himself has put external debt at about $18 million on entry and about $30 million on exit, so his frequently repeated statement that he left 'no debt' is contradicted by the records and by his own figures. He describes the facilities as long-tenor concessionary development programmes accessed through the federal government rather than borrowing.\n\nIn September 2026 the Soludo administration said eight World Bank-linked facilities from 2007-2013 had an original value of $123.77 million, with $92.35 million outstanding in June 2026. Premium Times found that the figure reflects approved facility values rather than debt at handover, and that drawdowns by March 2014 could not be verified from public records.\n\nOn assets, Obi's March 2014 handover letter listed N91.67 billion in balances and investments, about N86.67 billion after a N5 billion liability provision. His successor's government said in 2021 it found about N9 billion in cash, N26 billion in near-cash assets and N185.1 billion in contract liabilities. The two administrations never jointly reconciled these figures, so the 'over N75 billion savings' claim is DISPUTED. The state also disputes a N2.13 billion ecological fund and says teacher and water-corporation arrears were left unpaid; Obi denies owing salaries or pensions. Dubawa in 2021 rated an inflated 'N72bn cash plus $150m' version of the savings claim mostly false.",
+      "strengths": [
+        "Low absolute external debt by Nigerian sub-national standards per DMO data",
+        "A written handover report listing investments exists and was acknowledged by his successor"
+      ],
+      "limitations": [
+        "'No debt' claim contradicted by DMO records",
+        "Handover balances never jointly reconciled; savings figures disputed",
+        "Arrears and ecological-fund claims contested by the state government"
+      ],
+      "unknowns": [
+        "Amounts drawn on each World Bank facility by March 2014",
+        "Audited composition and maturity of investments at handover",
+        "Auditor-General reports for Anambra 2006-2014"
+      ],
+      "metrics": [
+        { "label": "Anambra external debt stock", "value": "$16.87m", "period": "December 2006", "note": "DMO data as compiled by Premium Times", "sourceIds": ["s18"] },
+        { "label": "Anambra external debt stock", "value": "$30.32m", "period": "December 2013", "note": "Last DMO record before Obi left office in March 2014", "sourceIds": ["s18"] },
+        { "label": "Handover report balances (gross / net)", "value": "N91.67bn / N86.67bn", "period": "17 March 2014", "note": "Obi's handover letter; not jointly verified", "sourceIds": ["s18"] },
+        { "label": "Original value of eight external facilities attributed to his era", "value": "$123.77m ($92.35m outstanding June 2026)", "period": "2007-2013", "note": "Anambra government figure; not equal to debt at handover", "sourceIds": ["s19", "s18"] }
+      ],
+      "sourceIds": ["s18", "s19", "s21", "s17"],
+      "verification": "AI_DRAFT"
+    },
+    "leadership": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "Eight years as governor through impeachment and tenure litigation, followed by two coalition-based presidential runs and several party changes; independent evaluations of his administrative performance are scarce.",
+      "analysis": "Obi led a state executive for about eight years, with two interruptions. The state House of Assembly impeached him on 2 November 2006; the courts restored him on 9 February 2007. After the April 2007 elections a successor was sworn in on 29 May 2007, but on 14 June 2007 the Supreme Court held that Obi's four-year term ran from his March 2006 swearing-in, and he returned to office. He won re-election in February 2010. He chaired the South-East Governors' Forum and was vice-chairman of the Nigeria Governors' Forum, according to a biographical profile. Surviving repeated legal challenges shows persistence in litigation, but this research did not find independent evaluations of his cabinet quality, civil-service management or budget-execution rates.\n\nHis successors in Anambra, including the current APGA government, have publicly contested his record, so his approach did not leave a consensus even within the party that elected him.\n\nNationally, Obi has led two coalition-based presidential campaigns: the Labour Party in 2023, where he finished third with 6.1 million votes and challenged the result unsuccessfully in court, and the NDC in 2027 with former Kano governor Rabiu Musa Kwankwaso as running mate. He has belonged to five parties since 2003 (APGA, PDP, LP, ADC and NDC). He has committed to serving a single four-year term. As president he would need to work with a National Assembly in which his party's strength is untested, a significant execution risk for any proposal that requires legislation or constitutional amendment.",
+      "strengths": [
+        "Eight years of executive experience at state level",
+        "Built and sustained national coalitions in two election cycles"
+      ],
+      "limitations": [
+        "Few independent assessments of his administrative performance",
+        "Frequent party changes; untested legislative support base"
+      ],
+      "unknowns": [
+        "Planned cabinet and economic team",
+        "Approach to managing a National Assembly without a majority"
+      ],
+      "sourceIds": ["s1", "s3", "s9", "s6", "s7", "s36", "s35"],
+      "verification": "AI_DRAFT"
+    },
+    "integrity": {
+      "evidence": "moderate",
+      "basis": "record",
+      "summary": "Pandora Papers reporting found undeclared offshore holdings and a directorship retained after taking office; Obi admits non-declaration but denies breaking the law. A CCB investigation was reported in October 2026; there is no charge or finding.",
+      "analysis": "Two matters dominate. The first is the Pandora Papers. In October 2021 Premium Times, as part of the ICIJ project and republished by The ICIR, reported that a British Virgin Islands company (Gabriella Investments, renamed PMGG Investments in 2017) was incorporated in 2010 while Obi was governor and held through a family trust; that he remained a director of Next International (UK) Ltd until May 2008, about 14 months after taking office; and that he did not declare these interests to the Code of Conduct Bureau and kept a foreign bank account while governor, which the report argued breached the Code of Conduct Bureau and Tribunal Act and the Constitution. Obi acknowledged not declaring the offshore holdings, saying he did not know jointly owned assets had to be declared, described the trust structure as a legitimate vehicle, said he resigned the directorship promptly, and denied knowledge of a Barbados company named in the records. The reporting did not allege diversion of public funds. The EFCC invited him for questioning in October 2021; no outcome was reported. In October 2026 Premium Times reported that the CCB had assigned case officers to investigate him and six others. Legal status: investigation, with no charge or finding.\n\nSecond, 2012 reporting by Premium Times (republished by SaharaReporters) raised conflict-of-interest questions about the state's investment in the Onitsha brewery and shares linked to a company associated with Obi's family; no official finding was located.\n\nIn September 2026 SaharaReporters published anonymous claims that Obi was building a stake in Fidelity Bank through proxies. Fidelity Bank called the claims false and unfounded, and Obi had earlier said he does not own the bank. This is an unsupported allegation. The Anambra debt dispute is a public-accounting disagreement, not a legal case.",
+      "strengths": [
+        "Publicly responded to the Pandora Papers and admitted the declaration gap",
+        "No allegation of diversion of public funds in the offshore reporting"
+      ],
+      "limitations": [
+        "Admitted non-declaration of offshore assets while governor",
+        "Directorship retained for about 14 months after taking office",
+        "Open CCB investigation as of October 2026"
+      ],
+      "unknowns": [
+        "Outcome of the CCB investigation and the 2021 EFCC invitation",
+        "Content of his asset declarations",
+        "Whether the 2012 brewery-share questions were ever formally examined"
+      ],
+      "sourceIds": ["s13", "s15", "s16", "s39", "s12", "s11"],
+      "verification": "AI_DRAFT"
+    },
+    "experience": {
+      "evidence": "strong",
+      "basis": "record",
+      "summary": "Eight years as a state governor plus a banking and corporate-board career; no federal executive, ministerial or legislative office.",
+      "analysis": "Obi's experience combines private finance and state executive office. Before politics he was a businessman who chaired or sat on the boards of several financial firms; a biographical profile lists Fidelity Bank Plc, Next International (Nigeria), Guardian Express Mortgage Bank, Future Views Securities and Paymaster Nigeria among his chairmanships, and directorships at Chams and Card Centre. No primary record of his Fidelity chairmanship dates was found; Obi has confirmed serving as chairman or director of three banks or financial institutions including Fidelity, while denying that he owns it.\n\nHe was Anambra governor for about eight years (2006-2014), responsible for a state budget, debt, investments and a structural education reform. After leaving office he was listed as a member of President Jonathan's Presidential Economic Management Team and honorary special adviser on finance until May 2015, and in April 2015 Jonathan named him chairman of the SEC board, a brief appointment that ended with the change of government. He was the PDP vice-presidential candidate in 2019 and the Labour Party presidential candidate in 2023, giving him two national campaigns' exposure to federal policy debates.\n\nHe has not held federal executive, ministerial or legislative office and has not managed a national budget, military command or foreign-policy portfolio. The relevance of his record to the presidency therefore rests on state-level fiscal and education management and private-sector finance. Formal education comprises a West African School Certificate (Christ the King College, Onitsha, 1978), a BA in Philosophy (University of Nigeria, Nsukka, 1984) and non-degree executive programmes at several business schools.",
+      "strengths": [
+        "Eight years of elected executive experience",
+        "Banking and capital-market governance background",
+        "Two national campaigns"
+      ],
+      "limitations": [
+        "No federal executive, ministerial or legislative experience",
+        "Short, end-of-administration federal appointments"
+      ],
+      "unknowns": [
+        "Years and performance of his Fidelity Bank chairmanship",
+        "Work done as SEC chairman"
+      ],
+      "sourceIds": ["s3", "s11", "s10", "s4", "s6"],
+      "verification": "AI_DRAFT"
+    },
+    "vision": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "A consistent production-led, anti-waste agenda with a few measurable targets (power, health) and many directional commitments; no full 2027 manifesto document was located.",
+      "analysis": "Obi's 2027 agenda, set out at the NDC convention on 30 May 2026, in a July 2026 statement, in interviews and at his August 2026 campaign launch in Onitsha, continues the 2023 Labour Party manifesto 'It's POssible: Our Pact with Nigerians', released on 4 December 2022. The core thesis is moving Nigeria from consumption to production through agriculture, manufacturing and small business, supported by cheaper credit, lower government borrowing costs, reduced cost of governance and greater fiscal transparency. The 2023 document set seven priorities, including security and national unity, restructuring through review of the 68 items on the Exclusive Legislative List, human capital, a digital economy and an 'Afro-centric' foreign policy.\n\nThe 2027 platform contains a few measurable targets: 10,000 MW of added supply in four years, health-insurance coverage above 20 percent, and a functioning primary healthcare centre in each of 8,809 wards. It also includes a self-limiting commitment to a single four-year term. Most other commitments, on security, education, jobs and anti-corruption, are directional and lack costing, sequencing or named implementation teams. A complete 2027 NDC manifesto document was not located in this research pass.\n\nFeasibility depends on matters outside a president's sole control: constitutional amendment for restructuring and state policing, National Assembly appropriation, CBN policy, oil revenue and the cooperation of 36 states. His refusal in a June 2026 interview to say how the power target would be met illustrates the gap between stated targets and disclosed methods that runs through the platform.",
+      "strengths": [
+        "Coherent, consistent policy thesis across two campaigns",
+        "Some measurable, time-bound targets"
+      ],
+      "limitations": [
+        "Few costed or sequenced proposals",
+        "No full 2027 manifesto document located"
+      ],
+      "unknowns": [
+        "Whether the NDC will publish a full costed manifesto",
+        "Restructuring proposals for 2027 and their legislative path"
+      ],
+      "sourceIds": ["s33", "s34", "s35", "s36", "s31", "s14"],
+      "verification": "AI_DRAFT"
+    },
+    "foreign": {
+      "evidence": "limited",
+      "basis": "proposal",
+      "summary": "No diplomatic record; 2023 manifesto outlined an ECOWAS-first 'Afro-centric' policy, and 2027 statements say little about foreign policy.",
+      "analysis": "Obi has no diplomatic or federal foreign-policy record, so this category rests mainly on proposals and on limited state-level dealings with foreign investors and development partners. His 2023 manifesto proposed an 'Afro-centric' foreign policy that protects Nigerians abroad, promotes trade, prioritises ECOWAS and ends what it called cocktail diplomacy; it also promised to secure the borders with Niger, Chad and Cameroon. Reporting on his 2027 agenda mentions working with international partners on security and regular economic comparisons with China, Indonesia, Bangladesh and the Netherlands, but no specific positions were found on the withdrawal of Sahel states from ECOWAS, AfCFTA implementation, external debt negotiations or relations with major powers.\n\nAt state level, the 2012 SABMiller brewery investment in Onitsha is the main example of attracting foreign direct investment, alongside development-partner programmes with the World Bank (malaria control, erosion, Fadama agriculture), UNICEF and DFID. Those World Bank facilities are now at the centre of the debt dispute with his successor government. The Pandora Papers reporting shows familiarity with offshore financial structures, which is an integrity question rather than evidence of diplomatic capacity.\n\nForeign policy is an exclusive federal power. A president appoints ambassadors (subject to Senate confirmation) and leads treaty negotiations, while domestication of treaties requires National Assembly action. Without published 2027 positions, voters cannot compare his foreign-policy priorities with those of other candidates on substance.",
+      "strengths": [
+        "Stated regional (ECOWAS) priority and diaspora-protection focus in 2023",
+        "Experience dealing with a multinational investor and development partners at state level"
+      ],
+      "limitations": [
+        "No diplomatic or federal foreign-policy experience",
+        "No detailed 2027 foreign-policy positions found"
+      ],
+      "unknowns": [
+        "Position on ECOWAS-Sahel relations",
+        "Trade and AfCFTA priorities",
+        "Approach to external borrowing and creditors"
+      ],
+      "sourceIds": ["s33", "s35", "s30", "s19", "s24"],
+      "verification": "AI_DRAFT"
+    },
+    "humanImpact": {
+      "evidence": "limited",
+      "basis": "mixed",
+      "summary": "Few documented household-level effects; worker arrears from his tenure are disputed, health facility gains are self-reported, and 2027 proposals touch households but lack distributional detail.",
+      "analysis": "Documented household-level effects of Obi's policies are scarce. The most tangible state-level effects concern public workers and school communities. The return of mission schools in 2011 changed who managed most Anambra public schools; church principals report improved facilities and discipline, but changes in levies or costs borne by families under church management were not documented in sources found.\n\nOn public workers, the current Anambra government says his administration verified 16 months of primary-school teachers' salary arrears but paid only five, that arrears owed to former Water Corporation workers remained unresolved until 2026, and that it inherited about N22 billion in gratuity arrears. Obi says no salary, pension or gratuity owed by the state was outstanding when he left and that his government cleared over N35 billion in historical gratuities and arrears. These are competing claims from political rivals and have not been independently audited.\n\nOn health, if the ambulances, rehabilitated general hospitals and primary healthcare centres he describes were delivered, they would have affected access to care, but the numbers are his own; the grant-funded rural maternity units could not be confirmed as completed.\n\nFor 2027, proposals with direct household relevance include wider health insurance, ward-level primary care, a gradual and transparent exit from fuel subsidy, and an out-of-school children task force. In a July 2026 interview he cited a World Bank estimate that 79 percent of Nigerians are poor or at risk of poverty, which Dubawa rated true. No distributional analysis, cash-transfer plan or targeting mechanism for vulnerable groups has been published.",
+      "strengths": [
+        "Proposals address household-facing services (health insurance, primary care, schooling)",
+        "Accurate use of poverty data in campaign statements, per Dubawa"
+      ],
+      "limitations": [
+        "Disputed record on worker arrears",
+        "No social-protection or targeting design for 2027"
+      ],
+      "unknowns": [
+        "Independent data on Anambra welfare outcomes 2006-2014",
+        "Household cost effects of the mission-schools policy",
+        "Mitigation plan for fuel-subsidy changes"
+      ],
+      "sourceIds": ["s28", "s19", "s21", "s24", "s23", "s25", "s35", "s14"],
+      "verification": "AI_DRAFT"
+    },
+    "promises": {
+      "evidence": "moderate",
+      "basis": "proposal",
+      "summary": "A handful of specific, time-bound 2027 pledges without costing; mixed accuracy in his own claims about past delivery.",
+      "analysis": "As a non-incumbent, Obi is assessed on the specificity of his promises and on how accurately he represents past delivery. Specific, checkable 2027 promises include: at least 10,000 MW generated, transmitted and distributed within four years; health-insurance coverage raised from about 10 percent to over 20 percent within four years; a functional primary healthcare centre in each of the 8,809 wards; health spending of at least 10 percent of GDP (as reported); and a single four-year term. Directional promises without targets include personally coordinating the security response, an out-of-school children task force, industrial parks in each geopolitical zone, cheaper credit and tax incentives for small businesses, cutting luxury spending such as presidential aircraft, not funding an Office of the First Lady, and a gradual fuel-subsidy exit. In October 2026 he also promised an uncompromising anti-corruption drive with results from the first day.\n\nNone of these has a published cost or financing plan, and in June 2026 he declined to explain how the power target would be met. Several require legislation or depend on state governments.\n\nOn past delivery, the clearest kept commitment from his governorship is the return of mission schools. His stated plan to use the 2013 Gates grant for 10 rural maternity units was not confirmed as completed by fact-checkers. His own statements about his record have mixed accuracy: the 'no debt' claim is contradicted by DMO data and the brewery valuation was overstated, while the Gates polio recognition, strong 2014 WASSCE results and the existence of a written handover listing substantial investments are documented.",
+      "strengths": [
+        "Some promises are measurable and time-bound",
+        "Documented delivery of a signature state reform"
+      ],
+      "limitations": [
+        "No costing or financing for any major pledge",
+        "Some past-record claims overstated or contradicted"
+      ],
+      "unknowns": [
+        "Implementation plan and team for each pledge",
+        "Whether a costed manifesto will be published before January 2027"
+      ],
+      "sourceIds": ["s34", "s35", "s36", "s14", "s28", "s23", "s18", "s30", "s26"],
+      "verification": "AI_DRAFT"
+    }
+  },
+  "record": [
+    { "id": "rec1", "title": "Became governor through election petition", "kind": "outcome", "label": "FACT", "period": "2003-2006", "office": "Governor of Anambra State", "description": "After INEC declared Chris Ngige winner of the 2003 governorship election, Obi's petition succeeded and he was sworn in on 17 March 2006.", "categories": ["leadership", "experience"], "sourceIds": ["s1", "s3"] },
+    { "id": "rec2", "title": "Impeachment and reinstatement", "kind": "controversy", "label": "FACT", "period": "November 2006 - February 2007", "office": "Governor of Anambra State", "description": "Impeached by the state House of Assembly on 2 November 2006 and restored by the courts on 9 February 2007.", "legalStatus": "overturned", "categories": ["leadership"], "sourceIds": ["s3"] },
+    { "id": "rec3", "title": "Supreme Court tenure judgment", "kind": "outcome", "label": "FACT", "period": "May-June 2007", "office": "Governor of Anambra State", "description": "Removed on 29 May 2007 when a governor elected in April 2007 was sworn in; the Supreme Court ruled orally on 14 June 2007 (written reasons July 2007) that his four-year term ran from 17 March 2006, restoring him to office.", "legalStatus": "judgment", "categories": ["leadership", "experience"], "sourceIds": ["s1", "s3"] },
+    { "id": "rec4", "title": "Re-elected governor", "kind": "outcome", "label": "FACT", "period": "February 2010", "office": "Governor of Anambra State", "description": "Won the 6 February 2010 election with about 97,800 votes, ahead of Chris Ngige and Chukwuma Soludo.", "categories": ["leadership"], "sourceIds": ["s9"] },
+    { "id": "rec5", "title": "Return of schools to mission owners", "kind": "policy", "label": "RECORD", "period": "2011", "office": "Governor of Anambra State", "description": "Returned public schools to the churches that founded them before the 1970 takeover; the state kept paying teachers and subventions. Effects reported mainly by mission principals and clergy; no independent evaluation found. Critics say private proprietors were not treated equally.", "status": "completed", "categories": ["education", "humanImpact"], "sourceIds": ["s28", "s29"] },
+    { "id": "rec6", "title": "Anambra top WASSCE credit-pass rate (2014)", "kind": "outcome", "label": "FACT", "period": "May/June 2014", "description": "Anambra recorded 65.92% of candidates with five credits including English and Mathematics, highest in the country per reported WAEC results. The exam was sat shortly after Obi left office.", "categories": ["education"], "sourceIds": ["s26"] },
+    { "id": "rec7", "title": "Claim: moved Anambra from 26th to 1st in exam rankings", "kind": "unresolved", "label": "UNVERIFIED", "period": "2006-2014", "description": "Obi's claim of a rise from 26th to first lacks a verifiable baseline ranking; WAEC does not routinely publish state rankings, and a 2024 claim that WAEC deleted a related post was disputed.", "categories": ["education", "promises"], "sourceIds": ["s27", "s26"] },
+    { "id": "rec8", "title": "Gates Foundation polio-eradication recognition", "kind": "achievement", "label": "FACT", "period": "2013", "office": "Governor of Anambra State", "description": "Anambra was recognised as the best-performing South-East state on polio eradication, with a $1m grant. The viral claim that Obi was named 'best governor in Nigeria' was rated misleading; promised maternity units funded by the grant were not confirmed completed.", "categories": ["healthcare", "promises"], "sourceIds": ["s23"] },
+    { "id": "rec9", "title": "Health facility and accreditation claims", "kind": "unresolved", "label": "UNVERIFIED", "period": "2006-2014", "office": "Governor of Anambra State", "description": "Obi says he built and accredited COOUTH, rehabilitated 15 general hospitals, built over 120 primary healthcare centres and distributed about 100 ambulances. Dubawa found insufficient evidence for the claim that no health training institution was accredited before him.", "categories": ["healthcare", "humanImpact"], "sourceIds": ["s24", "s25"] },
+    { "id": "rec10", "title": "Road construction programme", "kind": "project", "label": "UNVERIFIED", "period": "2006-2013", "office": "Governor of Anambra State", "description": "Government said in 2013 that over 800 km of roads had been completed since 2006; no audited list found. Critics dispute the scale of urban and erosion-control results.", "status": "partially-completed", "categories": ["infrastructure"], "sourceIds": ["s31", "s22"] },
+    { "id": "rec11", "title": "Security logistics for federal police", "kind": "decision", "label": "RECORD", "period": "January 2013", "office": "Governor of Anambra State", "description": "State donated 50 patrol vehicles and three armoured personnel carriers to the police command.", "categories": ["security"], "sourceIds": ["s32"] },
+    { "id": "rec12", "title": "State equity in Onitsha brewery (Intafact/SABMiller)", "kind": "decision", "label": "RECORD", "period": "2012", "office": "Governor of Anambra State", "description": "State invested N1.96bn (about $12.6m) for a minority stake, now about 407 million International Breweries shares. Obi's 2018 claim of a $20m stake worth about $100m was overstated; the state valued it at about $3.7-5.4m in June 2022.", "status": "completed", "categories": ["economy", "jobs", "foreign"], "sourceIds": ["s30"] },
+    { "id": "rec13", "title": "External debt during tenure", "kind": "outcome", "label": "FACT", "period": "2006-2013", "office": "Governor of Anambra State", "description": "DMO data show external debt rising from $16.87m (Dec 2006) to $30.32m (Dec 2013).", "categories": ["finance"], "sourceIds": ["s18"] },
+    { "id": "rec14", "title": "'Left no debt' and '$123.77m debt' claims", "kind": "controversy", "label": "DISPUTED", "period": "2014-2026", "description": "Obi's claim of leaving no debt conflicts with DMO data and his own $30m estimate; the Anambra government's $123.77m figure reflects original facility values, not debt at handover, per Premium Times.", "legalStatus": "denied", "categories": ["finance", "integrity"], "sourceIds": ["s18", "s19", "s21"] },
+    { "id": "rec15", "title": "Savings and investments left at handover", "kind": "controversy", "label": "DISPUTED", "period": "March 2014", "description": "Handover letter listed N91.67bn gross / N86.67bn net; Obi says over N75bn in cash and investments. His successor's government reported about N9bn cash and N26bn near-cash. Never jointly reconciled.", "legalStatus": "denied", "categories": ["finance"], "sourceIds": ["s18", "s17"] },
+    { "id": "rec16", "title": "N2.13bn ecological fund and worker arrears dispute", "kind": "controversy", "label": "DISPUTED", "period": "2014-2026", "description": "Anambra government says the account Obi cited never received the N2.13bn and that teacher and water-corporation arrears were left unpaid; Obi says no salaries, pensions or gratuities were owed.", "legalStatus": "denied", "categories": ["finance", "humanImpact"], "sourceIds": ["s19", "s21"] },
+    { "id": "rec17", "title": "Pandora Papers: undeclared offshore holdings", "kind": "controversy", "label": "FACT", "period": "2006-2021", "description": "Reporting found an undeclared BVI company/trust, a UK directorship held about 14 months into his governorship and a foreign account. Obi admitted non-declaration but says he broke no law. EFCC invited him in 2021; CCB investigation reported in October 2026. No charge or finding.", "legalStatus": "investigation", "categories": ["integrity"], "sourceIds": ["s13", "s15", "s16"] },
+    { "id": "rec18", "title": "Brewery share conflict-of-interest questions", "kind": "controversy", "label": "UNVERIFIED", "period": "2012", "description": "2012 reporting questioned shares linked to a company associated with Obi's family alongside the state stake; no official finding located.", "legalStatus": "allegation", "categories": ["integrity"], "sourceIds": ["s39"] },
+    { "id": "rec19", "title": "Fidelity Bank proxy-shareholding allegation", "kind": "controversy", "label": "UNVERIFIED", "period": "2026", "description": "Anonymous sources alleged Obi was building a Fidelity stake through proxies; Fidelity Bank called the claims false; Obi has said he does not own the bank.", "legalStatus": "allegation", "categories": ["integrity"], "sourceIds": ["s12", "s11"] },
+    { "id": "rec20", "title": "Appointed SEC chairman", "kind": "decision", "label": "FACT", "period": "April 2015", "office": "Chairman, Securities and Exchange Commission board", "description": "Named by President Jonathan weeks before the administration ended.", "categories": ["experience"], "sourceIds": ["s10"] },
+    { "id": "rec21", "title": "2023 election petition dismissed", "kind": "outcome", "label": "FACT", "period": "September-October 2023", "description": "The PEPC found the petition lacked merit (6 September 2023) and the Supreme Court dismissed his appeal (26 October 2023).", "legalStatus": "judgment", "categories": ["leadership"], "sourceIds": ["s7", "s8"] }
+  ],
+  "plans": [
+    { "id": "pl1", "title": "Add at least 10,000 MW in four years", "label": "PROMISE", "category": "power", "outcome": "At least 10,000 MW generated, transmitted and distributed", "timeline": "Four years", "target": "10,000 MW", "risks": "Transmission constraints, gas supply, tariffs and private-sector investment outside direct presidential control", "feasibility": "Mechanism not disclosed; candidate declined to explain method in June 2026", "sourceIds": ["s34", "s35", "s20"] },
+    { "id": "pl2", "title": "Expand health-insurance coverage", "label": "PROMISE", "category": "healthcare", "outcome": "Coverage from about 10% to over 20% of Nigerians", "timeline": "Four years", "target": "Over 20% coverage", "sourceIds": ["s34"] },
+    { "id": "pl3", "title": "Functional primary healthcare centre in every ward", "label": "PROMISE", "category": "healthcare", "outcome": "A working PHC in each of 8,809 political wards", "dependencies": "State and local governments that run primary care", "sourceIds": ["s34"] },
+    { "id": "pl4", "title": "Raise health spending", "label": "PROMISE", "category": "healthcare", "outcome": "Health spending of at least 10% of GDP, as reported", "assumptions": "Reported wording; base (GDP or budget) and financing not specified", "sourceIds": ["s34"] },
+    { "id": "pl5", "title": "Personally coordinate response to insecurity", "label": "PROMISE", "category": "security", "outcome": "Visible presidential leadership of security, better-equipped agencies, intelligence and technology-led approach", "sourceIds": ["s35", "s34"] },
+    { "id": "pl6", "title": "Production-led economy", "label": "PROPOSAL", "category": "economy", "outcome": "Shift from consumption to production via agriculture, manufacturing and MSMEs", "method": "Affordable credit, tax incentives, lower borrowing costs, long-term productive investment", "sourceIds": ["s35", "s34", "s33"] },
+    { "id": "pl7", "title": "Gradual, transparent end to fuel subsidy", "label": "PROPOSAL", "category": "economy", "outcome": "Subsidy removal explained publicly with savings tracked", "sourceIds": ["s35"] },
+    { "id": "pl8", "title": "Out-of-school children task force and TVET emphasis", "label": "PROMISE", "category": "education", "outcome": "Drastic reduction in out-of-school children; more technical and vocational training", "sourceIds": ["s14"] },
+    { "id": "pl9", "title": "Industrial parks in development zones", "label": "PROPOSAL", "category": "jobs", "outcome": "Agro-industrial parks across the geopolitical zones", "sourceIds": ["s14"] },
+    { "id": "pl10", "title": "Cut cost of governance", "label": "PROMISE", "category": "finance", "outcome": "Reduce luxury spending such as aircraft; no funded Office of the First Lady; redirect savings to education, health and infrastructure", "sourceIds": ["s35"] },
+    { "id": "pl11", "title": "Fiscal transparency", "label": "PROMISE", "category": "finance", "outcome": "Public explanation of waivers, major spending and significant financial decisions", "sourceIds": ["s35"] },
+    { "id": "pl12", "title": "Serve a single four-year term", "label": "PROMISE", "category": "leadership", "outcome": "One term only", "timeline": "2027-2031", "sourceIds": ["s35"] },
+    { "id": "pl13", "title": "Anti-corruption drive from day one", "label": "PROMISE", "category": "integrity", "outcome": "Uncompromising war on corruption with visible results from the first day", "sourceIds": ["s31"] },
+    { "id": "pl14", "title": "Restructuring via Exclusive List review (2023 manifesto)", "label": "PROPOSAL", "category": "vision", "outcome": "Move some of the 68 Exclusive Legislative List items to the Concurrent List", "dependencies": "Constitutional amendment by National Assembly and state assemblies", "sourceIds": ["s33"] },
+    { "id": "pl15", "title": "Afro-centric foreign policy (2023 manifesto)", "label": "PROPOSAL", "category": "foreign", "outcome": "ECOWAS-first diplomacy, protection of citizens abroad, trade promotion, border security with Niger, Chad and Cameroon", "sourceIds": ["s33"] }
+  ],
+  "test": [
+    { "questionId": "r1", "answer": "Partly. The core problem (a consumption-dependent economy, insecurity, weak power transmission and distribution) is described consistently, and Obi correctly identifies grid transmission as the binding power constraint, but problem statements in other sectors are general.", "assessment": "partly", "sourceIds": ["s35", "s20", "s33"] },
+    { "questionId": "r2", "answer": "Partly. Power (10,000 MW in four years) and health (insurance above 20%, a PHC in each of 8,809 wards) are specific; security, jobs, education and anti-corruption pledges are directional.", "assessment": "partly", "sourceIds": ["s34", "s35", "s14"] },
+    { "questionId": "r3", "answer": "Partly. He cites comparator economies (Bangladesh, Indonesia, Ethiopia) and Dubawa found most such statistics accurate, but no policy evaluations or modelling supporting the specific approaches have been published.", "assessment": "partly", "sourceIds": ["s25"] },
+    { "questionId": "r4", "answer": "Unknown. No costing or financing plan has been published for the power, health or industrial-park pledges; savings from cutting cost of governance are not quantified.", "assessment": "unknown", "sourceIds": ["s34", "s35"] },
+    { "questionId": "r5", "answer": "Partly. Several targets carry a four-year timeline; Obi himself said 24-hour power in four years is not realistic, which tempers the power timeline, but no intermediate milestones exist.", "assessment": "partly", "sourceIds": ["s34", "s20"] },
+    { "questionId": "r6", "answer": "Partly. A president controls federal agencies, appointments and the budget proposal, but primary healthcare, state electricity markets and basic education involve states, and restructuring requires constitutional change.", "assessment": "partly", "sourceIds": ["s33", "s34"] },
+    { "questionId": "r7", "answer": "Yes. Restructuring, tax incentives, health-spending increases and appropriations for power and health all require National Assembly action, and some require state assemblies.", "assessment": "yes", "sourceIds": ["s33", "s35"] },
+    { "questionId": "r8", "answer": "Partly. He acknowledged limits on delivering 24-hour power and favours a gradual subsidy exit, but has not disclosed fiscal trade-offs or risks for most pledges and declined to explain the power method.", "assessment": "partly", "sourceIds": ["s20", "s34", "s35"] },
+    { "questionId": "r9", "answer": "Partly. Running mate Rabiu Musa Kwankwaso is known; no economic, security or delivery team has been named.", "assessment": "partly", "sourceIds": ["s36"] },
+    { "questionId": "r10", "answer": "Partly. He has eight years of state executive delivery, including a documented mission-schools reform and a recorded external-debt profile, but several headline claims about his record are disputed or overstated, and he has no federal implementation record.", "assessment": "partly", "sourceIds": ["s28", "s18", "s30", "s23"] }
+  ],
+  "sources": [
+    { "id": "s1", "title": "Peter Obi v Independent National Electoral Commission & Others (SC.123/2007)", "url": "https://nigerialii.org/akn/ng/judgment/ngsc/2007/171/eng%402007-07-12", "publisher": "NigeriaLII (Supreme Court of Nigeria)", "type": "court", "published": "2007-07-12", "accessed": "2026-11-28", "categories": ["leadership", "experience"], "claim": "Obi sworn in 17 March 2006; judgment delivered orally 14 June 2007 on the commencement of his four-year term.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s3", "title": "Obi, Peter Gregory Onwubuasi: Biography", "url": "https://blerf.org/index.php/biography/obi-peter-gregory-onwubuasi/", "publisher": "Biographical Legacy and Research Foundation", "type": "reference", "published": null, "accessed": "2026-11-28", "categories": ["experience", "leadership", "economy"], "claim": "Birth date, education, board chairmanships, tenure interruptions, economic-team role, SEC chairmanship, governors' forum roles.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s4", "title": "Atiku Picks Peter Obi as Running-mate", "url": "https://thisdaylive.com/index.php/2018/10/12/atiku-picks-peter-obi-as-running-mate", "publisher": "ThisDay", "type": "news", "published": "2018-10-12", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Atiku Abubakar picked Obi as PDP running mate on 12 October 2018.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s5", "title": "2019 General Election Presidential Election Results", "url": "https://www.inecnigeria.org/wp-content/uploads/2019/03/2019-GE-PRESIDENTIAL-ELECTION-RESULTS.pdf", "publisher": "Independent National Electoral Commission", "type": "electoral", "published": "2019-03", "accessed": "2026-11-28", "categories": ["experience"], "claim": "Buhari 15,191,847 votes; Atiku 11,262,978.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s6", "title": "INEC declares Tinubu winner of the 2023 presidential election", "url": "https://nairametrics.com/2023/03/01/inec-declares-tinubu-winner-of-the-2023-presidential-election/", "publisher": "Nairametrics", "type": "news", "published": "2023-03-01", "accessed": "2026-11-28", "categories": ["leadership", "experience"], "claim": "INEC declared Tinubu 8,794,726, Atiku 6,984,520 and Obi (LP) 6,101,533 votes.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s7", "title": "After 12-hour marathon judgment, tribunal dismisses Obi, Atiku's petitions, affirms Tinubu's victory", "url": "https://www.channelstv.com/2023/09/06/after-12-hour-marathon-judgment-tribunal-dismiss-obi-atikus-petitions-affirms-tinubus-victory/", "publisher": "Channels Television", "type": "news", "published": "2023-09-06", "accessed": "2026-11-28", "categories": ["leadership"], "claim": "Presidential Election Petition Court dismissed Obi's petition.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s8", "title": "Nigeria's Supreme Court refuses to void president's election and dismisses opposition challenges", "url": "https://apnews.com/article/ad610050879e5a0178bcb52934c56054", "publisher": "Associated Press", "type": "news", "published": "2023-10-26", "accessed": "2026-11-28", "categories": ["leadership"], "claim": "Supreme Court dismissed Obi's appeal on 26 October 2023.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s9", "title": "Updated: Governor Peter Obi Wins Anambra Elections", "url": "https://www.modernghana.com/news/262745/updated-governor-peter-obi-wins-anambra-elections.html", "publisher": "Modern Ghana", "type": "news", "published": "2010-02-07", "accessed": "2026-11-28", "categories": ["leadership"], "claim": "Obi (APGA) won the February 2010 Anambra governorship election with about 97,800 votes ahead of Ngige and Soludo.", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "s10", "title": "Appointments: GEJ appoints Peter Obi as SEC Chairman, confirms Gwarzo as SEC DG", "url": "https://nairametrics.com/2015/04/28/appointments-gej-appoints-peter-obi-as-sec-chairman-confirms-gwarzo-as-sec-dg", "publisher": "Nairametrics", "type": "news", "published": "2015-04-28", "accessed": "2026-11-28", "categories": ["experience", "economy"], "claim": "President Jonathan named Obi chairman of the SEC board in April 2015.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s11", "title": "Alleged N225bn Debt: Peter Obi Debunks Ownership of Fidelity Bank, Meeting President", "url": "https://www.thisdaylive.com/2025/05/23/alleged-n225bn-debt-peter-obi-debunks-ownership-of-fidelity-bank-meeting-president/", "publisher": "ThisDay", "type": "candidate-statement", "published": "2025-05-23", "accessed": "2026-11-28", "categories": ["integrity", "experience"], "claim": "Obi denies owning Fidelity Bank; says he served as chairman/director of three banks or financial institutions including Fidelity.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s12", "title": "EXCLUSIVE: Fidelity Bank shareholders raise alarm over Peter Obi's alleged use of fronts", "url": "https://saharareporters.com/2026/09/24/exclusive-fidelity-bank-shareholders-raise-alarm-over-peter-obis-alleged-use-fronts", "publisher": "SaharaReporters", "type": "news", "published": "2026-09-24", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Anonymous allegations of proxy shareholding; Fidelity Bank called them false and unfounded; Obi did not respond.", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "s13", "title": "Pandora Papers: Inside Peter Obi's secret businesses - and how he broke the law", "url": "https://www.icirnigeria.org/pandora-papers-inside-peter-obis-secret-businesses-and-how-he-broke-the-law/", "publisher": "The ICIR (first published by Premium Times, ICIJ partner)", "type": "investigative", "published": "2021-10-04", "accessed": "2026-11-28", "categories": ["integrity", "foreign"], "claim": "BVI company and trust, Next International (UK) directorship until May 2008, non-declaration to CCB, foreign account; Obi's responses.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s14", "title": "Peter Obi Shares Fresh Vision for Nigeria, Lists Plans on Education, Healthcare and Jobs", "url": "https://www.legit.ng/politics/1717106-peter-obi-shares-fresh-vision-nigeria-lists-plans-education-healthcare-jobs/", "publisher": "Legit.ng", "type": "candidate-statement", "published": "2026-07-01", "accessed": "2026-11-28", "categories": ["education", "jobs", "vision"], "claim": "Out-of-school children task force, TVET emphasis, industrial parks in development zones.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s15", "title": "Pandora Papers: Nigeria's anti-graft agency EFCC invites ex-vice-presidential candidate", "url": "https://saharareporters.com/2021/10/17/pandora-papers-nigerias-anti-graft-agency-efcc-invites-ex-vice-presidential-candidate", "publisher": "SaharaReporters", "type": "news", "published": "2021-10-17", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "EFCC invited Obi for questioning over Pandora Papers leads; no outcome reported.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s16", "title": "EXCLUSIVE: CCB investigates Peter Obi, Saraki, David Mark, four others over offshore assets", "url": "https://www.premiumtimesng.com/news/920211-exclusive-ccb-investigates-peter-obi-saraki-david-mark-four-others-over-offshore-assets.html", "publisher": "Premium Times", "type": "investigative", "published": "2026-10-26", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "Code of Conduct Bureau assigned case officers to investigate Obi and others named in Panama/Pandora Papers; no outcome.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s17", "title": "How true is claim Anambra owes over N200bn debt?", "url": "https://dubawa.org/how-true-is-claim-anambra-owes-over-₦200bn-debt/", "publisher": "Dubawa", "type": "news", "published": "2021-01-22", "accessed": "2026-11-28", "categories": ["finance"], "claim": "Rated 'N72bn cash and $150m' handover claim mostly false; records successor government's N9bn cash / N26bn near-cash / N185.1bn contract liabilities account and Obi aide's breakdown.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s18", "title": "What records show about Anambra debt under Peter Obi amid govt's $123.7m claim", "url": "https://www.premiumtimesng.com/regional/ssouth-east/912915-what-records-show-about-anambra-debt-under-peter-obi-amid-govts-123-7m-claim.html", "publisher": "Premium Times", "type": "investigative", "published": "2026-09-28", "accessed": "2026-11-28", "categories": ["finance", "promises"], "claim": "DMO external debt $16.87m (Dec 2006) to $30.32m (Dec 2013); handover letter N91.67bn/N86.67bn; $123.77m is facility value, not debt at handover.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s19", "title": "BREAKING: Anambra government releases details of loans Peter Obi left behind, disputes claims", "url": "https://saharareporters.com/2026/09/16/breaking-anambra-government-releases-details-loans-peter-obi-left-behind-disputes", "publisher": "SaharaReporters", "type": "news", "published": "2026-09-16", "accessed": "2026-11-28", "categories": ["finance", "healthcare", "infrastructure", "humanImpact"], "claim": "State government lists eight external facilities ($123.77m original; $92.35m outstanding), disputes N2.13bn ecological fund and N75bn savings, cites teacher and water-corporation arrears.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s20", "title": "Peter Obi: It's impossible to give Nigerians 24-hour electricity in four years", "url": "https://nairametrics.com/2026/07/27/peter-obi-its-impossible-to-give-nigerians-24-hour-electricity-in-four-years/", "publisher": "Nairametrics", "type": "candidate-statement", "published": "2026-07-27", "accessed": "2026-11-28", "categories": ["power"], "claim": "Obi said 24-hour electricity within four years is not achievable and focused on transmission and distribution.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s21", "title": "Peter Obi rejects $123.77 million debt claim, challenges Anambra government", "url": "https://nairametrics.com/2026/09/25/peter-obi-rejects-123-77-million-debt-claim-challenges-anambra-government/", "publisher": "Nairametrics", "type": "candidate-statement", "published": "2026-09-25", "accessed": "2026-11-28", "categories": ["finance", "humanImpact"], "claim": "Obi's response: external debt about $18m on entry and $30m on exit; no unpaid salaries, pensions or gratuities; facilities were long-tenor development programmes.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s22", "title": "Obi's record as Anambra governor often overstated - Presidency", "url": "https://leadership.ng/obis-record-as-anambra-governor-often-overstated-presidency/", "publisher": "Leadership", "type": "news", "published": "2026-09-17", "accessed": "2026-11-28", "categories": ["security", "infrastructure"], "claim": "Presidential adviser Bayo Onanuga's partisan criticism of Obi's record on Awka, erosion and insecurity.", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "s23", "title": "Fact Check: Did Peter Obi build 10 hospitals, win Bill and Melinda Gates best gov award in 2013?", "url": "https://dailytrust.com/fact-check-did-peter-obi-build-10-hospitals-win-bill-and-belinda-gates-best-gov-award-in-2013", "publisher": "Daily Trust", "type": "news", "published": "2022-06-13", "accessed": "2026-11-28", "categories": ["healthcare", "promises"], "claim": "Award was for South-East polio eradication with $1m grant (best-governor claim misleading); 10 maternity units unverified.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s24", "title": "How I transformed Anambra's health sector - Peter Obi", "url": "https://thesun.ng/?p=1775071", "publisher": "The Sun", "type": "candidate-statement", "published": "2026-11-19", "accessed": "2026-11-28", "categories": ["healthcare", "foreign", "humanImpact"], "claim": "Obi's own claims on COOUTH, 15 general hospitals, over 120 PHCs, about 100 ambulances, development-partner programmes.", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "s25", "title": "Fact-checking Obi's claims on Channels Television", "url": "https://dubawa.org/fact-checking-obis-claims-on-channels-television/", "publisher": "Dubawa", "type": "news", "published": "2026-07-30", "accessed": "2026-11-28", "categories": ["healthcare", "jobs", "humanImpact"], "claim": "Health-accreditation claim: insufficient evidence; World Bank 79% poverty figure: true; China reserves: false; commissioners claim: false.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s26", "title": "Again, Anambra takes first position in WASSCE", "url": "https://newsexpressngr.com/news/7248/again-anambra-takes-first-position-in-wassce", "publisher": "News Express", "type": "news", "published": "2014-09-03", "accessed": "2026-11-28", "categories": ["education"], "claim": "Anambra 65.92% of candidates with five credits incl. English and Maths in 2014 WASSCE, national 31.21%, citing WAEC results.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s27", "title": "WAEC Deleted Post About Peter Obi's Achievements in Education? Reno Omokri Reacts", "url": "https://www.legit.ng/education/1589890-waec-deleted-post-peter-obis-achievements-education-reno-omokri-reacts", "publisher": "Legit.ng", "type": "news", "published": "2024-04-28", "accessed": "2026-11-28", "categories": ["education"], "claim": "Claim that WAEC deleted a post on Obi's education record was disputed; no WAEC statement.", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "s28", "title": "Return of schools by Obi to missionaries lifts education in Anambra", "url": "https://thesun.ng/return-of-schools-by-obi-to-missionaries-lifts-education-in-anambra/", "publisher": "The Sun", "type": "news", "published": "2019-09-10", "accessed": "2026-11-28", "categories": ["education", "humanImpact", "promises"], "claim": "Schools returned to founding churches in 2011; principals and clergy report improvements; state pays teachers and subventions.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s29", "title": "The Injustice in Anambra's Return of Schools", "url": "https://www.thisdaylive.com/2024/05/26/the-injustice-in-anambras-return-of-schools", "publisher": "ThisDay", "type": "news", "published": "2024-05-26", "accessed": "2026-11-28", "categories": ["education"], "claim": "Opinion: the handover bypassed private proprietors whose schools were also taken in 1970 and not compensated.", "verification": "AI_DRAFT", "quality": "low" },
+    { "id": "s30", "title": "Peter Obi administration's $12.24m investment in Anambra International Breweries now worth $5.4m", "url": "https://saharareporters.com/2022/06/21/peter-obi-administration’s-1224m-investment-anambra-international-breweries-now-worth-54m", "publisher": "SaharaReporters (citing TheCable and Anambra Ministry of Finance)", "type": "news", "published": "2022-06-21", "accessed": "2026-11-28", "categories": ["economy", "jobs", "foreign", "promises"], "claim": "State invested N1,955,535,247 for 407,321,264 shares, valued about $3.7-5.4m in June 2022, versus Obi's claim of $20m worth about $100m.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s31", "title": "Obi Vows to Wage War on Corruption, Promises Nigerians Results From Day One", "url": "https://www.thisdaylive.com/2026/10/27/obi-vows-to-wage-war-on-corruption-promises-nigerians-results-from-day-one/", "publisher": "ThisDay", "type": "candidate-statement", "published": "2026-10-27", "accessed": "2026-11-28", "categories": ["integrity", "vision", "promises"], "claim": "Obi pledged an uncompromising anti-corruption drive with results from day one.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s32", "title": "Anambra donates patrol vehicles to police", "url": "https://www.thetidenewsonline.com/2013/01/anambra-donates-patrol-vehicles-to-police/?amp=1", "publisher": "The Tide", "type": "news", "published": "2013-01-07", "accessed": "2026-11-28", "categories": ["security", "jobs"], "claim": "State gave police 50 patrol vehicles and three APCs; Obi linked crime reduction to industry and youth jobs.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s33", "title": "At Last, Obi Releases Pact with Nigerians", "url": "https://www.thisdaylive.com/2022/12/05/at-last-obi-releases-pact-with-nigerians/", "publisher": "ThisDay", "type": "manifesto", "published": "2022-12-05", "accessed": "2026-11-28", "categories": ["vision", "foreign", "security", "infrastructure", "power", "economy"], "claim": "2023 manifesto: seven priorities, consumption-to-production, Exclusive List review, PPP infrastructure, Afro-centric ECOWAS-first foreign policy, more security personnel.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s34", "title": "Peter Obi emerges NDC presidential flag bearer, pledges 10,000MW power boost", "url": "https://www.premiumtimesng.com/news/top-news/884054-peter-obi-emerges-ndc-presidential-flag-bearer-pledges-10000mw-power-boost.html", "publisher": "Premium Times", "type": "candidate-statement", "published": "2026-05-31", "accessed": "2026-11-28", "categories": ["power", "healthcare", "economy", "jobs", "security", "vision", "promises"], "claim": "Nomination speech pledges: 10,000 MW in four years; health insurance 10% to over 20%; health spending at least 10% of GDP; PHC in each of 8,809 wards; MSME incentives.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s35", "title": "Obi pledges 10,000MW power supply within 4 years but fails to reveal strategy", "url": "https://dailytrust.com/obi-pledges-10000mw-power-supply-within-4-years-but-fails-to-reveal-strategy", "publisher": "Daily Trust", "type": "news", "published": "2026-06-17", "accessed": "2026-11-28", "categories": ["power", "vision", "promises"], "claim": "Obi declined to explain how the 10,000 MW target would be met.", "verification": "AI_DRAFT", "quality": "high" },
+    { "id": "s36", "title": "Peter Obi launches 2027 presidential campaign", "url": "https://von.gov.ng/peter-obi-launches-2027-presidential-campaign/", "publisher": "Voice of Nigeria", "type": "news", "published": "2026-08-21", "accessed": "2026-11-28", "categories": ["leadership", "vision"], "claim": "Campaign launched in Onitsha; Rabiu Musa Kwankwaso is NDC vice-presidential candidate.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s37", "title": "Peter Obi has our backing to join ADC - Labour Party", "url": "https://www.vanguardngr.com/2025/12/peter-obi-has-our-backing-to-join-adc-labour-party/", "publisher": "Vanguard", "type": "news", "published": "2025-12", "accessed": "2026-11-28", "categories": ["leadership"], "claim": "Obi moved from the Labour Party to the ADC in December 2025.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s38", "title": "Peter announces decision to leave ADC", "url": "https://www.channelstv.com/2026/05/03/peter-announces-decision-to-leave-adc/", "publisher": "Channels Television", "type": "news", "published": "2026-05-03", "accessed": "2026-11-28", "categories": ["leadership"], "claim": "Obi announced he was leaving the ADC on 3 May 2026 before joining the NDC.", "verification": "AI_DRAFT", "quality": "medium" },
+    { "id": "s39", "title": "Governor Peter Obi, Anambra SABMiller brewery ownership scandal (Premium Times)", "url": "https://saharareporters.com/2012/08/30/governor-peter-obi-anambra-sabmiller-brewery-ownership-scandal-premium-times", "publisher": "SaharaReporters (republishing Premium Times)", "type": "investigative", "published": "2012-08-30", "accessed": "2026-11-28", "categories": ["integrity"], "claim": "2012 reporting raised conflict-of-interest questions about brewery shares linked to Obi; some allegations noted as not independently verifiable.", "verification": "UNVERIFIED", "quality": "medium" },
+    { "id": "s40", "title": "Appeal Court reverses deregistration of Peter Obi's NDC in 2-1 judgement", "url": "https://nairametrics.com/2026/09/18/appeal-court-reverses-deregistration-of-peter-obis-ndc-in-2-1-judgement/", "publisher": "Nairametrics", "type": "news", "published": "2026-09-18", "accessed": "2026-11-28", "categories": ["leadership"], "claim": "Court of Appeal overturned the Lokoja Federal High Court ruling against NDC registration on 18 September 2026.", "verification": "AI_DRAFT", "quality": "medium" }
+  ],
+  "gaps": [
+    "Obtain DMO sub-national debt reports for March 2014 and per-facility World Bank drawdown records for Anambra 2007-2014 to settle the debt-at-handover dispute.",
+    "Obtain the signed 17 March 2014 handover report and any Anambra Auditor-General reports for 2006-2014 to verify savings and investment figures.",
+    "Obtain WAEC/NECO state-level results for 2005-2014 to test the '26th to 1st' claim.",
+    "Verify health-facility claims (COOUTH accreditation, 15 general hospitals, 120+ PHCs, maternity units) with MDCN/NMCN accreditation records and state budget documents.",
+    "Locate an audited list of Anambra roads completed 2006-2014 and their costs.",
+    "Confirm Fidelity Bank chairmanship dates from bank annual reports or CBN records.",
+    "Check status of the CCB investigation reported in October 2026 and the outcome of the 2021 EFCC invitation.",
+    "Locate the full 2027 NDC manifesto, if published, and any costing.",
+    "Confirm INEC's final candidate list entry for Obi and Kwankwaso from the INEC document itself.",
+    "Find independent crime/kidnapping data for Anambra 2006-2014.",
+    "Review Premium Times and TheCable fact-checks on the 2026 university-certificate controversy (not assessed here)."
+  ]
+}
